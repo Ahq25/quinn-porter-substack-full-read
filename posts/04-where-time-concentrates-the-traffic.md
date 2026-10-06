@@ -133,7 +133,7 @@ In plain terms: What physical carriers hold the retained history? What happens w
 
 ### Awareness
 
-Awareness Where Time Concentrates ends with this statement of awareness: **awareness is the lived availability of consequential history when temporally distributed relations become jointly organized within a present that remains active in shaping its own continuation.**
+Awareness Where Time Concentrates ends with this statement of awareness: **awareness is the lived availability of consequential history when temporally distributed relations become jointly organized within an active present and that present remains causally involved in producing its successor.**
 
 The traffic lights help with each part. Temporally distributed relations are the consequences of lights spread along the road. Becoming jointly organized within a present is the platoon carrying all those consequences in one departure. Remaining active in shaping its own continuation is the platoon resetting the next light.
 
