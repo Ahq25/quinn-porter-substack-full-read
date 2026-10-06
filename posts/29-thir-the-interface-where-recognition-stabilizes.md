@@ -90,6 +90,10 @@ The crossing makes the coherence jointly available.
 
 Incorporation carries the new whole forward.
 
+## A THIR event below AHQ
+
+THIR can be measured when present structure and carried history converge into a stable interface: recognition becomes faster, uncertainty contracts, state space trajectories converge, and the recognized configuration persists locally. AHQ adds a further event: the stabilized relation crosses into joint availability as a reusable whole and participates in later cognition or action. A trial can therefore score THIR from interface stabilization measures and score AHQ from the threshold crossing plus later reuse and, where applicable, the reported click. This creates cases in which THIR is present while the AHQ criteria remain below threshold, giving the two terms separate empirical roles.
+
 ## Predictive alignment
 
 The receiving system carries expectations formed from earlier history. These expectations shape which features of the arrival become salient and how quickly the relation stabilizes.
