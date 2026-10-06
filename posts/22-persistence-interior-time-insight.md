@@ -32,7 +32,7 @@ What stays the same is organization: the pattern of causes and effects a thing c
 
 ### The contest between repair and disruption
 
-In a self-maintaining open system, keeping inherited organization active requires continuing organization-preserving activity. Living things repair, regulate, replace, and rebuild themselves all the time, while their surroundings push on them from every side.
+In a self maintaining open system, keeping inherited organization active requires continuing organization-preserving activity. Living things repair, regulate, replace, and rebuild themselves all the time, while their surroundings push on them from every side.
 
 [The Law of Self-Maintained Invariance](https://philarchive.org/rec/PORTLO-12) builds this into four postulates:
 
@@ -100,7 +100,7 @@ Imagine a continuing process in an otherwise blank space. What shapes the next m
 
 [The Ostiary Principle](https://philarchive.org/rec/PORTOP) describes how carried history meets the world. An ostiary is a doorkeeper. A living boundary works like one. A cell membrane admits some molecules and holds others out. A nervous system amplifies some signals and quiets others. Attention selects a few things from everything reaching the senses.
 
-Recognition begins here in a minimal sense: state-dependent discrimination. The same arrival can produce a different result because it meets a different carried history.
+Recognition begins here in a minimal sense: state dependent discrimination. The same arrival can produce a different result because it meets a different carried history.
 
 The principle states that a living boundary and an observer are one process seen from two sides. Seen as structure, it is a boundary that preserves continuity across time. Seen in action, it is recognition: the active evaluation of whatever arrives, according to the continuity the system maintains.
 
@@ -116,7 +116,7 @@ The paper breaks this process into five parts:
 
 As continuity accumulates, recognition becomes compressed: smaller and smaller cues call up larger and larger organized structures. A few notes are enough to recognize a familiar song. One glance is enough to recognize a familiar face.
 
-The key condition here is the **ostiary condition**: inherited organization becomes part of the rule by which new events are admitted, transformed, and incorporated. Carried history then becomes the gate on new influence. The system recognizes through its history, and its history is rewritten by what it recognizes. The ostiary is the boundary-recognition process, and the ostiary condition is the regime in which carried history runs it. The AHQ papers use the same name for a related moment: a newly forming organization crossing R★ and entering a self-maintaining regime capable of continued causal participation.
+The key condition here is the **ostiary condition**: inherited organization becomes part of the rule by which new events are admitted, transformed, and incorporated. Carried history then becomes the gate on new influence. The system recognizes through its history, and its history is rewritten by what it recognizes. The ostiary is the boundary-recognition process, and the ostiary condition is the regime in which carried history runs it. The AHQ papers use the same name for a related moment: a newly forming organization crossing R★ and entering a self maintaining regime capable of continued causal participation.
 
 ### Continuity and access
 
@@ -164,23 +164,23 @@ A simple 24-gate toy simulation makes the combinatorial point measurable. From 5
 
 ### The present that builds the next present
 
-**Causal re-entry** occurs when the larger organized state, produced by many local events, changes the local conditions that produce the next state. A band shows the pattern: each musician’s playing produces the music, and the music taking shape guides what each musician plays in the next bar.
+**Causal reentry** occurs when the larger organized state, produced by many local events, changes the local conditions that produce the next state. A band shows the pattern: each musician’s playing produces the music, and the music taking shape guides what each musician plays in the next bar.
 
-With re-entry, history produces the present, and the present takes part in selecting which history continues. Awareness Where Time Concentrates calls this **recursive continuity**. The Porter Ratio states the same relation: a present belongs to a system when its own consequential history helps produce what happens now, and what happens now helps determine which history continues.
+With reentry, history produces the present, and the present takes part in selecting which history continues. Awareness Where Time Concentrates calls this **recursive continuity**. The Porter Ratio states the same relation: a present belongs to a system when its own consequential history helps produce what happens now, and what happens now helps determine which history continues.
 
 The Combinatorial Repertoire of Consciousness lists five separately measurable conditions for a conscious regime:
 
 - **T**, temporal stabilization;
 - **H**, consequential history;
 - **A**, internal accessibility;
-- **K**, re-entry of the large-scale state into local dynamics;
+- **K**, reentry of the large-scale state into local dynamics;
 - **G**, integration across multiple processes.
 
 **Awareness is the lived availability of consequential history when temporally distributed relations become jointly organized within a present that remains active in shaping its own continuation.**
 
 In other words, a present becomes lived when what the system has carried from many different times is available together now, and this present is still helping determine what the next present will be.
 
-Awareness Where Time Concentrates puts it in one line: “experience is the present tense of a working history.” Awareness therefore combines access to consequential history, temporal concentration, and causal re-entry.
+Awareness Where Time Concentrates puts it in one line: “experience is the present tense of a working history.” Awareness therefore combines access to consequential history, temporal concentration, and causal reentry.
 
 ### Consciousness as access
 
@@ -200,7 +200,7 @@ The same fit explains why insight can feel as though it was prepared in advance.
 
 ### Structure becomes visible as it organizes
 
-[Stillwater and Death Spirals](https://philarchive.org/rec/PORSAD-3) gives two pictures of the same transition. On still water, the surface works as a mirror and the water itself is barely visible. A drop lands, ripples spread, and the water appears as water. In an ant colony, ants usually spread across a branching network of trails with many degrees of freedom. Under certain conditions, the same trail-following rule concentrates them into a single self-reinforcing loop, the ant death spiral, which a few numbers describe. The shared transition is from distributed organization to a collective form that becomes newly legible as a whole. Still water pictures accessibility: the disturbance reveals a medium already present. The ant spiral pictures rule revelation: the rule the ants follow was there all along, and the spiral makes it apparent by reducing the many paths through which it is expressed to one. The click makes the pieces of a thought apparent in the same way.
+[Stillwater and Death Spirals](https://philarchive.org/rec/PORSAD-3) gives two pictures of the same transition. On still water, the surface works as a mirror and the water itself is barely visible. A drop lands, ripples spread, and the water appears as water. In an ant colony, ants usually spread across a branching network of trails with many degrees of freedom. Under certain conditions, the same trail-following rule concentrates them into a single self reinforcing loop, the ant death spiral, which a few numbers describe. The shared transition is from distributed organization to a collective form that becomes newly legible as a whole. Still water pictures accessibility: the disturbance reveals a medium already present. The ant spiral pictures rule revelation: the rule the ants follow was there all along, and the spiral makes it apparent by reducing the many paths through which it is expressed to one. The click makes the pieces of a thought apparent in the same way.
 
 ### Cue → Queue → Click
 
@@ -208,7 +208,7 @@ The same fit explains why insight can feel as though it was prepared in advance.
 
 ### The click as a threshold
 
-Aleph Harmonic Qualia, or AHQ, is the experienced threshold crossing through which distributed, history-bearing relations become a coherent, reusable whole. In the words of Aleph Harmonic Qualia: The Dynamical Click of Coherence, “AHQ names the experienced crossing.” A forming organization gathers relations until many dimensions collapse into one or a few and a new whole begins holding itself together. The click is that crossing, felt from inside.
+Aleph Harmonic Qualia, or AHQ, is the experienced threshold crossing through which distributed, history bearing relations become a coherent, reusable whole. In the words of Aleph Harmonic Qualia: The Dynamical Click of Coherence, “AHQ names the experienced crossing.” A forming organization gathers relations until many dimensions collapse into one or a few and a new whole begins holding itself together. The click is that crossing, felt from inside.
 
 The crossing reaches well beyond insight. [Aleph Harmonic Qualia: A Unified Structural Account of Coherence, Boundaries, and Emergent Meaning](https://philarchive.org/rec/PORAHQ-5) names every sense: “Vision carries spatial layout. Hearing carries pressure rhythms. Touch carries force and texture. Smell and taste carry chemical information.” Edges settle into objects, notes settle into a melody, and features settle into a familiar face. “AHQ arises whenever the boundary reaches full coherence.” In perception this happens constantly, as structures already present are used in new ways at every moment. At larger thresholds, as learning accumulates, many separate relations become one new whole, and that larger crossing is the click that gets noticed.
 
@@ -222,11 +222,11 @@ Experience is the present availability of carried history at the active boundary
 
 D_PR = (sum of the variances)² / (sum of the squared variances)
 
-If the activity varies equally along 10 directions, D_PR = 10. If nearly all of it runs along one direction, D_PR is close to 1. The prediction is a rapid, time-locked fall in D_PR at the moment of insight, like the branching trails tightening into one loop.
+If the activity varies equally along 10 directions, D_PR = 10. If nearly all of it runs along one direction, D_PR is close to 1. The prediction is a rapid, time locked fall in D_PR at the moment of insight, like the branching trails tightening into one loop.
 
-**2. Harmonic coordination rises.** Rhythms lock into fixed relationships, such as one rhythm running exactly twice as fast as another. Each independent phase constraint removes one independent direction from the phase description. With n rhythms and r independent locks, the phases need only n − r numbers to describe them. Ten rhythms with three locks need seven free phase variables. AHQ predicts that increasing harmonic constraint will occur alongside a time-locked reduction in effective population dimensionality during the click.
+**2. Harmonic coordination rises.** Rhythms lock into fixed relationships, such as one rhythm running exactly twice as fast as another. Each independent phase constraint removes one independent direction from the phase description. With n rhythms and r independent locks, the phases need only n − r numbers to describe them. Ten rhythms with three locks need seven free phase variables. AHQ predicts that increasing harmonic constraint will occur alongside a time locked reduction in effective population dimensionality during the click.
 
-**3. The new state crosses the coherence threshold.** The Porter Ratio of the newly formed state reaches R★. Restoration outpaces disruption for the new whole. The paper calls this crossing the ostiary condition: the emerging organization enters a self-maintaining regime capable of continued causal participation.
+**3. The new state crosses the coherence threshold.** The Porter Ratio of the newly formed state reaches R★. Restoration outpaces disruption for the new whole. The paper calls this crossing the ostiary condition: the emerging organization enters a self maintaining regime capable of continued causal participation.
 
 **4. The new state lasts and is reused.** The collective state persists for at least a set length of time and returns in later thinking. A method that solves one problem gets used on the next.
 
@@ -250,7 +250,7 @@ The last piece is the link to experience. The paper writes it as:
 
 Q(t) = 1 ⟺ E_AHQ(t) = 1
 
-Q marks the reported click. E_AHQ marks the measured dynamical event. The lived click and the measured transition are the same event described from two sides. A proposed trial-by-trial test would check that the two coincide.
+Q marks the reported click. E_AHQ marks the measured dynamical event. The lived click and the measured transition are the same event described from two sides. A proposed trial by trial test would check that the two coincide.
 
 ### Insight becomes history
 
@@ -294,7 +294,7 @@ Each paper contributes something specific.
 
 - [Consequential History and the Conditions of Persistence](https://philarchive.org/rec/PORCHA) develops consequential history as one of the conditions through which persistence becomes possible. Its separation of continuity from accessibility places persistence, recognition, understanding, and conscious experience on one continuous scale.
 - [The Law of Self-Maintained Invariance](https://philarchive.org/rec/PORTLO-12) derives the Porter Ratio from four postulates. The result rests on an organization, an environment, and two rates, so the same balance can be asked wherever both rates can be identified.
-- [Branching as Active Inheritance](https://philarchive.org/rec/PORBAA) turns the ratio into a direct test: measure both rates in advance, compute R before the outcome, and compare it with geometry, each rate alone, their difference, and established predictors in that field. It treats the history-bearing relation as the same across very different forms, from rivers on Earth to drainage on Mars and Titan.
+- [Branching as Active Inheritance](https://philarchive.org/rec/PORBAA) turns the ratio into a direct test: measure both rates in advance, compute R before the outcome, and compare it with geometry, each rate alone, their difference, and established predictors in that field. It treats the history bearing relation as the same across very different forms, from rivers on Earth to drainage on Mars and Titan.
 - [The Ostiary Principle](https://philarchive.org/rec/PORTOP) treats a living boundary and an observer as one process and defines meaning as the participation of an arrival in an organized continuity.
 - [Continuity as an Organizing Variable](https://philarchive.org/rec/PORCAA-6) develops continuity of internally sustained propagation as a measurable variable, predicted to track organized interior behavior more closely than complexity alone.
 - [Interiority as Lived Continuity](https://philarchive.org/rec/PORIAL) draws on Husserl, Heidegger, and Merleau-Ponty and adds that continuity becomes experiential when it is coherent enough to sustain and organize its own activity through time.
@@ -303,7 +303,7 @@ Each paper contributes something specific.
 - Exaptation as a General Principle shows that systems build structure before they can use it, and that later reuse of that structure produces the appearance of foresight in evolution, perception, and thought.
 - [The Collapse of Separation and the Structure of Insight](https://philarchive.org/rec/PORTCO-18) identifies the organizational transition that produces insight: a maintained separation dissolves and continuity already present becomes available.
 - [Aleph Harmonic Qualia: Cue, Queue, and the Emergence of Legible Coherence](https://philarchive.org/rec/PORAHQ-7) describes understanding as the incorporation of coherence into continuity.
-- [Aleph Harmonic Qualia: The Dynamical Click of Coherence](https://philarchive.org/rec/PORAHQ-8) defines the click as one event with four jointly measured changes and two measures of its history, and states the link to experience as a trial-by-trial test.
+- [Aleph Harmonic Qualia: The Dynamical Click of Coherence](https://philarchive.org/rec/PORAHQ-8) defines the click as one event with four jointly measured changes and two measures of its history, and states the link to experience as a trial by trial test.
 - Consciousness as Access to Consequential History identifies consciousness with access to consequential history, distinguishes consequential history from accessible consequential history, and describes how access varies in extent, depth, organization, and utilization through internal continuity and observation.
 - [New Bodies, Old Capacities](https://philarchive.org/rec/PORNBO-2) gives an experimental design that varies a cell group’s prehistory and its body configuration as separate factors.
 - [The Flowering Boundary](https://philarchive.org/rec/PORTFB) treats the flowering transition itself as a measurable object with duration, spatial extent, recovery behavior, and history dependence, and predicts that growth records the transition’s duration in the plant’s anatomy.
@@ -317,7 +317,7 @@ Each step comes with a test.
 - **Interior:** check whether retained history improves prediction beyond present state and environment (The Flowering Boundary), and whether continuity of retained propagation tracks interior behavior (Continuity as an Organizing Variable).
 - **Awareness and time:** control a system’s prehistory, identify the physical carrier of retained history, and test whether the present state feeds back into the next one (Awareness Where Time Concentrates, [New Bodies, Old Capacities](https://philarchive.org/rec/PORNBO-2)).
 - **Structure and possibility:** count what each description of the Period Lattice keeps, and find the smallest description that still predicts the next change (The Period Lattice).
-- **Insight:** look for a time-locked drop in effective dimensionality, a rise in harmonic coordination, a rise in R past R★, and later reuse of the new state, then compare each trial’s measurements with the person’s report of a click (Aleph Harmonic Qualia).
+- **Insight:** look for a time locked drop in effective dimensionality, a rise in harmonic coordination, a rise in R past R★, and later reuse of the new state, then compare each trial’s measurements with the person’s report of a click (Aleph Harmonic Qualia).
 
 ---
 
