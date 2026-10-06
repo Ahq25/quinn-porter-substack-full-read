@@ -68,7 +68,7 @@ When an update rule reads arrangement, two fields with the same histogram can ha
 
 ## What the lattice reveals
 
-The Period Lattice is a compact finite model of generative constraint, exact coarse-graining, relational identity, information accounting, and organizational possibility. Constraints generate new organizational possibilities, and a description that fixes composition leaves relational identity to be specified by placement, orientation, and coupling.
+The Period Lattice is a compact finite model of generative constraint, exact coarse graining, relational identity, information accounting, and organizational possibility. Constraints generate new organizational possibilities, and a description that fixes composition leaves relational identity to be specified by placement, orientation, and coupling.
 
 ## The bigger picture
 
