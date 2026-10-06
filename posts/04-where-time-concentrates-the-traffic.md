@@ -115,15 +115,15 @@ The result of all this gathering is what Awareness Where Time Concentrates calls
 
 In a nervous system, this is the layered situation of reading a sentence. Fast events, such as individual nerve signals, feed into slower collective states, which are larger patterns of activity across many cells. The paper [The Porter Ratio](https://philarchive.org/rec/PORTPR-5) states, “a slower regime can retain and coordinate consequences that would otherwise pass separately.” Each slower layer works like a later traffic light, receiving activity whose timing already carries the effects of the faster layers before it.
 
-Awareness Where Time Concentrates connects this to several areas of neuroscience: state-dependent neural processing, hierarchical neural timescales, recurrent dynamics, and temporal gating. It also connects to developmental continuity and synthetic morphology, the study of new body forms built from living cells.
+Awareness Where Time Concentrates connects this to several areas of neuroscience: state dependent neural processing, hierarchical neural timescales, recurrent dynamics, and temporal gating. It also connects to developmental continuity and synthetic morphology, the study of new body forms built from living cells.
 
 ## When the present shapes the next present
 
-One more step completes the picture. Awareness Where Time Concentrates calls it **causal re-entry**: the larger present alters the local conditions through which its successor is produced.
+One more step completes the picture. Awareness Where Time Concentrates calls it **causal reentry**: the larger present alters the local conditions through which its successor is produced.
 
 Stretch the road one last time. Picture a platoon arriving at a light and tripping a sensor that adjusts the light’s timing. The group, which was formed by the lights before it, now changes the conditions that will form the next group.
 
-That is the shape of re-entry. The result is what Awareness Where Time Concentrates calls **recursive continuity**: history produces the present, and the present participates in selecting which history continues.
+That is the shape of reentry. The result is what Awareness Where Time Concentrates calls **recursive continuity**: history produces the present, and the present participates in selecting which history continues.
 
 ## What Awareness Where Time Concentrates sets out to test
 
