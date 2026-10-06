@@ -40,7 +40,7 @@ Persistence, identity, recognition, intelligibility, consciousness, and insight 
 
 - in **persistence**, earlier consequences remain active;
 - in **recognition**, they remain accessible within present activity;
-- in **conscious experience**, self consequential history becomes directly accessible within awareness;
+- in **conscious experience**, consequential history becomes recursively available within the activity carrying it forward;
 - in **insight**, continuity that was out of reach becomes directly available.
 
 Persistence, recognition, understanding, and conscious experience therefore belong to one continuous developmental process through which consequences propagate across time.

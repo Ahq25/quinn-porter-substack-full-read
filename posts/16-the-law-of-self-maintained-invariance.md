@@ -7,7 +7,7 @@
 
 ---
 
-The Law of Self Maintained Invariance states a candidate general principle for the persistence of identifiable systems in open environments. Persistence depends on the relation between processes that restore or carry forward a selected organization and processes that revise or disrupt that same organization.
+The Law of Self Maintained Invariance states a general law for the persistence of identifiable systems in open environments. Persistence is governed by the relation between processes that restore or carry forward a selected organization and processes that revise or disrupt that same organization.
 
 ## The four postulates
 
@@ -27,7 +27,7 @@ Both rates refer to the same organizational variable, in compatible units, over 
 
 R = λ_self / λ_env
 
-The ratio provides a natural dimensionless comparison of restoration and disruption.
+The four postulates derive the restoration disruption balance. Expressing the two rates as the dimensionless Porter Ratio gives R = λ_self / λ_env, with equality at R = 1.
 
 R = 1
 
@@ -41,7 +41,7 @@ R < 1
 
 marks a disruption dominant regime in which revision proceeds faster than restoration.
 
-The fundamental claim is the relative rate relation itself. The ratio is a compact dimensionless expression of that relation.
+The derived relation places restoration and disruption in one dimensionless comparison. R expresses their relative rate, and R = 1 is the equality point.
 
 ## Historical constraint
 
@@ -53,7 +53,7 @@ The same form can be applied wherever a system, organizational variable, interva
 
 R = 1 has the same meaning at every scale because it marks equality of the declared rates. R★ is a further empirical threshold associated with the onset of interiority for a particular system and scale. Its numerical value belongs to the measured system.
 
-## How the candidate law earns support
+## How the law is tested
 
 The measurement procedure is declared before the outcome. λ_self and λ_env are estimated independently. The ratio is computed prospectively. Predictions are compared with recovery, persistence, history dependence, and established predictors in the relevant field. A threshold fitted in one set of observations is then applied to held out observations using the same definitions.
 
@@ -69,7 +69,7 @@ Cross scale support becomes strong when the same relation predicts persistence a
 
 ## The bigger picture
 
-The law candidate concerns persistence. R compares restoration with disruption, and R = 1 marks their balance. R★ adds an empirical threshold for interiority. Recursive availability adds the further organization associated with consciousness. These stages form one continuous architecture while each quantity performs a distinct job.
+The law concerns persistence. R compares restoration with disruption, and R = 1 marks their balance. R★ adds an empirical threshold for interiority. Recursive availability adds the further organization associated with consciousness. These stages form one continuous architecture while each quantity performs a distinct job.
 
 ---
 

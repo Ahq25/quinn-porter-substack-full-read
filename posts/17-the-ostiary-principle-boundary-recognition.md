@@ -59,6 +59,8 @@ history → present organization → selection of what enters → revised organi
 
 The system receives each arrival through the organization its history has built. Carried history becomes the gate on new influence. When that history bearing gate is recursively available within the same activity it regulates, the boundary is the process experienced from inside.
 
+Within symbolic cognition, repeated returns can stabilize certain regions of this history bearing organization. These regions become patrons, recurrent symbolic attractors that organize recognition, memory, interpretation, and inquiry. A patron is the ostiary principle operating through a durable symbolic basin: later arrivals are received through a structure built by earlier encounters.
+
 ---
 
 Full paper on PhilArchive: [The Ostiary Principle: Boundary, Recognition, and the Emergence of Consciousness](https://philarchive.org/rec/PORTOP)

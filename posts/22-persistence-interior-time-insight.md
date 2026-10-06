@@ -13,7 +13,7 @@ One causal continuity appears at four increasingly organized levels. Each level 
 
 1. **Persistence.** Organization lasts when a system restores it faster than the environment wears it down.
 2. **Interior.** A lasting organization gains an inside when the history it carries decides how it receives new events.
-3. **Awareness and time.** Awareness arises when many layers of that history are active together in one present, and that present helps produce the next one. Consciousness is access to that carried history.
+3. **Awareness and time.** Awareness arises when many layers of that history are active together in one present, and that present helps produce the next one. Consciousness is that carried history as it becomes recursively available within the ongoing activity that carries it forward.
 4. **Insight.** Insight occurs when separate pieces of carried history reorganize into one stable whole that the system keeps and reuses. That threshold crossing, felt from inside, is the click.
 
 ### Step 1: Persistence
@@ -92,7 +92,7 @@ Once a system carries its own history forward, that history starts to shape how 
 
 [The Flowering Boundary](https://philarchive.org/rec/PORTFB) gives a plant example. Earlier events change a plant’s gene activity, chromatin, hormone sensitivity, and tissue geometry. As a result, two shoot tips in otherwise similar present conditions can go on to develop along different paths. The paper measures this as **CHpred**, the extra predictive power that retained history adds beyond the plant’s present state and its environment.
 
-**Interiority** is the condition in which retained organization becomes a local causal context through which present activity unfolds and continuation is shaped. Each new event meets a state already shaped by what came before. It meets a history. Branching as Active Inheritance defines it as graded causal self conditioning: the degree to which a system’s own inherited organization conditions what happens to it, increasing as that organization becomes more local, more nested, and more available to present activity. Interiority comes in degrees, and [The Porter Ratio](https://philarchive.org/rec/PORTPR-5) describes it as the primitive organizational basis from which life and phenomenal experience develop.
+**Interiority** is the condition in which retained organization becomes a local causal context through which present activity unfolds and continuation is shaped. Each new event meets a state already shaped by what came before. It meets a history. Branching as Active Inheritance describes graded causal self conditioning as the increasing influence of inherited organization on present dynamics. At R★ this history bearing influence becomes stable enough to function as a local causal context for continuation, which marks interiority. Beyond that threshold, interior organization deepens as carried history becomes more local, more nested, and more available to present activity. [The Porter Ratio](https://philarchive.org/rec/PORTPR-5) describes interiority as the primitive organizational basis from which life and phenomenal experience develop.
 
 Imagine a continuing process in an otherwise blank space. What shapes the next moment can come from something newly arriving, or from consequences already carried forward. As carried consequences become increasingly effective, the process increasingly encounters its own history.
 
@@ -116,7 +116,7 @@ The paper breaks this process into five parts:
 
 As continuity accumulates, recognition becomes compressed: smaller and smaller cues call up larger and larger organized structures. A few notes are enough to recognize a familiar song. One glance is enough to recognize a familiar face.
 
-The key condition here is the **ostiary condition**: inherited organization becomes part of the rule by which new events are admitted, transformed, and incorporated. Carried history then becomes the gate on new influence. The system recognizes through its history, and its history is rewritten by what it recognizes. The ostiary is the boundary recognition process, and the ostiary condition is the regime in which carried history runs it. The AHQ papers use the same name for a related moment: a newly forming organization crossing R★ and entering a self maintaining regime capable of continued causal participation.
+The key condition here is the **ostiary condition**: inherited organization becomes part of the rule by which new events are admitted, transformed, and incorporated. Carried history then becomes the gate on new influence. The system recognizes through its history, and its history is rewritten by what it recognizes. The ostiary is the boundary recognition process, and the ostiary condition is the regime in which carried history runs it. Within AHQ, crossing R★ marks a newly forming organization entering a self maintaining regime capable of continued causal participation. Ostiary gating names the history dependent process through which established organization regulates admission, transformation, and incorporation.
 
 #### Continuity and access
 
@@ -295,7 +295,7 @@ The Porter Ratio states the full arc in a single line: “From basic restoration
 Each paper contributes something specific.
 
 - [Consequential History and the Conditions of Persistence](https://philarchive.org/rec/PORCHA) develops consequential history as one of the conditions through which persistence becomes possible. Its separation of continuity from accessibility places persistence, recognition, understanding, and conscious experience on one continuous scale.
-- [The Law of Self Maintained Invariance](https://philarchive.org/rec/PORTLO-12) motivates the Porter Ratio from four postulates and identifies R = 1 as the balance point. The result rests on an organization, an environment, and two rates, so the same balance can be asked wherever both rates can be identified.
+- [The Law of Self Maintained Invariance](https://philarchive.org/rec/PORTLO-12) derives the restoration disruption balance from four postulates and expresses it through the Porter Ratio with R = 1 as the balance point. The result rests on an organization, an environment, and two rates, so the same balance can be asked wherever both rates can be identified.
 - [Branching as Active Inheritance](https://philarchive.org/rec/PORBAA) turns the ratio into a direct test: measure both rates in advance, compute R before the outcome, and compare it with geometry, each rate alone, their difference, and established predictors in that field. It treats the history bearing relation as the same across very different forms, from rivers on Earth to drainage on Mars and Titan.
 - [The Ostiary Principle](https://philarchive.org/rec/PORTOP) treats a living boundary and an observer as one process and defines meaning as the participation of an arrival in an organized continuity.
 - [Continuity as an Organizing Variable](https://philarchive.org/rec/PORCAA-6) develops continuity of internally sustained propagation as a measurable variable, predicted to track organized interior behavior more closely than complexity alone.
