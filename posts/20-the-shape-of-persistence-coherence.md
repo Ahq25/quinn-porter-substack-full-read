@@ -31,7 +31,7 @@ What single principle carries a system from simple persistence to an interior th
 4. **Self preference** appears when the system acts to restore a preferred configuration.
 5. **Interior time** emerges as the system uses its own history to guide its next state.
 6. **Self reference** arises when interior time becomes rich enough to track its own unfolding.
-7. **Consciousness** is the full expression of this sequence: an interior that experiences its own continuity.
+7. **Consciousness** is the recursively available form of this sequence: an interior whose carried history is available within the activity that carries it forward.
 
 ## Terms to know
 
