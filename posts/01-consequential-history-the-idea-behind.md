@@ -143,7 +143,7 @@ Picture two libraries with the same books. In one, every book sits locked in the
 
 Different abilities need different amounts of access, and they line up on a scale. Simple persistence needs continuity: the past keeps having effects. Recognition needs more access, because the system has to bring its stored history to bear on what is in front of it. Learning needs inherited structure to be available for changing later behavior. Understanding needs relationships that were separate to become available together, so you can hold several pieces at once and see how they connect.
 
-Consciousness is access to consequential history. Consequential history continues participating in the organization of a system, and accessibility determines how much of it becomes available within present activity. Access varies in extent, depth, organization, and utilization: how much of the carried history takes part in the present, how fully it is integrated, how coherently its parts relate to one another, and how effectively the system draws on it. Consciousness is the structured availability of that history within the very activity that is carrying it forward.
+Consciousness is consequential history as it becomes recursively available within the ongoing activity that carries it forward. Consequential history continues participating in the organization of a system, and accessibility determines how much of it becomes available within present activity. Access varies in extent, depth, organization, and utilization: how much of the carried history takes part in the present, how fully it is integrated, how coherently its parts relate to one another, and how effectively the system draws on it. Consciousness is the structured availability of that history within the very activity that is carrying it forward.
 
 ## How a present gets deeper
 
@@ -275,7 +275,7 @@ When that present participates in producing its own successor, history has becom
 
 The lived availability of that recursively organized history is awareness.
 
-Consciousness is access to consequential history: the structured availability of carried history within the activity that carries it forward. Its forms and degrees follow the extent, depth, organization, and use of that access. Awareness is that history lived together in an active present.
+Consciousness is consequential history becoming recursively available within the ongoing activity that carries it forward: the structured availability of carried history within the activity that carries it forward. Its forms and degrees follow the extent, depth, organization, and use of that access. Awareness is that history lived together in an active present.
 
 Recognition, understanding, and insight are expansions of that access. Each can reach a threshold as structures already present come together and are used in a new way. Insight is the clearest case: a rapid reorganization in which previously separated relations become jointly available as a stable, reusable whole. Understanding is the persistence of that revealed continuity.
 
