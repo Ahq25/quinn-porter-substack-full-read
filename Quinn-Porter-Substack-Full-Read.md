@@ -1,6 +1,4 @@
-# Quinn Porter's Substack: Full Read
-
-The public profile, About page, and all 24 public posts appear here in reading order, oldest first.
+# Quinn Porter
 
 ## Contents
 
@@ -36,8 +34,6 @@ The public profile, About page, and all 24 public posts appear here in reading o
 
 ## Profile
 
-This is the public Substack profile and publication information, exactly as shown on Substack.
-
 ### Author
 
 - **Name:** Quinn Porter
@@ -61,10 +57,6 @@ This is the public Substack profile and publication information, exactly as show
 ---
 
 ## About
-
-Source: https://ahq25.substack.com/about
-
----
 
 Persistence is a problem of continuity through change. Rivers remain recognizable while their water changes, organisms remain continuous while exchanging matter and undergoing development, and learned patterns remain effective even while the physical states carrying them continue to change. In each case, the present is partly organized by consequences that originated earlier and remained active long enough to influence what happens next. Consequential history names that causally active portion of the past. It is the part of prior organization whose effects are still participating in present organization and therefore still helping determine future organization.
 
