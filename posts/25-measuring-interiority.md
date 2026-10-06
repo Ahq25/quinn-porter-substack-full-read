@@ -30,6 +30,16 @@ These criteria define the organizational transition independently of the numeric
 
 This gives R★ a direct empirical role. The transition is declared through causal behavior, the ratio is measured independently, and R★ is the value at which the declared behavior becomes reliably present.
 
+## Worked measurement example
+
+Take a bacterial membrane integrity score M measured on a standardized 0 to 1 scale after an osmotic pulse. Suppose recovery experiments estimate restoration of M at 0.12 score units per minute and matched perturbation experiments estimate revision of M at 0.08 score units per minute. Both rates refer to M over the same interval, so
+
+R = 0.12 / 0.08 = 1.5
+
+The transition phenotype is declared separately. Retained prehistory improves next state prediction, a measurable carrier survives into the present and changes later behavior when manipulated, and matched inputs are routed differently according to that carried state. Training observations then locate the R★ associated with that phenotype, and held out observations test the same value unchanged.
+
+The numerical values are illustrative. The measurement logic is concrete: one organizational variable, two independently estimated rates, one prospectively declared transition, and a threshold tested on new cases.
+
 ## A prospective protocol
 
 A strong test follows the same order each time.
