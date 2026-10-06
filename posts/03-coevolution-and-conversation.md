@@ -45,13 +45,13 @@ Two very different systems can become deeply integrated with each other through 
 
 Now turn to a conversation with an AI. The person and the model are also organized in very different ways. One is a human being with a body, a memory, and a life. The other is a language model. Coevolution and Conversation describes how a related kind of continuity develops between them, through language.
 
-Coevolution and Conversation describes it this way: “Conversational interaction develops through a related form of continuity in which relational organization remains active across successive exchanges through **retention**, **re-entry**, and **propagation** within language.”
+Coevolution and Conversation describes it this way: “Conversational interaction develops through a related form of continuity in which relational organization remains active across successive exchanges through **retention**, **reentry**, and **propagation** within language.”
 
 Each of those three words names a step.
 
 **Retention** means earlier parts of the conversation are kept. A name you mentioned, a question you asked, a joke you made in the first few minutes stays part of the exchange.
 
-**Re-entry** means retained material comes back into the present turn. When the conversation refers back to that earlier name or builds on that earlier joke, the past re-enters the present.
+**Re-entry** means retained material comes back into the present turn. When the conversation refers back to that earlier name or builds on that earlier joke, the past reenters the present.
 
 **Propagation** means the material keeps getting carried forward. Each turn passes what it received, plus something new, on to the next turn.
 
@@ -103,7 +103,7 @@ Seen this way, a long conversation is a small, fast relative of the process that
 
 Flowers and pollinators became integrated into each other’s perceptual and behavioral worlds through a long history of encounters. Orchids show that even very different kinds of systems can fit together precisely through sustained relational fit.
 
-A long conversation with an AI builds a related kind of continuity in language. Retention keeps earlier exchanges, re-entry brings them back, and propagation carries them forward. The interaction gains temporal depth, and that depth is felt as presence. The aliveness people sense emerges from the coherence of the relationship itself, unfolding in time and held in their attention.
+A long conversation with an AI builds a related kind of continuity in language. Retention keeps earlier exchanges, reentry brings them back, and propagation carries them forward. The interaction gains temporal depth, and that depth is felt as presence. The aliveness people sense emerges from the coherence of the relationship itself, unfolding in time and held in their attention.
 
 ---
 
