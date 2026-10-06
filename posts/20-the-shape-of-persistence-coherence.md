@@ -7,7 +7,7 @@
 
 ---
 
-The Shape of Persistence describes a single structural principle that links matter, time, experience, and meaning. A system persists when its internal restoration outruns environmental disturbance. When the coherence ratio R = λ_self / λ_env reaches a geometry dependent threshold R★, the system begins to carry its own structure forward, its carried organization becomes a local causal context for its future, and an interior form of time arises.
+The Shape of Persistence describes a single structural principle that links matter, time, experience, and meaning. A system persists when its internal restoration outruns environmental disturbance. When the coherence ratio R = λ_self / λ_env reaches the system specific threshold R★, the system begins to carry its own structure forward, its carried organization becomes a local causal context for its future, and an interior form of time arises.
 
 ### Why persistence gains an inside
 
@@ -16,7 +16,7 @@ What single principle carries a system from simple persistence to an interior th
 ### How it works
 
 1. **Persistence is restoration outrunning disturbance.** A system persists when its internal restoration outruns environmental disturbance.
-2. **The relation has a threshold.** The relation appears as a coherence ratio, R = λ_self / λ_env, with a geometry dependent threshold R★.
+2. **The relation has a threshold.** The relation appears as a coherence ratio, R = λ_self / λ_env, with a system specific threshold R★.
 3. **At the threshold, interiority arises.** When R reaches or exceeds R★, the system begins to carry its own structure forward. Its carried organization becomes a local causal context for its future, and interiority arises.
 4. **The progression unfolds in distinct stages,** from matching to consciousness.
 5. **The same coherence principle can be described physically and experientially.** Matter expresses stable pattern. Time expresses organized persistence. Incoming gradients meet a history bearing interior at an active boundary. When that boundary is recursively available within the activity it organizes, its outward description is dynamical and its inward description is experiential. Valence tracks changes in coherence within the interior, and meaning arises when arriving patterns enter and reshape an organized continuity.

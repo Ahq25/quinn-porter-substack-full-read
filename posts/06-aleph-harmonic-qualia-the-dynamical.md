@@ -21,7 +21,7 @@ In the paper’s words, AHQ is defined as a dynamical event: “the felt click o
 
 In plain terms, AHQ is the experienced threshold crossing through which distributed, history bearing relations become a coherent, reusable whole. The click is the crossing, and the paper says so directly: “AHQ names the experienced crossing.”
 
-The click has a build up and an endpoint. The developing pre transition organization is the queue. The threshold crossing is the ostiary condition, the moment a developing organization becomes capable of participating as a coherent whole. The resulting state is incorporation into continuity, where the new whole becomes active inheritance: cue, queue, threshold crossing, incorporation, active inheritance.
+The click has a build up and an endpoint. The developing pre transition organization is the queue. The threshold crossing is the coherence threshold, the moment a developing organization becomes capable of participating as a coherent whole. The resulting state is incorporation into continuity, where the new whole becomes active inheritance: cue, queue, threshold crossing, incorporation, active inheritance.
 
 ### How the click works
 
@@ -29,7 +29,7 @@ The click has a build up and an endpoint. The developing pre transition organiza
 2. **Effective dimensionality is measurable.** The participation ratio quantifies how many independent directions the activity actually uses.
 3. **Harmonic coordination is measurable.** Generalized phase locking relations quantify how rhythms lock into fixed relationships. If r independent regular harmonic constraints are active, local phase manifold dimensionality is reduced by r.
 4. **Persistence is expressed by the Porter Ratio.** R(t) = λ_self(t) / λ_env(t) compares internally sustaining or restorative dynamics with environmentally disruptive dynamics.
-5. **The ostiary condition.** Crossing the coherence threshold, R(t) ≥ R★, defines the ostiary condition under which the emerging organization enters a self maintaining regime capable of continued causal participation.
+5. **The coherence threshold.** Crossing R(t) ≥ R★ places the emerging organization in a self maintaining regime capable of continued causal participation.
 6. **The AHQ event is a joint signature** of four criteria, each fixed in advance.
 7. **Consequential history supplies the temporal content.** Earlier relations remain causally active through the present organization they helped produce.
 8. **One event, two sides.** The felt click and the measured event are the same event, described from two sides, and a trial by trial test checks this correspondence.

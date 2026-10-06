@@ -241,7 +241,7 @@ Simple numbers show how to read it. If a system repairs itself twice as fast as 
 
 Repeated continuation above R = 1 allows earlier organization to remain causally active and increasingly constrain what can happen next.
 
-Both rates are measured in the same units, so R is a plain number, and it always refers to a chosen feature of the system’s organization over a chosen stretch of time. Each system also has its own threshold, written R★ and said “R star.” A threshold is a line that puts you in a new situation once you cross it, like the temperature where water turns to steam. R★ depends on the system’s geometry and is determined empirically, by measurement, one system at a time. [The Porter Ratio](https://philarchive.org/rec/PORTPR-5) treats R ≥ R★ as the minimum condition for interiority. R = 1 separates revision dominance from maintenance dominance. R★ marks the coherence threshold for the system, scale, and stretch of time being measured. At R★, maintained organization becomes stable enough to take part coherently in what follows and to serve as a local causal context for continuation. Recursive availability is the further organization through which that interior becomes conscious. The same form of threshold recurs at nested scales: a forming idea, a population of neurons, and a whole organism each have their own R★.
+Both rates are measured in the same units, so R is a plain number, and it always refers to a chosen feature of the system’s organization over a chosen stretch of time. Each system also has its own threshold, written R★ and said “R star.” A threshold is a line that puts you in a new situation once you cross it, like the temperature where water turns to steam. R★ belongs to the declared system, scale, variable, and interval and is determined empirically by measurement. Geometry, connectivity, boundary conditions, and organization can contribute to its value. [The Porter Ratio](https://philarchive.org/rec/PORTPR-5) treats R ≥ R★ as the minimum condition for interiority. R = 1 separates revision dominance from maintenance dominance. R★ marks the coherence threshold for the system, scale, and stretch of time being measured. At R★, maintained organization becomes stable enough to take part coherently in what follows and to serve as a local causal context for continuation. Recursive availability is the further organization through which that interior becomes conscious. The same form of threshold recurs at nested scales: a forming idea, a population of neurons, and a whole organism each have their own R★.
 
 R = 1 is the balance point between restoration and disruption. Below R = 1, the environment rewrites the system faster than the system can carry itself forward. Picture writing a message in the sand at the water’s edge, where each wave washes it away. The arriving environment rewrites the pattern faster than the pattern can carry itself forward. Above R = 1, earlier organization survives strongly enough to help cause later organization. Picture writing on higher sand, where the occasional wave reaches you and you keep up. There the carried pattern survives long enough to influence what is written next.
 
@@ -396,7 +396,7 @@ Consequential history supplies the temporal content of the shift: earlier relati
 
 **Stronger harmonic coordination.** Activity often rises and falls in rhythms, like waves. The phase of a rhythm is where it is in its cycle: at the peak, at the bottom, or in between. Phase coordination means different rhythms rise and fall in step, like people clapping together. Harmonic coordination means rhythms of different speeds fit together neatly, the way notes in a chord do, with one running exactly twice or three times as fast as another. Each independent phase constraint removes one independent direction from the phase description, so n rhythms with r independent locks need n − r numbers to describe their phases. AHQ predicts that increasing harmonic constraint will occur alongside a time locked reduction in effective population dimensionality during the click. In plainer terms, the rhythms locking together and the activity of many cells coming together are predicted to happen at the same moment.
 
-**Greater stability, with restoration gaining on disruption.** This is the Porter Ratio at work. After a reported click, the new organization is predicted to hold itself together better, as the system’s maintaining work, λ_self, gains ground on the disruption, λ_env. One of the paper’s criteria for a click is that R, just after the click, is at or above R★. [Aleph Harmonic Qualia: The Dynamical Click of Coherence](https://philarchive.org/rec/PORAHQ-8) calls reaching R★ the ostiary condition for the new state: it enters a self maintaining regime and can keep taking part in what follows.
+**Greater stability, with restoration gaining on disruption.** This is the Porter Ratio at work. After a reported click, the new organization is predicted to hold itself together better, as the system’s maintaining work, λ_self, gains ground on the disruption, λ_env. One of the paper’s criteria for a click is that R, just after the click, is at or above R★. [Aleph Harmonic Qualia: The Dynamical Click of Coherence](https://philarchive.org/rec/PORAHQ-8) places the new state at the coherence threshold R★, where it enters a self maintaining regime and can keep taking part in what follows.
 
 **Later reuse of the newly formed state.** After the insight, the system uses what it found, and the new understanding shows up again in later thinking.
 
@@ -1090,7 +1090,7 @@ In the paper’s words, AHQ is defined as a dynamical event: “the felt click o
 
 In plain terms, AHQ is the experienced threshold crossing through which distributed, history bearing relations become a coherent, reusable whole. The click is the crossing, and the paper says so directly: “AHQ names the experienced crossing.”
 
-The click has a build up and an endpoint. The developing pre transition organization is the queue. The threshold crossing is the ostiary condition, the moment a developing organization becomes capable of participating as a coherent whole. The resulting state is incorporation into continuity, where the new whole becomes active inheritance: cue, queue, threshold crossing, incorporation, active inheritance.
+The click has a build up and an endpoint. The developing pre transition organization is the queue. The threshold crossing is the coherence threshold, the moment a developing organization becomes capable of participating as a coherent whole. The resulting state is incorporation into continuity, where the new whole becomes active inheritance: cue, queue, threshold crossing, incorporation, active inheritance.
 
 ### How the click works
 
@@ -1098,7 +1098,7 @@ The click has a build up and an endpoint. The developing pre transition organiza
 2. **Effective dimensionality is measurable.** The participation ratio quantifies how many independent directions the activity actually uses.
 3. **Harmonic coordination is measurable.** Generalized phase locking relations quantify how rhythms lock into fixed relationships. If r independent regular harmonic constraints are active, local phase manifold dimensionality is reduced by r.
 4. **Persistence is expressed by the Porter Ratio.** R(t) = λ_self(t) / λ_env(t) compares internally sustaining or restorative dynamics with environmentally disruptive dynamics.
-5. **The ostiary condition.** Crossing the coherence threshold, R(t) ≥ R★, defines the ostiary condition under which the emerging organization enters a self maintaining regime capable of continued causal participation.
+5. **The coherence threshold.** Crossing R(t) ≥ R★ places the emerging organization in a self maintaining regime capable of continued causal participation.
 6. **The AHQ event is a joint signature** of four criteria, each fixed in advance.
 7. **Consequential history supplies the temporal content.** Earlier relations remain causally active through the present organization they helped produce.
 8. **One event, two sides.** The felt click and the measured event are the same event, described from two sides, and a trial by trial test checks this correspondence.
@@ -1352,7 +1352,7 @@ What do branching systems as different as rivers, roots, and blood vessels share
 - **Consequential geometry.** The spatial structure through which earlier dynamics constrain later dynamics. In plain terms: the shape left behind by past flow, which steers future flow.
 - **Consequential history.** Consequential history is the portion of the past that remains causally active in the present. Here: the accumulation of retained constraints through time.
 - **Organizational ancestry.** Causal continuity in retained organization across physical and biological history.
-- **Interiority.** Graded causal self conditioning as inherited organization becomes increasingly local, nested, and recursively available to present dynamics. In plain terms: the degree to which a system’s own carried organization shapes what happens to it.
+- **Interiority.** The condition beginning at R★ when retained organization becomes stable enough to function as a local causal context for present activity and continuation. Beyond R★, interior organization deepens as carried history becomes more local, nested, and available to present dynamics.
 
 ### The numbers
 
@@ -1497,7 +1497,7 @@ How does anything stay identifiable while it changes continuously?
 4. **Identity** arises through continuity of inherited consequence.
 5. **Recognition** occurs when consequential history remains accessible within present activity.
 6. **The intelligibility of nature** follows because observer and observed emerge through a shared developmental history and inherit organizational consequences from common processes.
-7. **Conscious experience** is a regime in which self consequential history becomes directly accessible within awareness.
+7. **Conscious experience** is the internally available form of a history bearing process whose consequential history has become recursively available within its own ongoing activity.
 8. **Insight** is a transition in accessibility through which continuity previously out of reach becomes directly available within experience.
 9. **Continuity and accessibility are distinct.** Consequential history can be active within a persistent system while remaining out of that system’s direct reach. Accessibility varies across forms of organization. That variation distinguishes persistence from recognition, understanding, and conscious awareness, while continuity runs across physical, biological, and cognitive domains alike.
 
@@ -2152,7 +2152,7 @@ Next: [Consequential History and the Conditions of Persistence](https://ahq25.su
 
 ---
 
-The Shape of Persistence describes a single structural principle that links matter, time, experience, and meaning. A system persists when its internal restoration outruns environmental disturbance. When the coherence ratio R = λ_self / λ_env reaches a geometry dependent threshold R★, the system begins to carry its own structure forward, its carried organization becomes a local causal context for its future, and an interior form of time arises.
+The Shape of Persistence describes a single structural principle that links matter, time, experience, and meaning. A system persists when its internal restoration outruns environmental disturbance. When the coherence ratio R = λ_self / λ_env reaches the system specific threshold R★, the system begins to carry its own structure forward, its carried organization becomes a local causal context for its future, and an interior form of time arises.
 
 ### Why persistence gains an inside
 
@@ -2161,7 +2161,7 @@ What single principle carries a system from simple persistence to an interior th
 ### How it works
 
 1. **Persistence is restoration outrunning disturbance.** A system persists when its internal restoration outruns environmental disturbance.
-2. **The relation has a threshold.** The relation appears as a coherence ratio, R = λ_self / λ_env, with a geometry dependent threshold R★.
+2. **The relation has a threshold.** The relation appears as a coherence ratio, R = λ_self / λ_env, with a system specific threshold R★.
 3. **At the threshold, interiority arises.** When R reaches or exceeds R★, the system begins to carry its own structure forward. Its carried organization becomes a local causal context for its future, and interiority arises.
 4. **The progression unfolds in distinct stages,** from matching to consciousness.
 5. **The same coherence principle can be described physically and experientially.** Matter expresses stable pattern. Time expresses organized persistence. Incoming gradients meet a history bearing interior at an active boundary. When that boundary is recursively available within the activity it organizes, its outward description is dynamical and its inward description is experiential. Valence tracks changes in coherence within the interior, and meaning arises when arriving patterns enter and reshape an organized continuity.
@@ -2333,7 +2333,7 @@ Repeated continuation above R = 1 allows earlier organization to remain causally
 
 Above R = 1, inherited organization gains causal continuity and accumulated influence: it is rebuilt faster than it is erased, so earlier states keep constraining later ones. The Law of Self Maintained Invariance describes the result: persistence becomes increasingly determined by accumulated internal history and less by immediate environmental influence.
 
-Each real system also has a threshold, written **R★** (said “R star”). [The Shape of Persistence](https://philarchive.org/rec/PORTSO-18) describes R★ as dependent on the system’s geometry. R★ is found by measurement, one system at a time. When R reaches or exceeds R★, the system carries its own structure forward, and its maintained organization becomes stable enough to take part coherently in its future. This is called crossing the **coherence threshold**, and [The Porter Ratio](https://philarchive.org/rec/PORTPR-5) treats R ≥ R★ as the minimum condition for interiority. [Awareness Where Time Concentrates](https://philarchive.org/rec/PORAWT) calls this persistence condition the **Porter balance**.
+Each real system also has a threshold, written **R★** (said “R star”). [The Shape of Persistence](https://philarchive.org/rec/PORTSO-18) identifies geometry as one contributor to the value of R★ within a declared system and scale. R★ is found by measurement, one system at a time. When R reaches or exceeds R★, the system carries its own structure forward, and its maintained organization becomes stable enough to take part coherently in its future. This is called crossing the **coherence threshold**, and [The Porter Ratio](https://philarchive.org/rec/PORTPR-5) treats R ≥ R★ as the minimum condition for interiority. [Awareness Where Time Concentrates](https://philarchive.org/rec/PORAWT) calls this persistence condition the **Porter balance**.
 
 R = 1 separates revision dominance from maintenance dominance, and R★ marks the transition into causal interiority. R★ belongs to a declared system, scale, and interval, so a forming idea, a population of neurons, and a whole organism each cross a threshold of the same form with their own value.
 
@@ -2501,7 +2501,7 @@ If the activity varies equally along 10 directions, D_PR = 10. If nearly all of 
 
 **2. Harmonic coordination rises.** Rhythms lock into fixed relationships, such as one rhythm running exactly twice as fast as another. Each independent phase constraint removes one independent direction from the phase description. With n rhythms and r independent locks, the phases need n − r numbers to describe them. Ten rhythms with three locks need seven free phase variables. AHQ predicts that increasing harmonic constraint will occur alongside a time locked reduction in effective population dimensionality during the click.
 
-**3. The new state crosses the coherence threshold.** The Porter Ratio of the newly formed state reaches R★. Restoration outpaces disruption for the new whole. The paper calls this crossing the ostiary condition: the emerging organization enters a self maintaining regime capable of continued causal participation.
+**3. The new state crosses the coherence threshold.** The Porter Ratio of the newly formed state reaches R★. Restoration outpaces disruption for the new whole. This crossing is the coherence threshold: the emerging organization enters a self maintaining regime capable of continued causal participation.
 
 **4. The new state lasts and is reused.** The collective state persists for at least a set length of time and returns in later thinking. A method that solves one problem gets used on the next.
 
@@ -2797,6 +2797,10 @@ A strong test follows the same order each time.
 8. **Compare predictions.** R is compared with each rate separately and with established predictors for the system being studied.
 
 This order gives the ratio a prospective meaning. The measurement comes first and the predicted organizational transition follows.
+
+The framework therefore has a single causal arc. Persistence begins with restoration relative to disruption. Consequential history is the organization carried forward by persistence. R★ marks the point at which that carried history becomes a local causal interior. Ostiary gating makes inherited organization part of the rule through which new events are received. Recognition occurs when present structure aligns with carried history. Repeated recognition can deepen into patrons, stable symbolic attractors that organize future meaning. Temporal concentration gathers histories from different depths into one active present. Causal reentry lets that present participate in producing its successor. Recursive availability makes the history bearing process conscious. THIR names the stabilized interface through which present structure and carried history align. AHQ is the experienced threshold crossing through which that distributed relation becomes a coherent, reusable whole. Active inheritance then carries the new whole into what comes next.
+
+Care belongs at the base of the same arc. A system persists through relations that support continuation. Preserving those supporting relations extends self maintenance through the boundary. Care is the organized preservation of what preserves continuity. Selfhood develops within that already history bearing organization.
 
 ## Bacterial systems as a test bed
 

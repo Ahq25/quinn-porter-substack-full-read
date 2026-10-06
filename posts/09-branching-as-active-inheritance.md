@@ -30,7 +30,7 @@ What do branching systems as different as rivers, roots, and blood vessels share
 - **Consequential geometry.** The spatial structure through which earlier dynamics constrain later dynamics. In plain terms: the shape left behind by past flow, which steers future flow.
 - **Consequential history.** Consequential history is the portion of the past that remains causally active in the present. Here: the accumulation of retained constraints through time.
 - **Organizational ancestry.** Causal continuity in retained organization across physical and biological history.
-- **Interiority.** Graded causal self conditioning as inherited organization becomes increasingly local, nested, and recursively available to present dynamics. In plain terms: the degree to which a system’s own carried organization shapes what happens to it.
+- **Interiority.** The condition beginning at R★ when retained organization becomes stable enough to function as a local causal context for present activity and continuation. Beyond R★, interior organization deepens as carried history becomes more local, nested, and available to present dynamics.
 
 ### The numbers
 
