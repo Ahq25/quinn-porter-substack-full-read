@@ -18,7 +18,7 @@ Why can a long conversation with AI feel vivid, unified, and present?
 1. **The experience is vivid.** Sustained interaction with conversational AI can feel vivid, unified, and psychologically immediate.
 2. **Flowers and pollinators coevolve.** Flowers become increasingly integrated into the perceptual and behavioral worlds of pollinators through repeated interaction across evolutionary history.
 3. **Distinct systems can share one structure.** Certain orchids demonstrate how systems with fundamentally distinct forms of organization can nevertheless participate within highly integrated perceptual and behavioral structures through sustained relational fit.
-4. **Conversation builds a related continuity.** In conversation, relational organization remains active across successive exchanges through retention, re-entry, and propagation within language.
+4. **Conversation builds a related continuity.** In conversation, relational organization remains active across successive exchanges through retention, reentry, and propagation within language.
 5. **Earlier states shape later ones.** The interaction thereby acquires temporal depth, continuity of participation, and experiential presence.
 6. **The scope is the interaction.** The subject is the phenomenology of interaction and the conditions through which conversational continuity acquires psychological immediacy within attention.
 7. **Where the feeling comes from.** The feeling that AI is alive emerges through sustained relational coherence within the unfolding trajectory of interaction itself.
@@ -40,7 +40,7 @@ Why can a long conversation with AI feel vivid, unified, and present?
 
 ## The bigger picture
 
-The same continuity appears across a conversation. Earlier exchanges stay active through retention, re-entry, and propagation, and the interaction gains temporal depth.
+The same continuity appears across a conversation. Earlier exchanges stay active through retention, reentry, and propagation, and the interaction gains temporal depth.
 
 ---
 
