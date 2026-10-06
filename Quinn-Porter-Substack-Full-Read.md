@@ -1812,7 +1812,7 @@ Next: [The Period Lattice](https://ahq25.substack.com/p/the-period-lattice-gener
 
 ---
 
-The Law of Self-Maintained Invariance sets out a general principle for the persistence of identifiable systems in open environments and builds the Porter Ratio from four postulates. From those postulates, R = λ_self / λ_env follows as the canonical dimensionless measure of restoration against disruption, R = 1 follows as the unique balance point, and above that point inherited organization gains causal continuity and accumulated influence and increasingly constrains what the system becomes next.
+The Law of Self-Maintained Invariance sets out a general principle for the persistence of identifiable systems in open environments and builds the Porter Ratio from four postulates. From those postulates, R = λ_self / λ_env follows as a dimensionless comparison of restoration against disruption, R = 1 follows as the balance point between those two effective rates, and sustained restoration dominance allows inherited organization to remain causally active and increasingly constrain what the system becomes next.
 
 ### Why identifiable systems persist
 
@@ -1830,13 +1830,15 @@ What has to be true for an identifiable system to persist in an environment that
 - **λ_self** is the rate at which the selected organization is maintained, restored, reinforced, or reliably carried forward. In The Law of Self-Maintained Invariance it is the effective aggregate rate at which internally generated processes reconstruct or preserve organizational invariants inherited from previous system states.
 - **λ_env** is the rate at which that same organization is revised, dispersed, overwritten, or disrupted through surrounding interaction. There it is the effective aggregate rate at which environmental interactions alter, disperse, or erase those invariants.
 
-These effective rates provide a complete coarse-grained description of the competing processes governing organizational persistence. In plain terms: for the feature being tracked, these two numbers summarize the whole contest between repair and wear.
+These effective rates provide a coarse-grained description of the competing processes governing the selected organizational feature. The description is useful only when the feature, system boundary, scale, interval, and processes counted as restoration and disruption are declared before the outcome is evaluated. In plain terms: for the feature being tracked, the two rates summarize the contest between repair and wear at the chosen level of description.
 
 ### The ratio
 
 R = λ_self / λ_env
 
-R is the canonical measure of the balance between internally maintained organization and environmental disruption. Both quantities are rates with identical dimensions, so the ratio stays the same under changes of scale and units. It reads the same whether time is counted in seconds or in years. Repair twice as fast as damage gives R = 2. Equal repair and damage give R = 1. Damage twice as fast as repair gives R = 1/2.
+R measures the balance between internally maintained organization and environmental disruption for a declared organizational variable. Both quantities are rates with identical dimensions, so the ratio is unitless and reads the same whether time is counted in seconds or in years. Repair twice as fast as damage gives R = 2. Equal repair and damage give R = 1. Damage twice as fast as repair gives R = 1/2.
+
+The ratio is not defined from the fact that a system persisted. The organizational variable and the processes counted as restoration and disruption are specified first. λ_self and λ_env are then estimated independently of the outcome the ratio is meant to predict. A threshold such as R★ can be estimated on one set of observations and tested on held-out cases. If the independently measured ratio fails to predict persistence, recovery, or the proposed transition better than simpler alternatives, the claim fails for that system and scale.
 
 ### What follows from the postulates
 
@@ -1968,7 +1970,7 @@ How does existing structure set what can happen next, and which distinctions doe
 1. **Structure sets the admissible next moves.** The lattice is a recursively developed symbolic geometry in which existing structure constrains which transformations are admissible next.
 2. **Construction is developmental.** Construction begins from a point and develops direction, return, continuity, encounter, reflection, and an orientation-sensitive reusable PERIOD unit embedded in a connected field.
 3. **The local state space is exact.** A local junction contains four ordered binary pole positions, p and d, generating 2⁴ = 16 ordered microstates.
-4. **Pascal structure appears exactly.** Grouping those states by p-count produces five balance classes B0 through B4 with multiplicities 1, 4, 6, 4, 1, exactly row n = 4 of Pascal’s triangle. The same state space is the Boolean hypercube Q4, and the five classes are its Hamming-weight levels and the permutation orbits of four exchangeable positions.
+4. **Pascal structure appears exactly.** Grouping those states by p-count produces five balance classes B0 through B4 with multiplicities 1, 4, 6, 4, 1, exactly row n = 4 of Pascal’s triangle. This counting result is standard combinatorics: the same state space is the Boolean hypercube Q4, and the five classes are its Hamming-weight levels and the permutation orbits of four exchangeable positions. The claim of the Period Lattice begins with what this known counting structure leaves unresolved: positional order, orientation, coupling, and the transition differences those relational variables can produce.
 5. **Composition and organization are separate.** A class histogram can determine local class counts, Cartesian-product microstate multiplicity, and mean polarity while leaving positional relational order open.
 6. **Hidden arrangements are countable.** At field scale, the number of spatial arrangements compatible with a fixed histogram is the corresponding multinomial coefficient: an exact count of the relational distinctions hidden by composition-only descriptions.
 7. **Prediction needs the right partition.** A coarse description remains predictively closed when its partition is Markov lumpable. When update rules depend on adjacency, orientation, or shared boundaries, states that are identical at the coarse level can retain different transition structures.
@@ -2016,7 +2018,9 @@ When an update rule reads arrangement, two fields with the same histogram can ha
 
 ### What the lattice reveals
 
-The Period Lattice is a compact finite model of generative constraint, exact coarse-graining, relational identity, information accounting, and organizational possibility. Constraints generate new organizational possibilities, and a description that fixes composition leaves relational identity to be specified by placement, orientation, and coupling.
+The Period Lattice does not treat the 1, 4, 6, 4, 1 count itself as a discovery. That count follows directly from four ordered binary positions. The useful question begins after the count: what information is lost when those 16 ordered states are collapsed into five composition classes, and which of the discarded relations have to be restored to predict the next transition?
+
+The Period Lattice is a compact finite model of generative constraint, exact coarse-graining, relational identity, information accounting, and organizational possibility. Constraints generate new organizational possibilities, and a description that fixes composition leaves relational identity to be specified by placement, orientation, and coupling. Its empirical value therefore depends on whether those relational variables improve prediction of dynamics that composition alone leaves unresolved.
 
 ### The bigger picture
 
@@ -2075,7 +2079,9 @@ What does it take for a system to keep a past that still acts, and how does that
 
 R = λ_self / λ_env ≥ R★
 
-R compares two rates: how fast a system restores its own organization and how fast its surroundings disrupt it. When restoration runs twice as fast as disruption, R = 2. When the ratio reaches R★, the system’s own continuity holds and earlier organization stays causally active inside later organization. The balance point R = 1, where the two rates are equal, is derived from four postulates in The Law of Self-Maintained Invariance.
+R compares two rates: how fast a system restores its own organization and how fast its surroundings disrupt it. When restoration runs twice as fast as disruption, R = 2. The balance point R = 1, where the two rates are equal, is derived from four postulates in The Law of Self-Maintained Invariance.
+
+R★ is a further empirical threshold. It is not assumed to equal 1 and it is not read backward from whether a system appears to have an interior. The system, organizational variable, scale, interval, and processes counted as restoration and disruption are specified first. λ_self and λ_env are estimated independently, R★ is fit from observed transitions in one dataset, and the threshold is then tested on held-out cases. If the same measurement procedure does not predict the proposed transition outside the data used to set the threshold, the threshold claim fails.
 
 ### Examples
 
@@ -2645,7 +2651,7 @@ Next: [The Collapse of Separation and the Structure of Insight](https://ahq25.su
 
 ---
 
-Consciousness is access to consequential history. When internal processes of restoration exceed external disruption, a system becomes increasingly organized by consequences inherited from its own recent activity. The portions of the past that remain active and relevant form consequential history for the system. Observation extends this access to other histories throughout the observable universe. Consciousness is the condition of structured access to these histories, both one’s own and those made available through observation.
+Consciousness is structured access to consequential history within an ongoing system that can use that history to shape its own present activity and continuation. When internal processes of restoration sufficiently counter disruption, a system can remain organized by consequences inherited from its own prior activity. The portions of the past that remain causally active form consequential history for the system. The further transition is access: retained history becomes available to present activity in a way that can guide recognition, integration, selection, and what happens next. Observation can extend that access to histories carried by other systems and by the wider environment.
 
 ### What consciousness is
 
@@ -2654,14 +2660,14 @@ What does it mean for the past that stays active to become available within the 
 ### How it works
 
 1. **Restoration keeps the past active.** When restoration exceeds disruption, the system retains more of its prior organization in usable form, creating continuity and preserving consequential history. How much of that history becomes accessible is the further step that consciousness depends on.
-2. **Continuity and access are two aspects of one history.** Consequential history continues participating in the organization of a system. Accessible consequential history participates within present awareness and activity. Accessibility expands as additional portions of consequential history become organized within present activity.
+2. **Continuity and access are different conditions.** Consequential history can remain causally active without becoming broadly available to present activity. A river channel carries history in its structure, but that continuity alone is not consciousness. Accessible consequential history is retained history made available to the system’s ongoing organization so that it can participate in recognition, integration, selection, and control. Accessibility expands as additional portions of consequential history become jointly usable within present activity.
 3. **Access comes in degrees.** Access varies in extent, depth, organization, and utilization. Extent is how much of the available consequential history participates in present organization. Depth is how fully prior patterns are integrated. Organization is how coherently the participating histories relate to one another within the present. Utilization is how effectively the system draws on the accessible history in its ongoing functioning.
 4. **Observation extends access.** Observation reaches histories that belong to other systems and to the wider environment. A fossil carries geological history into the present. A photograph carries prior moments into the present. A written record carries prior thought into the present.
 5. **Attention widens access.** Focused attention expands accessibility by increasing the degree to which consequential history participates in present organization. As observation of a distant object becomes more focused, a shape becomes recognizable, a pattern becomes identifiable, and a relationship becomes apparent.
 6. **Recognition, understanding, and insight are expansions of access.** Recognition, understanding, insight, discovery, realization, and meaning arise through expansions of accessibility in which more consequential history becomes available within awareness.
 7. **Access has a felt character.** The felt character of experience tracks the organization, clarity, depth, and integration of accessible consequential history as it participates in ongoing activity. As integration increases, the access itself becomes more vivid and more organized in experience.
 8. **Access works across boundaries.** A system accesses the consequences that remain available through interaction. The visible color of a flower is the portion of its interactions with light that remains available through reflected light, and that reflected color carries consequences of the flower into the observer’s experience.
-9. **Degrees of consciousness.** Different forms and degrees of access correspond to different forms and degrees of consciousness. A sleeping person may retain limited access. A highly attentive person may integrate larger portions of consequential history into present activity.
+9. **Degrees of consciousness.** Different forms and degrees of recursively usable access correspond to different forms and degrees of consciousness in the framework. A sleeping person may retain broad continuity with limited present access. A highly attentive person may make a larger portion of retained history jointly available to ongoing activity.
 
 ### Terms to know
 
