@@ -42,7 +42,7 @@ How can a present belong to a system whose material keeps changing?
 
 **Awareness is the lived availability of consequential history when temporally distributed relations become jointly organized within an active present and that present remains causally involved in producing its successor.** Awareness combines access to consequential history, temporal concentration, and causal reentry.
 
-In other words, a present becomes lived when what the system has carried from many different times is available together now, and this present is still helping determine what the next present will be.
+A present becomes lived when what the system has carried from many different times is available together now, and this present is still helping determine what the next present will be.
 
 The whole picture fits in one line: “experience is the present tense of a working history.”
 
