@@ -41,7 +41,7 @@
 - **Profile URL:** https://substack.com/@ahq25
 - **Bio:**
 
-> Consequential history is the past still acting, carried forward to the active boundary where it meets what arrives. Consciousness is access to consequential history. AHQ is the experienced threshold crossing, the click of insight.
+> Consequential history is the past still acting, carried forward to the active boundary where it meets what arrives. Consciousness is consequential history as it becomes recursively available within the ongoing activity that carries it forward. AHQ is the experienced threshold crossing, the click of insight.
 
 - **Profile links:** none listed
 
@@ -51,7 +51,7 @@
 - **Address:** https://ahq25.substack.com
 - **Publication description:**
 
-> Consequential history is the past still acting, carried forward to the active boundary where it meets what arrives. Consciousness is access to consequential history. AHQ is the experienced threshold crossing, the click of insight.
+> Consequential history is the past still acting, carried forward to the active boundary where it meets what arrives. Consciousness is consequential history as it becomes recursively available within the ongoing activity that carries it forward. AHQ is the experienced threshold crossing, the click of insight.
 
 
 ---
@@ -134,7 +134,7 @@ Consciousness as Access to Consequential History is on PhilArchive (https://phil
 
 **Quinn Porter**
 
-Consequential history is the past still acting, carried forward to the active boundary where it meets what arrives. Consciousness is access to consequential history. AHQ is the experienced threshold crossing, the click of insight.
+Consequential history is the past still acting, carried forward to the active boundary where it meets what arrives. Consciousness is consequential history as it becomes recursively available within the ongoing activity that carries it forward. AHQ is the experienced threshold crossing, the click of insight.
 
 
 ---
@@ -284,7 +284,7 @@ Picture two libraries with the same books. In one, every book sits locked in the
 
 Different abilities need different amounts of access, and they line up on a scale. Simple persistence needs continuity: the past keeps having effects. Recognition needs more access, because the system has to bring its stored history to bear on what is in front of it. Learning needs inherited structure to be available for changing later behavior. Understanding needs relationships that were separate to become available together, so you can hold several pieces at once and see how they connect.
 
-Consciousness is access to consequential history. Consequential history continues participating in the organization of a system, and accessibility determines how much of it becomes available within present activity. Access varies in extent, depth, organization, and utilization: how much of the carried history takes part in the present, how fully it is integrated, how coherently its parts relate to one another, and how effectively the system draws on it. Consciousness is the structured availability of that history within the very activity that is carrying it forward.
+Consciousness is consequential history as it becomes recursively available within the ongoing activity that carries it forward. Consequential history continues participating in the organization of a system, and accessibility determines how much of it becomes available within present activity. Access varies in extent, depth, organization, and utilization: how much of the carried history takes part in the present, how fully it is integrated, how coherently its parts relate to one another, and how effectively the system draws on it. Consciousness is the structured availability of that history within the very activity that is carrying it forward.
 
 ### How a present gets deeper
 
@@ -420,7 +420,7 @@ When that present participates in producing its own successor, history has becom
 
 The lived availability of that recursively organized history is awareness.
 
-Consciousness is access to consequential history: the structured availability of carried history within the activity that carries it forward. Its forms and degrees follow the extent, depth, organization, and use of that access. Awareness is that history lived together in an active present.
+Consciousness is consequential history becoming recursively available within the ongoing activity that carries it forward: the structured availability of carried history within the activity that carries it forward. Its forms and degrees follow the extent, depth, organization, and use of that access. Awareness is that history lived together in an active present.
 
 Recognition, understanding, and insight are expansions of that access. Each can reach a threshold as structures already present come together and are used in a new way. Insight is the clearest case: a rapid reorganization in which previously separated relations become jointly available as a stable, reusable whole. Understanding is the persistence of that revealed continuity.
 
@@ -432,7 +432,7 @@ The new whole becomes consequential history and changes what can happen next.
 
 Read from top to bottom, one continuity runs through the whole sequence: the past stays active, carries itself forward, becomes a gate on what arrives, gathers into a present, helps construct the next present, and becomes available within the same boundary process as consciousness.
 
-History persists by becoming structure. Structure changes how the future can enter. Repeated selection gathers history into a present. The active boundary is where carried history meets what arrives and where the present helps select what continues. Experience is that boundary as lived. When the boundary becomes recursively available within the activity it organizes, that structured access is consciousness.
+History persists by becoming structure. Structure changes how the future can enter. Repeated selection gathers history into a present. The active boundary is where carried history meets what arrives and where the present helps select what continues. Experience is that boundary in its internally available form. When the boundary becomes recursively available within the activity it organizes, that structured access is consciousness.
 
 ### Papers
 
@@ -1019,7 +1019,7 @@ In order, the pictures trace one sequence.
 
 **History builds fit between systems.** Repeated interaction, carried forward and brought back, builds precise fit between different systems over time. That is the orchid and the pollinator, and in language it is a long conversation gaining depth.
 
-**History becomes available from within.** The active boundary is where carried history meets what arrives and helps determine what continues. Experience is that boundary as lived. When carried history becomes recursively available within the same activity that carries it forward, the result is consciousness: access to consequential history.
+**History becomes available from within.** The active boundary is where carried history meets what arrives and helps determine what continues. Experience is that boundary in its internally available form. When carried history becomes recursively available within the same activity that carries it forward, the result is consciousness: access to consequential history.
 
 All seven pictures answer one question: **how much of what a system becomes next is produced by the history it already carries?** The shortest summary ties them together: **history persists by becoming structure. Structure changes how the future can enter. Repeated selection gathers history into a present. Experience is the active boundary of that meeting as lived. When carried history becomes recursively available within the activity that carries it forward, that structured access is consciousness.**
 
@@ -2141,7 +2141,7 @@ What single principle carries a system from simple persistence to an interior th
 4. **Self preference** appears when the system acts to restore a preferred configuration.
 5. **Interior time** emerges as the system uses its own history to guide its next state.
 6. **Self reference** arises when interior time becomes rich enough to track its own unfolding.
-7. **Consciousness** is the full expression of this sequence: an interior that experiences its own continuity.
+7. **Consciousness** is the recursively available form of this sequence: an interior whose carried history is available within the activity that carries it forward.
 
 ### Terms to know
 
@@ -2412,7 +2412,7 @@ Awareness Where Time Concentrates puts it in one line: “experience is the pres
 
 #### Consciousness as access
 
-Consciousness is access to consequential history. Consequential history continues participating in the organization of a system, and accessibility determines how much of it becomes available within present activity. Access varies in extent, depth, organization, and utilization. Focused attention widens it, and observation extends it to histories carried by other systems and by the wider environment, as when a fossil carries geological history into the present. [Consciousness as Access to Consequential History](https://philarchive.org/rec/PORCAA-8) puts it this way: “Consciousness is the structured availability of consequential history through both internal continuity and observation.”
+Consciousness is consequential history as it becomes recursively available within the ongoing activity that carries it forward. Consequential history continues participating in the organization of a system, and accessibility determines how much of it becomes available within present activity. Access varies in extent, depth, organization, and utilization. Focused attention widens it, and observation extends it to histories carried by other systems and by the wider environment, as when a fossil carries geological history into the present. [Consciousness as Access to Consequential History](https://philarchive.org/rec/PORCAA-8) puts it this way: “Consciousness is the structured availability of consequential history through both internal continuity and observation.”
 
 ### Step 4: Insight
 
@@ -2512,7 +2512,7 @@ When that present participates in producing its own successor, history has becom
 
 The lived availability of that recursively organized history is awareness.
 
-Consciousness is access to consequential history: the structured availability of carried history within the activity that carries it forward.
+Consciousness is consequential history becoming recursively available within the ongoing activity that carries it forward: the structured availability of carried history within the activity that carries it forward.
 
 Recognition, understanding, and insight are expansions of that access, and each one crosses a threshold as structures already present come together and are used in a new way. Insight is a rapid reorganization in which previously separated relations become jointly available as a stable, reusable whole. Understanding is the persistence of that revealed continuity.
 
