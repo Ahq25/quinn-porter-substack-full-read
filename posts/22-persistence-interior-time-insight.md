@@ -184,7 +184,7 @@ Awareness Where Time Concentrates puts it in one line: “experience is the pres
 
 ### Consciousness as access
 
-Consciousness is access to consequential history. Consequential history continues participating in the organization of a system, and accessibility determines how much of it becomes available within present activity. Access varies in extent, depth, organization, and utilization. Focused attention widens it, and observation extends it to histories carried by other systems and by the wider environment, as when a fossil carries geological history into the present. [Consciousness as Access to Consequential History](https://philarchive.org/rec/PORCAA-8) puts it this way: “Consciousness is the structured availability of consequential history through both internal continuity and observation.”
+Consciousness is consequential history as it becomes recursively available within the ongoing activity that carries it forward. Consequential history continues participating in the organization of a system, and accessibility determines how much of it becomes available within present activity. Access varies in extent, depth, organization, and utilization. Focused attention widens it, and observation extends it to histories carried by other systems and by the wider environment, as when a fossil carries geological history into the present. [Consciousness as Access to Consequential History](https://philarchive.org/rec/PORCAA-8) puts it this way: “Consciousness is the structured availability of consequential history through both internal continuity and observation.”
 
 ## Step 4: Insight
 
@@ -278,7 +278,7 @@ When that present participates in producing its own successor, history has becom
 
 The lived availability of that recursively organized history is awareness.
 
-Consciousness is access to consequential history: the structured availability of carried history within the activity that carries it forward.
+Consciousness is consequential history becoming recursively available within the ongoing activity that carries it forward: the structured availability of carried history within the activity that carries it forward.
 
 Recognition, understanding, and insight are expansions of that access, and each one crosses a threshold as structures already present come together and are used in a new way. Insight is a rapid reorganization in which previously separated relations become jointly available as a stable, reusable whole. Understanding is the persistence of that revealed continuity.
 
