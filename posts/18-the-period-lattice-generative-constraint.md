@@ -9,7 +9,7 @@
 
 ---
 
-The Period Lattice is a recursively developed symbolic geometry in which existing structure constrains which transformations are admissible next. It joins a generative rule system with an exact finite combinatorial structure: 16 ordered local microstates fall into five balance classes with multiplicities 1, 4, 6, 4, 1. The lattice separates composition from organization, counts exactly what a composition only description leaves open, and states when a coarse description still predicts what comes next. Constraint, in this model, generates organizational possibility.
+The Period Lattice is a recursively developed symbolic geometry in which existing structure constrains which transformations are admissible next. It joins a generative rule system with an exact finite combinatorial structure: 16 ordered local microstates fall into five balance classes with multiplicities 1, 4, 6, 4, 1. The lattice separates composition from organization, counts exactly what a composition level description leaves open, and states when a coarse description still predicts what comes next. Constraint, in this model, generates organizational possibility.
 
 ### How structure shapes what comes next
 
@@ -22,7 +22,7 @@ How does existing structure set what can happen next, and which distinctions doe
 3. **The local state space is exact.** A local junction contains four ordered binary pole positions, p and d, generating 2⁴ = 16 ordered microstates.
 4. **Pascal structure appears exactly.** Grouping those states by p count produces five balance classes B0 through B4 with multiplicities 1, 4, 6, 4, 1, exactly row n = 4 of Pascal’s triangle. This counting result is standard combinatorics: the same state space is the Boolean hypercube Q4, and the five classes are its Hamming weight levels and the permutation orbits of four exchangeable positions. The claim of the Period Lattice begins with what this known counting structure leaves unresolved: positional order, orientation, coupling, and the transition differences those relational variables can produce.
 5. **Composition and organization are separate.** A class histogram can determine local class counts, Cartesian product microstate multiplicity, and mean polarity while leaving positional relational order open.
-6. **Hidden arrangements are countable.** At field scale, the number of spatial arrangements compatible with a fixed histogram is the corresponding multinomial coefficient: an exact count of the relational distinctions hidden by composition only descriptions.
+6. **Hidden arrangements are countable.** At field scale, the number of spatial arrangements compatible with a fixed histogram is the corresponding multinomial coefficient: an exact count of the relational distinctions hidden by composition level descriptions.
 7. **Prediction needs the right partition.** A coarse description remains predictively closed when its partition is Markov lumpable. When update rules depend on adjacency, orientation, or shared boundaries, states that are identical at the coarse level can retain different transition structures.
 8. **Counting skeleton and added organization.** Pascal structure supplies the local counting skeleton, while placement, orientation, and coupling determine additional organization.
 9. **What stays open.** A Sierpinski type relation across scales is an open multiscale question, decidable once an explicit whole lattice recursion is specified.
@@ -64,7 +64,7 @@ Composition tells what is present. Arrangement determines which relations are av
 
 ### Apparent memory at a coarse scale
 
-When an update rule reads arrangement, two fields with the same histogram can have different next steps. A coarse description that keeps only the histogram then looks history dependent. Adding the missing relational variable, such as staggered order, neighbor relations, or boundary identity, restores predictive closure. The working rule: retain exactly those relational distinctions required to make the target dynamics predictable at the chosen scale.
+When an update rule reads arrangement, two fields with the same histogram can have different next steps. A coarse description that keeps the histogram as its state description can appear history dependent. Adding the missing relational variable, such as staggered order, neighbor relations, or boundary identity, restores predictive closure. The working rule: retain exactly those relational distinctions required to make the target dynamics predictable at the chosen scale.
 
 ### What the lattice reveals
 

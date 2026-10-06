@@ -46,7 +46,7 @@ Here λ_i(t) are the eigenvalues of the windowed population covariance matrix. T
 
 dim(M_phase) = n − r
 
-With n rhythms and r independent locks, the phases need only n − r numbers to describe them. Ten rhythms with three locks need seven free phase variables. Each independent phase constraint removes one independent direction from the phase description. AHQ predicts that increasing harmonic constraint will occur alongside a time locked reduction in effective population dimensionality during the click.
+With n rhythms and r independent locks, the phases need n − r numbers to describe them. Ten rhythms with three locks need seven free phase variables. Each independent phase constraint removes one independent direction from the phase description. AHQ predicts that increasing harmonic constraint will occur alongside a time locked reduction in effective population dimensionality during the click.
 
 **Stability: the Porter Ratio**
 

@@ -54,7 +54,7 @@ A new word you learn changes which sentences make sense to you tomorrow. Put sim
 
 - The signal and the spoken sentence are the outside event, held exactly the same.
 - The cells’ different development and your newly learned word are the carried history.
-- Growing versus holding steady, and puzzle versus sense, are the different effects.
+- The same event can produce growth, stability, puzzlement, or recognition according to the history carried into it.
 
 The event stays fixed and the result changes, so the system’s own built up organization accounts for the difference. That is the beginning of a causal inside. Incoming events now meet an organization already shaped by what came before, and that carried history helps determine what the arrival becomes.
 

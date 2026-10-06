@@ -123,7 +123,7 @@ Recognition, understanding, and insight are expansions of this access. Each can 
 
 Because the contributing structures were already present, the click carries a sense of recognition, and often a sense that the result had been prepared in advance. The same sensation arises when looking at a species that fits its surroundings well: it carries an overwhelming appearance of foresight. Feathers appeared before flight, and their later recruitment into flight makes the earlier structure look directed toward that outcome. Biology calls this kind of later recruitment exaptation.
 
-The general pattern is prior structure → later integration → retrospective revelation of fit. An earlier structure exists before the later role is available. A larger organization forms, recruits what was already there, and makes the compatibility visible after the fact. Seen from outside in evolution, the result can look like foresight or design. Lived from inside in perception and insight, the same structure produces the feeling that the answer was somehow already there. The phrase the thing before the thing names that earlier organization whose later role becomes legible only after the larger coherence forms. The Coherence Threshold: A Unified Dynamical Account of Consciousness puts it this way: “The same step by step process that produces the appearance of foresight in evolution produces this experience within perception and thought.”
+The general pattern is prior structure → later integration → retrospective revelation of fit. An earlier structure exists before the later role is available. A larger organization forms, recruits what was already there, and makes the compatibility visible after the fact. Seen from outside in evolution, the result can look like foresight or design. Lived from inside in perception and insight, the same structure produces the feeling that the answer was somehow already there. The phrase the thing before the thing names that earlier organization whose later role becomes legible once the larger coherence forms. The Coherence Threshold: A Unified Dynamical Account of Consciousness puts it this way: “The same step by step process that produces the appearance of foresight in evolution produces this experience within perception and thought.”
 
 Aleph Harmonic Qualia, or AHQ, is the experienced threshold crossing through which distributed, history bearing relations become a coherent, reusable whole. The click is the crossing, felt from inside, at the active boundary where a forming organization becomes a coherent whole and enters continuity through incorporation. In insight, the click is the phenomenal form of a rapid transition from distributed relational activity to a reusable collective state. The dynamical description and the lived description refer to the same event at different descriptive levels. From the outside, the event is a rapid reorganization in a history bearing dynamical system. From the experiential side, it is the sudden transition from partial relation to coherent recognition.
 
@@ -385,7 +385,7 @@ Consequential history supplies the temporal content of the shift: earlier relati
 
 **Lower effective dimensionality.** Dimensionality is the number of separate quantities you need to describe something. A crowd where everyone moves in a different direction takes many numbers to describe. A crowd marching in step takes a few. Lower dimensionality means the activity has come together. This is the ant network tightening into a loop.
 
-**Stronger harmonic coordination.** Activity often rises and falls in rhythms, like waves. The phase of a rhythm is where it is in its cycle: at the peak, at the bottom, or in between. Phase coordination means different rhythms rise and fall in step, like people clapping together. Harmonic coordination means rhythms of different speeds fit together neatly, the way notes in a chord do, with one running exactly twice or three times as fast as another. Each independent phase constraint removes one independent direction from the phase description, so n rhythms with r independent locks need only n − r numbers to describe their phases. AHQ predicts that increasing harmonic constraint will occur alongside a time locked reduction in effective population dimensionality during the click. In plainer terms, the rhythms locking together and the activity of many cells coming together are predicted to happen at the same moment.
+**Stronger harmonic coordination.** Activity often rises and falls in rhythms, like waves. The phase of a rhythm is where it is in its cycle: at the peak, at the bottom, or in between. Phase coordination means different rhythms rise and fall in step, like people clapping together. Harmonic coordination means rhythms of different speeds fit together neatly, the way notes in a chord do, with one running exactly twice or three times as fast as another. Each independent phase constraint removes one independent direction from the phase description, so n rhythms with r independent locks need n − r numbers to describe their phases. AHQ predicts that increasing harmonic constraint will occur alongside a time locked reduction in effective population dimensionality during the click. In plainer terms, the rhythms locking together and the activity of many cells coming together are predicted to happen at the same moment.
 
 **Greater stability, with restoration gaining on disruption.** This is the Porter Ratio at work. After a reported click, the new organization is predicted to hold itself together better, as the system’s maintaining work, λ_self, gains ground on the disruption, λ_env. One of the paper’s criteria for a click is that R, just after the click, is at or above R★. [Aleph Harmonic Qualia: The Dynamical Click of Coherence](https://philarchive.org/rec/PORAHQ-8) calls reaching R★ the ostiary condition for the new state: it enters a self maintaining regime and can keep taking part in what follows.
 
@@ -941,7 +941,7 @@ A new word you learn changes which sentences make sense to you tomorrow. Put sim
 
 - The signal and the spoken sentence are the outside event, held exactly the same.
 - The cells’ different development and your newly learned word are the carried history.
-- Growing versus holding steady, and puzzle versus sense, are the different effects.
+- The same event can produce growth, stability, puzzlement, or recognition according to the history carried into it.
 
 The event stays fixed and the result changes, so the system’s own built up organization accounts for the difference. That is the beginning of a causal inside. Incoming events now meet an organization already shaped by what came before, and that carried history helps determine what the arrival becomes.
 
@@ -1106,7 +1106,7 @@ Here λ_i(t) are the eigenvalues of the windowed population covariance matrix. T
 
 dim(M_phase) = n − r
 
-With n rhythms and r independent locks, the phases need only n − r numbers to describe them. Ten rhythms with three locks need seven free phase variables. Each independent phase constraint removes one independent direction from the phase description. AHQ predicts that increasing harmonic constraint will occur alongside a time locked reduction in effective population dimensionality during the click.
+With n rhythms and r independent locks, the phases need n − r numbers to describe them. Ten rhythms with three locks need seven free phase variables. Each independent phase constraint removes one independent direction from the phase description. AHQ predicts that increasing harmonic constraint will occur alongside a time locked reduction in effective population dimensionality during the click.
 
 **Stability: the Porter Ratio**
 
@@ -1985,7 +1985,7 @@ Next: [Continuity as an Organizing Variable](https://ahq25.substack.com/p/contin
 
 ---
 
-The Period Lattice is a recursively developed symbolic geometry in which existing structure constrains which transformations are admissible next. It joins a generative rule system with an exact finite combinatorial structure: 16 ordered local microstates fall into five balance classes with multiplicities 1, 4, 6, 4, 1. The lattice separates composition from organization, counts exactly what a composition only description leaves open, and states when a coarse description still predicts what comes next. Constraint, in this model, generates organizational possibility.
+The Period Lattice is a recursively developed symbolic geometry in which existing structure constrains which transformations are admissible next. It joins a generative rule system with an exact finite combinatorial structure: 16 ordered local microstates fall into five balance classes with multiplicities 1, 4, 6, 4, 1. The lattice separates composition from organization, counts exactly what a composition level description leaves open, and states when a coarse description still predicts what comes next. Constraint, in this model, generates organizational possibility.
 
 ### How structure shapes what comes next
 
@@ -1998,7 +1998,7 @@ How does existing structure set what can happen next, and which distinctions doe
 3. **The local state space is exact.** A local junction contains four ordered binary pole positions, p and d, generating 2⁴ = 16 ordered microstates.
 4. **Pascal structure appears exactly.** Grouping those states by p count produces five balance classes B0 through B4 with multiplicities 1, 4, 6, 4, 1, exactly row n = 4 of Pascal’s triangle. This counting result is standard combinatorics: the same state space is the Boolean hypercube Q4, and the five classes are its Hamming weight levels and the permutation orbits of four exchangeable positions. The claim of the Period Lattice begins with what this known counting structure leaves unresolved: positional order, orientation, coupling, and the transition differences those relational variables can produce.
 5. **Composition and organization are separate.** A class histogram can determine local class counts, Cartesian product microstate multiplicity, and mean polarity while leaving positional relational order open.
-6. **Hidden arrangements are countable.** At field scale, the number of spatial arrangements compatible with a fixed histogram is the corresponding multinomial coefficient: an exact count of the relational distinctions hidden by composition only descriptions.
+6. **Hidden arrangements are countable.** At field scale, the number of spatial arrangements compatible with a fixed histogram is the corresponding multinomial coefficient: an exact count of the relational distinctions hidden by composition level descriptions.
 7. **Prediction needs the right partition.** A coarse description remains predictively closed when its partition is Markov lumpable. When update rules depend on adjacency, orientation, or shared boundaries, states that are identical at the coarse level can retain different transition structures.
 8. **Counting skeleton and added organization.** Pascal structure supplies the local counting skeleton, while placement, orientation, and coupling determine additional organization.
 9. **What stays open.** A Sierpinski type relation across scales is an open multiscale question, decidable once an explicit whole lattice recursion is specified.
@@ -2040,7 +2040,7 @@ Composition tells what is present. Arrangement determines which relations are av
 
 ### Apparent memory at a coarse scale
 
-When an update rule reads arrangement, two fields with the same histogram can have different next steps. A coarse description that keeps only the histogram then looks history dependent. Adding the missing relational variable, such as staggered order, neighbor relations, or boundary identity, restores predictive closure. The working rule: retain exactly those relational distinctions required to make the target dynamics predictable at the chosen scale.
+When an update rule reads arrangement, two fields with the same histogram can have different next steps. A coarse description that keeps the histogram as its state description can appear history dependent. Adding the missing relational variable, such as staggered order, neighbor relations, or boundary identity, restores predictive closure. The working rule: retain exactly those relational distinctions required to make the target dynamics predictable at the chosen scale.
 
 ### What the lattice reveals
 
@@ -2288,7 +2288,7 @@ In a self maintaining open system, keeping inherited organization active require
 
 [The Law of Self Maintained Invariance](https://philarchive.org/rec/PORTLO-12) builds this into four postulates:
 
-1. An identifiable system persists as a distinct entity only while at least one organizational invariant, a feature of its organization that stays the same, remains stable.
+1. An identifiable system persists as a distinct entity as long as at least one organizational invariant, a feature of its organization that stays the same, remains stable.
 2. Open systems interact with their environments constantly, and those interactions can alter, disperse, or erase that invariant.
 3. When the invariant persists through interactions capable of altering it, organization preserving processes must counteract that alteration over the relevant interval.
 4. At the effective level, the net change in the invariant comes from the competition between internal restoration and environmental disruption.
@@ -2334,7 +2334,7 @@ The lattice is built step by step from a single point. Direction is added, then 
 
 The finished lattice also shows that the same parts can make different organizations. Each local junction has four positions, and each position holds one of two poles, p or d. That gives 2 × 2 × 2 × 2 = 16 possible arrangements. Sorted by how many p’s they contain, the 16 fall into five classes of sizes 1, 4, 6, 4, 1, which is row 4 of Pascal’s triangle. Knowing the class tells how many p’s are present and leaves their positions open. Composition tells what is present. Arrangement determines which relations are available to the next transition. The same ingredients can therefore support different futures.
 
-The same holds across a whole field. Two fields can contain exactly the same mix of classes and still be arranged differently, for example alternating extremes versus extremes clustered together. Counting parts fixes the composition. Placement, orientation, and coupling fix the organization. When the next change depends on arrangement, two fields that look identical by composition can go on to behave differently, so a useful description keeps whatever arrangement the next step reads. The lattice supplies the geometry of a structural transition, from local state through relational constraint and propagation to global organization, and living, neural, and cognitive systems can share that geometry while each uses its own mechanism.
+The same holds across a whole field. Two fields can contain exactly the same mix of classes and still be arranged differently, Alternating extremes and clustered extremes are two distinct arrangements. Counting parts fixes the composition. Placement, orientation, and coupling fix the organization. When the next change depends on arrangement, two fields that look identical by composition can go on to behave differently, so a useful description keeps whatever arrangement the next step reads. The lattice supplies the geometry of a structural transition, from local state through relational constraint and propagation to global organization, and living, neural, and cognitive systems can share that geometry while each uses its own mechanism.
 
 ### Step 2: Interior
 
@@ -2412,7 +2412,7 @@ A nervous system has layers of this kind. The Porter Ratio describes how, where 
 
 [The Combinatorial Repertoire of Consciousness](https://philarchive.org/rec/PORTCR-5) describes the machinery in more detail. A nervous system contains many relatively stable local gates. Whether a gate opens depends on current activity, incoming signals, combinations of signals, the phase of ongoing rhythms, retained history, and the large scale state left by the previous moment. Because each gate takes part in many episodes, a finite set of gates routes activity along an immense number of paths.
 
-A simple 24-gate toy simulation makes the combinatorial point measurable. From 50,000 sampled conditions, the same 24 gates produce 26,683 distinct activation patterns. Changing only the retained history, with the present state held fixed, changes which end region the activity settles into for 59.8% of the starting points. In this model, retained history helps decide where the present ends up.
+A simple 24-gate toy simulation makes the combinatorial point measurable. From 50,000 sampled conditions, the same 24 gates produce 26,683 distinct activation patterns. Changing the retained history while holding the present state fixed, changes which end region the activity settles into for 59.8% of the starting points. In this model, retained history helps decide where the present ends up.
 
 #### The present that builds the next present
 
@@ -2482,7 +2482,7 @@ D_PR = (sum of the variances)² / (sum of the squared variances)
 
 If the activity varies equally along 10 directions, D_PR = 10. If nearly all of it runs along one direction, D_PR is close to 1. The prediction is a rapid, time locked fall in D_PR at the moment of insight, like the branching trails tightening into one loop.
 
-**2. Harmonic coordination rises.** Rhythms lock into fixed relationships, such as one rhythm running exactly twice as fast as another. Each independent phase constraint removes one independent direction from the phase description. With n rhythms and r independent locks, the phases need only n − r numbers to describe them. Ten rhythms with three locks need seven free phase variables. AHQ predicts that increasing harmonic constraint will occur alongside a time locked reduction in effective population dimensionality during the click.
+**2. Harmonic coordination rises.** Rhythms lock into fixed relationships, such as one rhythm running exactly twice as fast as another. Each independent phase constraint removes one independent direction from the phase description. With n rhythms and r independent locks, the phases need n − r numbers to describe them. Ten rhythms with three locks need seven free phase variables. AHQ predicts that increasing harmonic constraint will occur alongside a time locked reduction in effective population dimensionality during the click.
 
 **3. The new state crosses the coherence threshold.** The Porter Ratio of the newly formed state reaches R★. Restoration outpaces disruption for the new whole. The paper calls this crossing the ostiary condition: the emerging organization enters a self maintaining regime capable of continued causal participation.
 
@@ -2561,7 +2561,7 @@ Each paper contributes something specific.
 - Consciousness as Access to Consequential History identifies consciousness with access to consequential history, distinguishes consequential history from accessible consequential history, and describes how access varies in extent, depth, organization, and utilization through internal continuity and observation.
 - [New Bodies, Old Capacities](https://philarchive.org/rec/PORNBO-2) gives an experimental design that varies a cell group’s prehistory and its body configuration as separate factors.
 - [The Flowering Boundary](https://philarchive.org/rec/PORTFB) treats the flowering transition itself as a measurable object with duration, spatial extent, recovery behavior, and history dependence, and predicts that growth records the transition’s duration in the plant’s anatomy.
-- [The Period Lattice](https://philarchive.org/rec/PORTPL-2) gives an exact count of the arrangements a composition only description leaves open and a precise criterion for when a coarse description still predicts what comes next.
+- [The Period Lattice](https://philarchive.org/rec/PORTPL-2) gives an exact count of the arrangements a composition level description leaves open and a precise criterion for when a coarse description still predicts what comes next.
 
 ### What the papers measure
 

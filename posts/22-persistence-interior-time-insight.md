@@ -36,7 +36,7 @@ In a self maintaining open system, keeping inherited organization active require
 
 [The Law of Self Maintained Invariance](https://philarchive.org/rec/PORTLO-12) builds this into four postulates:
 
-1. An identifiable system persists as a distinct entity only while at least one organizational invariant, a feature of its organization that stays the same, remains stable.
+1. An identifiable system persists as a distinct entity as long as at least one organizational invariant, a feature of its organization that stays the same, remains stable.
 2. Open systems interact with their environments constantly, and those interactions can alter, disperse, or erase that invariant.
 3. When the invariant persists through interactions capable of altering it, organization preserving processes must counteract that alteration over the relevant interval.
 4. At the effective level, the net change in the invariant comes from the competition between internal restoration and environmental disruption.
@@ -82,7 +82,7 @@ The lattice is built step by step from a single point. Direction is added, then 
 
 The finished lattice also shows that the same parts can make different organizations. Each local junction has four positions, and each position holds one of two poles, p or d. That gives 2 × 2 × 2 × 2 = 16 possible arrangements. Sorted by how many p’s they contain, the 16 fall into five classes of sizes 1, 4, 6, 4, 1, which is row 4 of Pascal’s triangle. Knowing the class tells how many p’s are present and leaves their positions open. Composition tells what is present. Arrangement determines which relations are available to the next transition. The same ingredients can therefore support different futures.
 
-The same holds across a whole field. Two fields can contain exactly the same mix of classes and still be arranged differently, for example alternating extremes versus extremes clustered together. Counting parts fixes the composition. Placement, orientation, and coupling fix the organization. When the next change depends on arrangement, two fields that look identical by composition can go on to behave differently, so a useful description keeps whatever arrangement the next step reads. The lattice supplies the geometry of a structural transition, from local state through relational constraint and propagation to global organization, and living, neural, and cognitive systems can share that geometry while each uses its own mechanism.
+The same holds across a whole field. Two fields can contain exactly the same mix of classes and still be arranged differently, Alternating extremes and clustered extremes are two distinct arrangements. Counting parts fixes the composition. Placement, orientation, and coupling fix the organization. When the next change depends on arrangement, two fields that look identical by composition can go on to behave differently, so a useful description keeps whatever arrangement the next step reads. The lattice supplies the geometry of a structural transition, from local state through relational constraint and propagation to global organization, and living, neural, and cognitive systems can share that geometry while each uses its own mechanism.
 
 ### Step 2: Interior
 
@@ -160,7 +160,7 @@ A nervous system has layers of this kind. The Porter Ratio describes how, where 
 
 [The Combinatorial Repertoire of Consciousness](https://philarchive.org/rec/PORTCR-5) describes the machinery in more detail. A nervous system contains many relatively stable local gates. Whether a gate opens depends on current activity, incoming signals, combinations of signals, the phase of ongoing rhythms, retained history, and the large scale state left by the previous moment. Because each gate takes part in many episodes, a finite set of gates routes activity along an immense number of paths.
 
-A simple 24-gate toy simulation makes the combinatorial point measurable. From 50,000 sampled conditions, the same 24 gates produce 26,683 distinct activation patterns. Changing only the retained history, with the present state held fixed, changes which end region the activity settles into for 59.8% of the starting points. In this model, retained history helps decide where the present ends up.
+A simple 24-gate toy simulation makes the combinatorial point measurable. From 50,000 sampled conditions, the same 24 gates produce 26,683 distinct activation patterns. Changing the retained history while holding the present state fixed, changes which end region the activity settles into for 59.8% of the starting points. In this model, retained history helps decide where the present ends up.
 
 #### The present that builds the next present
 
@@ -230,7 +230,7 @@ D_PR = (sum of the variances)² / (sum of the squared variances)
 
 If the activity varies equally along 10 directions, D_PR = 10. If nearly all of it runs along one direction, D_PR is close to 1. The prediction is a rapid, time locked fall in D_PR at the moment of insight, like the branching trails tightening into one loop.
 
-**2. Harmonic coordination rises.** Rhythms lock into fixed relationships, such as one rhythm running exactly twice as fast as another. Each independent phase constraint removes one independent direction from the phase description. With n rhythms and r independent locks, the phases need only n − r numbers to describe them. Ten rhythms with three locks need seven free phase variables. AHQ predicts that increasing harmonic constraint will occur alongside a time locked reduction in effective population dimensionality during the click.
+**2. Harmonic coordination rises.** Rhythms lock into fixed relationships, such as one rhythm running exactly twice as fast as another. Each independent phase constraint removes one independent direction from the phase description. With n rhythms and r independent locks, the phases need n − r numbers to describe them. Ten rhythms with three locks need seven free phase variables. AHQ predicts that increasing harmonic constraint will occur alongside a time locked reduction in effective population dimensionality during the click.
 
 **3. The new state crosses the coherence threshold.** The Porter Ratio of the newly formed state reaches R★. Restoration outpaces disruption for the new whole. The paper calls this crossing the ostiary condition: the emerging organization enters a self maintaining regime capable of continued causal participation.
 
@@ -309,7 +309,7 @@ Each paper contributes something specific.
 - Consciousness as Access to Consequential History identifies consciousness with access to consequential history, distinguishes consequential history from accessible consequential history, and describes how access varies in extent, depth, organization, and utilization through internal continuity and observation.
 - [New Bodies, Old Capacities](https://philarchive.org/rec/PORNBO-2) gives an experimental design that varies a cell group’s prehistory and its body configuration as separate factors.
 - [The Flowering Boundary](https://philarchive.org/rec/PORTFB) treats the flowering transition itself as a measurable object with duration, spatial extent, recovery behavior, and history dependence, and predicts that growth records the transition’s duration in the plant’s anatomy.
-- [The Period Lattice](https://philarchive.org/rec/PORTPL-2) gives an exact count of the arrangements a composition only description leaves open and a precise criterion for when a coarse description still predicts what comes next.
+- [The Period Lattice](https://philarchive.org/rec/PORTPL-2) gives an exact count of the arrangements a composition level description leaves open and a precise criterion for when a coarse description still predicts what comes next.
 
 ### What the papers measure
 
