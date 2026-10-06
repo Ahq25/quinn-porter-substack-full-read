@@ -9,7 +9,7 @@
 
 ---
 
-Branching and ramified organization recur across river basins, roots, fungal mycelia, vascular systems, epithelial organs, adaptive transport networks, planetary drainage landscapes, and three-dimensional fractal aggregates. In each, earlier flow, growth, or transport can alter physical structure, and the retained structure can continue shaping later dynamics. Branching as Active Inheritance treats that relation as a general principle of history-bearing organization, treats its maintenance as a rate-balance problem measured by the Porter Ratio, and states how to test whether R predicts what branching systems keep and reuse.
+Branching and ramified organization recur across river basins, roots, fungal mycelia, vascular systems, epithelial organs, adaptive transport networks, planetary drainage landscapes, and three-dimensional fractal aggregates. In each, earlier flow, growth, or transport can alter physical structure, and the retained structure can continue shaping later dynamics. Branching as Active Inheritance treats that relation as a general principle of history bearing organization, treats its maintenance as a rate-balance problem measured by the Porter Ratio, and states how to test whether R predicts what branching systems keep and reuse.
 
 ## What branching systems share
 
@@ -21,7 +21,7 @@ What do branching systems as different as rivers, roots, and blood vessels share
 2. **Three linked concepts.** Active inheritance names the continued causal participation of retained organization. Consequential geometry names the spatial structure through which earlier dynamics constrain later dynamics. Consequential history names the accumulation of those retained constraints through time.
 3. **Maintenance is a rate-balance problem.** Maintenance of inherited organization is a balance between two rates, λ_self and λ_env, compared by the Porter Ratio.
 4. **What R predicts.** Independently measured R predicts structural recovery, path persistence, route reuse, topology retention, and dependence on prior state, and the test is built to check exactly this.
-5. **Organizational invariance across morphology.** Dimensionality, boundary conditions, gravity, pressure, material properties, gradients, and forcing shape the visible form through which organization is expressed. The invariant is the causal relation by which earlier dynamics alter structure and retained structure influences what happens next. Its visible morphology can change while the history-bearing relation remains measurable.
+5. **Organizational invariance across morphology.** Dimensionality, boundary conditions, gravity, pressure, material properties, gradients, and forcing shape the visible form through which organization is expressed. The invariant is the causal relation by which earlier dynamics alter structure and retained structure influences what happens next. Its visible morphology can change while the history bearing relation remains measurable.
 6. **Beyond branching.** Active inheritance extends into organizational ancestry and into interiority. Phenomenal consciousness belongs to a later stage: sufficiently deep and integrated recursive availability of inherited internal state.
 
 ## Terms to know
