@@ -1509,7 +1509,7 @@ Full paper on PhilArchive: [Consequential History and the Conditions of Persiste
 
 Before this: [The Porter Ratio](https://ahq25.substack.com/p/the-porter-ratio-consequential-history).
 
-Next: [The Law of Self-Maintained Invariance](https://ahq25.substack.com/p/the-law-of-self maintained-invariance), where the Porter Ratio is built from four postulates.
+Next: [The Law of Self-Maintained Invariance](https://ahq25.substack.com/p/the-law-of-self-maintained-invariance), where the Porter Ratio is built from four postulates.
 
 
 ---
@@ -1807,7 +1807,7 @@ Next: [The Period Lattice](https://ahq25.substack.com/p/the-period-lattice-gener
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 12:48 PM ET
-- **URL:** https://ahq25.substack.com/p/the-law-of-self maintained-invariance
+- **URL:** https://ahq25.substack.com/p/the-law-of-self-maintained-invariance
 - **Audience:** everyone (free, public)
 
 ---
@@ -2164,7 +2164,7 @@ This paper carries the continuity from persistence to an interior. At R★, reta
 
 Full paper on PhilArchive: [The Shape of Persistence: Coherence, Interior Time, and Aleph Harmonic Qualia](https://philarchive.org/rec/PORTSO-18)
 
-Before this: [The Law of Self-Maintained Invariance](https://ahq25.substack.com/p/the-law-of-self maintained-invariance).
+Before this: [The Law of Self-Maintained Invariance](https://ahq25.substack.com/p/the-law-of-self-maintained-invariance).
 
 Next: [The Ostiary Principle](https://ahq25.substack.com/p/the-ostiary-principle-boundary-recognition), on the boundary where carried history meets each arrival.
 
