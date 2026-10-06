@@ -141,9 +141,9 @@ A river, a tree, and a crystal all carry consequential history, because in each 
 
 Picture two libraries with the same books. In one, every book sits locked in the basement. In the other, every book stands on an open shelf, ready to be pulled down and read. Both libraries have continuity, since the books are there. The second one also has access.
 
-Different abilities need different amounts of access, and they line up on a scale. Simple persistence needs continuity: the past keeps having effects. Recognition needs more access, because the system has to bring its stored history to bear on what is in front of it. Learning needs inherited structure to be available for changing later behavior. Understanding needs relationships that were separate to become available together, so you can hold several pieces at once and see how they connect.
+Different abilities need different amounts of access, and they line up on a scale. Simple persistence needs continuity: the past keeps having effects. Recognition begins when carried history shapes how the system discriminates what is in front of it. Conscious recognition adds recursive availability of the recognized relation within the ongoing activity that carries and uses it. Learning needs inherited structure to be available for changing later behavior. Understanding needs relationships that were separate to become available together, so you can hold several pieces at once and see how they connect.
 
-Consciousness is consequential history as it becomes recursively available within the ongoing activity that carries it forward. Consequential history continues participating in the organization of a system, and accessibility determines how much of it becomes available within present activity. Access varies in extent, depth, organization, and utilization: how much of the carried history takes part in the present, how fully it is integrated, how coherently its parts relate to one another, and how effectively the system draws on it. Consciousness is the structured availability of that history within the very activity that is carrying it forward.
+Consciousness is consequential history as it becomes recursively available within the ongoing activity that carries it forward. Consequential history continues participating in the organization of a system, and accessibility determines how much of it becomes available within present activity. Access varies in extent, depth, organization, and utilization: how much of the carried history takes part in the present, how fully it is integrated, how coherently its parts relate to one another, and how effectively the system draws on it. Consciousness is the recursive availability of consequential history within the very activity that is carrying it forward.
 
 ### How a present gets deeper
 
@@ -181,7 +181,7 @@ It has the same shape as the doorkeeper’s loop. “Selective gating” is the 
 
 **Awareness is the lived availability of consequential history when temporally distributed relations become jointly organized within an active present and that present remains causally involved in producing its successor.**
 
-In other words, a present becomes lived when what the system has carried from many different times is available together now, and this present is still helping determine what the next present will be.
+A present becomes lived when what the system has carried from many different times is available together now, and this present is still helping determine what the next present will be.
 
 In that statement:
 
@@ -190,7 +190,7 @@ In that statement:
 - “Become jointly organized within a present” means those connections are gathered into one moment, the way the traffic lights gather cars into groups.
 - “A present that remains active in shaping its own continuation” means causal reentry: the present shapes its own successor.
 
-In plainer words: **a present is lived when a system’s own carried history is available within it while that history is still shaping what happens next.** Awareness therefore combines three things: access to consequential history, temporal concentration, and causal reentry. Laminar causal flow keeps that history ordered from one state to the next, and recirculation, in which earlier activity reenters ongoing dynamics, is one physical way it happens.
+**A present is lived when a system’s own carried history is available within it while that history is still shaping what happens next.** Awareness therefore combines three things: access to consequential history, temporal concentration, and causal reentry. Laminar causal flow keeps that history ordered from one state to the next, and recirculation, in which earlier activity reenters ongoing dynamics, is one physical way it happens.
 
 ### Insight and the click
 
@@ -220,7 +220,7 @@ This happens constantly. At every moment, structures already present are being u
 
 Experience is the active boundary itself as carried history becomes presently available, meets what arrives, and helps determine what continues. “The interior is that same boundary as it is sustained from within the loop.” From outside, the boundary is a history conditioned process of selection, incorporation, and revision. From inside, the same boundary is lived as the present. Consciousness is the history bearing boundary process as it becomes recursively available within its own ongoing organization. The phenomenal present is that process in its internally available form.
 
-Aleph Harmonic Qualia: The Dynamical Click of Coherence proposes measurable signatures for the click of insight and a test for them. Around a reported click, it predicts a rapid, time locked shift that includes:
+Aleph Harmonic Qualia: The Dynamical Click of Coherence proposes four transition criteria for the click of insight, measured together with the contribution of consequential history. Around a reported click, it predicts a rapid, time locked shift that includes:
 
 - lower effective dimensionality, as spread out activity comes together into a more unified collective state;
 - stronger harmonic coordination;
@@ -239,7 +239,7 @@ Consequential history supplies the temporal content of the shift: earlier relati
 
 An insight that has become part of the system changes what the system can do afterward. Once you see how to solve one kind of problem, you can solve the next one like it.
 
-The felt click and this dynamical event are the same event, described from two sides. The trial by trial test records whether a person reports a click and whether all four predicted changes occur together.
+The felt click and this dynamical event are the same event, described from two sides. The trial by trial test records whether a person reports a click, whether all four transition criteria occur together, and how much consequential history contributes to the event.
 
 The click leads into **incorporation**. To incorporate something means to make it part of a body. In the click, something spread out becomes an organized whole, joins the system’s ongoing history, and changes the conditions for future recognition. The insight becomes consequential history.
 
