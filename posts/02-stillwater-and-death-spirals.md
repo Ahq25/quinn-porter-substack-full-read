@@ -39,7 +39,7 @@ Most of the time, your thinking works like the calm pond. You think about the ho
 
 Insight is the drop. In the moment of a sudden click, the structure of your own thinking becomes briefly visible. You feel the pieces snap together, and for an instant you are aware of the fit itself, of how your understanding is organized. For a moment, the organization of thought itself becomes noticeable.
 
-The felt click is called **Aleph Harmonic Qualia**, or AHQ. Qualia is the word philosophers use for the felt qualities of experience, such as the redness of red. AHQ is the experienced threshold crossing through which distributed, history-bearing relations become a coherent, reusable whole: pieces already present snap together into one whole and are used in a new way. In that click, a pattern becomes self evident and internally stable. [Aleph Harmonic Qualia: The Dynamical Click of Coherence](https://philarchive.org/rec/PORAHQ-8) describes it as a dynamical event: the felt click is the phenomenal form of a rapid transition from distributed relational activity to a reusable collective state.
+The felt click is called **Aleph Harmonic Qualia**, or AHQ. Qualia is the word philosophers use for the felt qualities of experience, such as the redness of red. AHQ is the experienced threshold crossing through which distributed, history bearing relations become a coherent, reusable whole: pieces already present snap together into one whole and are used in a new way. In that click, a pattern becomes self evident and internally stable. [Aleph Harmonic Qualia: The Dynamical Click of Coherence](https://philarchive.org/rec/PORAHQ-8) describes it as a dynamical event: the felt click is the phenomenal form of a rapid transition from distributed relational activity to a reusable collective state.
 
 **Self evident** means the pattern is clear as soon as it is seen. Once you see it, it convinces you on its own. A good joke works this way. So does the moment you finally see why a geometry proof works. The answer feels obvious, and a minute earlier it was out of sight.
 
@@ -57,7 +57,7 @@ Under typical conditions, those local interactions produce a branching network o
 
 Then, under certain conditions, something changes. A group of ants begins following one another in a circle. Each ant follows the scent of the ant ahead. Each lap strengthens the scent on the circle. The stronger scent pulls the ants more firmly onto the circle, which strengthens the scent again.
 
-The same process that built the branching network concentrates into a single self-reinforcing loop. This is the ant death spiral.
+The same process that built the branching network concentrates into a single self reinforcing loop. This is the ant death spiral.
 
 ## From many dimensions to few
 
@@ -81,7 +81,7 @@ Put the two pictures side by side.
 
 In the pond, the water is present all along. It enters perception when a disturbance reorganizes its surface into ripples.
 
-In the colony, the interactions among ants are present all along. They enter perception when they concentrate into a single self-reinforcing loop.
+In the colony, the interactions among ants are present all along. They enter perception when they concentrate into a single self reinforcing loop.
 
 The shared principle, as Stillwater and Death Spirals states it: **structure enters the regime of perception at the moment it organizes or concentrates into a stable form.**
 
@@ -101,7 +101,7 @@ Stillwater and Death Spirals uses these pictures to show how three ideas relate.
 
 In both pictures, the three change together. As the pattern becomes more coherent, its activity gathers into fewer dimensions, and as it gathers, it becomes easier to perceive. The ant death spiral shows all three changing at once. The pond shows the perceptibility side most vividly.
 
-This relationship links to a testable idea in [Aleph Harmonic Qualia: The Dynamical Click of Coherence](https://philarchive.org/rec/PORAHQ-8). That paper predicts that insight should be accompanied by a rapid, time-locked drop in the effective dimensionality of brain activity, alongside stronger harmonic coordination among neural rhythms, greater stability relative to disruption, and later reuse of the newly formed state. Effective dimensionality is measured with the participation ratio, which counts how many independent directions the activity actually uses: about 10 if activity spreads evenly over 10 directions, close to 1 if it runs almost entirely along one. The death spiral is the picture behind that first prediction: many independent paths gathering into one organized loop.
+This relationship links to a testable idea in [Aleph Harmonic Qualia: The Dynamical Click of Coherence](https://philarchive.org/rec/PORAHQ-8). That paper predicts that insight should be accompanied by a rapid, time locked drop in the effective dimensionality of brain activity, alongside stronger harmonic coordination among neural rhythms, greater stability relative to disruption, and later reuse of the newly formed state. Effective dimensionality is measured with the participation ratio, which counts how many independent directions the activity actually uses: about 10 if activity spreads evenly over 10 directions, close to 1 if it runs almost entirely along one. The death spiral is the picture behind that first prediction: many independent paths gathering into one organized loop.
 
 ## Why this example shows the transition
 
@@ -113,7 +113,7 @@ In a mind, the concentrated pattern of an insight becomes something you can use,
 
 Still water shows accessibility: a disturbance makes visible the medium that carries everything seen through it.
 
-An ant colony shows that a spread-out system can concentrate into a low dimensional, self-reinforcing form, and that this form reveals the rule the ants were following all along.
+An ant colony shows that a spread-out system can concentrate into a low dimensional, self reinforcing form, and that this form reveals the rule the ants were following all along.
 
 Together they describe insight as the moment hidden structure in thinking organizes into a stable pattern and, in doing so, becomes perceptible to the one doing the thinking. That is the click.
 
