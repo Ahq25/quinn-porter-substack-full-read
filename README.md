@@ -1,15 +1,15 @@
-# quinn-porter-substack-full-read
+# Quinn Porter Substack — Full Read
 
-This repository exists only so that an LLM (for example, ChatGPT) can read Quinn Porter's whole Substack without opening the Substack site itself.
+This public repository exists for one purpose: to provide Quinn Porter's public Substack as a single document that an LLM can read as a whole.
 
-- **Read this first:** [Quinn-Porter-Substack-Full-Read.md](Quinn-Porter-Substack-Full-Read.md) is the entire Substack in one document: the profile, the About page, and all 24 posts in reading order, with the text exactly as published.
-- **See it as it looks online:** [SUBSTACK-COMPLETE.pdf](SUBSTACK-COMPLETE.pdf) has full-page captures of the homepage, archive, About page, profile, and every post, in one PDF.
-- **Original Substack:** https://ahq25.substack.com
+## Use with an LLM
 
-Also included, all public Substack content:
+Open or download [Quinn-Porter-Substack-Full-Read.md](Quinn-Porter-Substack-Full-Read.md), give that file to the LLM, and use an instruction such as:
 
-- [posts/](posts/): each post as its own Markdown file, numbered in reading order
-- [profile.md](profile.md) and [about.md](about.md): the profile and the About page
-- [snapshots/](snapshots/): a PNG and a PDF of each live page
+> Read this entire document as one publication before analyzing, summarizing, criticizing, or answering questions about it.
 
-Captured October 5, 2026, 8:02 PM ET (page images taken 8:09 to 8:19 PM ET).
+The full-read file contains the public profile, About-page text, and all published posts in reading order, consolidated into one Markdown document.
+
+Original public Substack: https://ahq25.substack.com
+
+This repository is intentionally minimal. It is separate from private working repositories and contains only material intended for public sharing.
