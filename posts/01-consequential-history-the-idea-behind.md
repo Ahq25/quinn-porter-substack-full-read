@@ -179,7 +179,7 @@ It has the same shape as the doorkeeper’s loop. “Selective gating” is the 
 
 [Awareness Where Time Concentrates](https://philarchive.org/rec/PORAWT) states awareness this way:
 
-**Awareness is the lived availability of consequential history when temporally distributed relations become jointly organized within a present that remains active in shaping its own continuation.**
+**Awareness is the lived availability of consequential history when temporally distributed relations become jointly organized within an active present and that present remains causally involved in producing its successor.**
 
 In other words, a present becomes lived when what the system has carried from many different times is available together now, and this present is still helping determine what the next present will be.
 
@@ -279,9 +279,9 @@ When that present participates in producing its own successor, history has becom
 
 The lived availability of that recursively organized history is awareness.
 
-Consciousness is consequential history becoming recursively available within the ongoing activity that carries it forward. Its forms and degrees follow the extent, depth, organization, and use of that access. Awareness is that history lived together in an active present.
+Consciousness is consequential history becoming recursively available within the ongoing activity that carries it forward. Its forms and degrees follow the extent, depth, organization, and use of that access. Awareness is the lived availability of that history when temporally distributed relations are jointly organized within an active present that remains causally involved in producing its successor.
 
-Recognition, understanding, and insight are expansions of that access. Each can reach a threshold as structures already present come together and are used in a new way. Insight is the clearest case: a rapid reorganization in which previously separated relations become jointly available as a stable, reusable whole. Understanding is the persistence of that revealed continuity.
+Conscious recognition, understanding, and insight are expansions of that recursive access. Each can reach a threshold as structures already present come together and are used in a new way. Insight is the clearest case: a rapid reorganization in which previously separated relations become jointly available as a stable, reusable whole. Understanding is the persistence of that revealed continuity.
 
 AHQ is the experienced threshold crossing through which distributed relations become a coherent, reusable whole. It happens constantly across the senses, and the click of insight is its most noticeable form.
 

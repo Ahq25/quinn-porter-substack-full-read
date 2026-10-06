@@ -145,7 +145,7 @@ In order, the pictures trace one sequence.
 
 **History builds fit between systems.** Repeated interaction, carried forward and brought back, builds precise fit between different systems over time. That is the orchid and the pollinator, and in language it is a long conversation gaining depth.
 
-**History becomes available from within.** The active boundary is where carried history meets what arrives and helps determine what continues. Experience is that boundary in its internally available form. When carried history becomes recursively available within the same activity that carries it forward, the result is consciousness: access to consequential history.
+**History becomes available from within.** The active boundary is where carried history meets what arrives and helps determine what continues. Experience is that boundary in its internally available form. When carried history becomes recursively available within the same activity that carries it forward, the result is consciousness: consequential history becoming recursively available within the ongoing activity that carries it forward.
 
 All seven pictures answer one question: **how much of what a system becomes next is produced by the history it already carries?** The shortest summary ties them together: **history persists by becoming structure. Structure changes how the future can enter. Repeated selection gathers history into a present. Experience is the active boundary of that meeting as lived. When carried history becomes recursively available within the activity that carries it forward, that structured access is consciousness.**
 

@@ -124,7 +124,7 @@ A simple traffic light corridor makes this easier to see. Cars can approach a se
 
 A further transition occurs when the present organization, which contains inherited history, also helps determine which parts of that history will remain active in the next state. This is causal reentry. The present is produced by inherited organization, and the present in turn changes the conditions under which inherited organization will continue. The process therefore becomes recursive: history helps produce the present, and the present helps determine how history proceeds. Laminar causal flow names the ordered propagation that keeps this history structured from one state to the next, and recirculation, in which prior activity reenters ongoing dynamics, is one physical way it occurs.
 
-A present with this structure is a deep present. Its depth comes from the amount and temporal range of consequential history that remains jointly active, and its recursion comes from the present taking part in producing its own continuation. Awareness is the lived availability of consequential history when temporally distributed relations become jointly organized within a present that remains active in shaping its own continuation.
+A present with this structure is a deep present. Its depth comes from the amount and temporal range of consequential history that remains jointly active, and its recursion comes from the present taking part in producing its own continuation. Awareness is the lived availability of consequential history when temporally distributed relations become jointly organized within an active present and that present remains causally involved in producing its successor.
 
 Consciousness is the recursively available form of consequential history within the ongoing activity that carries it forward, and awareness is that history lived together in an active present. Awareness combines access with temporal concentration and causal reentry. In its fullest form, access is recursive: the history bearing boundary becomes available within the activity of recognition itself.
 
@@ -132,7 +132,7 @@ Phenomenal experience is the intrinsic character of this recursive interior posi
 
 The transition into conscious organization can be decomposed into separately measurable steps. Temporal stabilization measures whether activity settles into a persistent macrostate. Consequential history measures whether prior organization remains physically instantiated and improves prediction of later transitions. Internal accessibility measures whether retained organization changes report, attention, memory guided action, choice, or later state selection. Integration measures whether the resulting organization coordinates multiple participating processes. Causal reentry measures whether the larger state changes the local conditions that produce its successor. Conscious organization is the regime in which these conditions occur together. Each quantity keeps its own measurement and boundary conditions, which lets the causal sequence be tested link by link. Consequential history continues participating in the organization of a system, and accessibility determines how much of that history becomes available within present activity. When restoration exceeds disruption, prior organization can remain active across time, and how much of it becomes accessible is the further step that consciousness depends on. Access varies in extent, depth, organization, and utilization: how much of the carried history takes part in the present, how fully it is integrated, how coherently its parts relate to one another, and how effectively the system draws on it. Focused attention widens access. Observation extends it to histories carried by everything observable: a fossil carries geological history into the present, and starlight carries earlier states of distant stars. Consciousness is consequential history becoming recursively available within the history bearing boundary process, and its forms and degrees follow the extent, depth, organization, and use of that access.
 
-Recognition, understanding, and insight are expansions of this access. Each can reach a threshold. Structures already present, carried from earlier experience, come together and are put to a new use. Many dimensions of relation collapse into one or a few, and a new whole begins holding itself together and taking part in what follows. Insight provides an unusually clear case because the crossing is often experienced as a distinct click. Before an insight, relevant relations can already be active while remaining partially separated. A problem persists until those relations become jointly available in a form that can be used as a single coherent whole. During the transition, the organization changes rapidly. Previously distributed relations become coordinated, the separation maintaining the unresolved state loses stability, and a new collective organization becomes available for thought, memory, prediction, and later reuse. The release of the old separation and the stabilization of the revealed continuity are two descriptions of one transition. Understanding is the persistence of that revealed continuity, and meaning is its continued participation in what follows.
+Conscious recognition, understanding, and insight are expansions of this recursive access. Each can reach a threshold. Structures already present, carried from earlier experience, come together and are put to a new use. Many dimensions of relation collapse into one or a few, and a new whole begins holding itself together and taking part in what follows. Insight provides an unusually clear case because the crossing is often experienced as a distinct click. Before an insight, relevant relations can already be active while remaining partially separated. A problem persists until those relations become jointly available in a form that can be used as a single coherent whole. During the transition, the organization changes rapidly. Previously distributed relations become coordinated, the separation maintaining the unresolved state loses stability, and a new collective organization becomes available for thought, memory, prediction, and later reuse. The release of the old separation and the stabilization of the revealed continuity are two descriptions of one transition. Understanding is the persistence of that revealed continuity, and meaning is its continued participation in what follows.
 
 Because the contributing structures were already present, the click carries a sense of recognition, and often a sense that the result had been prepared in advance. The same sensation arises when looking at a species that fits its surroundings well: it carries an overwhelming appearance of foresight. Feathers appeared before flight, and their later recruitment into flight makes the earlier structure look directed toward that outcome. Biology calls this kind of later recruitment exaptation.
 
@@ -346,7 +346,7 @@ It has the same shape as the doorkeeper’s loop. “Selective gating” is the 
 
 [Awareness Where Time Concentrates](https://philarchive.org/rec/PORAWT) states awareness this way:
 
-**Awareness is the lived availability of consequential history when temporally distributed relations become jointly organized within a present that remains active in shaping its own continuation.**
+**Awareness is the lived availability of consequential history when temporally distributed relations become jointly organized within an active present and that present remains causally involved in producing its successor.**
 
 In other words, a present becomes lived when what the system has carried from many different times is available together now, and this present is still helping determine what the next present will be.
 
@@ -446,9 +446,9 @@ When that present participates in producing its own successor, history has becom
 
 The lived availability of that recursively organized history is awareness.
 
-Consciousness is consequential history becoming recursively available within the ongoing activity that carries it forward. Its forms and degrees follow the extent, depth, organization, and use of that access. Awareness is that history lived together in an active present.
+Consciousness is consequential history becoming recursively available within the ongoing activity that carries it forward. Its forms and degrees follow the extent, depth, organization, and use of that access. Awareness is the lived availability of that history when temporally distributed relations are jointly organized within an active present that remains causally involved in producing its successor.
 
-Recognition, understanding, and insight are expansions of that access. Each can reach a threshold as structures already present come together and are used in a new way. Insight is the clearest case: a rapid reorganization in which previously separated relations become jointly available as a stable, reusable whole. Understanding is the persistence of that revealed continuity.
+Conscious recognition, understanding, and insight are expansions of that recursive access. Each can reach a threshold as structures already present come together and are used in a new way. Insight is the clearest case: a rapid reorganization in which previously separated relations become jointly available as a stable, reusable whole. Understanding is the persistence of that revealed continuity.
 
 AHQ is the experienced threshold crossing through which distributed relations become a coherent, reusable whole. It happens constantly across the senses, and the click of insight is its most noticeable form.
 
@@ -1045,7 +1045,7 @@ In order, the pictures trace one sequence.
 
 **History builds fit between systems.** Repeated interaction, carried forward and brought back, builds precise fit between different systems over time. That is the orchid and the pollinator, and in language it is a long conversation gaining depth.
 
-**History becomes available from within.** The active boundary is where carried history meets what arrives and helps determine what continues. Experience is that boundary in its internally available form. When carried history becomes recursively available within the same activity that carries it forward, the result is consciousness: access to consequential history.
+**History becomes available from within.** The active boundary is where carried history meets what arrives and helps determine what continues. Experience is that boundary in its internally available form. When carried history becomes recursively available within the same activity that carries it forward, the result is consciousness: consequential history becoming recursively available within the ongoing activity that carries it forward.
 
 All seven pictures answer one question: **how much of what a system becomes next is produced by the history it already carries?** The shortest summary ties them together: **history persists by becoming structure. Structure changes how the future can enter. Repeated selection gathers history into a present. Experience is the active boundary of that meeting as lived. When carried history becomes recursively available within the activity that carries it forward, that structured access is consciousness.**
 
@@ -1088,15 +1088,16 @@ Aleph Harmonic Qualia: The Dynamical Click of Coherence defines AHQ as a dynamic
 
 What happens, in measurable dynamical terms, at the moment of the felt click?
 
-The AHQ identity hypothesis identifies the felt click with one dynamical transition in a history bearing system. Five measurable features belong to that event.
+The AHQ identity hypothesis identifies the felt click with one dynamical transition in a history bearing system. The event has four transition criteria and one historical contribution measure.
 
 1. **Effective dimensionality contracts.** Distributed activity gathers into fewer coordinated directions.
 2. **Harmonic coordination rises.** Relations across participating rhythms become more strongly organized.
 3. **Self maintenance crosses the relevant threshold.** The forming whole reaches sufficient stability for continued causal participation.
-4. **Consequential history contributes to the transition.** Earlier relations remain active in the organization of the new state.
-5. **The resulting state participates later.** The new whole becomes available to memory, prediction, action, recognition, or later state selection.
+4. **The resulting state persists and participates later.** The new whole remains available to memory, prediction, action, recognition, or later state selection.
 
-The phenomenal event and the dynamical event therefore have one trial level signature. The click identifies the crossing as lived within the history bearing process, and the measurements identify the same crossing through observable organization.
+**Historical contribution** is measured alongside those four transition criteria by estimating how much earlier organization remains causally active in producing the new state.
+
+The phenomenal event and the dynamical event therefore have one trial level signature. Four transition criteria identify the crossing itself, while the historical contribution measure identifies how much consequential history participates in producing it. The click identifies the crossing as lived within the history bearing process, and the measurements identify the same crossing through observable organization.
 
 ### The definition
 
@@ -1282,7 +1283,7 @@ How can a present belong to a system whose material keeps changing?
 5. **Gating compresses histories.** Repeated history dependent gating can compress temporally dispersed trajectories into increasingly organized present states.
 6. **The deep present.** The result is a current organization in which recent activity, retained states, learned organization, developmental history, and older biological structure can remain consequential together.
 7. **Causal reentry closes the loop.** Causal reentry occurs when this larger present alters the local conditions through which its successor is produced. This generates recursive continuity: history produces the present, and the present participates in selecting which history continues.
-8. **Awareness.** Awareness is the lived availability of consequential history when temporally distributed relations become jointly organized within a present that remains active in shaping its own continuation.
+8. **Awareness.** Awareness is the lived availability of consequential history when temporally distributed relations become jointly organized within an active present and that present remains causally involved in producing its successor.
 
 ### Terms to know
 
@@ -1298,7 +1299,7 @@ How can a present belong to a system whose material keeps changing?
 
 ### Awareness, defined
 
-**Awareness is the lived availability of consequential history when temporally distributed relations become jointly organized within a present that remains active in shaping its own continuation.** Awareness combines access to consequential history, temporal concentration, and causal reentry.
+**Awareness is the lived availability of consequential history when temporally distributed relations become jointly organized within an active present and that present remains causally involved in producing its successor.** Awareness combines access to consequential history, temporal concentration, and causal reentry.
 
 In other words, a present becomes lived when what the system has carried from many different times is available together now, and this present is still helping determine what the next present will be.
 
@@ -1959,7 +1960,7 @@ What is the relation between a living boundary that keeps a system intact and an
 5. **Recognition compresses as continuity accumulates.** Increasingly small cues come to evoke increasingly large organized structures.
 6. **Recognizers are nested.** Biological and cognitive organization are nested layers of boundary recognition systems. Each level functions simultaneously as a recognizer and as an object of recognition for higher levels.
 7. **AHQ marks consequential incorporation.** Aleph Harmonic Qualia (AHQ) identifies the transition at which an arrival becomes consequential for future recognition through incorporation into continuity.
-8. **The coherence threshold marks wider reach.** The coherence threshold marks the point at which incorporation becomes organizationally consequential beyond its local point of origin.
+8. **The organizational propagation threshold marks wider reach.** The organizational propagation threshold marks the point at which incorporation becomes consequential beyond its local point of origin and begins reshaping organization across the wider continuity.
 9. **Self legibility.** Self legibility emerges when recognition becomes available to further recognition and continuity becomes present within its own activity.
 10. **Consciousness appears here as the recursive form of the process:** the history bearing boundary becomes available within its own activity through recognition. At that level, the same boundary can be described outwardly as organized selection and inwardly as experience.
 
@@ -1996,10 +1997,10 @@ Consciousness is this recursively self legible form of living continuity. The gr
 ### Terms to know
 
 - **Ostiary.** A doorkeeper. Here, the general model of the boundary recognition process.
-- **Recognition.** The active evaluation of arrivals according to the continuity a system maintains. Recognition begins here in a minimal sense: state dependent discrimination. The same arrival can produce a different result because it meets a different carried history.
+- **Recognition.** The active evaluation of arrivals according to the continuity a system maintains. Minimal recognition is history dependent discrimination: the same arrival can produce a different result because it meets a different carried history. Conscious recognition is the recursively available form of that process when the recognized relation becomes available within the ongoing activity that carries and uses it.
 - **Meaning.** The participation of an arrival within an organized continuity.
 - **Compression of recognition.** Smaller and smaller cues evoking larger and larger organized structures as continuity accumulates.
-- **Coherence threshold.** The point at which incorporation becomes organizationally consequential beyond its local point of origin.
+- **Organizational propagation threshold.** The point at which incorporation becomes consequential beyond its local point of origin and begins reshaping the wider continuity.
 - **Self legibility.** Recognition becoming available to further recognition, so that continuity is present within its own activity.
 
 ### What it explains
@@ -2198,7 +2199,7 @@ Next: [Consequential History and the Conditions of Persistence](https://ahq25.su
 
 ---
 
-The Shape of Persistence describes a single structural principle that links matter, time, experience, and meaning. A system persists when its internal restoration outruns environmental disturbance. When the coherence ratio R = λ_self / λ_env reaches the system specific threshold R★, the system begins to carry its own structure forward, its carried organization becomes a local causal context for its future, and an interior form of time arises.
+The Shape of Persistence describes a single structural principle that links matter, time, experience, and meaning. A system persists when its internal restoration outruns environmental disturbance. When the coherence ratio R = λ_self / λ_env reaches the system specific threshold R★, the organization already being carried forward becomes stable enough to function as a local causal context for its future, and an interior form of time arises.
 
 ### Why persistence gains an inside
 
@@ -2208,7 +2209,7 @@ What single principle carries a system from simple persistence to an interior th
 
 1. **Persistence is restoration outrunning disturbance.** A system persists when its internal restoration outruns environmental disturbance.
 2. **The relation has a threshold.** The relation appears as a coherence ratio, R = λ_self / λ_env, with a system specific threshold R★.
-3. **At the threshold, interiority arises.** When R reaches or exceeds R★, the system begins to carry its own structure forward. Its carried organization becomes a local causal context for its future, and interiority arises.
+3. **At the threshold, interiority arises.** When R reaches or exceeds R★, the organization already being carried forward becomes stable enough to function as a local causal context for its future, and interiority arises.
 4. **The progression unfolds in distinct stages,** from matching to consciousness.
 5. **The same coherence principle can be described physically and experientially.** Matter expresses stable pattern. Time expresses organized persistence. Incoming gradients meet a history bearing interior at an active boundary. When that boundary is recursively available within the activity it organizes, its outward description is dynamical and its inward description is experiential. Valence tracks changes in coherence within the interior, and meaning arises when arriving patterns enter and reshape an organized continuity.
 6. **Recognition of order appears from within.** Quantum geometry, the period lattice, and AHQ together illustrate how local rules under constraint generate global order and how recognition of that order appears from within.
@@ -2491,7 +2492,7 @@ The Combinatorial Repertoire of Consciousness lists five separately measurable c
 - **K**, reentry of the large scale state into local dynamics;
 - **G**, integration across multiple processes.
 
-**Awareness is the lived availability of consequential history when temporally distributed relations become jointly organized within a present that remains active in shaping its own continuation.**
+**Awareness is the lived availability of consequential history when temporally distributed relations become jointly organized within an active present and that present remains causally involved in producing its successor.**
 
 In other words, a present becomes lived when what the system has carried from many different times is available together now, and this present is still helping determine what the next present will be.
 
@@ -2537,7 +2538,7 @@ Experience is the active boundary itself as carried history becomes presently av
 
 #### The click, measured
 
-[Aleph Harmonic Qualia: The Dynamical Click of Coherence](https://philarchive.org/rec/PORAHQ-8) defines AHQ as a dynamical event: “the felt click of insight or recognition is the phenomenal form of a rapid transition from distributed relational activity to a reusable collective state.” The paper names four measurable parts of that transition.
+[Aleph Harmonic Qualia: The Dynamical Click of Coherence](https://philarchive.org/rec/PORAHQ-8) defines AHQ as a dynamical event: “the felt click of insight or recognition is the phenomenal form of a rapid transition from distributed relational activity to a reusable collective state.” The paper names four transition criteria for that crossing.
 
 **1. Effective dimensionality drops.** Brain activity across many cells can be described as a point moving through a space with one direction per recorded cell. The participation ratio, D_PR, counts how many directions the activity actually uses. It is computed from how much the activity varies along each direction:
 
@@ -2620,8 +2621,8 @@ Each paper contributes something specific.
 - Exaptation as a General Principle shows that systems build structure before they can use it, and that later reuse of that structure produces the appearance of foresight in evolution, perception, and thought.
 - [The Collapse of Separation and the Structure of Insight](https://philarchive.org/rec/PORTCO-18) identifies the organizational transition that produces insight: a maintained separation dissolves and continuity already present becomes available.
 - [Aleph Harmonic Qualia: Cue, Queue, and the Emergence of Legible Coherence](https://philarchive.org/rec/PORAHQ-7) describes understanding as the incorporation of coherence into continuity.
-- [Aleph Harmonic Qualia: The Dynamical Click of Coherence](https://philarchive.org/rec/PORAHQ-8) defines the click as one event with four jointly measured changes and two measures of its history, and states the link to experience as a trial by trial test.
-- Consciousness as Access to Consequential History identifies consciousness with access to consequential history, distinguishes consequential history from accessible consequential history, and describes how access varies in extent, depth, organization, and utilization through internal continuity and observation.
+- [Aleph Harmonic Qualia: The Dynamical Click of Coherence](https://philarchive.org/rec/PORAHQ-8) defines the click as one event with four jointly measured transition criteria and separate measures of its history, and states the link to experience as a trial by trial test.
+- Consciousness as Access to Consequential History identifies consciousness with recursive availability of consequential history within the ongoing history bearing process, distinguishes carried history from recursively available history, and describes how access varies in extent, depth, organization, and utilization through internal continuity and observation.
 - [New Bodies, Old Capacities](https://philarchive.org/rec/PORNBO-2) gives an experimental design that varies a cell group’s prehistory and its body configuration as separate factors.
 - [The Flowering Boundary](https://philarchive.org/rec/PORTFB) treats the flowering transition itself as a measurable object with duration, spatial extent, recovery behavior, and history dependence, and predicts that growth records the transition’s duration in the plant’s anatomy.
 - [The Period Lattice](https://philarchive.org/rec/PORTPL-2) gives an exact count of the arrangements a composition level description leaves open and a precise criterion for when a coarse description still predicts what comes next.
@@ -2896,7 +2897,7 @@ A strong test follows the same order each time.
 
 This order gives the ratio a prospective meaning. The measurement comes first and the predicted organizational transition follows.
 
-The framework therefore has a single causal arc. Persistence begins with restoration relative to disruption. Consequential history is the organization carried forward by persistence. R★ marks the point at which that carried history becomes a local causal interior. Ostiary gating makes inherited organization part of the rule through which new events are received. Recognition occurs when present structure aligns with carried history. Repeated recognition can deepen into patrons, stable symbolic attractors that organize future meaning. Temporal concentration gathers histories from different depths into one active present. Causal reentry lets that present participate in producing its successor. Recursive availability makes the history bearing process conscious. THIR names the stabilized interface through which present structure and carried history align. AHQ is the experienced threshold crossing through which that distributed relation becomes a coherent, reusable whole. Active inheritance then carries the new whole into what comes next.
+The framework therefore has a single causal arc. Persistence begins with restoration relative to disruption. Consequential history is the organization carried forward by persistence. R★ marks the point at which that carried history becomes a local causal interior. Ostiary gating makes inherited organization part of the rule through which new events are received. Recognition occurs when present structure aligns with carried history. Repeated recognition can deepen into patrons, stable symbolic attractors that organize future meaning. Temporal concentration gathers histories from different depths into one active present. Causal reentry lets that present participate in producing its successor. Recursive availability makes the history bearing process conscious. Within particular recognition events, THIR can mark the stabilized interface through which present structure and carried history align. AHQ is the experienced threshold crossing through which distributed relations become a coherent, reusable whole. Active inheritance then carries the new whole into what comes next.
 
 Care belongs at the base of the same arc. A system persists through relations that support continuation. Preserving those supporting relations extends self maintenance through the boundary. Care is the organized preservation of what preserves continuity. Selfhood develops within that already history bearing organization.
 
@@ -3213,7 +3214,7 @@ Patrons are therefore the long lived landmarks through which meaning repeatedly 
 
 Recognition is an event between what arrives and the organization already present to receive it. THIR, Threshold Harmonic Interface Resonance, names the stabilized interface that forms when these two sides enter sufficiently coherent alignment.
 
-THIR belongs between recognition and AHQ in the larger architecture.
+THIR names a local relational event that can occur within the larger architecture when present structure and carried history stabilize into one coherent interface.
 
 Its role is specific. Recognition establishes compatibility between arrival and carried history. THIR is the stabilized relational organization produced by their reciprocal constraint. AHQ is the experienced crossing through which that organization becomes jointly available and reusable.
 
@@ -3287,7 +3288,7 @@ THIR is the stabilized interface.
 
 AHQ is the experienced threshold crossing through which the distributed relation becomes a coherent, reusable whole.
 
-The distinction gives the transition a clean order:
+When THIR is present, the local transition has a clean order:
 
 arrival → recognition → interface stabilization → threshold crossing → incorporation
 

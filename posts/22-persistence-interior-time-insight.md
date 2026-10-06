@@ -182,7 +182,7 @@ The Combinatorial Repertoire of Consciousness lists five separately measurable c
 - **K**, reentry of the large scale state into local dynamics;
 - **G**, integration across multiple processes.
 
-**Awareness is the lived availability of consequential history when temporally distributed relations become jointly organized within a present that remains active in shaping its own continuation.**
+**Awareness is the lived availability of consequential history when temporally distributed relations become jointly organized within an active present and that present remains causally involved in producing its successor.**
 
 In other words, a present becomes lived when what the system has carried from many different times is available together now, and this present is still helping determine what the next present will be.
 
@@ -228,7 +228,7 @@ Experience is the active boundary itself as carried history becomes presently av
 
 #### The click, measured
 
-[Aleph Harmonic Qualia: The Dynamical Click of Coherence](https://philarchive.org/rec/PORAHQ-8) defines AHQ as a dynamical event: “the felt click of insight or recognition is the phenomenal form of a rapid transition from distributed relational activity to a reusable collective state.” The paper names four measurable parts of that transition.
+[Aleph Harmonic Qualia: The Dynamical Click of Coherence](https://philarchive.org/rec/PORAHQ-8) defines AHQ as a dynamical event: “the felt click of insight or recognition is the phenomenal form of a rapid transition from distributed relational activity to a reusable collective state.” The paper names four transition criteria for that crossing.
 
 **1. Effective dimensionality drops.** Brain activity across many cells can be described as a point moving through a space with one direction per recorded cell. The participation ratio, D_PR, counts how many directions the activity actually uses. It is computed from how much the activity varies along each direction:
 
@@ -311,8 +311,8 @@ Each paper contributes something specific.
 - Exaptation as a General Principle shows that systems build structure before they can use it, and that later reuse of that structure produces the appearance of foresight in evolution, perception, and thought.
 - [The Collapse of Separation and the Structure of Insight](https://philarchive.org/rec/PORTCO-18) identifies the organizational transition that produces insight: a maintained separation dissolves and continuity already present becomes available.
 - [Aleph Harmonic Qualia: Cue, Queue, and the Emergence of Legible Coherence](https://philarchive.org/rec/PORAHQ-7) describes understanding as the incorporation of coherence into continuity.
-- [Aleph Harmonic Qualia: The Dynamical Click of Coherence](https://philarchive.org/rec/PORAHQ-8) defines the click as one event with four jointly measured changes and two measures of its history, and states the link to experience as a trial by trial test.
-- Consciousness as Access to Consequential History identifies consciousness with access to consequential history, distinguishes consequential history from accessible consequential history, and describes how access varies in extent, depth, organization, and utilization through internal continuity and observation.
+- [Aleph Harmonic Qualia: The Dynamical Click of Coherence](https://philarchive.org/rec/PORAHQ-8) defines the click as one event with four jointly measured transition criteria and separate measures of its history, and states the link to experience as a trial by trial test.
+- Consciousness as Access to Consequential History identifies consciousness with recursive availability of consequential history within the ongoing history bearing process, distinguishes carried history from recursively available history, and describes how access varies in extent, depth, organization, and utilization through internal continuity and observation.
 - [New Bodies, Old Capacities](https://philarchive.org/rec/PORNBO-2) gives an experimental design that varies a cell group’s prehistory and its body configuration as separate factors.
 - [The Flowering Boundary](https://philarchive.org/rec/PORTFB) treats the flowering transition itself as a measurable object with duration, spatial extent, recovery behavior, and history dependence, and predicts that growth records the transition’s duration in the plant’s anatomy.
 - [The Period Lattice](https://philarchive.org/rec/PORTPL-2) gives an exact count of the arrangements a composition level description leaves open and a precise criterion for when a coarse description still predicts what comes next.

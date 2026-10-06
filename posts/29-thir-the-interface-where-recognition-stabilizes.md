@@ -2,7 +2,7 @@
 
 Recognition is an event between what arrives and the organization already present to receive it. THIR, Threshold Harmonic Interface Resonance, names the stabilized interface that forms when these two sides enter sufficiently coherent alignment.
 
-THIR belongs between recognition and AHQ in the larger architecture.
+THIR names a local relational event that can occur within the larger architecture when present structure and carried history stabilize into one coherent interface.
 
 Its role is specific. Recognition establishes compatibility between arrival and carried history. THIR is the stabilized relational organization produced by their reciprocal constraint. AHQ is the experienced crossing through which that organization becomes jointly available and reusable.
 
@@ -76,7 +76,7 @@ THIR is the stabilized interface.
 
 AHQ is the experienced threshold crossing through which the distributed relation becomes a coherent, reusable whole.
 
-The distinction gives the transition a clean order:
+When THIR is present, the local transition has a clean order:
 
 arrival → recognition → interface stabilization → threshold crossing → incorporation
 

@@ -22,7 +22,7 @@ What is the relation between a living boundary that keeps a system intact and an
 5. **Recognition compresses as continuity accumulates.** Increasingly small cues come to evoke increasingly large organized structures.
 6. **Recognizers are nested.** Biological and cognitive organization are nested layers of boundary recognition systems. Each level functions simultaneously as a recognizer and as an object of recognition for higher levels.
 7. **AHQ marks consequential incorporation.** Aleph Harmonic Qualia (AHQ) identifies the transition at which an arrival becomes consequential for future recognition through incorporation into continuity.
-8. **The coherence threshold marks wider reach.** The coherence threshold marks the point at which incorporation becomes organizationally consequential beyond its local point of origin.
+8. **The organizational propagation threshold marks wider reach.** The organizational propagation threshold marks the point at which incorporation becomes consequential beyond its local point of origin and begins reshaping organization across the wider continuity.
 9. **Self legibility.** Self legibility emerges when recognition becomes available to further recognition and continuity becomes present within its own activity.
 10. **Consciousness appears here as the recursive form of the process:** the history bearing boundary becomes available within its own activity through recognition. At that level, the same boundary can be described outwardly as organized selection and inwardly as experience.
 
@@ -59,10 +59,10 @@ Consciousness is this recursively self legible form of living continuity. The gr
 ### Terms to know
 
 - **Ostiary.** A doorkeeper. Here, the general model of the boundary recognition process.
-- **Recognition.** The active evaluation of arrivals according to the continuity a system maintains. Recognition begins here in a minimal sense: state dependent discrimination. The same arrival can produce a different result because it meets a different carried history.
+- **Recognition.** The active evaluation of arrivals according to the continuity a system maintains. Minimal recognition is history dependent discrimination: the same arrival can produce a different result because it meets a different carried history. Conscious recognition is the recursively available form of that process when the recognized relation becomes available within the ongoing activity that carries and uses it.
 - **Meaning.** The participation of an arrival within an organized continuity.
 - **Compression of recognition.** Smaller and smaller cues evoking larger and larger organized structures as continuity accumulates.
-- **Coherence threshold.** The point at which incorporation becomes organizationally consequential beyond its local point of origin.
+- **Organizational propagation threshold.** The point at which incorporation becomes consequential beyond its local point of origin and begins reshaping the wider continuity.
 - **Self legibility.** Recognition becoming available to further recognition, so that continuity is present within its own activity.
 
 ### What it explains

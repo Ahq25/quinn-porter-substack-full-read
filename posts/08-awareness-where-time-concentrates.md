@@ -24,7 +24,7 @@ How can a present belong to a system whose material keeps changing?
 5. **Gating compresses histories.** Repeated history dependent gating can compress temporally dispersed trajectories into increasingly organized present states.
 6. **The deep present.** The result is a current organization in which recent activity, retained states, learned organization, developmental history, and older biological structure can remain consequential together.
 7. **Causal reentry closes the loop.** Causal reentry occurs when this larger present alters the local conditions through which its successor is produced. This generates recursive continuity: history produces the present, and the present participates in selecting which history continues.
-8. **Awareness.** Awareness is the lived availability of consequential history when temporally distributed relations become jointly organized within a present that remains active in shaping its own continuation.
+8. **Awareness.** Awareness is the lived availability of consequential history when temporally distributed relations become jointly organized within an active present and that present remains causally involved in producing its successor.
 
 ### Terms to know
 
@@ -40,7 +40,7 @@ How can a present belong to a system whose material keeps changing?
 
 ### Awareness, defined
 
-**Awareness is the lived availability of consequential history when temporally distributed relations become jointly organized within a present that remains active in shaping its own continuation.** Awareness combines access to consequential history, temporal concentration, and causal reentry.
+**Awareness is the lived availability of consequential history when temporally distributed relations become jointly organized within an active present and that present remains causally involved in producing its successor.** Awareness combines access to consequential history, temporal concentration, and causal reentry.
 
 In other words, a present becomes lived when what the system has carried from many different times is available together now, and this present is still helping determine what the next present will be.
 
