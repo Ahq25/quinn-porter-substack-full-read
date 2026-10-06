@@ -118,7 +118,7 @@ The Porter Ratio gives the same test a dynamical form. λ_self measures reactiva
 
 ## The whole sequence
 
-Patrons complete a missing layer between recognition and insight.
+Patrons develop the symbolic layer between recognition and insight.
 
 Consequential history carries the past forward.
 
