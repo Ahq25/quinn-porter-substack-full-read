@@ -49,6 +49,10 @@ Phenomenal experience is the intrinsic character of occupying this recursive int
 
 This identity claim gives experience a specific place in the causal sequence. Persistence supplies continuity. Interiority supplies a local causal inside. Recursive availability makes that inside available within its own continuation. Experience is the internally available form of that recursively organized boundary process.
 
+## A stable history bearing system and the conscious regime
+
+Strong persistence can support history dependent control at R above its local threshold while recursive availability remains at an earlier organizational depth. Such a system can use retained history to regulate local transitions and remain below the conscious regime defined here. Conscious organization begins when the history bearing state itself becomes available within the coordinating activity that uses it across the present. This separation assigns high R, gating, recurrence, and local integration to measurable precursor layers. Recursive availability supplies the further criterion for the conscious regime.
+
 ## Access has dimensions
 
 Access varies in extent, depth, organization, and use.
