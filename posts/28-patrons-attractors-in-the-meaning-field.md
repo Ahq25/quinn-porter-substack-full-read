@@ -106,6 +106,16 @@ AHQ is the experienced threshold crossing through which the distributed relation
 
 The newly coherent whole then enters consequential history and can itself become part of a future patron.
 
+## Testing patrons
+
+A patron can be operationalized prospectively as a recurrent symbolic pattern with a documented history of return across separated contexts.
+
+A test can identify recurrent patterns from an earlier observation period and then measure later encounters. The central predictions are faster recognition, broader recruitment of associated memory, greater stability of interpretation across repeated encounters, and increased probability of future return to the same symbolic organization.
+
+History can then be manipulated directly. Repeated exposure, emotional salience, contextual association, and retrieval practice can be varied independently. The strength of the resulting attractor is measured through recognition latency, associative breadth, return probability, and persistence across time.
+
+The Porter Ratio gives the same test a dynamical form. λ_self measures reactivation and restoration of the patron organization. λ_env measures contextual revision and competing activity. The measured ratio predicts how strongly the symbolic attractor persists and how readily a later cue reactivates the larger organized history.
+
 ## The whole sequence
 
 Patrons complete a missing layer between recognition and insight.

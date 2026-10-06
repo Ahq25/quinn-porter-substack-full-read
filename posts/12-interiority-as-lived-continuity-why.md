@@ -13,6 +13,16 @@ Interiority begins when retained organization becomes a local causal context thr
 
 A system can carry its own history forward in a form that shapes what happens next. That is interiority. The carried history forms part of the local causal context through which new events are received and incorporated.
 
+## The interior boundary becoming available to itself
+
+A self maintaining system persists by actively preserving an organized distinction through time. The interior is the domain in which that maintained history participates in the system's own continuation. As memory, anticipation, regulation, and recognition deepen, information about the system's own current condition can enter that same continuing organization.
+
+Self perception begins when the condition of the history bearing interior becomes part of the activity through which the system regulates and continues itself. Earlier self related states contribute to later self related states, producing a temporally extended lineage in which successive states are inherited as belonging to one continuing system.
+
+Phenomenal experience is the intrinsic character of this position. The history bearing boundary is available within the process that constitutes the boundary and carries it forward. The system therefore occupies its own present as an internally available organization. The phenomenal present is the interior boundary as recursively available within its own ongoing activity.
+
+This gives the identity claim a precise location. Experience belongs to the transition from a history bearing interior to a history bearing interior whose own condition participates within the activity of recognition, regulation, and continuation. Recursive availability names that transition in causal terms. Lived continuity names the same organization as present within itself.
+
 Consciousness names the same history bearing process as that consequential history becomes recursively available within its own ongoing organization. Experience is the internally available form of that process. The phenomenal present is therefore the lived availability of a continuity already carrying its own history forward.
 
 ## How it works

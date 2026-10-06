@@ -15,6 +15,16 @@ Aleph Harmonic Qualia: The Dynamical Click of Coherence defines AHQ as a dynamic
 
 What happens, in measurable dynamical terms, at the moment of the felt click?
 
+The AHQ identity hypothesis identifies the felt click with one dynamical transition in a history bearing system. Five measurable features belong to that event.
+
+1. **Effective dimensionality contracts.** Distributed activity gathers into fewer coordinated directions.
+2. **Harmonic coordination rises.** Relations across participating rhythms become more strongly organized.
+3. **Self maintenance crosses the relevant threshold.** The forming whole reaches sufficient stability for continued causal participation.
+4. **Consequential history contributes to the transition.** Earlier relations remain active in the organization of the new state.
+5. **The resulting state participates later.** The new whole becomes available to memory, prediction, action, recognition, or later state selection.
+
+The phenomenal event and the dynamical event therefore have one trial level signature. The click identifies the crossing as lived within the history bearing process, and the measurements identify the same crossing through observable organization.
+
 ### The definition
 
 In the paper’s words, AHQ is defined as a dynamical event: “the felt click of insight or recognition is the phenomenal form of a rapid transition from distributed relational activity to a reusable collective state.”

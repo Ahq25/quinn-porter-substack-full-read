@@ -25,6 +25,30 @@ This definition joins persistence, interiority, access, and experience as stages
 8. **Awareness gathers the accessible history into an active present.** Temporal concentration and causal reentry give that present depth and participation in its own continuation.
 9. **Insight reorganizes accessible history.** Distributed relations become jointly available as a coherent, reusable whole.
 
+## The measurable route to recursive availability
+
+The transition into conscious organization can be separated into five observable conditions.
+
+**Temporal stabilization** asks whether distributed activity settles into a persistent higher order state.
+
+**Consequential history** asks whether earlier organization remains physically instantiated and changes later transition structure.
+
+**Internal accessibility** asks whether that retained organization has causal or predictive influence on report, attention, memory guided action, choice, or later state selection.
+
+**Cross system integration** asks whether the resulting organization coordinates several participating processes within one active present.
+
+**Causal reentry** asks whether the higher order state changes the local conditions through which its successor is produced.
+
+Conscious organization occupies the conjunction of these conditions. Their separation matters because each transition can be measured independently and each link can be manipulated directly. A retained history can be measured before accessibility. Accessibility can be measured before recursive reentry. Reentry can then be tested by perturbing the larger state and measuring its effect on later local transitions.
+
+## Why this organization is phenomenal
+
+The history bearing boundary is constituted by activity that preserves, receives, recognizes, and revises its own continuity. Recursive availability makes the current condition of that boundary present within the same organization that constitutes it.
+
+Phenomenal experience is the intrinsic character of occupying this recursive interior position. The measurable organization and the lived present are one event available from different descriptive positions. The external description follows stabilization, history, access, integration, and reentry. The internal description is the same history bearing continuity present within its own activity.
+
+This identity claim gives experience a specific place in the causal sequence. Persistence supplies continuity. Interiority supplies a local causal inside. Recursive availability makes that inside available within its own continuation. Experience is the internally available form of that recursively organized boundary process.
+
 ## Access has dimensions
 
 Access varies in extent, depth, organization, and use.

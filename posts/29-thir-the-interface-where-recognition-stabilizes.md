@@ -102,6 +102,14 @@ The interface gains stability through successful mutual constraint.
 
 A strong THIR event should therefore correspond to increasing relational fit, increasing stability of the recognized configuration, and increasing reuse of the resulting organization.
 
+## Testing THIR
+
+THIR can be tested by holding present input closely matched while changing the history carried by the receiving system.
+
+Familiarity, prior learning, rhythmic expectation, contextual priming, and patron strength can each alter the receiving organization before the same structured input arrives. The interface is measured as it stabilizes through recognition latency, confidence growth, state space convergence, reduction in interpretive uncertainty, cross process coordination, and persistence of the recognized configuration.
+
+The central prediction is that stronger alignment between present structure and carried history produces faster and more stable interface formation. Later reuse measures whether the stabilized relation entered consequential history. Trial level comparison with AHQ timing then tests whether the experienced crossing occurs as the stabilized interface becomes jointly available as one reusable whole.
+
 ## THIR across domains
 
 The same form appears wherever a history bearing system meets structured input.

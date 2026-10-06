@@ -120,6 +120,18 @@ It shapes which relations will continue into the future.
 
 Care therefore joins consequential history, temporal concentration, and causal reentry in one directed organization.
 
+## Testing care as an organizational relation
+
+Care can be operationalized as active maintenance of a relation that contributes to the system's own continuation.
+
+The first measurement identifies a supporting relation and quantifies its contribution to λ_self. The second measurement tracks whether the system acts to preserve, restore, approach, or reestablish that relation across perturbation. The third measurement tests whether accumulated history increases the probability and precision of that maintenance.
+
+This yields a direct causal sequence:
+
+supporting relation → contribution to restoration → history dependent preservation of the relation → improved continuity
+
+Across biological and behavioral systems, the specific mechanism changes with scale. The organizational criterion stays the same: preservation extends toward a relation because that relation participates in maintaining the system's own continuing organization.
+
 ## The whole sequence
 
 Persistence establishes the need for continued organization.

@@ -34,6 +34,28 @@ What is the relation between a living boundary that keeps a system intact and an
 - **incorporation**, making it part of the continuing organization;
 - **revision**, the change to the codebook that results.
 
+### The living codebook
+
+The codebook is active consequential history. Every incorporation changes the organization through which later arrivals are interpreted. Cellular memory can be carried in epigenetic state, protein configuration, metabolic state, or regulatory organization. Neural memory can be carried in synaptic and population dynamics. Cognitive memory can be carried in concepts, schemas, expectations, and learned relations.
+
+The system therefore receives each arrival through history already present in its organization. Each recognition event uses that history and can revise it. Boundary maintenance, recognition, incorporation, and active inheritance form one recursive process.
+
+### Compression of recognition
+
+Accumulated continuity lets small cues mobilize large organized histories. A few notes can activate a whole melody. A familiar expression can activate a large conceptual structure. A face can be recognized from a small set of relations.
+
+Recognition becomes increasingly compressed as prior incorporation builds reusable organization. A local cue gains access to a larger history because the system already carries the relations needed to complete the pattern.
+
+This compression connects directly to patrons and AHQ. Patrons are stable attractor regions built by repeated recognition. AHQ is the experienced crossing through which distributed relations become one reusable whole. Both depend on a history bearing codebook that allows a present cue to mobilize structure accumulated across time.
+
+### Nested ostiaries and self legibility
+
+Boundary recognition occurs at nested scales. Cellular gates participate in tissue regulation. Tissue states participate in organism level regulation. Neural populations participate in larger attentional and cognitive organization. Each level receives activity through its own carried history and contributes an organized result to larger scales.
+
+Recursive self legibility begins when recognition itself becomes available to further recognition. Memory becomes available within memory guided activity. Attention becomes available within attention. Meaning becomes available within meaning making activity. The history bearing boundary becomes available within the very recognition process through which it encounters the world.
+
+Consciousness is this recursively self legible form of living continuity. The greatest available portion of carried history becomes present within the active boundary through which the system encounters both its surroundings and its own ongoing organization.
+
 ### Terms to know
 
 - **Ostiary.** A doorkeeper. Here, the general model of the boundary recognition process.

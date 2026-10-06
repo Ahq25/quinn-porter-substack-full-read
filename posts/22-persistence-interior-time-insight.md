@@ -320,6 +320,20 @@ Each paper contributes something specific.
 - THIR identifies the stabilized interface formed when present structure and carried history enter coherent reciprocal constraint.
 - Care Before the Self places care at the relational root of self maintenance: preserving the conditions that preserve continuity.
 
+### Why the sequence reaches experience
+
+The sequence reaches experience through the organization of the interior boundary itself.
+
+A persistent system carries history.
+
+An interior system receives the present through that history.
+
+A recursively organized interior makes its own current condition available within the activity that continues it.
+
+That recursive position is the point at which the system's present is available from within its own history bearing organization. Phenomenal experience is the intrinsic character of occupying that position. The same event can therefore be specified through measurable causal relations and lived as an internally available present.
+
+This claim becomes empirically structured because the route is decomposed into temporal stabilization, consequential history, accessibility, integration, and causal reentry. Each transition has its own measurement. Conscious organization is the conjunction of those conditions. The phenomenal identity claim concerns what that conjunction is when instantiated by a self maintaining history bearing interior.
+
 ### What the papers measure
 
 Each step comes with a test.

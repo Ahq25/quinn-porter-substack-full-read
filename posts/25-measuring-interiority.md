@@ -16,6 +16,20 @@ R★ marks the empirical coherence threshold at which retained organization beco
 
 The value of R★ belongs to the declared system and scale. Measurement gives the threshold its value.
 
+## An independently specified transition
+
+R★ is estimated against a transition phenotype defined before the ratio is fitted.
+
+For interiority, the transition phenotype has three causal criteria.
+
+1. **Historical contribution.** Retained history improves prediction of the next state beyond the present snapshot and incoming conditions.
+2. **Identifiable carrier.** A measurable state carries that history into the present, and manipulating the carrier changes the later effect in the predicted direction.
+3. **Local causal conditioning.** The carried organization changes how matched incoming events are admitted, transformed, routed, or incorporated.
+
+These criteria define the organizational transition independently of the numerical value of R★. The measured R values are then used to estimate where that independently specified transition occurs. A threshold estimated in one dataset is carried unchanged into held out cases.
+
+This gives R★ a direct empirical role. The transition is declared through causal behavior, the ratio is measured independently, and R★ is the value at which the declared behavior becomes reliably present.
+
 ## A prospective protocol
 
 A strong test follows the same order each time.
