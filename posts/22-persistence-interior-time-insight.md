@@ -17,10 +17,10 @@ One causal continuity develops through increasingly organized forms. Each stage 
 4. **Recognition and meaning.** Ostiary gating lets inherited organization shape admission and interpretation. Repeated recognition can deepen into patrons, stable symbolic attractors that guide future meaning.
 5. **Awareness and time.** Consequences from many temporal depths become jointly available in a present that participates in producing its successor.
 6. **Consciousness.** Consequential history becomes recursively available within the same ongoing activity that carries and uses it.
-7. **THIR and insight.** Present structure and carried history stabilize into a coherent interface. AHQ is the experienced threshold crossing through which the distributed relation becomes a reusable whole.
+7. **THIR and insight.** Within particular recognition events, present structure and carried history can stabilize into the coherent interface called THIR. AHQ is the experienced threshold crossing through which the distributed relation becomes a reusable whole.
 8. **Active inheritance.** The new whole enters consequential history and changes the organization of what can happen next.
 
-Care enters at the base of this continuity as preservation of the relations that preserve the system. Selfhood develops within an organization already maintaining the conditions of its own continuation.
+Care develops from the base of this continuity as preservation of the relations that preserve the system. Selfhood develops within an organization already maintaining the conditions of its own continuation.
 
 ### Step 1: Persistence
 
@@ -70,7 +70,7 @@ Repeated continuation above R = 1 allows earlier organization to remain causally
 
 Above R = 1, inherited organization gains causal continuity and accumulated influence: it is rebuilt faster than it is erased, so earlier states keep constraining later ones. The Law of Self Maintained Invariance describes the result: persistence becomes increasingly determined by accumulated internal history and less by immediate environmental influence.
 
-Each real system also has a threshold, written **R★** (said “R star”). [The Shape of Persistence](https://philarchive.org/rec/PORTSO-18) identifies geometry as one contributor to the value of R★ within a declared system and scale. R★ is found by measurement, one system at a time. When R reaches or exceeds R★, the system carries its own structure forward, and its maintained organization becomes stable enough to take part coherently in its future. This is called crossing the **coherence threshold**, and [The Porter Ratio](https://philarchive.org/rec/PORTPR-5) treats R ≥ R★ as the minimum condition for interiority. [Awareness Where Time Concentrates](https://philarchive.org/rec/PORAWT) calls this persistence condition the **Porter balance**.
+Each real system also has a threshold, written **R★** (said “R star”). [The Shape of Persistence](https://philarchive.org/rec/PORTSO-18) identifies geometry as one contributor to the value of R★ within a declared system and scale. R★ is found by measurement, one system at a time. When R reaches or exceeds R★, organization already being carried forward becomes stable enough to function as a local causal context and to take part coherently in its future. This is called crossing the **coherence threshold**, and [The Porter Ratio](https://philarchive.org/rec/PORTPR-5) treats R ≥ R★ as the minimum condition for interiority. [Awareness Where Time Concentrates](https://philarchive.org/rec/PORAWT) calls this persistence condition the **Porter balance**.
 
 R = 1 separates revision dominance from maintenance dominance, and R★ marks the transition into causal interiority. R★ belongs to a declared system, scale, and interval, so a forming idea, a population of neurons, and a whole organism each cross a threshold of the same form with their own value.
 
@@ -184,11 +184,11 @@ The Combinatorial Repertoire of Consciousness lists five separately measurable c
 
 **Awareness is the lived availability of consequential history when temporally distributed relations become jointly organized within an active present and that present remains causally involved in producing its successor.**
 
-In other words, a present becomes lived when what the system has carried from many different times is available together now, and this present is still helping determine what the next present will be.
+A present becomes lived when what the system has carried from many different times is available together now, and this present is still helping determine what the next present will be.
 
 Awareness Where Time Concentrates puts it in one line: “experience is the present tense of a working history.” Awareness therefore combines access to consequential history, temporal concentration, and causal reentry.
 
-#### Consciousness as access
+#### Consciousness as recursive availability
 
 Consciousness is consequential history as it becomes recursively available within the ongoing activity that carries it forward. Consequential history continues participating in the organization of a system, and accessibility determines how much of it becomes available within present activity. Access varies in extent, depth, organization, and utilization. Focused attention widens it, and observation extends it to histories carried by other systems and by the wider environment, as when a fossil carries geological history into the present. [Consciousness as Access to Consequential History](https://philarchive.org/rec/PORCAA-8) puts it this way: “Consciousness is the structured availability of consequential history through both internal continuity and observation.”
 
