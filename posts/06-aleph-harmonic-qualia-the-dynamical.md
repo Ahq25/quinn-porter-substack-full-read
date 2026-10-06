@@ -32,7 +32,7 @@ The click has a build up and an endpoint. The developing pre transition organiza
 5. **The ostiary condition.** Crossing the coherence threshold, R(t) ≥ R★, defines the ostiary condition under which the emerging organization enters a self maintaining regime capable of continued causal participation.
 6. **The AHQ event is a joint signature** of four criteria, each fixed in advance.
 7. **Consequential history supplies the temporal content.** Earlier relations remain causally active through the present organization they helped produce.
-8. **One event, two sides.** The felt click and the measured event are the same event, described from two sides, and a proposed trial by trial test would check this.
+8. **One event, two sides.** The felt click and the measured event are the same event, described from two sides, and a trial by trial test checks this correspondence.
 
 ### Three things to measure
 
@@ -78,7 +78,7 @@ Here p_j is the normalized causal contribution of historical source j and τ_j i
 
 Q(t∗) = 1 ⟺ E_AHQ(t∗) = 1
 
-Q marks the reported click. E_AHQ marks the measured dynamical event, the satisfaction of the preregistered AHQ event criteria. The lived click and the measured transition are the same event described from two sides. A proposed trial by trial test would check that the two coincide.
+Q marks the reported click. E_AHQ marks the measured dynamical event, the satisfaction of the preregistered AHQ event criteria. The lived click and the measured transition are the same event described from two sides. A trial by trial test checks whether the two coincide.
 
 ### What experiments can check
 

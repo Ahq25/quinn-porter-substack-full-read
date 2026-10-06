@@ -6,6 +6,8 @@ An organized system continues through processes that maintain, restore, and rein
 
 Care begins at this level as preserving what preserves the system.
 
+The relation follows directly from self maintained invariance. Persistence requires organization preserving activity. When part of that activity preserves an external or relational condition that contributes to λ_self, preservation extends through the boundary to the source of continued stability. Care is the organized preservation of such supporting relations as they become consequential to continuation.
+
 ## Persistence before identity
 
 The Law of Self Maintained Invariance begins with persistence.

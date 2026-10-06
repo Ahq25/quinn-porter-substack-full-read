@@ -32,12 +32,12 @@ What role does continuity itself play, as an organizing variable, in persistence
 ### What experiments can check
 
 1. Continuity of retained propagation is predicted to correspond more strongly with organized interior behavior than complexity alone does.
-2. Systems approaching threshold conditions are expected to exhibit increasing instability before transitions in organization.
-3. Recognition events are expected to emerge from preceding stabilization processes.
+2. The framework predicts increasing instability as systems approach threshold transitions in organization.
+3. The framework predicts recognition events emerging from preceding stabilization processes.
 
 ### Five things to measure
 
-Candidate proxies across neural, biological, and artificial systems:
+Measurable proxies across neural, biological, and artificial systems:
 
 - **recurrence strength:** how strongly activity feeds back into itself;
 - **autocorrelation persistence:** how long a signal stays correlated with its own earlier values;

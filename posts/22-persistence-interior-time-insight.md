@@ -9,12 +9,18 @@
 
 ---
 
-One causal continuity appears at four increasingly organized levels. Each level grows from the conditions established by the one before it.
+One causal continuity develops through increasingly organized forms. Each stage carries forward the conditions established by the one before it.
 
-1. **Persistence.** Organization lasts when a system restores it faster than the environment wears it down.
-2. **Interior.** A lasting organization gains an inside when the history it carries decides how it receives new events.
-3. **Awareness and time.** Awareness arises when many layers of that history are active together in one present, and that present helps produce the next one. Consciousness is that carried history as it becomes recursively available within the ongoing activity that carries it forward.
-4. **Insight.** Insight occurs when separate pieces of carried history reorganize into one stable whole that the system keeps and reuses. That threshold crossing, felt from inside, is the click.
+1. **Persistence.** Organization continues when restoration carries it forward strongly enough relative to disruption.
+2. **Consequential history.** Earlier organization remains causally active in later states.
+3. **Interior.** At R★, carried history becomes a local causal context through which new events are received.
+4. **Recognition and meaning.** Ostiary gating lets inherited organization shape admission and interpretation. Repeated recognition can deepen into patrons, stable symbolic attractors that guide future meaning.
+5. **Awareness and time.** Consequences from many temporal depths become jointly available in a present that participates in producing its successor.
+6. **Consciousness.** Consequential history becomes recursively available within the same ongoing activity that carries and uses it.
+7. **THIR and insight.** Present structure and carried history stabilize into a coherent interface. AHQ is the experienced threshold crossing through which the distributed relation becomes a reusable whole.
+8. **Active inheritance.** The new whole enters consequential history and changes the organization of what can happen next.
+
+Care enters at the base of this continuity as preservation of the relations that preserve the system. Selfhood develops within an organization already maintaining the conditions of its own continuation.
 
 ### Step 1: Persistence
 
@@ -133,7 +139,7 @@ The Shape of Persistence lays out the same climb as a sequence of stages: matchi
 
 [Interiority as Lived Continuity](https://philarchive.org/rec/PORIAL) describes the climb from the side of lived experience. Memory, anticipation, skill, care, and recognition share one structure: what has been and what is becoming are both active in the present. Memory is inherited organization still available from earlier experience. Anticipation is inherited organization already directed toward what comes next. Continuity becomes experiential when it is coherent enough to sustain and organize its own activity through time, and the feeling of being a self arises within that process.
 
-[Continuity as an Organizing Variable](https://philarchive.org/rec/PORCAA-6) turns this into measurements. Its prediction is that continuity of retained propagation tracks organized interior behavior more closely than complexity alone. Candidate measures include recurrence strength, autocorrelation persistence (how long a signal stays correlated with its own earlier values), context retention, and responses to perturbation.
+[Continuity as an Organizing Variable](https://philarchive.org/rec/PORCAA-6) turns this into measurements. Its prediction is that continuity of retained propagation tracks organized interior behavior more closely than complexity alone. Measures include recurrence strength, autocorrelation persistence (how long a signal stays correlated with its own earlier values), context retention, and responses to perturbation.
 
 ### Step 3: Awareness and time
 
@@ -252,7 +258,7 @@ N_CI = exp(−Σ p_j ln p_j)
 
 Four sources contributing equally give N_CI = 4. One source doing nearly all the work gives N_CI close to 1. A click can therefore have a compact present state and a deep, many source history at the same time, which is temporal concentration in measurable form.
 
-The last piece is the link to experience. A proposed trial level test compares the reported click with the measured dynamical transition. The empirical claim gains support when the reported moment and the independently measured event align across trials using thresholds fixed in advance.
+The last piece is the link to experience. A trial level test compares the reported click with the measured dynamical transition. The empirical claim gains support when the reported moment and the independently measured event align across trials using thresholds fixed in advance.
 
 #### Insight becomes history
 
@@ -310,6 +316,9 @@ Each paper contributes something specific.
 - [New Bodies, Old Capacities](https://philarchive.org/rec/PORNBO-2) gives an experimental design that varies a cell group’s prehistory and its body configuration as separate factors.
 - [The Flowering Boundary](https://philarchive.org/rec/PORTFB) treats the flowering transition itself as a measurable object with duration, spatial extent, recovery behavior, and history dependence, and predicts that growth records the transition’s duration in the plant’s anatomy.
 - [The Period Lattice](https://philarchive.org/rec/PORTPL-2) gives an exact count of the arrangements a composition level description leaves open and a precise criterion for when a coarse description still predicts what comes next.
+- Patrons develops stable symbolic attractors as long lived regions of consequential history that organize recognition, memory, interpretation, creativity, and identity.
+- THIR identifies the stabilized interface formed when present structure and carried history enter coherent reciprocal constraint.
+- Care Before the Self places care at the relational root of self maintenance: preserving the conditions that preserve continuity.
 
 ### What the papers measure
 
@@ -320,6 +329,8 @@ Each step comes with a test.
 - **Awareness and time:** control a system’s prehistory, identify the physical carrier of retained history, and test whether the present state feeds back into the next one (Awareness Where Time Concentrates, [New Bodies, Old Capacities](https://philarchive.org/rec/PORNBO-2)).
 - **Structure and possibility:** count what each description of the Period Lattice keeps, and find the smallest description that still predicts the next change (The Period Lattice).
 - **Insight:** look for a time locked drop in effective dimensionality, a rise in harmonic coordination, a rise in R past R★, and later reuse of the new state, then compare each trial’s measurements with the person’s report of a click (Aleph Harmonic Qualia).
+- **Patrons:** track recurrent symbolic patterns across time and test whether prior recurrence predicts faster recognition, broader associative recruitment, and more stable return of the same organized meaning.
+- **THIR:** measure the stabilization of relational fit between structured input and carried history through increasing recognition stability, reduced uncertainty, and later reuse of the resulting organization.
 
 ---
 

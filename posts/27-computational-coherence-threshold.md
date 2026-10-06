@@ -28,7 +28,7 @@ The same initial disturbance therefore develops differently according to the bal
 
 The simulation establishes three useful points.
 
-First, the proposed competition can be implemented with explicit rules and measured quantities.
+First, the restoration disruption competition can be implemented with explicit rules and measured quantities.
 
 Second, a transition between disruption dominant and restoration dominant organization can emerge from repeated local interactions.
 

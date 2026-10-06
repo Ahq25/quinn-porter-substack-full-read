@@ -4,6 +4,8 @@ Meaning develops structure across time. Repeated experiences, memories, emotions
 
 A patron is a history bearing symbolic attractor within the organization of meaning. It forms when repeated consequential history gathers around a recurring structure strongly enough that future attention, recognition, interpretation, and inquiry begin to organize through it.
 
+In the same architecture that governs persistence, a patron is maintained because recurrent activation restores the symbolic organization faster than ordinary variation disperses it. The relevant λ_self is the rate at which the symbolic relation is reactivated, reinforced, and made available again. The relevant λ_env is the rate at which competing activity, changing context, and incoming variation revise that organization. Repeated restoration deepens the attractor and gives the pattern increasing causal influence over future recognition.
+
 ## How a patron forms
 
 A recurring pattern enters experience.

@@ -239,7 +239,7 @@ Consequential history supplies the temporal content of the shift: earlier relati
 
 An insight that has become part of the system changes what the system can do afterward. Once you see how to solve one kind of problem, you can solve the next one like it.
 
-The felt click and this dynamical event are the same event, described from two sides. The proposed test would record, on each trial, whether a person reports a click and whether all four predicted changes occur together.
+The felt click and this dynamical event are the same event, described from two sides. The trial by trial test records whether a person reports a click and whether all four predicted changes occur together.
 
 The click leads into **incorporation**. To incorporate something means to make it part of a body. In the click, something spread out becomes an organized whole, joins the system’s ongoing history, and changes the conditions for future recognition. The insight becomes consequential history.
 

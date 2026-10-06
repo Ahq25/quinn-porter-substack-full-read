@@ -4,6 +4,8 @@ Recognition is an event between what arrives and the organization already presen
 
 THIR belongs between recognition and AHQ in the larger architecture.
 
+Its role is specific. Recognition establishes compatibility between arrival and carried history. THIR is the stabilized relational organization produced by their reciprocal constraint. AHQ is the experienced crossing through which that organization becomes jointly available and reusable.
+
 Recognition begins when an arriving pattern finds compatible organization within consequential history.
 
 THIR develops as that relation becomes stable enough to form one coherent interface.

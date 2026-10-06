@@ -25,7 +25,7 @@ How does existing structure set what can happen next, and which distinctions doe
 6. **Hidden arrangements are countable.** At field scale, the number of spatial arrangements compatible with a fixed histogram is the corresponding multinomial coefficient: an exact count of the relational distinctions hidden by composition level descriptions.
 7. **Prediction needs the right partition.** A coarse description remains predictively closed when its partition is Markov lumpable. When update rules depend on adjacency, orientation, or shared boundaries, states that are identical at the coarse level can retain different transition structures.
 8. **Counting skeleton and added organization.** Pascal structure supplies the local counting skeleton, while placement, orientation, and coupling determine additional organization.
-9. **What stays open.** A Sierpinski type relation across scales is an open multiscale question, decidable once an explicit whole lattice recursion is specified.
+9. **What stays open.** A Sierpinski type relation across scales becomes a decidable multiscale question once an explicit whole lattice recursion is specified.
 
 ### How construction opens new moves
 
@@ -70,7 +70,7 @@ When an update rule reads arrangement, two fields with the same histogram can ha
 
 The 1, 4, 6, 4, 1 count follows directly from four ordered binary positions and serves as the Period Lattice’s standard combinatorial starting point. The useful question begins after the count: which relational distinctions disappear when those 16 ordered states are collapsed into five composition classes, and which of those relations restore predictive closure for the next transition?
 
-The Period Lattice is a compact finite model of generative constraint, exact coarse graining, relational identity, information accounting, and organizational possibility. Constraints generate new organizational possibilities, and a description that fixes composition leaves relational identity to be specified by placement, orientation, and coupling. Its empirical value therefore depends on whether those relational variables improve prediction of dynamics that composition alone leaves unresolved.
+The Period Lattice is a compact finite model of generative constraint, exact coarse graining, relational identity, information accounting, and organizational possibility. Constraints generate new organizational possibilities, and a description that fixes composition leaves relational identity to be specified by placement, orientation, and coupling. Its empirical test is whether those relational variables improve prediction of dynamics that composition alone leaves unresolved.
 
 ### The bigger picture
 

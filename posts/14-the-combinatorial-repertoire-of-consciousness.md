@@ -41,13 +41,13 @@ How can a finite nervous system support an immense range of specific conscious c
 
 - **Adaptive immunity** shows how finite generative machinery can produce an enormous pre encounter recognition repertoire through combinatorial assembly, junctional diversification, chain pairing, and selection, followed by selective expansion after cognate recognition.
 - **Olfactory coding** gives a neural example in which distributed combinations of receptor responses distinguish a large stimulus space.
-- **Candidate mechanisms** for conjunction sensitive and context dependent gating: mixed selectivity, dendritic nonlinearities, state dependent computation, oscillatory phase sensitivity, recurrent population dynamics, and metastable neural states.
+- **Mechanisms that can realize conjunction sensitive and context dependent gating:** mixed selectivity, dendritic nonlinearities, state dependent computation, oscillatory phase sensitivity, recurrent population dynamics, and metastable neural states.
 
 ### The model
 
 Each gate receives an instantaneous feature map containing current state, input, and phase variables, together with pairwise conjunction terms, retained history projections, phase sensitive terms, and feedback from the preceding macrostate. The resulting gate vector contributes to macrostate selection, local state transition, history update, and subsequent phase evolution.
 
-A candidate conscious regime is the conjunction
+The conscious regime is the conjunction
 
 C_org = T ∧ H ∧ A ∧ K ∧ G
 
