@@ -37,7 +37,7 @@ What is the relation between a living boundary that keeps a system intact and an
 ## Terms to know
 
 - **Ostiary.** A doorkeeper. Here, the general model of the boundary-recognition process.
-- **Recognition.** The active evaluation of arrivals according to the continuity a system maintains. Recognition begins here in a minimal sense: state-dependent discrimination. The same arrival can produce a different result because it meets a different carried history.
+- **Recognition.** The active evaluation of arrivals according to the continuity a system maintains. Recognition begins here in a minimal sense: state dependent discrimination. The same arrival can produce a different result because it meets a different carried history.
 - **Meaning.** The participation of an arrival within an organized continuity.
 - **Compression of recognition.** Smaller and smaller cues evoking larger and larger organized structures as continuity accumulates.
 - **Coherence threshold.** The point at which incorporation becomes organizationally consequential beyond its local point of origin.
