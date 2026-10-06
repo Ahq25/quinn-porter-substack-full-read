@@ -41,7 +41,7 @@
 - **Profile URL:** https://substack.com/@ahq25
 - **Bio:**
 
-> Consequential history is the past still acting, carried forward to the active boundary where it meets what arrives. Consciousness is consequential history as it becomes recursively available within the ongoing activity that carries it forward. AHQ is the experienced threshold crossing, the click of insight.
+> Consequential history is the past still acting at the active boundary. Consciousness is that history recursively available within the activity carrying it forward. AHQ is the experienced threshold crossing, the click of insight.
 
 - **Profile links:** none listed
 
@@ -51,7 +51,7 @@
 - **Address:** https://ahq25.substack.com
 - **Publication description:**
 
-> Consequential history is the past still acting, carried forward to the active boundary where it meets what arrives. Consciousness is consequential history as it becomes recursively available within the ongoing activity that carries it forward. AHQ is the experienced threshold crossing, the click of insight.
+> Consequential history is the past still acting at the active boundary. Consciousness is that history recursively available within the activity carrying it forward. AHQ is the experienced threshold crossing, the click of insight.
 
 
 ---
@@ -134,7 +134,7 @@ Consciousness as Access to Consequential History is on PhilArchive (https://phil
 
 **Quinn Porter**
 
-Consequential history is the past still acting, carried forward to the active boundary where it meets what arrives. Consciousness is consequential history as it becomes recursively available within the ongoing activity that carries it forward. AHQ is the experienced threshold crossing, the click of insight.
+Consequential history is the past still acting at the active boundary. Consciousness is that history recursively available within the activity carrying it forward. AHQ is the experienced threshold crossing, the click of insight.
 
 
 ---
@@ -420,7 +420,7 @@ When that present participates in producing its own successor, history has becom
 
 The lived availability of that recursively organized history is awareness.
 
-Consciousness is consequential history becoming recursively available within the ongoing activity that carries it forward: the structured availability of carried history within the activity that carries it forward. Its forms and degrees follow the extent, depth, organization, and use of that access. Awareness is that history lived together in an active present.
+Consciousness is consequential history becoming recursively available within the ongoing activity that carries it forward. Its forms and degrees follow the extent, depth, organization, and use of that access. Awareness is that history lived together in an active present.
 
 Recognition, understanding, and insight are expansions of that access. Each can reach a threshold as structures already present come together and are used in a new way. Insight is the clearest case: a rapid reorganization in which previously separated relations become jointly available as a stable, reusable whole. Understanding is the persistence of that revealed continuity.
 
@@ -2512,7 +2512,7 @@ When that present participates in producing its own successor, history has becom
 
 The lived availability of that recursively organized history is awareness.
 
-Consciousness is consequential history becoming recursively available within the ongoing activity that carries it forward: the structured availability of carried history within the activity that carries it forward.
+Consciousness is consequential history becoming recursively available within the ongoing activity that carries it forward.
 
 Recognition, understanding, and insight are expansions of that access, and each one crosses a threshold as structures already present come together and are used in a new way. Insight is a rapid reorganization in which previously separated relations become jointly available as a stable, reusable whole. Understanding is the persistence of that revealed continuity.
 
