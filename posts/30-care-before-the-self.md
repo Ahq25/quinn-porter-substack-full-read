@@ -60,6 +60,12 @@ The ostiary principle gives this process a general form.
 
 Care appears when the system's history supports continued relation with what supports its own organization.
 
+## Care and regulation
+
+Generic set point regulation restores a variable. Care begins when accumulated history of a supporting relation changes which relation the system preserves, restores, approaches, or reestablishes because that relation has become part of the system's own continuity. The empirical marker is relational specificity across history: the system preferentially maintains a particular support because earlier dependence has become consequential history.
+
+This gives care three linked requirements: the relation contributes measurably to continuation, the system directs behavior toward preserving or restoring that relation, and accumulated history increases the specificity or precision of that preservation. These requirements make care a history bearing relation to support, continuous with regulation and richer as relational history accumulates.
+
 ## Care before reflective selfhood
 
 Reflective selfhood requires a deep history bearing interior whose consequential history has become recursively available within its own ongoing activity.
