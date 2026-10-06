@@ -59,4 +59,4 @@ Full paper on PhilArchive: [Consequential History and the Conditions of Persiste
 
 Before this: [The Porter Ratio](https://ahq25.substack.com/p/the-porter-ratio-consequential-history).
 
-Next: [The Law of Self-Maintained Invariance](https://ahq25.substack.com/p/the-law-of-self-maintained-invariance), where the Porter Ratio is built from four postulates.
+Next: [The Law of Self-Maintained Invariance](https://ahq25.substack.com/p/the-law-of-self maintained-invariance), where the Porter Ratio is built from four postulates.
