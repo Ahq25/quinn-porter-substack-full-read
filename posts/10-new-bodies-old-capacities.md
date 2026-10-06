@@ -9,22 +9,22 @@
 
 ---
 
-Xenobots and Anthrobots bring familiar cells into unfamiliar collective arrangements, and these new bodies express coordinated motility, repair, morphogenesis, sensory responsiveness, and other body-level behaviors. New Bodies, Old Capacities explains how a recently formed body can express new collective behavior while drawing on capacities, constraints, and retained states that originated long before the body existed. It develops three concepts, consequential history, active inheritance, and the deep present, and a history-by-configuration experimental program that measures both together.
+Xenobots and Anthrobots bring familiar cells into unfamiliar collective arrangements, and these new bodies express coordinated motility, repair, morphogenesis, sensory responsiveness, and other body level behaviors. New Bodies, Old Capacities explains how a recently formed body can express new collective behavior while drawing on capacities, constraints, and retained states that originated long before the body existed. It develops three concepts, consequential history, active inheritance, and the deep present, and a history by configuration experimental program that measures both together.
 
-## Measuring what new bodies inherit
+### Measuring what new bodies inherit
 
 How much of what appears newly possible in a biological body becomes understandable once the consequential history carried into that body, and the new configuration through which that history acts, are measured together?
 
-## How it works
+### How it works
 
 1. **New bodies, old components.** The collective histories of Xenobots and Anthrobots begin during laboratory assembly. The cells entering those collectives already contain developmental state, physiological organization, bioelectric structure, mechanical conditioning, metabolic history, epigenetic organization, and molecular machinery shaped across evolutionary time.
 2. **Three concepts describe the situation.** Consequential history, active inheritance, and the deep present together describe how a recently formed body can express genuinely new collective behavior while drawing on capacities that originated long before the body itself existed.
-3. **The findings make the question testable.** Xenobots exhibit extensive transcriptional remodeling, recruitment of evolutionarily ancient gene programs, and measurable behavioral responses to acoustic stimulation. Anthrobots undergo large-scale transcriptional reorganization, activate developmental patterning programs, shift toward evolutionarily older expression profiles, self-heal, remain motile, and show changes in epigenetic age during formation.
+3. **The findings make the question testable.** Xenobots exhibit extensive transcriptional remodeling, recruitment of evolutionarily ancient gene programs, and measurable behavioral responses to acoustic stimulation. Anthrobots undergo large scale transcriptional reorganization, activate developmental patterning programs, shift toward evolutionarily older expression profiles, self heal, remain motile, and show changes in epigenetic age during formation.
 4. **New embodiment reorganizes the inherited repertoire.** New embodiment can reorganize which parts of an inherited biological repertoire become functionally active.
 5. **Reconfiguration and history.** Reconfiguration changes how consequential history participates in present dynamics. The resulting collective behavior can be new at the level of the body while remaining causally continuous with deeper biological history carried by its components.
 6. **A hierarchy of temporal depth.** Present systems can contain consequences whose causal ancestry extends through recent physiology, development, evolution, planetary and stellar history, and ultimately toward the earliest physical conditions of the universe. The biological significance of such history depends on the continued causal participation of surviving structure in present organization.
 
-## Terms to know
+### Terms to know
 
 - **Consequential history.** Consequential history is the portion of the past that remains causally active in the present.
 - **Active inheritance.** Active inheritance is the continued causal participation of earlier organization within later organization. The carrier can change while the consequence continues.
@@ -33,7 +33,7 @@ How much of what appears newly possible in a biological body becomes understanda
 - **Prehistory.** The history a cell carries before it enters a new collective.
 - **Configuration.** The new collective arrangement in which those cells now act.
 
-## How to test it
+### How to test it
 
 Cellular prehistory and collective configuration can be manipulated as separate factors. A retained state produced before assembly can be identified through molecular, mechanical, bioelectric, epigenetic, or physiological measurement and then tested across different collective configurations.
 
@@ -44,11 +44,11 @@ The strongest evidence for active inheritance would come when four things hold t
 3. its behavioral effect changes systematically with body configuration;
 4. direct manipulation of the carrier changes the predicted outcome.
 
-## A worked example
+### A worked example
 
-A worked Xenobot example uses mechanical preconditioning and acoustic-response behavior to illustrate the history-by-configuration design: a controlled mechanical history comes first, and acoustic-response behavior is then measured across body configurations.
+A worked Xenobot example uses mechanical preconditioning and acoustic response behavior to illustrate the history by configuration design: a controlled mechanical history comes first, and acoustic response behavior is then measured across body configurations.
 
-## The bigger picture
+### The bigger picture
 
 The same continuity appears in new living bodies. A new body is a new configuration through which deep consequential history acts, and its present gathers consequences from physiology, development, and evolution at once: a deep present.
 

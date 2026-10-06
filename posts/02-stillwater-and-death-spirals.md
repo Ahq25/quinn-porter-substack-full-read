@@ -15,7 +15,7 @@ Some ideas are easier to see than to define. Insight is one of them. The click o
 
 Together, the two pictures form one principle about insight.
 
-## Part one: the still water
+### Part one: the still water
 
 Picture a pond on a windless morning. The surface is flat enough to work as a mirror. You see the sky in it, a tree on the far bank, and the stones on the bottom near the edge.
 
@@ -33,7 +33,7 @@ Rings spread out from the point of impact. Three things happen at once.
 
 So the disturbance trades one kind of seeing for another. A view of the contents gives way to a view of the medium that holds them.
 
-## What the water has to do with thinking
+### What the water has to do with thinking
 
 Most of the time, your thinking works like the calm pond. You think about the homework problem, the conversation, the plan for tomorrow. The contents of thought come through clearly, and the machinery doing the thinking stays out of view.
 
@@ -45,9 +45,9 @@ The felt click is called **Aleph Harmonic Qualia**, or AHQ. Qualia is the word p
 
 **Internally stable** means the pattern holds together by itself. After the click, the insight stays. You can come back to it tomorrow and it is still there, ready to use.
 
-The water presents the first half of the story: hidden structure enters perception during a transition. The ants present the second half: what that transition looks like as a spread-out system gathers into one self-sustaining form.
+The water presents the first half of the story: hidden structure enters perception during a transition. The ants present the second half: what that transition looks like as a spread out system gathers into one self sustaining form.
 
-## Part two: the ant colony
+### Part two: the ant colony
 
 An ant colony organizes itself from the bottom up. Each ant follows simple local rules. It responds to the ants around it and to pheromone trails, which are chemical scent marks that other ants have laid down. When an ant walks a trail, it adds its own scent and makes the trail a little stronger.
 
@@ -59,7 +59,7 @@ Then, under certain conditions, something changes. A group of ants begins follow
 
 The same process that built the branching network concentrates into a single self reinforcing loop. This is the ant death spiral.
 
-## From many dimensions to few
+### From many dimensions to few
 
 The death spiral harms the ants, and it shows the change with unusual clarity.
 
@@ -75,7 +75,7 @@ This change has three features.
 
 That last feature connects the ants to the water. In both cases, structure becomes perceptible at the moment it organizes into a stable form. The rule the ants follow was there the whole time, and the spiral makes it apparent by narrowing the many ways it is ordinarily expressed down to one. The same move makes the pieces of a thought apparent in the click.
 
-## One principle across both pictures
+### One principle across both pictures
 
 Put the two pictures side by side.
 
@@ -85,11 +85,11 @@ In the colony, the interactions among ants are present all along. They enter per
 
 The shared principle, as Stillwater and Death Spirals states it: **structure enters the regime of perception at the moment it organizes or concentrates into a stable form.**
 
-Insight fits the same principle. Before an insight, the relevant pieces are already active in your mind: memories, partial ideas, earlier attempts, half-formed connections. They are spread across many possibilities, like the ants on their branching trails. Then they reorganize into one coherent pattern, coherent enough to sustain itself and be recognized. That pattern becomes visible to you. You feel it as the click.
+Insight fits the same principle. Before an insight, the relevant pieces are already active in your mind: memories, partial ideas, earlier attempts, half formed connections. They are spread across many possibilities, like the ants on their branching trails. Then they reorganize into one coherent pattern, coherent enough to sustain itself and be recognized. That pattern becomes visible to you. You feel it as the click.
 
-So insight can be understood as the internal expression of the transition. The water shows that the medium was there all along. The ants show what it looks like when a spread-out system gathers into one form that holds itself together. Insight is that gathering happening in a mind, experienced from the inside.
+So insight can be understood as the internal expression of the transition. The water shows that the medium was there all along. The ants show what it looks like when a spread out system gathers into one form that holds itself together. Insight is that gathering happening in a mind, experienced from the inside.
 
-## Coherence, dimensionality, and perceptibility
+### Coherence, dimensionality, and perceptibility
 
 Stillwater and Death Spirals uses these pictures to show how three ideas relate.
 
@@ -103,17 +103,17 @@ In both pictures, the three change together. As the pattern becomes more coheren
 
 This relationship links to a testable idea in [Aleph Harmonic Qualia: The Dynamical Click of Coherence](https://philarchive.org/rec/PORAHQ-8). That paper predicts that insight should be accompanied by a rapid, time locked drop in the effective dimensionality of brain activity, alongside stronger harmonic coordination among neural rhythms, greater stability relative to disruption, and later reuse of the newly formed state. Effective dimensionality is measured with the participation ratio, which counts how many independent directions the activity actually uses: about 10 if activity spreads evenly over 10 directions, close to 1 if it runs almost entirely along one. The death spiral is the picture behind that first prediction: many independent paths gathering into one organized loop.
 
-## Why this example shows the transition
+### Why this example shows the transition
 
 A death spiral concentrates the ants’ activity into a repeating loop. It isolates the transition of insight with unusual clarity. It shows multidimensional behavior and its low dimensional expression, produced by the same ants following the same rule. This concentrated case makes a general process easy to see. The circle also separates two dimensions of organization. Coherence is how strongly the loop holds itself together, and correspondence is how well it stays coupled to the wider world. A loop can hold together strongly while its coupling to the wider world narrows.
 
 In a mind, the concentrated pattern of an insight becomes something you can use, build on, and connect to the next problem. The ants circle the same path again and again. A mind that has had an insight carries the new pattern forward into everything it does next.
 
-## The takeaway
+### The takeaway
 
 Still water shows accessibility: a disturbance makes visible the medium that carries everything seen through it.
 
-An ant colony shows that a spread-out system can concentrate into a low dimensional, self reinforcing form, and that this form reveals the rule the ants were following all along.
+An ant colony shows that a spread out system can concentrate into a low dimensional, self reinforcing form, and that this form reveals the rule the ants were following all along.
 
 Together they describe insight as the moment hidden structure in thinking organizes into a stable pattern and, in doing so, becomes perceptible to the one doing the thinking. That is the click.
 

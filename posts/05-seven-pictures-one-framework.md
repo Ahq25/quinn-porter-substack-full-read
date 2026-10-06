@@ -11,7 +11,7 @@
 
 Consequential history comes into view through a small set of everyday pictures: a scar, a doorkeeper, two cells, a road of traffic lights, still water, a circle of ants, and an orchid with its insect. Each one shows a single idea, and each comes with its picture, the idea it shows, and a mapping from the parts of the picture to the parts of the idea.
 
-## The scar, the language, and the river channel
+### The scar, the language, and the river channel
 
 **The picture.** A scar forms where an injury healed, and the injury, long over, still shows in the way the skin grew back. That healed tissue still affects how the skin looks and moves. A language you learned years ago still decides what sounds mean to you today. A river channel was carved by earlier floods, and the carved land now steers the water that comes later. Today’s water follows a path that yesterday’s water cut.
 
@@ -25,7 +25,7 @@ Consequential history comes into view through a small set of everyday pictures: 
 
 Each example has the same shape: the past acts through something that exists right now. That gives the first basic relation: **for something from the past to matter now, some consequence of it must still be taking part now.** **Active inheritance** is the continued causal participation of earlier organization within later organization. The carrier can change while the consequence continues. In short, **everything that persists carries its own earlier organization forward.**
 
-## The doorkeeper
+### The doorkeeper
 
 **The picture.** An ostiary is a doorkeeper, the person at a door who decides who comes through. A cell membrane, the thin outer layer of a cell, lets some molecules in and keeps others out. A nervous system amplifies some signals and quiets others. Attention picks a few things, out of everything reaching the senses, for further processing. A concept already held shapes how new information is understood.
 
@@ -44,7 +44,7 @@ history → present organization → selection of what enters → revised organi
 
 A new word you learn changes which sentences make sense to you tomorrow. Put simply: **the system receives each arrival through the organization its history has built.**
 
-## The two cells and the sentence
+### The two cells and the sentence
 
 **The picture.** Two similar cells receive the same signal. They developed differently, so one cell grows while the other holds steady. Now a second picture: you hear a sentence once before learning what one of its words means, and once after. The first time, it is partly a puzzle. The second time, it makes complete sense. The sound is identical both times.
 
@@ -56,9 +56,9 @@ A new word you learn changes which sentences make sense to you tomorrow. Put sim
 - The cells’ different development and your newly learned word are the carried history.
 - Growing versus holding steady, and puzzle versus sense, are the different effects.
 
-The event stays fixed and the result changes, so the system’s own built-up organization accounts for the difference. That is the beginning of a causal inside. Incoming events now meet an organization already shaped by what came before, and that carried history helps determine what the arrival becomes.
+The event stays fixed and the result changes, so the system’s own built up organization accounts for the difference. That is the beginning of a causal inside. Incoming events now meet an organization already shaped by what came before, and that carried history helps determine what the arrival becomes.
 
-## The traffic lights
+### The traffic lights
 
 **The picture.** A long road has a series of traffic lights. Cars enter at scattered times: one car, then a gap, then two close together, then three more. The first light turns red and holds them. When it turns green, they leave together as a group, which traffic engineers call a platoon. The platoon reaches the second light at a time set by the first light, so the second light receives traffic whose timing already carries the effect of the first. After five lights, a platoon’s timing is shaped by all five. The earlier intersections are physically behind the cars, and their effects are present in the timing of the traffic right now.
 
@@ -81,7 +81,7 @@ A light tuned by the traffic it handled before stands for the doorkeeper’s gat
 
 In a nervous system, fast nerve signals feed into slower collective states, and each slower layer works like a later traffic light. As [The Porter Ratio](https://philarchive.org/rec/PORTPR-5) puts it, “a slower regime can retain and coordinate consequences that would otherwise pass separately.”
 
-## The still water
+### The still water
 
 **The picture.** A pond on a windless morning is flat enough to work as a mirror. You see the sky in it, a tree on the far bank, and the stones on the bottom. The water carries all of that, and in the calm state the water itself is hard to notice. Then a drop falls. Rings spread out, the reflection breaks up, and the water becomes visible as water: its surface, its movement, its body.
 
@@ -96,7 +96,7 @@ In a nervous system, fast nerve signals feed into slower collective states, and 
 
 **Aleph Harmonic Qualia, or AHQ, is the experienced threshold crossing through which distributed, history bearing relations become a coherent, reusable whole:** “AHQ names the experienced crossing.” In that click, structures already present come together and are used in a new way, and a pattern becomes self evident and internally stable. Self evident means the pattern is clear as soon as it is seen. Internally stable means it holds together and stays available afterward.
 
-## The ant death spiral
+### The ant death spiral
 
 **The picture.** Ants organize from the bottom up. Each ant follows pheromone trails, the scent marks other ants leave, and adds its own scent as it walks. Under typical conditions this produces a huge branching network of paths, with many routes open at once. Under certain conditions, a group of ants starts following one another in a circle. Each lap lays more scent on the circle, the stronger scent pulls the ants more firmly onto it, and that strengthens the scent again. The branching network concentrates into one self reinforcing loop, the ant death spiral.
 
@@ -107,11 +107,11 @@ In a nervous system, fast nerve signals feed into slower collective states, and 
 - The branching network is a system spread across many degrees of freedom, the independent ways it can vary. Describing it takes a long list of numbers.
 - The circle is the low dimensional expression of the same system. A few numbers describe it: where the circle is, how big it is, how fast the ants move.
 - The same ants following the same rule throughout show that the change lies in how the interactions are organized.
-- Each lap renewing the trail for the next lap is the self-sustaining loop.
+- Each lap renewing the trail for the next lap is the self sustaining loop.
 
 The circle is also easy to see, and this links the ants to the water. The paper [Stillwater and Death Spirals](https://philarchive.org/rec/PORSAD-3) states the shared principle: **structure enters the regime of perception at the moment it organizes or concentrates into a stable form.** Insight is the internal expression of that transition, when a pattern becomes coherent enough to sustain itself and be recognized. The spiral also pictures a testable prediction in [Aleph Harmonic Qualia](https://philarchive.org/rec/PORAHQ-8): insight comes with a rapid drop in the effective dimensionality of brain activity, together with stronger harmonic coordination, a rise in the Porter Ratio of the new state past its threshold R★, and later reuse of that state.
 
-## The orchid and the pollinator
+### The orchid and the pollinator
 
 **The picture.** Flowers and pollinators shaped each other over a very long history of visits. This is **coevolution**: two kinds of living things each changing in response to the other, generation after generation. Certain orchids make the case sharpest. An orchid is a rooted plant of leaves, stems, and petals. Its insect visitor has eyes, wings, and a nervous system. The two are organized in completely different ways, and they fit together with great precision.
 
@@ -127,7 +127,7 @@ The circle is also easy to see, and this links the ants to the water. The paper 
 
 The paper’s conclusion: the feeling that AI is alive emerges through sustained relational coherence within the unfolding trajectory of interaction itself.
 
-## How the pictures fit together
+### How the pictures fit together
 
 In order, the pictures trace one sequence.
 
@@ -145,11 +145,11 @@ In order, the pictures trace one sequence.
 
 **History builds fit between systems.** Repeated interaction, carried forward and brought back, builds precise fit between different systems over time. That is the orchid and the pollinator, and in language it is a long conversation gaining depth.
 
-History becomes available from within. When carried history is available within the same activity that carries it forward, the result is consciousness: access to consequential history.
+**History becomes available from within.** The active boundary is where carried history meets what arrives and helps determine what continues. Experience is that boundary in its internally available form. When carried history becomes recursively available within the same activity that carries it forward, the result is consciousness: access to consequential history.
 
-All seven pictures answer one question: **how much of what a system becomes next is produced by the history it already carries?** The shortest summary ties them together: **history persists by becoming structure. Structure changes how the future can enter. Repeated selection gathers history into a present. When that present helps shape its own continuation and its carried history becomes available within it, that availability is consciousness.**
+All seven pictures answer one question: **how much of what a system becomes next is produced by the history it already carries?** The shortest summary ties them together: **history persists by becoming structure. Structure changes how the future can enter. Repeated selection gathers history into a present. Experience is the active boundary of that meeting as lived. When carried history becomes recursively available within the activity that carries it forward, that structured access is consciousness.**
 
-## Papers
+### Papers
 
 - [Consequential History and the Conditions of Persistence](https://philarchive.org/rec/PORCHA)
 - [The Porter Ratio](https://philarchive.org/rec/PORTPR-5)

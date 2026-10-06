@@ -9,11 +9,11 @@
 
 Insight is a sudden transition in which an unresolved question becomes immediately intelligible. The Collapse of Separation and the Structure of Insight sets out the organizational transition that produces it. A question is modeled as a coherent representational separation maintained within cognition. Insight occurs when the coherence maintaining that separation falls below a critical threshold: the boundary dissolves, and continuity already participating in cognition becomes directly available.
 
-## What produces insight
+### What produces insight
 
-What organizational transition produces insight, as distinct from the consequences that follow it?
+What organizational transition produces insight, and how do its consequences unfold afterward?
 
-## How insight works
+### How insight works
 
 1. **Insight has a distinctive phenomenology.** Relations that appeared disconnected become unified, uncertainty gives way to apparent obviousness, and understanding emerges with a distinctive phenomenology of revelation.
 2. **The transition and its consequences.** Information acquisition, pattern recognition, and problem solving describe the consequences of insight. The organizational transition that produces insight comes first.
@@ -26,7 +26,7 @@ What organizational transition produces insight, as distinct from the consequenc
 9. **Recursive correspondence.** The paper further holds that certain forms of humor, ambiguity, symbolism, elegance, conceptual beauty, and scientific discovery derive part of their significance from a recursive correspondence between the structure of what is understood and the structure of the understanding event itself. In such cases, the organization revealed within the object mirrors the organizational transition occurring within the observer.
 10. **Understanding.** Understanding is the replacement of representational separation by accessible continuity and the subsequent inheritance of that continuity within future cognition.
 
-## Terms to know
+### Terms to know
 
 - **Representational separation.** A question held apart as its own object of thought. In plain terms: the gap that keeps a question a question.
 - **Organizational boundary.** The organization that preserves the question’s identity as a distinct object of thought.
@@ -34,17 +34,17 @@ What organizational transition produces insight, as distinct from the consequenc
 - **Accessible continuity.** Continuity already present in cognition that has become directly available.
 - **Inherited organization.** The organization established by the revealed relation, carried into future cognition.
 
-## The phase transition analogy
+### The phase transition analogy
 
 The transition parallels physical phase transitions. A physical system can undergo extensive underlying reorganization before reaching a critical point at which a new state emerges. In the same way, representational structures can accumulate hidden continuity while preserving the appearance of separation. The felt event of realization is analogous to the observable signature of such a transition.
 
-A photon marks the transition between electronic states and is distinct from the states themselves. In the same way, the phenomenology of insight marks the transition through which continuity becomes accessible and is distinct from the continuity that remains afterward.
+A photon marks the transition between electronic states. In the same way, the phenomenology of insight marks the transition through which continuity becomes accessible, while the resulting continuity remains available afterward.
 
-## Why understanding feels like revelation
+### Why understanding feels like revelation
 
 The answer arrives as continuity that had been participating all along, made directly available in the moment of insight. That is why understanding so often appears as the revelation of something present all along. Understanding is the persistence of that revealed continuity: the relation stays available and keeps shaping later interpretation, prediction, action, and recognition. The release of the old separation and the stabilization of the new whole are two descriptions of one transition. Its consequences reach the study of insight, learning, creativity, conceptual change, meaning, and the phenomenology of discovery.
 
-## The bigger picture
+### The bigger picture
 
 This is the fourth step seen from inside a question. The relations needed for the answer are already participating, held apart by the question’s boundary. Insight is the moment they become jointly available, and the new organization is then carried into future cognition as consequential history.
 

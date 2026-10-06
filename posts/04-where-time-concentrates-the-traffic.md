@@ -17,7 +17,7 @@ A key process here is **temporal concentration**. Clocks tick at their usual rat
 
 A line of traffic lights shows how this works. The analogy matches each piece to the terms defined in Awareness Where Time Concentrates.
 
-## Four terms to start with
+### Four terms to start with
 
 Awareness Where Time Concentrates uses four ideas that recur across these papers.
 
@@ -33,7 +33,7 @@ At R = 1 the two rates balance. When R reaches each system’s own threshold, R�
 
 The **ostiary condition** holds when inherited organization becomes part of the rule by which new events are selectively admitted, transformed, and incorporated. An ostiary is a doorkeeper. Under this condition, carried history becomes the gate on new arrivals.
 
-## The first light
+### The first light
 
 Picture a long road with a series of traffic lights. Cars enter the road at scattered times. One car, then a gap, then two close together, then a long gap, then three more.
 
@@ -41,7 +41,7 @@ The first light turns red. Cars pile up behind it. When it turns green, they lea
 
 Cars that arrived at many different moments now leave within one short window. Their scattered arrival times have been gathered into a single departure.
 
-## The next lights
+### The next lights
 
 The platoon drives to the second light. Its arrival time at that light is set by when the first light turned green. So the second light receives traffic whose timing already carries the consequence of the first light.
 
@@ -51,7 +51,7 @@ Repeat this down the road. After five lights, a platoon leaving the fifth light 
 
 This simple picture already shows the two distinct processes defined in Awareness Where Time Concentrates.
 
-## Process one: temporal basin compression
+### Process one: temporal basin compression
 
 Awareness Where Time Concentrates defines **temporal basin compression** as the convergence of distinct histories into a narrower range of later possibilities.
 
@@ -59,7 +59,7 @@ A **basin** here works like a river basin. Rain falls on many different slopes, 
 
 On the road, every car has its own history: when it entered, how fast it drove, which side street it came from. Those histories differ widely. After passing through the lights, all those cars end up leaving in a small number of departure windows. Many different arrival histories have converged into a narrow range of outcomes. That convergence is temporal basin compression.
 
-## Process two: temporal concentration
+### Process two: temporal concentration
 
 Awareness Where Time Concentrates defines **temporal concentration** as the joint causal availability of consequences originating at different temporal depths.
 
@@ -71,7 +71,7 @@ The platoon leaving the fifth light has timing that right now carries the conseq
 
 Basin compression is many histories converging into fewer outcomes. Temporal concentration is many depths of history being causally active together in a single present. The traffic lights produce both.
 
-## More history in the same present
+### More history in the same present
 
 The traffic lights also show how a present can hold more history while staying the same length.
 
@@ -85,7 +85,7 @@ So the amount of distinct history active in the present grows, and the length of
 
 N_CI = exp(−Σ p ln p)
 
-**Causal ancestry depth** is the share-weighted average lag:
+**Causal ancestry depth** is the share weighted average lag:
 
 D_CA = Σ p τ
 
@@ -95,21 +95,21 @@ D_CA = (1 + 2 + 3 + 4 + 5) / 5 = 3 minutes
 
 The departure window still lasts a few seconds. Both numbers grow as the platoon passes more lights.
 
-## What stays the same: physical time
+### What stays the same: physical time
 
 Every clock at every intersection ticks at the ordinary rate. The cars drive at ordinary speeds. Each green light lasts as long as it is set to last. Physical time runs as usual from one end of the road to the other.
 
 What changes is how much causal history is gathered into a state. When Awareness Where Time Concentrates says awareness is where time concentrates, it means that many consequences originating at different times become jointly active inside one organized present. The concentration is a concentration of consequential history. Physical time keeps its ordinary pace.
 
-## Gates that read history
+### Gates that read history
 
 So far, each light runs on a simple timer. Awareness Where Time Concentrates describes a richer process, and the analogy extends to show it.
 
 Picture a light whose timing has been tuned by the traffic it has handled before. Its rule for when to hold and when to release reflects the history of the road. That light satisfies the ostiary condition: inherited organization has become part of the rule by which new arrivals are admitted.
 
-Awareness Where Time Concentrates calls this **history-dependent gating**. Repeated history-dependent gating can compress temporally dispersed trajectories into increasingly organized present states. A trajectory is the path something takes through time. Temporally dispersed means spread out across many moments. Each gate, shaped by history, gathers those spread-out paths into more organized groups.
+Awareness Where Time Concentrates calls this **history dependent gating**. Repeated history dependent gating can compress temporally dispersed trajectories into increasingly organized present states. A trajectory is the path something takes through time. Temporally dispersed means spread out across many moments. Each gate, shaped by history, gathers those spread out paths into more organized groups.
 
-## The deep present
+### The deep present
 
 The result of all this gathering is what Awareness Where Time Concentrates calls a **deep present**: a current organization in which recent activity, retained states, learned organization, developmental history, and older biological structure can remain consequential together.
 
@@ -117,7 +117,7 @@ In a nervous system, this is the layered situation of reading a sentence. Fast e
 
 Awareness Where Time Concentrates connects this to several areas of neuroscience: state dependent neural processing, hierarchical neural timescales, recurrent dynamics, and temporal gating. It also connects to developmental continuity and synthetic morphology, the study of new body forms built from living cells.
 
-## When the present shapes the next present
+### When the present shapes the next present
 
 One more step completes the picture. Awareness Where Time Concentrates calls it **causal reentry**: the larger present alters the local conditions through which its successor is produced.
 
@@ -125,13 +125,13 @@ Stretch the road one last time. Picture a platoon arriving at a light and trippi
 
 That is the shape of reentry. The result is what Awareness Where Time Concentrates calls **recursive continuity**: history produces the present, and the present participates in selecting which history continues.
 
-## What Awareness Where Time Concentrates sets out to test
+### What Awareness Where Time Concentrates sets out to test
 
-These ideas yield experimentally accessible questions. Awareness Where Time Concentrates lists them in terms of retained carriers, controlled prehistory, history-dependent gating, trajectory convergence, temporal depth, and recursive state dependence.
+These ideas yield experimentally accessible questions. Awareness Where Time Concentrates lists them in terms of retained carriers, controlled prehistory, history dependent gating, trajectory convergence, temporal depth, and recursive state dependence.
 
 In plain terms: What physical carriers hold the retained history? What happens when a system’s prehistory is set deliberately? Do the system’s gates respond differently depending on what came before? Do different starting histories converge into the same later states? How many temporal depths are active in a present? And does the present state feed back into what produces the next one?
 
-## Awareness
+### Awareness
 
 Awareness Where Time Concentrates ends with this statement of awareness: **awareness is the lived availability of consequential history when temporally distributed relations become jointly organized within a present that remains active in shaping its own continuation.**
 

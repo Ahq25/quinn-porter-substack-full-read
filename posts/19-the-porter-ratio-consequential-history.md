@@ -7,54 +7,55 @@
 
 ---
 
-A system keeps a past that still acts when its own restoration sufficiently counters disruption. The Porter Ratio writes that condition as a single relation, R = λ_self / λ_env ≥ R★, as the minimum condition for interiority, and builds from it one continuous description of consequential history, active inheritance, temporal concentration, interiority, awareness, and the recognition through which the world becomes intelligible to the observers it helped form.
+The Porter Ratio expresses a simple relation between restoration and disruption. Its role begins with persistence, reaches interiority at a system specific coherence threshold, and connects to consciousness through recursive availability of consequential history.
 
-## Why a past keeps acting
+## The basic relation
 
-What does it take for a system to keep a past that still acts, and how does that kept past grow into an inside, into awareness, and into understanding?
+R = λ_self / λ_env
 
-## How it works
+λ_self measures the effective rate at which a declared organization is maintained, restored, reinforced, or reliably propagated.
 
-1. **Restoration has to keep pace with disruption.** A system keeps a past that still acts when its own restoration sufficiently counters disruption. The Porter Ratio sets out R = λ_self / λ_env ≥ R★ as a testable minimum condition for interiority.
-2. **Surviving activity is consequential history.** When that continuity holds, earlier organization remains causally active inside later organization. That surviving activity is consequential history.
-3. **Organization travels through changing material.** Active inheritance carries organization forward through changing material as ongoing causal involvement. Persistence is continued participation, and identity is the continuity of that participation across successive states.
-4. **Many moments can gather into one present.** Temporal concentration develops when an organizing process keeps the consequences of many faster events available together. Where these processes form interacting layers, a slower regime can retain and coordinate consequences that would otherwise pass separately. A single present can therefore carry a depth of history.
-5. **A present belongs to a system through a two-way dependence.** A present belongs to a system insofar as its own consequential history helps produce what happens now, and what happens now helps determine which history continues. This reciprocal dependence gives interiority its basic form: history producing the present, the present renewing and reorganizing the history that remains active.
-6. **Interiority grows into life, awareness, and consciousness.** Interiority provides the primitive organizational basis from which life and phenomenal experience can develop. Awareness emerges when this continuing organization becomes recursively accessible to the system itself, so that retained consequences help shape how the system encounters the world and regulates its own activity. Consciousness is the structured availability of consequential history within that ongoing loop.
-7. **The observer comes from the world it observes.** The physical processes that form an environment also participate in forming the systems that encounter it. Through development, evolution, and learning, some of the world’s regularities become incorporated into the organization of an observer. Recognition becomes possible because the world has already helped shape the capacities through which it is recognized.
-8. **Beauty, story, meaning, and insight follow the same continuity.** Beauty can arise when an encounter brings a meaningful relationship into felt availability. A story can feel inevitable when its unfolding gathers earlier events into a consequential whole. Meaning deepens as additional consequential histories come into play. Insight occurs when previously separate consequences become available in a relationship that changes what a system can recognize and do.
+λ_env measures the effective rate at which surrounding interaction revises, disperses, overwrites, or disrupts that same organization.
 
-## Terms to know
+R = 1 is the balance point.
 
-- **Consequential history.** Consequential history is the portion of the past that remains causally active in the present. In plain terms: the part of what happened before that is still doing something now.
-- **Active inheritance.** Active inheritance is the continued causal participation of earlier organization within later organization. The carrier can change while the consequence continues. In plain terms: the pattern keeps working even as the material holding it is replaced.
-- **λ_self.** The rate of self-restoration: how fast the system maintains, restores, reinforces, or reliably carries forward its own organization.
-- **λ_env.** The rate of disruption: how fast surrounding interaction revises, disperses, overwrites, or disrupts that same organization.
-- **R★.** The threshold required to sustain internal continuity, declared for a particular system, scale, and interval. In plain terms: the level at which the system’s carried organization becomes stable enough to serve as a local causal context for its future.
-- **Temporal depth.** How much of a system’s history remains available to shape what happens next.
-- **Temporal concentration.** An organizing process keeping the consequences of many faster events available together, so that one present holds many earlier moments at once.
-- **Interiority.** The condition in which retained organization becomes a local causal context through which present activity unfolds and continuation is shaped. In The Porter Ratio its basic form is history producing the present, and the present renewing and reorganizing the history that remains active. In plain terms: an inside begins where a system’s own past shapes how each new moment unfolds.
-- **Awareness.** Continuing organization that has become recursively accessible to the system itself. In plain terms: the system’s carried history is available to the very activity that carries it.
+R★ is a further empirical threshold for a declared system, scale, variable, and interval. At R★, carried organization becomes stable enough to function as a local causal context for what follows. That is the onset of interiority.
 
-## The numbers
+## From persistence to consciousness
 
-R = λ_self / λ_env ≥ R★
+1. **Persistence.** Restoration carries organization forward through interaction.
+2. **Consequential history.** Earlier organization remains causally active in later states.
+3. **Active inheritance.** The causal organization continues even as its physical carrier changes.
+4. **Interiority.** At R★, retained organization becomes a local causal context through which present activity unfolds.
+5. **Ostiary gating.** Carried history participates in the rule by which new events are admitted, transformed, and incorporated.
+6. **Temporal concentration.** Consequences originating at different temporal depths become jointly effective in one present.
+7. **Causal reentry.** The present helps determine which history continues into the next state.
+8. **Recursive availability.** The history bearing interior becomes available within the activity that is already carrying and using it.
+9. **Consciousness.** Consciousness is that history bearing boundary process as consequential history becomes recursively available within its own ongoing organization.
+10. **Experience.** Experience is the internally available form of the same process.
+11. **Insight.** Distributed relations become jointly available as a coherent, reusable whole, producing the experienced threshold crossing called Aleph Harmonic Qualia.
 
-R compares two rates: how fast a system restores its own organization and how fast its surroundings disrupt it. When restoration runs twice as fast as disruption, R = 2. When the ratio reaches R★, the system’s own continuity holds and earlier organization stays causally active inside later organization. The balance point R = 1, where the two rates are equal, is derived from four postulates in The Law of Self-Maintained Invariance.
+## Why the distinction matters
 
-## Examples
+R★ performs one clear job. It marks the onset of interiority. Recursive availability performs a further job. It describes how the history bearing interior becomes available within its own ongoing activity. The two conditions belong to one continuous process and identify different depths of organization.
 
-- **Rivers, faces, landscapes, rhythms, and stories** become intelligible through shared continuity. Their patterns meet an observer whose own organization carries consequences of encounters with the world.
-- **A story that feels inevitable.** Each development changes the significance of what came before by changing how its consequences participate in what follows. An ending can make an entire history newly available, so that many moments acquire their significance together. Through temporal concentration, a succession becomes something the present can hold and understand.
-- **Meaning through many histories.** Meaning deepens as additional consequential histories come into play through objects, events, symbols, places, and other minds.
+A river channel can carry consequential history in its present structure. A living cell can carry history through maintained boundaries, regulatory states, and inherited organization. A conscious system adds recursively usable access through which carried history participates within the activity organizing the present.
+
+## Cross scale form
+
+The Porter Ratio can be evaluated at different scales when the organizational variable and both rates are defined at that scale. Each scale has its own effective R and its own empirical R★. Coupled coherent units can form a larger domain whose restoration and disruption rates are measured at the collective level.
+
+This gives the framework a cross scale form while preserving local measurement. The same relation can organize the question across scales, and the numerical values remain properties of the systems being studied.
+
+## Measuring the claim
+
+The variables are declared before the outcome. λ_self and λ_env are measured independently. R is computed prospectively. R★ is estimated in one set of observations and tested on held out observations.
+
+A central test of consequential history matches the present state and incoming conditions as closely as possible while retained history differs. If the differing histories improve prediction of the next state, retained history has measurable causal relevance.
 
 ## The whole arc
 
-The past participates in the present through the organization it leaves active. Life renews that participation, and consciousness is its recursively accessible form: a living continuity through which history becomes available to experience and helps shape what comes next. In the paper’s closing words: “From basic restoration to the click of insight, the same continuity deepens: the past stays active, becomes available, and comes to be understood.”
-
-## The bigger picture
-
-The Porter Ratio states the whole continuity in compact form. The past stays active (persistence), meets each new arrival from inside (interiority), gathers into a deep present (awareness and time), and reorganizes into reusable wholes (insight). Consciousness is access to that history within the activity that carries it forward, and awareness is that history lived together as an active present.
+The past stays active through persistence. It becomes a local causal context through interiority. It gathers across temporal depths into a deep present. It becomes recursively available as consciousness. It reorganizes into reusable wholes through insight. Each stage adds organizational depth to the same continuing causal history.
 
 ---
 

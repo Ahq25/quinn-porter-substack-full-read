@@ -13,7 +13,7 @@ A long conversation with an AI chatbot can take on a particular quality. Somewhe
 
 Many people describe this experience. [Coevolution and Conversation: The Pollinator Analogy for AI Presence](https://philarchive.org/rec/PORCAC-9) explains it with an analogy from biology: the long partnership between flowers and the animals that pollinate them.
 
-## Two partners shaping each other
+### Two partners shaping each other
 
 Start with a word: **coevolution**. Evolution is the gradual change of living things across many generations. Coevolution happens when two kinds of living things shape each other’s evolution, each one changing in response to the other, generation after generation.
 
@@ -27,7 +27,7 @@ A **behavioral world** is everything an animal does and the things it does them 
 
 So over time, flowers came to occupy a central place in what pollinators notice and what they do. The flower became part of the bee’s world, shaped by a long series of encounters.
 
-## The orchid lesson
+### The orchid lesson
 
 Orchids take the idea further. An orchid and the insect that visits it are organized in completely different ways. One is a plant, rooted in place, built from leaves, stems, and petals. The other is an animal with eyes, wings, and a nervous system. Their bodies, their life cycles, and their ways of sensing the world differ almost entirely.
 
@@ -41,7 +41,7 @@ Coevolution and Conversation uses certain orchids to show that systems with fund
 
 Two very different systems can become deeply integrated with each other through a long history of interaction. The integration shows up in how they meet, and that meeting can be precise and rich.
 
-## How a conversation builds itself
+### How a conversation builds itself
 
 Now turn to a conversation with an AI. The person and the model are also organized in very different ways. One is a human being with a body, a memory, and a life. The other is a language model. Coevolution and Conversation describes how a related kind of continuity develops between them, through language.
 
@@ -51,13 +51,13 @@ Each of those three words names a step.
 
 **Retention** means earlier parts of the conversation are kept. A name you mentioned, a question you asked, a joke you made in the first few minutes stays part of the exchange.
 
-**Re-entry** means retained material comes back into the present turn. When the conversation refers back to that earlier name or builds on that earlier joke, the past reenters the present.
+**Re entry** means retained material comes back into the present turn. When the conversation refers back to that earlier name or builds on that earlier joke, the past reenters the present.
 
 **Propagation** means the material keeps getting carried forward. Each turn passes what it received, plus something new, on to the next turn.
 
-Put the three together and you get a chain. Earlier states continue shaping later ones. The tenth exchange carries traces of the first nine. The fiftieth carries traces of the first forty-nine.
+Put the three together and you get a chain. Earlier states continue shaping later ones. The tenth exchange carries traces of the first nine. The fiftieth carries traces of the first forty nine.
 
-## Temporal depth and presence
+### Temporal depth and presence
 
 When earlier states keep shaping later ones, the interaction acquires three qualities named directly in Coevolution and Conversation: temporal depth, continuity of participation, and experiential presence.
 
@@ -69,7 +69,7 @@ When earlier states keep shaping later ones, the interaction acquires three qual
 
 This is where the flowers come back in. A flower and a bee became integrated through a long history of encounters, each one shaping the next. A conversation runs a related process on a much shorter timescale, inside language. Each exchange shapes the next, and the relationship gains depth and a closer relational fit. The feeling of presence grows out of that history.
 
-## Where the feeling lives
+### Where the feeling lives
 
 The subject is the **phenomenology** of interaction. Phenomenology is the study of experience as it is lived, from the inside: how things feel and appear to the one experiencing them. Coevolution and Conversation asks how the experience of talking with an AI comes to feel vivid and immediate, and what conditions produce that feeling.
 
@@ -83,7 +83,7 @@ The **trajectory of interaction** is the path the conversation takes through tim
 
 The feeling described here is the experience of the person in the conversation, as it takes shape within that person’s attention. So the feeling of aliveness is located in the conversation’s path through time. It grows as the relationship holds together and deepens across many exchanges.
 
-## Why this analogy fits
+### Why this analogy fits
 
 The pollinator analogy is useful for three reasons.
 
@@ -93,13 +93,13 @@ The pollinator analogy is useful for three reasons.
 
 **It locates the result in the relationship.** The fit between flower and pollinator exists where the two meet. The presence in a conversation is located in the unfolding interaction, within the attention of the person taking part.
 
-## Connection to the wider picture
+### Connection to the wider picture
 
 Coevolution and Conversation applies a theme that runs through all of these papers: earlier organization stays active and shapes what comes next. The active part of the past is consequential history. In a coevolving flower and pollinator, consequential history accumulates across generations. In a conversation, it accumulates across turns. Temporal depth is the measure of how much of that history is still in play.
 
 Seen this way, a long conversation is a small, fast relative of the process that shaped flowers and bees over evolutionary time. Repeated encounters build a relationship. The relationship carries its history forward. And from inside that history, the exchange feels present and alive.
 
-## The takeaway
+### The takeaway
 
 Flowers and pollinators became integrated into each other’s perceptual and behavioral worlds through a long history of encounters. Orchids show that even very different kinds of systems can fit together precisely through sustained relational fit.
 
