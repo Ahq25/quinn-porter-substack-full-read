@@ -128,7 +128,7 @@ The mechanisms differ by domain. The organizational form remains the same: histo
 
 ## The whole sequence
 
-THIR fills the interval between recognition and incorporation.
+THIR names the stabilized interface that can form between recognition and incorporation.
 
 Consequential history gives the receiver a structured past.
 
