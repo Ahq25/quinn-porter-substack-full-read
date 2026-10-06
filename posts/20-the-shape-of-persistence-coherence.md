@@ -54,6 +54,6 @@ This paper carries the continuity from persistence to an interior. At R★, reta
 
 Full paper on PhilArchive: [The Shape of Persistence: Coherence, Interior Time, and Aleph Harmonic Qualia](https://philarchive.org/rec/PORTSO-18)
 
-Before this: [The Law of Self-Maintained Invariance](https://ahq25.substack.com/p/the-law-of-self maintained-invariance).
+Before this: [The Law of Self-Maintained Invariance](https://ahq25.substack.com/p/the-law-of-self-maintained-invariance).
 
 Next: [The Ostiary Principle](https://ahq25.substack.com/p/the-ostiary-principle-boundary-recognition), on the boundary where carried history meets each arrival.
