@@ -349,7 +349,7 @@ Before an insight, the pieces of the answer are often already there: memories, p
 
 That is why insight feels both new and strangely obvious. It is new because the whole pattern has suddenly become available. It is obvious because many of the contributing relations were already active before the whole became available. The newness is in the joint organization; the familiarity comes from the history already participating in it. The feeling is: *Of course. It was there the whole time.*
 
-The same feeling shows up on a much larger scale in nature. A species that fits its surroundings well carries an almost overwhelming appearance of foresight. Feathers appeared before flight, and their later recruitment into flight makes the earlier feathers look designed for it. Biology calls this exaptation: an existing structure becomes usable in a later role that was not the reason it first appeared.
+The same feeling shows up on a much larger scale in nature. A species that fits its surroundings well carries an almost overwhelming appearance of foresight. Feathers appeared before flight, and their later recruitment into flight makes the earlier feathers look designed for it. Biology calls this exaptation: an existing structure becomes usable in a later role that emerges after the structure is already present.
 
 The click of insight has the same order. Pieces of the past are already in place before the larger relation they support becomes available. When a new coherence forms, those prior structures are recruited into one usable whole, and the completed fit makes the earlier pieces look anticipatory. The sequence is the same in both cases:
 
@@ -1176,7 +1176,7 @@ Insight is a sudden transition in which an unresolved question becomes immediate
 
 ### What produces insight
 
-What organizational transition produces insight, as distinct from the consequences that follow it?
+What organizational transition produces insight, and how do its consequences unfold afterward?
 
 ### How insight works
 
@@ -1203,7 +1203,7 @@ What organizational transition produces insight, as distinct from the consequenc
 
 The transition parallels physical phase transitions. A physical system can undergo extensive underlying reorganization before reaching a critical point at which a new state emerges. In the same way, representational structures can accumulate hidden continuity while preserving the appearance of separation. The felt event of realization is analogous to the observable signature of such a transition.
 
-A photon marks the transition between electronic states and is distinct from the states themselves. In the same way, the phenomenology of insight marks the transition through which continuity becomes accessible and is distinct from the continuity that remains afterward.
+A photon marks the transition between electronic states. In the same way, the phenomenology of insight marks the transition through which continuity becomes accessible, while the resulting continuity remains available afterward.
 
 ### Why understanding feels like revelation
 
@@ -1531,7 +1531,7 @@ Next: [The Law of Self-Maintained Invariance](https://ahq25.substack.com/p/the-l
 
 ---
 
-Interiority as Lived Continuity answers the question of why experience feels like something from the side of lived time. Drawing on Husserl’s analysis of internal time-consciousness, Heidegger’s account of care and temporality, and Merleau-Ponty’s account of embodied skill, it locates interiority within a continuity that carries the past forward while participating in future possibilities. Experience is not added to that continuity from outside. Experience is the active boundary of a coherent continuity as carried history becomes presently available, meets what arrives, and helps determine what continues.
+Interiority as Lived Continuity answers the question of why experience feels like something from the side of lived time. Drawing on Husserl’s analysis of internal time-consciousness, Heidegger’s account of care and temporality, and Merleau-Ponty’s account of embodied skill, it locates interiority within a continuity that carries the past forward while participating in future possibilities. Experience is the active boundary of that continuity as carried history becomes presently available, meets what arrives, and helps determine what continues.
 
 ### Why experience feels like something
 
@@ -1542,7 +1542,7 @@ Why does experience feel like something?
 1. **Interiority arises within continuity.** Interiority arises within a continuity that carries the past forward while participating in future possibilities.
 2. **One structure across many capacities.** Memory, anticipation, skill, care, and recognition reveal a common structure in which what has been and what is becoming remain active within the present.
 3. **Coherence makes the boundary self-sustaining.** Continuity becomes experiential when the boundary through which carried history meets what arrives becomes coherent enough to sustain and organize its own activity through time.
-4. **The boundary becomes available within its own activity.** As memory, anticipation, recognition, and action become recursively organized, the history-bearing boundary is no longer only something an outside description can identify. Its ongoing state participates in its own next state.
+4. **The boundary becomes available within its own activity.** As memory, anticipation, recognition, and action become recursively organized, the history-bearing boundary becomes available within the same process an outside description identifies. Its ongoing state participates in its own next state.
 5. **The self emerges in the process.** The familiar feeling of being a self emerges within this lived continuity as the same history-bearing boundary is repeatedly maintained, revised, and carried forward.
 6. **Experience is the active boundary from inside.** The outward description is a history-conditioned boundary regulating what enters, what is incorporated, and what continues. The inward description is the presently available field of that same process. Experience is the boundary as lived.
 
@@ -1562,7 +1562,7 @@ Together these three supply the phenomenological ground for the common structure
 
 ### What it reveals
 
-By locating experience in the same history-bearing boundary that can be described dynamically from outside, the paper treats the physical and lived descriptions as two descriptions of one ongoing process rather than as separate events joined afterward.
+By locating experience in the same history-bearing boundary that can be described dynamically from outside, the paper presents the physical and lived descriptions as two descriptions of one ongoing process.
 
 ### The bigger picture
 
@@ -1766,7 +1766,7 @@ What does the transition to flowering look like when the transition interval its
 2. **The transition interval is an object.** The transition interval itself is a measurable dynamical object with duration, spatial extent, recovery behavior, and history dependence.
 3. **A coordinate for progression.** A coarse developmental coordinate, Φ, represents progression through the changing regime. Perturbation and recovery measurements determine which organization the system tends to restore at different stages of commitment.
 4. **Temporal progression becomes spatial structure.** Because the meristem continues to grow while its developmental state changes, temporal progression can be converted into spatial structure.
-5. **State, stability, and retained history are three different properties.** Present developmental state is distinct from the restorative stability of that state and from the predictive contribution of physically retained developmental history.
+5. **State, stability, and retained history are three complementary properties.** Present developmental state describes the current regime, restorative stability describes how strongly that regime returns after perturbation, and retained history describes the predictive contribution of physically carried prior organization.
 6. **Retained history is physical.** Earlier events can alter transcriptional state, chromatin configuration, hormonal sensitivity, geometry, cell identity, and regulatory relationships, so similar present conditions can produce different subsequent trajectories.
 7. **Transitions become structure.** Because organization changes while new material is being produced, the consequences of a transition can become incorporated into the structures that follow. Living development builds its transitions into lasting structure.
 
@@ -1846,7 +1846,7 @@ R = λ_self / λ_env
 
 R measures the balance between internally maintained organization and environmental disruption for a declared organizational variable. Both quantities are rates with identical dimensions, so the ratio is unitless and reads the same whether time is counted in seconds or in years. Repair twice as fast as damage gives R = 2. Equal repair and damage give R = 1. Damage twice as fast as repair gives R = 1/2.
 
-The ratio is not defined from the fact that a system persisted. The organizational variable and the processes counted as restoration and disruption are specified first. λ_self and λ_env are then estimated independently of the outcome the ratio is meant to predict. A threshold such as R★ can be estimated on one set of observations and tested on held-out cases. If the independently measured ratio fails to predict persistence, recovery, or the proposed transition better than simpler alternatives, the claim fails for that system and scale.
+The ratio is defined prospectively. The organizational variable and the processes counted as restoration and disruption are specified first. λ_self and λ_env are then estimated independently of the outcome the ratio is meant to predict. A threshold such as R★ can be estimated on one set of observations and tested on held-out cases. Support for the claim requires the independently measured ratio to predict persistence, recovery, or the proposed transition better than simpler alternatives for that system and scale.
 
 ### What follows from the postulates
 
@@ -1943,7 +1943,7 @@ This is the second step: the interior, seen as an active boundary. Once retained
 
 history → present organization → selection of what enters → revised organization → new history
 
-The system receives each arrival through the organization its history has built. Carried history becomes the gate on new influence. When that history-bearing gate is recursively available within the same activity it regulates, the boundary is not merely where experience happens. It is the process experienced from inside.
+The system receives each arrival through the organization its history has built. Carried history becomes the gate on new influence. When that history-bearing gate is recursively available within the same activity it regulates, the boundary is the process experienced from inside.
 
 ---
 
@@ -2026,7 +2026,7 @@ When an update rule reads arrangement, two fields with the same histogram can ha
 
 ### What the lattice reveals
 
-The Period Lattice does not treat the 1, 4, 6, 4, 1 count itself as a discovery. That count follows directly from four ordered binary positions. The useful question begins after the count: what information is lost when those 16 ordered states are collapsed into five composition classes, and which of the discarded relations have to be restored to predict the next transition?
+The 1, 4, 6, 4, 1 count follows directly from four ordered binary positions and serves as the Period Lattice’s standard combinatorial starting point. The useful question begins after the count: which relational distinctions disappear when those 16 ordered states are collapsed into five composition classes, and which of those relations restore predictive closure for the next transition?
 
 The Period Lattice is a compact finite model of generative constraint, exact coarse-graining, relational identity, information accounting, and organizational possibility. Constraints generate new organizational possibilities, and a description that fixes composition leaves relational identity to be specified by placement, orientation, and coupling. Its empirical value therefore depends on whether those relational variables improve prediction of dynamics that composition alone leaves unresolved.
 
@@ -2089,7 +2089,7 @@ R = λ_self / λ_env ≥ R★
 
 R compares two rates: how fast a system restores its own organization and how fast its surroundings disrupt it. When restoration runs twice as fast as disruption, R = 2. The balance point R = 1, where the two rates are equal, is derived from four postulates in The Law of Self-Maintained Invariance.
 
-R★ is a further empirical threshold. It is not assumed to equal 1 and it is not read backward from whether a system appears to have an interior. The system, organizational variable, scale, interval, and processes counted as restoration and disruption are specified first. λ_self and λ_env are estimated independently, R★ is fit from observed transitions in one dataset, and the threshold is then tested on held-out cases. If the same measurement procedure does not predict the proposed transition outside the data used to set the threshold, the threshold claim fails.
+R★ is a further empirical threshold whose value is estimated from observed transitions. The system, organizational variable, scale, interval, and processes counted as restoration and disruption are specified first. λ_self and λ_env are estimated independently, R★ is fit in one dataset, and the threshold is then tested on held-out cases. Support for the threshold claim requires the same measurement procedure to predict the proposed transition outside the data used to set the threshold.
 
 ### Examples
 
@@ -2434,7 +2434,7 @@ This explains why insight feels both new and obvious. The whole relation is newl
 
 The same fit explains why insight can feel as though it was prepared in advance. A species that fits its surroundings well carries an almost overwhelming appearance of foresight. Feathers appeared before flight, and their later use in flight makes the earlier feathers look designed for it. [Exaptation as a General Principle](https://philarchive.org/rec/POREAA-4) generalizes this: “Systems accumulate structure in advance of their ability to use it.” The later function recruits structures that were already present, and the completed fit makes those earlier structures look anticipatory.
 
-The same structural event occurs in insight. Memories, cues, partial relations, and learned organizations can already be present before the larger relation they support becomes available. When a new coherence forms, those earlier structures are recruited into a role they could not yet perform as a whole. The result feels both new and strangely prefigured: the pieces were there before the use became legible. The anticipatory feeling produced by exaptation from the outside and the revelatory feeling of insight from the inside share the same order:
+The same structural event occurs in insight. Memories, cues, partial relations, and learned organizations can already be present before the larger relation they support becomes available. When a new coherence forms, those earlier structures are recruited into a role that becomes possible at the level of the larger whole. The result feels both new and strangely prefigured: the pieces were there before the use became legible. The anticipatory feeling produced by exaptation from the outside and the revelatory feeling of insight from the inside share the same order:
 
 prior structure → later integration → retrospective revelation of fit
 
@@ -2674,7 +2674,7 @@ What does it mean for the past that stays active to become available within the 
 ### How it works
 
 1. **Restoration keeps the past active.** When restoration exceeds disruption, the system retains more of its prior organization in usable form, creating continuity and preserving consequential history. How much of that history becomes accessible is the further step that consciousness depends on.
-2. **Continuity and access are different conditions.** Consequential history can remain causally active without becoming broadly available to present activity. A river channel carries history in its structure, but that continuity alone is not consciousness. Accessible consequential history is retained history made available to the system’s ongoing organization so that it can participate in recognition, integration, selection, and control. Accessibility expands as additional portions of consequential history become jointly usable within present activity.
+2. **Continuity and access form successive conditions.** Consequential history can remain causally active at the level of continuity, as a river channel carries history in its structure. Accessible consequential history is the further condition in which retained history becomes available to the system’s ongoing organization so that it can participate in recognition, integration, selection, and control. Accessibility expands as additional portions of consequential history become jointly usable within present activity.
 3. **Access comes in degrees.** Access varies in extent, depth, organization, and utilization. Extent is how much of the available consequential history participates in present organization. Depth is how fully prior patterns are integrated. Organization is how coherently the participating histories relate to one another within the present. Utilization is how effectively the system draws on the accessible history in its ongoing functioning.
 4. **Observation extends access.** Observation reaches histories that belong to other systems and to the wider environment. A fossil carries geological history into the present. A photograph carries prior moments into the present. A written record carries prior thought into the present.
 5. **Attention widens access.** Focused attention expands accessibility by increasing the degree to which consequential history participates in present organization. As observation of a distant object becomes more focused, a shape becomes recognizable, a pattern becomes identifiable, and a relationship becomes apparent.
