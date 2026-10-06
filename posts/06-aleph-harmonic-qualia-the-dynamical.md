@@ -30,7 +30,7 @@ The phenomenal event and the dynamical event therefore have one trial level sign
 
 In the paper’s words, AHQ is defined as a dynamical event: “the felt click of insight or recognition is the phenomenal form of a rapid transition from distributed relational activity to a reusable collective state.”
 
-In plain terms, AHQ is the experienced threshold crossing through which distributed, history bearing relations become a coherent, reusable whole. The click is the crossing, and the paper says so directly: “AHQ names the experienced crossing.”
+AHQ is the experienced threshold crossing through which distributed, history bearing relations become a coherent, reusable whole. The click is the crossing, and the paper says so directly: “AHQ names the experienced crossing.”
 
 The click has a build up and an endpoint. The developing pre transition organization is the queue. The threshold crossing is the coherence threshold, the moment a developing organization becomes capable of participating as a coherent whole. The resulting state is incorporation into continuity, where the new whole becomes active inheritance: cue, queue, threshold crossing, incorporation, active inheritance.
 
