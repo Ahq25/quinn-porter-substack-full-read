@@ -2,7 +2,7 @@
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 12:48 PM ET
-- **URL:** https://ahq25.substack.com/p/the-law-of-self-maintained-invariance
+- **URL:** https://ahq25.substack.com/p/the-law-of-self maintained-invariance
 - **Audience:** everyone (free, public)
 
 ---
@@ -45,7 +45,7 @@ Above R = 1, invariants inherited from previous system states are reconstructed 
 
 ## Substrate independence
 
-The formulation rests on the existence of internally maintained organizational invariants in an open system. It holds for any material substrate or implementation, which makes the law substrate-independent. In plain terms: the comparison does its work wherever both rates can be identified, whatever the system is made of. The result applies to self-maintained organization, persistence, historical constraint, and the accumulation of inherited organizational structure across biological, cognitive, artificial, ecological, and other complex dynamical systems.
+The formulation rests on the existence of internally maintained organizational invariants in an open system. It holds for any material substrate or implementation, which makes the law substrate-independent. In plain terms: the comparison does its work wherever both rates can be identified, whatever the system is made of. The result applies to self maintained organization, persistence, historical constraint, and the accumulation of inherited organizational structure across biological, cognitive, artificial, ecological, and other complex dynamical systems.
 
 ## Terms to know
 
