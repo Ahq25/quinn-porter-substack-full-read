@@ -31,7 +31,7 @@ What does the transition to flowering look like when the transition interval its
 - **Multistable network.** A gene-regulatory network with more than one stable regime it can settle into.
 - **Φ.** A coarse developmental coordinate that represents progression through the changing regime. In plain terms: how far along the switch to flowering the tissue has moved.
 - **R.** Local restorative dominance under a specified perturbation class. In plain terms: after a nudge of a given kind, how strongly the tissue returns to the organization it was holding.
-- **CHpred.** The additional predictive contribution of retained history. In plain terms: how much better future development is predicted when history-bearing variables are added to everything else measured now.
+- **CHpred.** The additional predictive contribution of retained history. In plain terms: how much better future development is predicted when history bearing variables are added to everything else measured now.
 - **Observational grain.** The level of detail at which the system is measured. CHpred is defined at a specified grain.
 
 ## Three things to measure
@@ -40,7 +40,7 @@ What does the transition to flowering look like when the transition interval its
 - **R** describes local restorative dominance under a specified perturbation class.
 - **CHpred** describes the additional predictive contribution of retained history.
 
-Retained history is operationalized at a specified observational grain by asking whether designated history-bearing variables improve prediction of future development beyond other presently measured state variables and environmental inputs.
+Retained history is operationalized at a specified observational grain by asking whether designated history bearing variables improve prediction of future development beyond other presently measured state variables and environmental inputs.
 
 ## What experiments can check
 
