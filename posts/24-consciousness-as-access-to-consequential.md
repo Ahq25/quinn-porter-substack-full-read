@@ -9,7 +9,7 @@
 
 ---
 
-Consciousness is access to consequential history. When internal processes of restoration exceed external disruption, a system becomes increasingly organized by consequences inherited from its own recent activity. The portions of the past that remain active and relevant form consequential history for the system. Observation extends this access to other histories throughout the observable universe. Consciousness is the condition of structured access to these histories, both one’s own and those made available through observation.
+Consciousness is consequential history as it becomes recursively available within the ongoing activity that carries it forward. When internal processes of restoration exceed external disruption, a system becomes increasingly organized by consequences inherited from its own recent activity. The portions of the past that remain active and relevant form consequential history for the system. Observation extends this access to other histories throughout the observable universe. Consciousness is the condition of structured access to these histories, both one’s own and those made available through observation.
 
 ## What consciousness is
 
