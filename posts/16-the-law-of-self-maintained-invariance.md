@@ -2,7 +2,7 @@
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 12:48 PM ET
-- **URL:** https://ahq25.substack.com/p/the-law-of-self maintained-invariance
+- **URL:** https://ahq25.substack.com/p/the-law-of-self-maintained-invariance
 - **Audience:** everyone (free, public)
 
 ---
