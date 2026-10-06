@@ -32,14 +32,15 @@ How does anything stay identifiable while it changes continuously?
 - **Identity.** Continuity of inherited consequence. In plain terms: you are the same thing over time because the consequences of your earlier states keep carrying through.
 - **Continuity.** Whether earlier organization still influences the present.
 - **Accessibility.** How much of that inherited organization is available to the system’s present activity.
-- **Recognition.** Consequential history that remains accessible within present activity.
+- **Recognition.** In its minimal form, history dependent discrimination in which current input is evaluated through carried organization. In its conscious form, the recognized relation is recursively available within the ongoing activity that carries and uses it.
 
 ### One scale of access
 
 Persistence, identity, recognition, intelligibility, consciousness, and insight lie on one continuous scale. Each one is consequential history operating at a different degree of accessibility:
 
 - in **persistence**, earlier consequences remain active;
-- in **recognition**, they remain accessible within present activity;
+- in **minimal recognition**, carried history shapes discrimination within present activity;
+- in **conscious recognition**, the recognized relation becomes recursively available within the ongoing activity that carries and uses it;
 - in **conscious experience**, consequential history becomes recursively available within the activity carrying it forward;
 - in **insight**, continuity that was out of reach becomes directly available.
 
