@@ -9,7 +9,7 @@
 
 ---
 
-One causal continuity develops through increasingly organized forms. Each stage carries forward the conditions established by the one before it.
+This post is the central map of the program. One causal continuity develops through increasingly organized forms, and each stage carries forward the conditions established by the one before it.
 
 1. **Persistence.** Organization continues when restoration carries it forward strongly enough relative to disruption.
 2. **Consequential history.** Earlier organization remains causally active in later states.
