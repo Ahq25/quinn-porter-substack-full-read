@@ -64,6 +64,10 @@
 
 ## About
 
+### Reading map
+
+For a first read, Post 22 gives the central map of the program. Posts 16, 19, 17, 08, 24, and 25 develop the law, ratio, active boundary, awareness, consciousness, and measurement layers. Posts 02 through 05 supply the main pictures. Posts 09, 10, 15, 18, 26, and 27 extend the architecture into branching, synthetic morphology, development, exact combinatorics, scaling, and computation. Posts 28 through 30 develop symbolic attractors, recognition interfaces, and care.
+
 Persistence is a problem of continuity through change. Rivers remain recognizable while their water changes, organisms remain continuous while exchanging matter and undergoing development, and learned patterns remain effective even while the physical states carrying them continue to change. In each case, the present is partly organized by consequences that originated earlier and remained active long enough to influence what happens next. Consequential history names that causally active portion of the past. It is the part of prior organization whose effects are still participating in present organization and therefore still helping determine future organization.
 
 The corresponding process is active inheritance. Active inheritance is the continued causal participation of earlier organization within later organization. The physical carrier can change while causal continuity remains. A chemical signal can alter gene expression, altered gene expression can change protein production, those proteins can change tissue organization, and tissue organization can later affect behavior. A learned event can become a memory, an expectation, or a habit that continues shaping later perception and action. The important continuity is therefore the preservation or propagation of consequences that remain effective across changing states, whatever material happens to carry them.
@@ -2320,7 +2324,7 @@ Next: [Consciousness as Access to Consequential History](https://ahq25.substack.
 
 ---
 
-One causal continuity develops through increasingly organized forms. Each stage carries forward the conditions established by the one before it.
+This post is the central map of the program. One causal continuity develops through increasingly organized forms, and each stage carries forward the conditions established by the one before it.
 
 1. **Persistence.** Organization continues when restoration carries it forward strongly enough relative to disruption.
 2. **Consequential history.** Earlier organization remains causally active in later states.
@@ -2801,6 +2805,10 @@ Phenomenal experience is the intrinsic character of occupying this recursive int
 
 This identity claim gives experience a specific place in the causal sequence. Persistence supplies continuity. Interiority supplies a local causal inside. Recursive availability makes that inside available within its own continuation. Experience is the internally available form of that recursively organized boundary process.
 
+## A stable history bearing system and the conscious regime
+
+Strong persistence can support history dependent control at R above its local threshold while recursive availability remains at an earlier organizational depth. Such a system can use retained history to regulate local transitions and remain below the conscious regime defined here. Conscious organization begins when the history bearing state itself becomes available within the coordinating activity that uses it across the present. This separation assigns high R, gating, recurrence, and local integration to measurable precursor layers. Recursive availability supplies the further criterion for the conscious regime.
+
 ## Access has dimensions
 
 Access varies in extent, depth, organization, and use.
@@ -2882,6 +2890,16 @@ For interiority, the transition phenotype has three causal criteria.
 These criteria define the organizational transition independently of the numerical value of R★. The measured R values are then used to estimate where that independently specified transition occurs. A threshold estimated in one dataset is carried unchanged into held out cases.
 
 This gives R★ a direct empirical role. The transition is declared through causal behavior, the ratio is measured independently, and R★ is the value at which the declared behavior becomes reliably present.
+
+## Worked measurement example
+
+Take a bacterial membrane integrity score M measured on a standardized 0 to 1 scale after an osmotic pulse. Suppose recovery experiments estimate restoration of M at 0.12 score units per minute and matched perturbation experiments estimate revision of M at 0.08 score units per minute. Both rates refer to M over the same interval, so
+
+R = 0.12 / 0.08 = 1.5
+
+The transition phenotype is declared separately. Retained prehistory improves next state prediction, a measurable carrier survives into the present and changes later behavior when manipulated, and matched inputs are routed differently according to that carried state. Training observations then locate the R★ associated with that phenotype, and held out observations test the same value unchanged.
+
+The numerical values are illustrative. The measurement logic is concrete: one organizational variable, two independently estimated rates, one prospectively declared transition, and a threshold tested on new cases.
 
 ## A prospective protocol
 
@@ -3303,6 +3321,10 @@ The crossing makes the coherence jointly available.
 
 Incorporation carries the new whole forward.
 
+## A THIR event below AHQ
+
+THIR can be measured when present structure and carried history converge into a stable interface: recognition becomes faster, uncertainty contracts, state space trajectories converge, and the recognized configuration persists locally. AHQ adds a further event: the stabilized relation crosses into joint availability as a reusable whole and participates in later cognition or action. A trial can therefore score THIR from interface stabilization measures and score AHQ from the threshold crossing plus later reuse and, where applicable, the reported click. This creates cases in which THIR is present while the AHQ criteria remain below threshold, giving the two terms separate empirical roles.
+
 ## Predictive alignment
 
 The receiving system carries expectations formed from earlier history. These expectations shape which features of the arrival become salient and how quickly the relation stabilizes.
@@ -3423,6 +3445,12 @@ An active boundary carries history about which relations support continuation. T
 The ostiary principle gives this process a general form.
 
 Care appears when the system's history supports continued relation with what supports its own organization.
+
+## Care and regulation
+
+Generic set point regulation restores a variable. Care begins when accumulated history of a supporting relation changes which relation the system preserves, restores, approaches, or reestablishes because that relation has become part of the system's own continuity. The empirical marker is relational specificity across history: the system preferentially maintains a particular support because earlier dependence has become consequential history.
+
+This gives care three linked requirements: the relation contributes measurably to continuation, the system directs behavior toward preserving or restoring that relation, and accumulated history increases the specificity or precision of that preservation. These requirements make care a history bearing relation to support, continuous with regulation and richer as relational history accumulates.
 
 ## Care before reflective selfhood
 
