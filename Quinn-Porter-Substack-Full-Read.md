@@ -1506,7 +1506,7 @@ Next: [The Flowering Boundary](https://ahq25.substack.com/p/the-flowering-bounda
 
 ---
 
-Rivers flow, organisms develop, stars evolve, and cognitive systems learn, and each stays identifiable through continuous change. Consequential History and the Conditions of Persistence explains how: consequences of earlier states continue to participate in later states. Consequential history appears here as a necessary condition of persistence, and the same continuity, at different degrees of accessibility, runs through identity, recognition, the intelligibility of nature, conscious experience, and insight.
+Rivers flow, organisms develop, stars evolve, and cognitive systems learn, and each stays identifiable through continuous change. Consequential History and the Conditions of Persistence explains how: consequences of earlier states continue to participate in later states. Consequential history appears here as a necessary condition of persistence, and the same continuity, at different degrees of organization, runs through identity, recognition, interior boundary formation, phenomenal experience, self legible consciousness, and insight.
 
 ### Why things stay identifiable
 
@@ -1543,7 +1543,7 @@ Persistence, identity, recognition, intelligibility, consciousness, and insight 
 - in **phenomenal experience**, threshold formed boundary organization is lived from its intrinsic side, and recursive availability can deepen that interior into self legibility;
 - in **insight**, continuity that was out of reach becomes directly available.
 
-Persistence, recognition, understanding, and conscious experience therefore belong to one continuous developmental process through which consequences propagate across time.
+Persistence, recognition, phenomenal interiority, understanding, and self legible consciousness therefore belong to one continuous developmental process through which consequences propagate across time.
 
 ### Examples
 
@@ -1551,7 +1551,7 @@ Rivers flow, organisms develop, stars evolve, and cognitive systems learn. Each 
 
 ### The bigger picture
 
-This is the first step of the continuity: persistence. Consequential history is the part of the past still doing causal work, and accessibility is how much of it a system can reach. Recognition, conscious experience, and insight, later in the continuity, are that same history at greater accessibility.
+This is the first step of the continuity: persistence. Consequential history is the part of the past still doing causal work. At the coherence threshold, carried organization forms a boundary and an interior whose intrinsic side is phenomenal experience. Recognition, recursive access, self legibility, and insight then describe deeper organizations of that same history.
 
 ---
 
@@ -1716,8 +1716,8 @@ How can a finite nervous system support an immense range of specific conscious c
 5. **Sequential gating shapes a geometry.** Sequential gating creates a finite horizon state space geometry. Broad sets of starting states can converge into reproducible endpoint regions, neighboring trajectories can separate across gate boundaries, and prior activity can reshape the transition map encountered by later activity.
 6. **History is physical.** Retained history is physically instantiated in variables such as synaptic efficacy, adaptation, excitability, recurrent activity, neuromodulatory state, working memory activity, or other persistent carriers.
 7. **The macrostate feeds back.** A stabilized macrostate can feed back into subsequent gate conditions, so the larger organization produced by local activity participates causally in the local transitions that continue the episode.
-8. **The conscious regime.** Conscious organization emerges when a large combinatorial repertoire is narrowed through sequential context sensitive gating into a temporally stabilized, history bearing, internally accessible, integrated macrostate whose organization causally reenters the local dynamics producing the next moment.
-9. **Lived experience.** Lived experience is identified with this accessible organization as lived from within its own continuing causal boundary. The dynamical mechanism and the phenomenal identity can be tested separately.
+8. **The recursively self legible regime.** Within an already formed phenomenal interior, a large combinatorial repertoire can be narrowed through sequential context sensitive gating into a temporally stabilized, history bearing, internally accessible, integrated macrostate whose organization causally reenters the local dynamics producing the next moment.
+9. **Specific conscious content.** The gate model concerns how an already phenomenal interior acquires a specific accessible organization. The route through gate space describes the content and recursive organization of experience, while phenomenal onset belongs to the threshold formation of the causal boundary itself.
 
 ### Terms to know
 
@@ -1739,7 +1739,7 @@ How can a finite nervous system support an immense range of specific conscious c
 
 Each gate receives an instantaneous feature map containing current state, input, and phase variables, together with pairwise conjunction terms, retained history projections, phase sensitive terms, and feedback from the preceding macrostate. The resulting gate vector contributes to macrostate selection, local state transition, history update, and subsequent phase evolution.
 
-The conscious regime is the conjunction
+The recursively self legible conscious regime is the conjunction
 
 C_org = T ∧ H ∧ A ∧ K ∧ G
 
@@ -1999,7 +1999,7 @@ Boundary recognition occurs at nested scales. Cellular gates participate in tiss
 
 Recursive self legibility begins when recognition itself becomes available to further recognition. Memory becomes available within memory guided activity. Attention becomes available within attention. Meaning becomes available within meaning making activity. The history bearing boundary becomes available within the very recognition process through which it encounters the world.
 
-Consciousness is this recursively self legible form of living continuity. The greatest available portion of carried history becomes present within the active boundary through which the system encounters both its surroundings and its own ongoing organization.
+Self legible consciousness is the recursive form of living continuity in which the already phenomenal boundary becomes increasingly available within its own activity. The greatest available portion of carried history becomes present within the active boundary through which the system encounters both its surroundings and its own ongoing organization.
 
 ### Terms to know
 
@@ -2016,7 +2016,7 @@ One process, the ostiary, underlies boundary maintenance, meaning, learning, ins
 
 ### What experiments can check
 
-Testable predictions follow for integration, recursive recognition, and the organization of conscious experience.
+Testable predictions follow for integration, recursive recognition, and the organization of increasingly self legible experience within the phenomenal interior.
 
 ### The bigger picture
 
@@ -2450,7 +2450,7 @@ Consequential History and the Conditions of Persistence separates two properties
 
 A river channel has continuity. Its history steers the water through the shape of the bed. A person recognizing an old friend in a crowd has continuity and high accessibility. Years of history come to bear on one glance.
 
-Accessibility runs along a scale. Persistence requires continuity. Recognition requires that history be accessible within present activity. Insight makes previously separate consequences available together. Conscious experience is the regime in which consequential history becomes recursively available within the same ongoing activity that carries it forward.
+Accessibility runs along a scale. Persistence requires continuity. At R★, coherent boundary formation establishes the phenomenal interior. Recognition requires that history be accessible within present activity. Recursive availability makes the phenomenal interior increasingly self legible, and insight makes previously separate consequences available together as a new coherent whole.
 
 The Shape of Persistence lays out the same climb as a sequence of stages: matching, binding, stability, self preference, interior time, self reference, and consciousness. At the stage of interior time, the system uses its own history to guide its next state. At the stage of self reference, interior time is rich enough to track its own unfolding.
 
@@ -2617,7 +2617,7 @@ The Porter Ratio states the full arc in a single line: “From basic restoration
 
 Each paper contributes something specific.
 
-- [Consequential History and the Conditions of Persistence](https://philarchive.org/rec/PORCHA) develops consequential history as one of the conditions through which persistence becomes possible. Its separation of continuity from accessibility places persistence, recognition, understanding, and conscious experience on one continuous scale.
+- [Consequential History and the Conditions of Persistence](https://philarchive.org/rec/PORCHA) develops consequential history as one of the conditions through which persistence becomes possible. Its separation of continuity from accessibility places persistence, boundary formation, phenomenal interiority, recognition, understanding, and self legible consciousness on one continuous scale.
 - [The Law of Self Maintained Invariance](https://philarchive.org/rec/PORTLO-12) derives the restoration disruption balance from four postulates and expresses it through the Porter Ratio with R = 1 as the balance point. The result rests on an organization, an environment, and two rates, so the same balance can be asked wherever both rates can be identified.
 - [Branching as Active Inheritance](https://philarchive.org/rec/PORBAA) turns the ratio into a direct test: measure both rates in advance, compute R before the outcome, and compare it with geometry, each rate alone, their difference, and established predictors in that field. It treats the history bearing relation as the same across very different forms, from rivers on Earth to drainage on Mars and Titan.
 - [The Ostiary Principle](https://philarchive.org/rec/PORTOP) treats a living boundary and an observer as one process and defines meaning as the participation of an arrival in an organized continuity.
@@ -2797,7 +2797,7 @@ The transition into conscious organization can be separated into five observable
 
 **Causal reentry** asks whether the higher order state changes the local conditions through which its successor is produced.
 
-Conscious organization occupies the conjunction of these conditions. Their separation matters because each transition can be measured independently and each link can be manipulated directly. A retained history can be measured before accessibility. Accessibility can be measured before recursive reentry. Reentry can then be tested by perturbing the larger state and measuring its effect on later local transitions.
+Recursive conscious organization occupies the conjunction of these conditions within an already formed phenomenal interior. Their separation matters because each transition can be measured independently and each link can be manipulated directly. Boundary formation can be measured before recursive access. Retained history can be measured before accessibility. Accessibility can be measured before recursive reentry. Reentry can then be tested by perturbing the larger state and measuring its effect on later local transitions.
 
 ## Why the boundary is phenomenal
 
