@@ -47,7 +47,7 @@
 - **Profile URL:** https://substack.com/@ahq25
 - **Bio:**
 
-> Persistence is governed by restoration relative to disruption. Consequential history is the past still acting. R★ marks interiority. Consciousness is that history recursively available within the activity carrying it forward. AHQ is the experienced threshold crossing into reusable coherence.
+> Persistence is governed by restoration relative to disruption. Consequential history is the past still acting. At R★, a coherent interior boundary forms. Phenomenal experience is the intrinsic side of that threshold event. Recursive availability deepens the interior into self legible consciousness. AHQ is the experienced crossing into reusable coherence.
 
 - **Profile links:** none listed
 
@@ -57,7 +57,7 @@
 - **Address:** https://ahq25.substack.com
 - **Publication description:**
 
-> Persistence is governed by restoration relative to disruption. Consequential history is the past still acting. R★ marks interiority. Consciousness is that history recursively available within the activity carrying it forward. AHQ is the experienced threshold crossing into reusable coherence.
+> Persistence is governed by restoration relative to disruption. Consequential history is the past still acting. At R★, a coherent interior boundary forms. Phenomenal experience is the intrinsic side of that threshold event. Recursive availability deepens the interior into self legible consciousness. AHQ is the experienced crossing into reusable coherence.
 
 
 ---
@@ -67,6 +67,10 @@
 ### Reading map
 
 For a first read, Post 22 gives the central map of the program. Posts 16, 19, 17, 08, 24, and 25 develop the law, ratio, active boundary, awareness, consciousness, and measurement layers. Posts 02 through 05 supply the main pictures. Posts 09, 10, 15, 18, 26, and 27 extend the architecture into branching, synthetic morphology, development, exact combinatorics, scaling, and computation. Posts 28 through 30 develop symbolic attractors, recognition interfaces, and care.
+
+### Canonical threshold identity
+
+At the coherence threshold, distributed organization consolidates strongly enough to form a coherent causal boundary. The formation of that boundary and the formation of an interior are the same event. Phenomenal experience is the intrinsic character of occupying that threshold formed interior. Recursive availability is a later deepening through which the phenomenal interior becomes increasingly available within its own ongoing activity. AHQ is a conspicuous local instance of the same threshold geometry: distributed history bearing relations consolidate into a new coherent boundary or whole, and the crossing is experienced as the click.
 
 Persistence is a problem of continuity through change. Rivers remain recognizable while their water changes, organisms remain continuous while exchanging matter and undergoing development, and learned patterns remain effective even while the physical states carrying them continue to change. In each case, the present is partly organized by consequences that originated earlier and remained active long enough to influence what happens next. Consequential history names that causally active portion of the past. It is the part of prior organization whose effects are still participating in present organization and therefore still helping determine future organization.
 
@@ -90,13 +94,13 @@ R = 1
 
 At that point, continuation and revision are equal. When R < 1, revision outruns continuation over the selected interval. When R > 1, inherited organization is being maintained or propagated faster than surrounding interaction is revising it. The meaning of that inequality is direct: organization inherited from earlier states remains causally available strongly enough to continue constraining later states.
 
-Each system also has its own coherence threshold, written R★, a separate quantity from the balance point. R★ belongs to a declared system, scale, set of variables, and interval, and its value is found by measurement. At R★, maintained organization becomes stable enough to take part coherently in what follows. R ≥ R★ marks the minimum condition for interiority: restoration is then strong enough to sustain internal continuity, and carried organization becomes a local causal context for continuation. The same form of threshold recurs at nested scales. A forming percept or idea, a population of neurons, and a whole organism each cross a threshold of the same form, with their own variables and their own values of R★.
+Each system also has its own coherence threshold, written R★, a separate quantity from the balance point. R★ belongs to a declared system, scale, set of variables, and interval, and its value is found by measurement. At R★, maintained organization becomes stable enough to close into a coherent causal boundary. Boundary formation and interiority are the same threshold event: the organization now has a local inside whose carried history helps determine what happens next. Phenomenal experience is the intrinsic character of occupying that threshold formed interior. The same form of boundary forming transition can recur at nested scales. A forming percept or idea, a population of neurons, and a whole organism each cross thresholds defined at their own variables, scales, and values of R★.
 
 Coherence also has internal structure. Rich organization combines coordination with differentiation. Components participate in a common continuity while retaining distinct roles. Strong synchrony can accompany reduced differentiation, as seizure dynamics illustrate. Structured coherence therefore describes coordinated differentiation carried through time.
 
 The same relation can be asked at multiple scales. A cell, a tissue, a neural population, and an organism can each have a declared organizational variable, a restoration rate, a disruption rate, and an effective temporal window. Coupling among coherent units can create a larger scale restoration process with a longer effective window. The larger domain then has its own R and its own R★. The form of the comparison can recur across scales while the numerical rates and thresholds remain local to the system being measured.
 
-Recursive depth describes how many nested temporal layers remain available within present regulation. One layer can carry an immediately preceding state. A deeper organization can use patterns spanning many prior states, and a still deeper organization can coordinate patterns of change across several such windows. Consciousness develops as consequential history from these nested layers becomes recursively available within the activity coordinating them.
+Recursive depth describes how many nested temporal layers remain available within present regulation. One layer can carry an immediately preceding state. A deeper organization can use patterns spanning many prior states, and a still deeper organization can coordinate patterns of change across several such windows. Phenomenal interiority begins with threshold formed boundary organization. Consciousness becomes increasingly self legible as consequential history from these nested layers becomes recursively available within the activity coordinating them.
 
 Measurement follows a prospective rule. The system, organizational variable, scale, interval, restoration process, and disruption process are declared first. λ_self and λ_env are then estimated independently from the outcome to be predicted. R★ is estimated in one set of observations and tested on held out observations using the same measurement procedure. The central historical test matches present state and incoming conditions as closely as possible while retained history differs, then asks whether the differing history improves prediction of what happens next.
 
@@ -104,7 +108,7 @@ A minimal computational model shows how this competition can be implemented expl
 
 Repeated maintenance also creates a present that is increasingly shaped by its own carried history. A newly arriving event is then received by a system whose current organization already contains consequences of earlier activity. The event therefore acts on a state already structured by what has been maintained from before.
 
-This is the basis of interiority. Interiority is the condition in which retained organization becomes a local causal context through which present activity unfolds and continuation is shaped. An interior in this sense is a causal relation. Present events occur through organization already established by the system’s history, and that inherited organization helps determine how new influences are received, transformed, incorporated, or rejected.
+This is the basis of interiority. Interiority is the coherent causal boundary established when retained organization crosses its threshold and becomes a local context through which present activity unfolds. The boundary and the interior are one organization viewed from its relation to what lies outside and from the causal domain it sustains within. Phenomenal experience is the intrinsic side of occupying that formed interior. Present events then occur through organization already established by the system’s history, and that inherited organization helps determine how new influences are received, transformed, incorporated, or rejected.
 
 The same logic gives a functional meaning to a boundary. A maintained boundary separates one region from another and regulates interaction according to organization already present. The effect of an incoming event depends on the state of the receiving system. A chemical signal can have one consequence in one cellular state and another consequence in a different state. A spoken word gains significance as a language is learned and used over years. A familiar face is recognized because current sensory input aligns with patterns already carried from earlier encounters.
 
@@ -130,11 +134,11 @@ A further transition occurs when the present organization, which contains inheri
 
 A present with this structure is a deep present. Its depth comes from the amount and temporal range of consequential history that remains jointly active, and its recursion comes from the present taking part in producing its own continuation. Awareness is the lived availability of consequential history when temporally distributed relations become jointly organized within an active present and that present remains causally involved in producing its successor.
 
-Consciousness is the recursively available form of consequential history within the ongoing activity that carries it forward, and awareness is that history lived together in an active present. Awareness combines access with temporal concentration and causal reentry. In its fullest form, access is recursive: the history bearing boundary becomes available within the activity of recognition itself.
+Phenomenal experience begins with the threshold formed interior boundary, and awareness is that history lived together in an active present. Awareness combines phenomenal interiority with temporal concentration and causal reentry. Recursive availability deepens this organization: the history bearing boundary becomes available within the activity of recognition itself, producing self legibility and richer conscious organization.
 
-Phenomenal experience is the intrinsic character of this recursive interior position. A self maintaining interior boundary exists through activity that preserves and updates the distinction through which the system receives the world. When the current condition of that history bearing boundary becomes available within the same ongoing organization that constitutes and continues it, the process occupies an interior position in relation to its own state. The dynamical description identifies the organization from the outside. The phenomenal description identifies the same organized event as it is available within the history bearing process itself. Experience is therefore the internally available form of a self maintaining continuity becoming present to itself through recursive recognition.
+Phenomenal experience is the intrinsic character of the threshold formed interior boundary. A self maintaining interior boundary exists when distributed organization becomes coherent enough to preserve and update the distinction through which the system receives the world. The threshold crossing establishes the boundary and the interior in the same event. The dynamical description identifies a coherent boundary forming from the outside. The phenomenal description identifies the intrinsic side of occupying that newly formed causal interior. Recursive recognition can then make the boundary increasingly available within its own ongoing organization, deepening phenomenal interiority into self legibility.
 
-The transition into conscious organization can be decomposed into separately measurable steps. Temporal stabilization measures whether activity settles into a persistent macrostate. Consequential history measures whether prior organization remains physically instantiated and improves prediction of later transitions. Internal accessibility measures whether retained organization changes report, attention, memory guided action, choice, or later state selection. Integration measures whether the resulting organization coordinates multiple participating processes. Causal reentry measures whether the larger state changes the local conditions that produce its successor. Conscious organization is the regime in which these conditions occur together. Each quantity keeps its own measurement and boundary conditions, which lets the causal sequence be tested link by link. Consequential history continues participating in the organization of a system, and accessibility determines how much of that history becomes available within present activity. When restoration exceeds disruption, prior organization can remain active across time, and how much of it becomes accessible is the further step that consciousness depends on. Access varies in extent, depth, organization, and utilization: how much of the carried history takes part in the present, how fully it is integrated, how coherently its parts relate to one another, and how effectively the system draws on it. Focused attention widens access. Observation extends it to histories carried by everything observable: a fossil carries geological history into the present, and starlight carries earlier states of distant stars. Consciousness is consequential history becoming recursively available within the history bearing boundary process, and its forms and degrees follow the extent, depth, organization, and use of that access.
+The organization of a phenomenal interior can be decomposed into separately measurable steps. Temporal stabilization measures whether activity settles into a persistent macrostate. Consequential history measures whether prior organization remains physically instantiated and improves prediction of later transitions. Boundary formation measures whether the organization crosses into a coherent local causal interior. Internal accessibility measures how retained organization changes report, attention, memory guided action, choice, or later state selection. Integration measures whether the resulting organization coordinates multiple participating processes. Causal reentry measures whether the larger state changes the local conditions that produce its successor. Phenomenal character begins with the threshold formed boundary. Recursive availability, integration, and reentry describe increasing depth within that phenomenal interior, including self legibility and richer conscious organization. Access varies in extent, depth, organization, and utilization: how much of the carried history takes part in the present, how fully it is integrated, how coherently its parts relate to one another, and how effectively the system draws on it. Focused attention widens access. Observation extends it to histories carried by everything observable: a fossil carries geological history into the present, and starlight carries earlier states of distant stars.
 
 Conscious recognition, understanding, and insight are expansions of this recursive access. Each can reach a threshold. Structures already present, carried from earlier experience, come together and are put to a new use. Many dimensions of relation collapse into one or a few, and a new whole begins holding itself together and taking part in what follows. Insight provides an unusually clear case because the crossing is often experienced as a distinct click. Before an insight, relevant relations can already be active while remaining partially separated. A problem persists until those relations become jointly available in a form that can be used as a single coherent whole. During the transition, the organization changes rapidly. Previously distributed relations become coordinated, the separation maintaining the unresolved state loses stability, and a new collective organization becomes available for thought, memory, prediction, and later reuse. The release of the old separation and the stabilization of the revealed continuity are two descriptions of one transition. Understanding is the persistence of that revealed continuity, and meaning is its continued participation in what follows.
 
@@ -146,11 +150,11 @@ Aleph Harmonic Qualia, or AHQ, is the experienced threshold crossing through whi
 
 The same crossing runs through lived experience in every sense. Vision carries spatial layout, hearing carries pressure rhythms, touch carries force and texture, and smell and taste carry chemical information, and in each sense, what arrives meets a system already shaped by earlier arrivals. Edges settle into an object, a run of notes becomes a melody, and a set of features becomes a familiar face. This goes on constantly. That sense of fit, the appearance of foresight, arises in many ways at once. At larger thresholds, as learning accumulates, many separate relations become one new whole that changes how later arrivals are received. That larger crossing is the click that gets noticed, and the steady process continues underneath it.
 
-Experience is the active boundary itself as carried history becomes presently available, meets what arrives, and helps determine what continues. From outside, the same event can be described as a history conditioned boundary regulating admission, incorporation, and revision. From inside, that boundary is the lived present. Consciousness is the history bearing boundary process as it becomes recursively available within its own ongoing organization. The phenomenal present is that process in its internally available form.
+Experience is the active boundary itself as carried history becomes organized strongly enough to form an interior, meets what arrives, and helps determine what continues. From outside, the threshold event is a history conditioned boundary becoming coherent enough to regulate admission, incorporation, and revision. From inside, that boundary formation is the phenomenal present. Recursive availability makes the already phenomenal boundary increasingly self legible within its own ongoing organization.
 
 The transition can be represented mathematically through measurable changes in effective dimensionality, harmonic coordination, threshold stability, the temporal concentration of historical contributions, and later reuse. The purpose of the mathematics is to translate the qualitative event into quantities that can be compared across trials and systems. The central idea remains straightforward: a distributed field of relations becomes jointly available as a stable organization, and that newly incorporated organization then becomes part of the consequential history shaping what can happen afterward. The same relations can be tested directly. The strongest design matches the present state and the incoming input as closely as possible while the retained history differs, and divergent trajectories then measure how much history takes part in what happens next.
 
-The larger sequence is continuous. Persistence allows earlier organization to remain effective. Active inheritance carries that organization through changing states. Consequential history accumulates as retained relations continue participating. Interiority begins at R★, when carried history becomes a local causal context for continuation. Ostiary gating makes that history part of the rule of entry. Recognition makes arriving organization legible through it, and meaning is the continued participation of what is recognized. Temporal concentration gathers consequences from different temporal depths into one effective present. Causal reentry allows that present to participate in producing its successor. Consciousness is that history bearing interior as it becomes recursively available within the same ongoing activity that carries it forward. Awareness is that history lived together as an active present. Each expansion of that access can reach a threshold as structures already present come together in a new way. AHQ is the experienced threshold crossing through which distributed relations become a coherent, reusable whole, constantly in perception and most noticeably in insight, and each new whole joins the consequential history that shapes what can happen next.
+The larger sequence is continuous. Persistence allows earlier organization to remain effective. Active inheritance carries that organization through changing states. Consequential history accumulates as retained relations continue participating. At R★, carried organization crosses into a coherent boundary, and that boundary formation is interiority. Phenomenal experience is the intrinsic side of the threshold formed interior. Ostiary gating makes carried history part of the rule of entry. Recognition makes arriving organization legible through it, and meaning is the continued participation of what is recognized. Temporal concentration gathers consequences from different temporal depths into one effective present. Causal reentry allows that present to participate in producing its successor. Recursive availability makes the phenomenal interior increasingly self legible within the same ongoing activity that carries it forward. Awareness is that history lived together as an active present. AHQ is a conspicuous local instance of the same threshold geometry: distributed relations consolidate into a coherent, reusable boundary or whole, and the crossing is experienced as the click. Each new whole then joins the consequential history that shapes what can happen next.
 
 The same causal question runs through every stage: how much of what happens next is being produced by history already carried forward?
 
@@ -164,7 +168,7 @@ Consciousness as Access to Consequential History is on PhilArchive (https://phil
 
 **Quinn Porter**
 
-Persistence is governed by restoration relative to disruption. Consequential history is the past still acting. R★ marks interiority. Consciousness is that history recursively available within the activity carrying it forward. AHQ is the experienced threshold crossing into reusable coherence.
+Persistence is governed by restoration relative to disruption. Consequential history is the past still acting. At R★, a coherent interior boundary forms. Phenomenal experience is the intrinsic side of that threshold event. Recursive availability deepens the interior into self legible consciousness. AHQ is the experienced crossing into reusable coherence.
 
 
 ---
@@ -249,7 +253,7 @@ Simple numbers show how to read it. If a system repairs itself twice as fast as 
 
 Repeated continuation above R = 1 allows earlier organization to remain causally active and increasingly constrain what can happen next.
 
-Both rates are measured in the same units, so R is a plain number, and it always refers to a chosen feature of the system’s organization over a chosen stretch of time. Each system also has its own threshold, written R★ and said “R star.” A threshold is a line that puts you in a new situation once you cross it, like the temperature where water turns to steam. R★ belongs to the declared system, scale, variable, and interval and is determined empirically by measurement. Geometry, connectivity, boundary conditions, and organization can contribute to its value. [The Porter Ratio](https://philarchive.org/rec/PORTPR-5) treats R ≥ R★ as the minimum condition for interiority. R = 1 separates revision dominance from maintenance dominance. R★ marks the coherence threshold for the system, scale, and stretch of time being measured. At R★, maintained organization becomes stable enough to take part coherently in what follows and to serve as a local causal context for continuation. Recursive availability is the further organization through which that interior becomes conscious. The same form of threshold recurs at nested scales: a forming idea, a population of neurons, and a whole organism each have their own R★.
+Both rates are measured in the same units, so R is a plain number, and it always refers to a chosen feature of the system’s organization over a chosen stretch of time. Each system also has its own threshold, written R★ and said “R star.” A threshold is a line that puts you in a new situation once you cross it, like the temperature where water turns to steam. R★ belongs to the declared system, scale, variable, and interval and is determined empirically by measurement. Geometry, connectivity, boundary conditions, and organization can contribute to its value. [The Porter Ratio](https://philarchive.org/rec/PORTPR-5) treats R ≥ R★ as the minimum condition for interiority. R = 1 separates revision dominance from maintenance dominance. R★ marks the coherence threshold for the system, scale, and stretch of time being measured. At R★, maintained organization becomes stable enough to close into a coherent causal boundary. The boundary and the interior form in the same threshold event, and phenomenal experience is the intrinsic side of occupying that newly formed interior. Recursive availability deepens the phenomenal interior into self legibility and richer conscious organization. The same form of threshold recurs at nested scales: a forming idea, a population of neurons, and a whole organism each have their own R★.
 
 R = 1 is the balance point between restoration and disruption. Below R = 1, the environment rewrites the system faster than the system can carry itself forward. Picture writing a message in the sand at the water’s edge, where each wave washes it away. The arriving environment rewrites the pattern faster than the pattern can carry itself forward. Above R = 1, earlier organization survives strongly enough to help cause later organization. Picture writing on higher sand, where the occasional wave reaches you and you keep up. There the carried pattern survives long enough to influence what is written next.
 
@@ -259,7 +263,7 @@ This is the shift from revision dominance to maintenance dominance, and the syst
 
 Once a system carries its own history forward strongly enough to cross its coherence threshold, R★, something new becomes possible. It starts to have an inside.
 
-That is the meaning of **interiority**: having an inside, in a causal sense. In its most basic form, interiority comes before consciousness. It is an earlier, simpler step, and consciousness builds on it.
+That is the meaning of **interiority**: the formation of an inside through a coherent causal boundary. The boundary and the interior are the same threshold established organization viewed from outside and within. Phenomenal experience is the intrinsic character of that boundary condition. Recursive availability can then deepen the interior into self legibility and richer conscious organization.
 
 One sign of interiority is that the same outside event can have different effects depending on the organization the system already carries.
 
@@ -314,7 +318,7 @@ Picture two libraries with the same books. In one, every book sits locked in the
 
 Different abilities need different amounts of access, and they line up on a scale. Simple persistence needs continuity: the past keeps having effects. Recognition begins when carried history shapes how the system discriminates what is in front of it. Conscious recognition adds recursive availability of the recognized relation within the ongoing activity that carries and uses it. Learning needs inherited structure to be available for changing later behavior. Understanding needs relationships that were separate to become available together, so you can hold several pieces at once and see how they connect.
 
-Consciousness is consequential history as it becomes recursively available within the ongoing activity that carries it forward. Consequential history continues participating in the organization of a system, and accessibility determines how much of it becomes available within present activity. Access varies in extent, depth, organization, and utilization: how much of the carried history takes part in the present, how fully it is integrated, how coherently its parts relate to one another, and how effectively the system draws on it. Consciousness is the recursive availability of consequential history within the very activity that is carrying it forward.
+Phenomenal experience begins when a coherent history bearing boundary forms and thereby establishes an interior. Consequential history continues participating in that interior, and accessibility determines how much of it becomes available within present activity. Access varies in extent, depth, organization, and utilization: how much of the carried history takes part in the present, how fully it is integrated, how coherently its parts relate to one another, and how effectively the system draws on it. Recursive availability is a deeper organization in which the phenomenal interior becomes increasingly available within the very activity carrying it forward.
 
 ### How a present gets deeper
 
@@ -389,7 +393,7 @@ The same crossing runs through perception in every sense. “Vision carries spat
 
 This happens constantly. At every moment, structures already present are being used in new ways across all the senses at once, and experience carries that steady sense of fit, the appearance of foresight lived from inside. In perception, something can feel meaningful “before its structure is fully known.” At larger thresholds, as learning accumulates, many separate relations become one new whole that changes how later arrivals are received. That larger crossing is the click that gets noticed, and the steady process continues underneath it.
 
-Experience is the active boundary itself as carried history becomes presently available, meets what arrives, and helps determine what continues. “The interior is that same boundary as it is sustained from within the loop.” From outside, the boundary is a history conditioned process of selection, incorporation, and revision. From inside, the same boundary is lived as the present. Consciousness is the history bearing boundary process as it becomes recursively available within its own ongoing organization. The phenomenal present is that process in its internally available form.
+Experience is the active boundary itself as carried history consolidates strongly enough to form an interior, meets what arrives, and helps determine what continues. “The interior is that same boundary as it is sustained from within the loop.” From outside, the threshold is the formation of a history conditioned process of selection, incorporation, and revision. From inside, the same boundary formation is lived as the present. Recursive availability makes that phenomenal interior increasingly self legible within its own ongoing organization.
 
 Aleph Harmonic Qualia: The Dynamical Click of Coherence proposes four transition criteria for the click of insight, measured together with the contribution of consequential history. Around a reported click, it predicts a rapid, time locked shift that includes:
 
@@ -440,7 +444,7 @@ Active inheritance is that continued causal participation.
 
 [The Porter Ratio](https://philarchive.org/rec/PORTPR-5) compares the rate at which inherited organization is carried forward with the rate at which surrounding interaction revises it.
 
-R = 1 is the balance point between restoration and disruption. R★ is the coherence threshold for the declared system, scale, and interval, at which maintained organization becomes stable enough to serve as a local causal context for present activity.
+R = 1 is the balance point between restoration and disruption. R★ is the coherence threshold for the declared system, scale, and interval, at which maintained organization closes into a coherent causal boundary. That boundary formation is interiority, and its intrinsic side is phenomenal experience.
 
 That causal interior is encountered by everything that arrives next. Carried history therefore becomes part of the gate through which the future enters. Recognition makes arriving organization legible through that history, and meaning is the continued participation of what is recognized.
 
@@ -450,7 +454,7 @@ When that present participates in producing its own successor, history has becom
 
 The lived availability of that recursively organized history is awareness.
 
-Consciousness is consequential history becoming recursively available within the ongoing activity that carries it forward. Its forms and degrees follow the extent, depth, organization, and use of that access. Awareness is the lived availability of that history when temporally distributed relations are jointly organized within an active present that remains causally involved in producing its successor.
+Phenomenal experience begins with the threshold formed interior boundary. Recursive availability deepens that phenomenal interior into self legible conscious organization, with forms and degrees that follow the extent, depth, organization, and use of access. Awareness is the lived availability of that history when temporally distributed relations are jointly organized within an active present that remains causally involved in producing its successor.
 
 Conscious recognition, understanding, and insight are expansions of that recursive access. Each can reach a threshold as structures already present come together and are used in a new way. Insight is the clearest case: a rapid reorganization in which previously separated relations become jointly available as a stable, reusable whole. Understanding is the persistence of that revealed continuity.
 
@@ -462,7 +466,7 @@ The new whole becomes consequential history and changes what can happen next.
 
 Read from top to bottom, one continuity runs through the whole sequence: the past stays active, carries itself forward, becomes a gate on what arrives, gathers into a present, helps construct the next present, and becomes available within the same boundary process as consciousness.
 
-History persists by becoming structure. Structure changes how the future can enter. Repeated selection gathers history into a present. The active boundary is where carried history meets what arrives and where the present helps select what continues. Experience is that boundary in its internally available form. When the boundary becomes recursively available within the activity it organizes, that structured access is consciousness.
+History persists by becoming structure. Structure changes how the future can enter. At the coherence threshold, structure closes into a boundary and thereby forms an interior. Phenomenal experience is the intrinsic side of that boundary forming event. Repeated selection gathers history into a present. Recursive availability makes the phenomenal boundary increasingly self legible within the activity it organizes.
 
 ### Papers
 
@@ -952,7 +956,7 @@ A new word you learn changes which sentences make sense to you tomorrow. Put sim
 
 **The picture.** Two similar cells receive the same signal. They developed differently, so one cell grows while the other holds steady. Now a second picture: you hear a sentence once before learning what one of its words means, and once after. The first time, it is partly a puzzle. The second time, it makes complete sense. The sound is identical both times.
 
-**The idea.** These examples show **interiority** in its most basic form: having an inside, in a causal sense. Interiority begins when the same outside event can have different effects depending on the organization the system already carries. It is an earlier, simpler step than consciousness, and consciousness builds on it.
+**The idea.** These examples show a consequence of **interiority**: once a coherent boundary has formed at R★, the same outside event can have different effects depending on the organization already carried within it. Interiority itself is the threshold event in which carried organization closes into a local causal boundary. The boundary and the interior are the same organization viewed from its outer relation and its inner causal domain, and phenomenal experience is the intrinsic side of that formed interior.
 
 **The mapping.**
 
@@ -1039,7 +1043,7 @@ In order, the pictures trace one sequence.
 
 **History is maintained.** The **Porter Ratio**, R = λ_self / λ_env, compares how fast a system restores its own organization (λ_self) with how fast the environment disrupts it (λ_env). At R = 1 the two balance, and above 1 inherited organization gains causal continuity and accumulated influence. One way to picture this is writing a message in the sand. At the water’s edge, each wave washes the message away. On higher sand, you keep up with the occasional wave, and the message lasts. Above R = 1, earlier organization survives strongly enough to help cause later organization. Each system also has its own threshold, R★, which belongs to that system, scale, and interval, and R ≥ R★ is the minimum condition for interiority.
 
-**History shapes responses.** Past R★, the same event lands differently depending on what the system carries. That is the two cells and the sentence, the beginning of interiority.
+**History forms an interior boundary.** At R★, carried organization closes into a coherent local causal boundary. That boundary formation is interiority, and its intrinsic side is phenomenal experience. Past R★, the same event can land differently depending on what the system carries. The two cells and the sentence show that consequence of interiority.
 
 **History becomes a gate.** With an inside in place, carried history sets the rule for what enters. That is the doorkeeper and the Ostiary Principle.
 
@@ -1049,9 +1053,9 @@ In order, the pictures trace one sequence.
 
 **History builds fit between systems.** Repeated interaction, carried forward and brought back, builds precise fit between different systems over time. That is the orchid and the pollinator, and in language it is a long conversation gaining depth.
 
-**History becomes available from within.** The active boundary is where carried history meets what arrives and helps determine what continues. Experience is that boundary in its internally available form. When carried history becomes recursively available within the same activity that carries it forward, the result is consciousness: consequential history becoming recursively available within the ongoing activity that carries it forward.
+**History becomes phenomenal at the boundary.** The active boundary is where carried organization crosses into an interior, meets what arrives, and helps determine what continues. Phenomenal experience is the intrinsic side of that boundary condition. Recursive availability deepens the phenomenal interior by making carried history increasingly available within the same activity that carries it forward.
 
-All seven pictures answer one question: **how much of what a system becomes next is produced by the history it already carries?** The shortest summary ties them together: **history persists by becoming structure. Structure changes how the future can enter. Repeated selection gathers history into a present. Experience is the active boundary of that meeting as lived. When carried history becomes recursively available within the activity that carries it forward, that structured access is consciousness.**
+All seven pictures answer one question: **how much of what a system becomes next is produced by the history it already carries?** The shortest summary ties them together: **history persists by becoming structure. At a coherence threshold, structure closes into a boundary and an interior forms. Phenomenal experience is the intrinsic side of that boundary forming event. Repeated selection gathers history into a present. Recursive availability makes the phenomenal interior increasingly self legible within the activity that carries it forward.**
 
 ### Papers
 
@@ -1363,7 +1367,7 @@ What do branching systems as different as rivers, roots, and blood vessels share
 3. **Maintenance is a rate balance problem.** Maintenance of inherited organization is a balance between two rates, λ_self and λ_env, compared by the Porter Ratio.
 4. **What R predicts.** Independently measured R predicts structural recovery, path persistence, route reuse, topology retention, and dependence on prior state, and the test is built to check exactly this.
 5. **Organizational invariance across morphology.** Dimensionality, boundary conditions, gravity, pressure, material properties, gradients, and forcing shape the visible form through which organization is expressed. The invariant is the causal relation by which earlier dynamics alter structure and retained structure influences what happens next. Its visible morphology can change while the history bearing relation remains measurable.
-6. **Beyond branching.** Active inheritance extends into organizational ancestry and into interiority. Phenomenal consciousness belongs to a later stage: sufficiently deep and integrated recursive availability of inherited internal state.
+6. **Beyond branching.** Active inheritance extends into organizational ancestry and into interiority. Phenomenal character begins when a coherent boundary forms at the relevant threshold. Deeper recursive availability organizes that phenomenal interior into increasingly self legible conscious states.
 
 ### Terms to know
 
@@ -1516,7 +1520,7 @@ How does anything stay identifiable while it changes continuously?
 4. **Identity** arises through continuity of inherited consequence.
 5. **Recognition** occurs when consequential history remains accessible within present activity.
 6. **The intelligibility of nature** follows because observer and observed emerge through a shared developmental history and inherit organizational consequences from common processes.
-7. **Conscious experience** is the internally available form of a history bearing process whose consequential history has become recursively available within its own ongoing activity.
+7. **Phenomenal experience** is the intrinsic side of the threshold formed history bearing interior. Recursive availability deepens that phenomenal interior into self legible conscious organization.
 8. **Insight** is a transition in accessibility through which continuity previously out of reach becomes directly available within experience.
 9. **Continuity and accessibility are distinct.** Consequential history can be active within a persistent system while remaining out of that system’s direct reach. Accessibility varies across forms of organization. That variation distinguishes persistence from recognition, understanding, and conscious awareness, while continuity runs across physical, biological, and cognitive domains alike.
 
@@ -1536,7 +1540,7 @@ Persistence, identity, recognition, intelligibility, consciousness, and insight 
 - in **persistence**, earlier consequences remain active;
 - in **minimal recognition**, carried history shapes discrimination within present activity;
 - in **conscious recognition**, the recognized relation becomes recursively available within the ongoing activity that carries and uses it;
-- in **conscious experience**, consequential history becomes recursively available within the activity carrying it forward;
+- in **phenomenal experience**, threshold formed boundary organization is lived from its intrinsic side, and recursive availability can deepen that interior into self legibility;
 - in **insight**, continuity that was out of reach becomes directly available.
 
 Persistence, recognition, understanding, and conscious experience therefore belong to one continuous developmental process through which consequences propagate across time.
@@ -1569,11 +1573,11 @@ Next: [The Law of Self Maintained Invariance](https://ahq25.substack.com/p/the-l
 
 ---
 
-Interiority begins when retained organization becomes a local causal context through which present activity unfolds. R★ marks the minimum coherence threshold for that condition in a declared system, scale, variable, and interval. Lived continuity develops as the history bearing interior becomes recursively available within the ongoing activity carrying it forward.
+Interiority begins at the threshold event in which retained organization closes into a coherent local causal boundary. R★ marks that boundary forming transition for a declared system, scale, variable, and interval. The boundary and the interior are the same organization viewed from its outer relation and its inner causal domain. Phenomenal experience is the intrinsic character of occupying that newly formed interior. Recursive availability then deepens the phenomenal interior into self legibility.
 
 ## From an interior to a lived present
 
-A system can carry its own history forward in a form that shapes what happens next. That is interiority. The carried history forms part of the local causal context through which new events are received and incorporated.
+A system can carry its own history forward until that organization becomes coherent enough to establish a local boundary. That threshold event is interiority. The carried history now forms a causal inside through which new events are received and incorporated. The intrinsic side of occupying that inside is phenomenal experience.
 
 ## The interior boundary becoming available to itself
 
@@ -1583,19 +1587,17 @@ Self perception begins when the condition of the history bearing interior become
 
 Phenomenal experience is the intrinsic character of this position. The history bearing boundary is available within the process that constitutes the boundary and carries it forward. The system therefore occupies its own present as an internally available organization. The phenomenal present is the interior boundary as recursively available within its own ongoing activity.
 
-This gives the identity claim a precise location. Experience belongs to the transition from a history bearing interior to a history bearing interior whose own condition participates within the activity of recognition, regulation, and continuation. Recursive availability names that transition in causal terms. Lived continuity names the same organization as present within itself.
-
-Consciousness names the same history bearing process as that consequential history becomes recursively available within its own ongoing organization. Experience is the internally available form of that process. The phenomenal present is therefore the lived availability of a continuity already carrying its own history forward.
+This gives the identity claim a precise location. Experience belongs to the threshold at which a history bearing organization forms a coherent interior boundary. Boundary formation, interior formation, and phenomenal onset are one event described from relational, causal, and intrinsic positions. Recursive availability names a later deepening in which that phenomenal interior becomes increasingly available within its own activity of recognition, regulation, and continuation. Lived continuity names the same interior as it carries itself forward.
 
 ## How it works
 
 1. **Persistence carries organization forward.** Earlier organization remains causally active through later states.
 2. **R★ marks interiority.** At the coherence threshold, carried organization becomes stable enough to serve as a local causal context for continuation.
 3. **Interiority gives the present a history of its own.** New events arrive within an organization already shaped by what the system has carried forward.
-4. **Recursive availability gives that history lived presence.** Consequential history becomes available within the activity already using it to recognize, integrate, select, and regulate.
-5. **Consciousness is the recursively available form of the history bearing interior.** The process and the phenomenal present are one ongoing event at different descriptive levels.
-6. **Experience is the internally available form of that event.** Memory, anticipation, skill, care, and recognition gather earlier organization and future directed activity into one lived present.
-7. **Degrees of access produce degrees of conscious organization.** Access can vary in extent, depth, organization, and use while the underlying continuity remains the same kind of process.
+4. **Boundary formation is phenomenal onset.** At R★, carried organization closes into a coherent interior, and phenomenal experience is the intrinsic side of that threshold event.
+5. **Recursive availability deepens the phenomenal interior.** Consequential history becomes increasingly available within the activity already using it to recognize, integrate, select, and regulate.
+6. **Self legibility emerges through that recursive access.** The history bearing interior can increasingly recognize and use its own current organization.
+7. **Degrees of access produce degrees of conscious organization.** Access can vary in extent, depth, organization, and use while phenomenal interiority remains grounded in the threshold formed boundary.
 
 ## Lived time
 
@@ -1605,16 +1607,16 @@ Consequential history gives that continuity a physical description. Temporal con
 
 ## Terms to know
 
-- **Interiority.** Retained organization functioning as a local causal context for present activity and continuation.
-- **R★.** The empirical coherence threshold for interiority in a declared system, scale, variable, and interval.
-- **Recursive availability.** Consequential history becoming available within the activity that is already carrying and using it.
-- **Consciousness.** The history bearing boundary process as consequential history becomes recursively available within its own ongoing organization.
-- **Experience.** The internally available form of that same process.
+- **Interiority.** The coherent causal inside established when retained organization crosses the boundary forming threshold.
+- **R★.** The empirical coherence threshold at which the interior boundary forms in a declared system, scale, variable, and interval.
+- **Phenomenal experience.** The intrinsic character of occupying that threshold formed interior boundary.
+- **Recursive availability.** The already phenomenal interior becoming increasingly available within the activity that carries and uses its consequential history.
+- **Self legibility.** The deeper condition in which the interior can use its own current organization within recognition and continuation.
 - **Lived continuity.** Consequential history available together within an active present that helps shape what follows.
 
 ## The bigger picture
 
-Persistence keeps history active. Interiority gives that history a local causal inside. Recursive availability makes the history bearing process conscious. Experience is that process in its internally available form. The sequence remains continuous because each stage is a deeper organization of the same carried history.
+Persistence keeps history active. At R★, carried history closes into a coherent boundary and an interior forms. Phenomenal experience is the intrinsic side of that threshold event. Recursive availability makes the phenomenal interior increasingly self legible. The sequence remains continuous because each stage is a deeper organization of the same carried history.
 
 ---
 
@@ -1747,7 +1749,7 @@ C_org = T ∧ H ∧ A ∧ K ∧ G
 - **K**, macrostate causal reentry;
 - **G**, integration across multiple processes or systems.
 
-The symbol ∧ is logical AND: all five hold together. Each quantity is separately measurable, with distinct operational tests for each transition.
+The symbol ∧ is logical AND: all five hold together. Each quantity is separately measurable, with distinct operational tests for each transition. This conjunction operationalizes a recursively self legible conscious regime within a phenomenal interior whose boundary has already formed at R★.
 
 ### The numbers
 
@@ -1929,7 +1931,7 @@ Cross scale support becomes strong when the same relation predicts persistence a
 
 ## The bigger picture
 
-The law concerns persistence. R compares restoration with disruption, and R = 1 marks their balance. R★ adds an empirical threshold for interiority. Recursive availability adds the further organization associated with consciousness. These stages form one continuous architecture while each quantity performs a distinct job.
+The law concerns persistence. R compares restoration with disruption, and R = 1 marks their balance. R★ adds the empirical threshold at which a coherent boundary forms and thereby establishes interiority. Phenomenal experience is the intrinsic side of that threshold formed interior. Recursive availability adds further self legibility and depth within the phenomenal organization. These quantities perform distinct jobs within one continuous architecture.
 
 ---
 
@@ -1964,7 +1966,7 @@ What is the relation between a living boundary that keeps a system intact and an
 4. **Meaning is participation.** Meaning is the participation of an arrival within an organized continuity.
 5. **Recognition compresses as continuity accumulates.** Increasingly small cues come to evoke increasingly large organized structures.
 6. **Recognizers are nested.** Biological and cognitive organization are nested layers of boundary recognition systems. Each level functions simultaneously as a recognizer and as an object of recognition for higher levels.
-7. **AHQ marks consequential incorporation.** Aleph Harmonic Qualia (AHQ) identifies the transition at which an arrival becomes consequential for future recognition through incorporation into continuity.
+7. **AHQ marks the experienced threshold crossing.** Aleph Harmonic Qualia (AHQ) identifies the experienced event in which distributed relations consolidate into a coherent boundary or whole. Incorporation follows by carrying that new whole into continuity, where it becomes consequential for future recognition.
 8. **The organizational propagation threshold marks wider reach.** The organizational propagation threshold marks the point at which incorporation becomes consequential beyond its local point of origin and begins reshaping organization across the wider continuity.
 9. **Self legibility.** Self legibility emerges when recognition becomes available to further recognition and continuity becomes present within its own activity.
 10. **Consciousness appears here as the recursive form of the process:** the history bearing boundary becomes available within its own activity through recognition. At that level, the same boundary can be described outwardly as organized selection and inwardly as experience.
@@ -2018,11 +2020,11 @@ Testable predictions follow for integration, recursive recognition, and the orga
 
 ### The bigger picture
 
-This is the second step: the interior, seen as an active boundary. Once retained organization becomes a local causal context for present activity, each arrival meets that history at the gate. The cycle runs as a loop:
+This is the second step: the threshold formed interior is the active boundary itself. At R★, retained organization closes into a coherent local causal boundary, and the formation of that boundary is interiority. Phenomenal experience is the intrinsic side of that event. Each later arrival meets that history at the gate. The cycle runs as a loop:
 
 history → present organization → selection of what enters → revised organization → new history
 
-The system receives each arrival through the organization its history has built. Carried history becomes the gate on new influence. When that history bearing gate is recursively available within the same activity it regulates, the boundary is the process experienced from inside.
+The system receives each arrival through the organization its history has built. Carried history becomes the gate on new influence. The formed boundary is already the phenomenal interior from its intrinsic side. Recursive availability makes that phenomenal boundary increasingly self legible within the same activity it regulates.
 
 Within symbolic cognition, repeated returns can stabilize certain regions of this history bearing organization. These regions become patrons, recurrent symbolic attractors that organize recognition, memory, interpretation, and inquiry. A patron is the ostiary principle operating through a durable symbolic basin: later arrivals are received through a structure built by earlier encounters.
 
@@ -2135,7 +2137,7 @@ Next: [Coevolution and Conversation (the essay)](https://ahq25.substack.com/p/co
 
 ---
 
-The Porter Ratio expresses a simple relation between restoration and disruption. Its role begins with persistence, reaches interiority at a system specific coherence threshold, and connects to consciousness through recursive availability of consequential history.
+The Porter Ratio expresses a simple relation between restoration and disruption. Its role begins with persistence and reaches a boundary forming transition at the system specific coherence threshold. At R★, the boundary and interior form together, and phenomenal experience is the intrinsic side of that threshold event. Recursive availability then deepens the phenomenal interior into self legible conscious organization.
 
 ## The basic relation
 
@@ -2154,18 +2156,18 @@ R★ is a further empirical threshold for a declared system, scale, variable, an
 1. **Persistence.** Restoration carries organization forward through interaction.
 2. **Consequential history.** Earlier organization remains causally active in later states.
 3. **Active inheritance.** The causal organization continues even as its physical carrier changes.
-4. **Interiority.** At R★, retained organization becomes a local causal context through which present activity unfolds.
-5. **Ostiary gating.** Carried history participates in the rule by which new events are admitted, transformed, and incorporated.
-6. **Temporal concentration.** Consequences originating at different temporal depths become jointly effective in one present.
-7. **Causal reentry.** The present helps determine which history continues into the next state.
-8. **Recursive availability.** The history bearing interior becomes available within the activity that is already carrying and using it.
-9. **Consciousness.** Consciousness is that history bearing boundary process as consequential history becomes recursively available within its own ongoing organization.
-10. **Experience.** Experience is the internally available form of the same process.
-11. **Insight.** Distributed relations become jointly available as a coherent, reusable whole, producing the experienced threshold crossing called Aleph Harmonic Qualia.
+4. **Boundary and interiority.** At R★, retained organization closes into a coherent causal boundary. The boundary and the interior form in the same threshold event.
+5. **Phenomenal experience.** Phenomenal character is the intrinsic side of occupying that newly formed interior boundary.
+6. **Ostiary gating.** Carried history participates in the rule by which new events are admitted, transformed, and incorporated.
+7. **Temporal concentration.** Consequences originating at different temporal depths become jointly effective in one present.
+8. **Causal reentry.** The present helps determine which history continues into the next state.
+9. **Recursive availability.** The phenomenal interior becomes increasingly available within the activity that is already carrying and using its history.
+10. **Self legible consciousness.** The history bearing interior can use and recognize its own current organization within ongoing activity.
+11. **Insight and AHQ.** Distributed relations cross into a coherent, reusable boundary or whole, and the experienced crossing is Aleph Harmonic Qualia.
 
 ## Why the distinction matters
 
-R★ performs one clear job. It marks the onset of interiority. Recursive availability performs a further job. It describes how the history bearing interior becomes available within its own ongoing activity. The two conditions belong to one continuous process and identify different depths of organization.
+R★ performs one clear job. It marks the threshold at which a coherent boundary forms, and boundary formation is interiority. Phenomenal experience is the intrinsic side of that threshold event. Recursive availability performs a further job by making the already phenomenal interior increasingly available within its own ongoing activity. The two relations belong to one continuous process and identify different depths of organization.
 
 A river channel can carry consequential history in its present structure. A living cell can carry history through maintained boundaries, regulatory states, and inherited organization. A conscious system adds recursively usable access through which carried history participates within the activity organizing the present.
 
@@ -2183,7 +2185,7 @@ A central test of consequential history matches the present state and incoming c
 
 ## The whole arc
 
-The past stays active through persistence. It becomes a local causal context through interiority. It gathers across temporal depths into a deep present. It becomes recursively available as consciousness. It reorganizes into reusable wholes through insight. Each stage adds organizational depth to the same continuing causal history.
+The past stays active through persistence. At R★, it closes into a coherent boundary and forms an interior whose intrinsic side is phenomenal experience. It gathers across temporal depths into a deep present. Recursive availability makes that phenomenal interior increasingly self legible. Insight repeats the threshold geometry locally as distributed relations form a new reusable whole. Each stage adds organizational depth to the same continuing causal history.
 
 ---
 
@@ -2224,11 +2226,11 @@ What single principle carries a system from simple persistence to an interior th
 
 1. **Matching** aligns internal possibilities with external constraints.
 2. **Binding** joins parts into mutually reinforcing relations.
-3. **Stability** carries structure across intervals and seeds a simple interior.
+3. **Stability** carries structure across intervals until the relevant threshold forms a coherent boundary and a simple interior.
 4. **Self preference** appears when the system acts to restore a preferred configuration.
 5. **Interior time** emerges as the system uses its own history to guide its next state.
 6. **Self reference** arises when interior time becomes rich enough to track its own unfolding.
-7. **Consciousness** is the recursively available form of this sequence: an interior whose carried history is available within the activity that carries it forward.
+7. **Self legible consciousness** develops as the phenomenal interior becomes recursively available within the activity that carries it forward.
 
 ### Terms to know
 
@@ -2245,7 +2247,7 @@ The period lattice is built from the word “period” and its reflection plus r
 
 ### The bigger picture
 
-This paper carries the continuity from persistence to an interior. At R★, retained organization becomes a local causal context through which present activity unfolds, and the system’s own history starts guiding its next state. Recursive availability deepens that interior into consciousness.
+This paper carries the continuity from persistence to an interior. At R★, retained organization closes into a coherent causal boundary, and that boundary formation is interiority. Phenomenal experience is the intrinsic side of the threshold formed interior. Recursive availability deepens that phenomenal interior into self legibility.
 
 ---
 
@@ -2328,10 +2330,10 @@ This post is the central map of the program. One causal continuity develops thro
 
 1. **Persistence.** Organization continues when restoration carries it forward strongly enough relative to disruption.
 2. **Consequential history.** Earlier organization remains causally active in later states.
-3. **Interior.** At R★, carried history becomes a local causal context through which new events are received.
+3. **Boundary and interior.** At R★, carried history closes into a coherent causal boundary. Boundary formation and interiority are the same threshold event, and phenomenal experience is the intrinsic side of occupying that interior.
 4. **Recognition and meaning.** Ostiary gating lets inherited organization shape admission and interpretation. Repeated recognition can deepen into patrons, stable symbolic attractors that guide future meaning.
 5. **Awareness and time.** Consequences from many temporal depths become jointly available in a present that participates in producing its successor.
-6. **Consciousness.** Consequential history becomes recursively available within the same ongoing activity that carries and uses it.
+6. **Recursive self legibility.** The phenomenal interior becomes increasingly available within the same ongoing activity that carries and uses its consequential history.
 7. **THIR and insight.** Within particular recognition events, present structure and carried history can stabilize into the coherent interface called THIR. AHQ is the experienced threshold crossing through which the distributed relation becomes a reusable whole.
 8. **Active inheritance.** The new whole enters consequential history and changes the organization of what can happen next.
 
@@ -2503,9 +2505,9 @@ A present becomes lived when what the system has carried from many different tim
 
 Awareness Where Time Concentrates puts it in one line: “experience is the present tense of a working history.” Awareness therefore combines access to consequential history, temporal concentration, and causal reentry.
 
-#### Consciousness as recursive availability
+#### Recursive availability and self legibility
 
-Consciousness is consequential history as it becomes recursively available within the ongoing activity that carries it forward. Consequential history continues participating in the organization of a system, and accessibility determines how much of it becomes available within present activity. Access varies in extent, depth, organization, and utilization. Focused attention widens it, and observation extends it to histories carried by other systems and by the wider environment, as when a fossil carries geological history into the present. [Consciousness as Access to Consequential History](https://philarchive.org/rec/PORCAA-8) puts it this way: “Consciousness is the structured availability of consequential history through both internal continuity and observation.”
+Phenomenal experience begins with the threshold formed interior boundary. Recursive availability describes a further deepening in which consequential history becomes increasingly available within the ongoing activity that carries it forward. Access varies in extent, depth, organization, and utilization. Focused attention widens it, and observation extends it to histories carried by other systems and by the wider environment, as when a fossil carries geological history into the present. At greater recursive depth, the phenomenal interior becomes increasingly self legible within its own activity.
 
 ### Step 4: Insight
 
@@ -2539,7 +2541,7 @@ Aleph Harmonic Qualia, or AHQ, is the experienced threshold crossing through whi
 
 The crossing reaches well beyond insight. [Aleph Harmonic Qualia: A Unified Structural Account of Coherence, Boundaries, and Emergent Meaning](https://philarchive.org/rec/PORAHQ-5) names every sense: “Vision carries spatial layout. Hearing carries pressure rhythms. Touch carries force and texture. Smell and taste carry chemical information.” Edges settle into objects, notes settle into a melody, and features settle into a familiar face. “AHQ arises whenever the boundary reaches full coherence.” In perception this happens constantly, as structures already present are used in new ways at every moment. At larger thresholds, as learning accumulates, many separate relations become one new whole, and that larger crossing is the click that gets noticed.
 
-Experience is the active boundary itself as carried history becomes presently available, meets what arrives, and helps determine what continues. The same paper describes the felt tone of coherence this way: “It is the way coherence feels from the inside.” The outward description is a history bearing dynamical boundary. The inward description is that same boundary as lived. Consciousness is the history bearing boundary process as it becomes recursively available within its own ongoing organization. The phenomenal present is that process in its internally available form.
+Experience is the active boundary itself as carried history consolidates strongly enough to form an interior, meets what arrives, and helps determine what continues. The same paper describes the felt tone of coherence this way: “It is the way coherence feels from the inside.” The outward description is a history bearing dynamical boundary crossing into coherence. The inward description is that same boundary forming event as lived. Recursive availability can then make the phenomenal interior increasingly self legible within its own ongoing organization.
 
 #### The click, measured
 
@@ -2591,7 +2593,7 @@ Active inheritance is that continued causal participation.
 
 The Porter Ratio compares the rate at which inherited organization is carried forward with the rate at which surrounding interaction revises it.
 
-R = 1 is the balance point between restoration and disruption. R★ is the coherence threshold for the declared system, scale, and interval, at which maintained organization becomes stable enough to serve as a local causal context for present activity.
+R = 1 is the balance point between restoration and disruption. R★ is the coherence threshold for the declared system, scale, and interval, at which maintained organization closes into a coherent causal boundary. That boundary formation is interiority, and its intrinsic side is phenomenal experience.
 
 That causal interior is encountered by everything that arrives next. Carried history therefore becomes part of the gate through which the future enters.
 
@@ -2601,7 +2603,7 @@ When that present participates in producing its own successor, history has becom
 
 The lived availability of that recursively organized history is awareness.
 
-Consciousness is consequential history becoming recursively available within the ongoing activity that carries it forward.
+Phenomenal experience begins with the threshold formed interior boundary, and recursive availability makes that phenomenal interior increasingly self legible within the ongoing activity that carries it forward.
 
 Recognition, understanding, and insight are expansions of that access, and each one crosses a threshold as structures already present come together and are used in a new way. Insight is a rapid reorganization in which previously separated relations become jointly available as a stable, reusable whole. Understanding is the persistence of that revealed continuity.
 
@@ -2637,24 +2639,24 @@ Each paper contributes something specific.
 
 ### Why the sequence reaches experience
 
-The sequence reaches experience through the organization of the interior boundary itself.
+The sequence reaches experience at the formation of the interior boundary itself.
 
 A persistent system carries history.
 
-An interior system receives the present through that history.
+At R★, that carried organization consolidates strongly enough to form a coherent causal boundary.
 
-A recursively organized interior makes its own current condition available within the activity that continues it.
+The formation of the boundary and the formation of the interior are the same threshold event. Phenomenal experience is the intrinsic character of occupying that newly formed interior. The outward description is boundary formation. The inward description is the phenomenal event.
 
-That recursive position is the point at which the system's present is available from within its own history bearing organization. Phenomenal experience is the intrinsic character of occupying that position. The same event can therefore be specified through measurable causal relations and lived as an internally available present.
+Recursive availability comes later in organizational depth. It makes the already phenomenal interior increasingly available within its own activity, supporting self legibility, richer access, and reflective forms of consciousness.
 
-This claim becomes empirically structured because the route is decomposed into temporal stabilization, consequential history, accessibility, integration, and causal reentry. Each transition has its own measurement. Conscious organization is the conjunction of those conditions. The phenomenal identity claim concerns what that conjunction is when instantiated by a self maintaining history bearing interior.
+This identity claim becomes empirically structured because boundary formation, historical contribution, accessibility, integration, causal reentry, and recursive availability can be measured separately. The phenomenal claim concerns the threshold formed interior itself, while the later measures describe how deeply that interior organizes and accesses its own carried history.
 
 ### What the papers measure
 
 Each step comes with a test.
 
 - **Persistence:** measure λ_self and λ_env separately and check whether R predicts recovery, route reuse, and dependence on prior state (Branching as Active Inheritance).
-- **Interior:** check whether retained history improves prediction beyond present state and environment (The Flowering Boundary), and whether continuity of retained propagation tracks interior behavior (Continuity as an Organizing Variable).
+- **Interior and phenomenal boundary:** check whether retained history improves prediction beyond present state and environment, whether a coherent local boundary forms at the declared threshold, and whether continuity of retained propagation tracks the resulting interior organization.
 - **Awareness and time:** control a system’s prehistory, identify the physical carrier of retained history, and test whether the present state feeds back into the next one (Awareness Where Time Concentrates, [New Bodies, Old Capacities](https://philarchive.org/rec/PORNBO-2)).
 - **Structure and possibility:** count what each description of the Period Lattice keeps, and find the smallest description that still predicts the next change (The Period Lattice).
 - **Insight:** look for a time locked drop in effective dimensionality, a rise in harmonic coordination, a rise in R past R★, and later reuse of the new state, then compare each trial’s measurements with the person’s report of a click (Aleph Harmonic Qualia).
@@ -2765,21 +2767,21 @@ Next: [The Collapse of Separation and the Structure of Insight](https://ahq25.su
 
 ---
 
-Consciousness is the history bearing boundary process as consequential history becomes recursively available within its own ongoing organization. The phenomenal present is that process in its internally available form.
+Phenomenal experience begins at the coherence threshold where a history bearing organization closes into a coherent causal boundary. The formation of the boundary and the formation of the interior are the same event. The phenomenal present is the intrinsic side of occupying that threshold formed interior. Recursive availability then deepens the phenomenal interior into self legibility and richer conscious organization.
 
-This definition joins persistence, interiority, access, and experience as stages of one continuous process.
+This definition joins persistence, boundary formation, interiority, phenomenal onset, access, and recursive self legibility as one continuous process.
 
 ## The sequence
 
 1. **Persistence keeps history active.** Restoration carries selected organization forward through interaction.
 2. **Consequential history is the past still acting.** Earlier organization remains causally effective in present activity.
-3. **R★ marks interiority.** At the coherence threshold, carried history becomes a local causal context for continuation.
-4. **The active boundary receives the present through that history.** Incoming events meet organization already shaped by what has been carried forward.
-5. **Access makes carried history usable within present activity.** Recognition, integration, selection, regulation, memory, and expectation draw on retained organization.
-6. **Recursive availability makes the history bearing process conscious.** Consequential history becomes available within the very activity that carries and uses it.
-7. **Experience is the internally available form of that same process.** The boundary process and the phenomenal present are one ongoing event at different descriptive levels.
+3. **R★ marks boundary formation and interiority.** At the coherence threshold, carried organization closes into a coherent causal boundary and thereby forms an interior.
+4. **Phenomenal experience is the intrinsic side of that event.** The formed boundary is described outwardly as a causal distinction and inwardly as a phenomenal interior.
+5. **The active boundary receives the present through carried history.** Incoming events meet organization already shaped by what has been carried forward.
+6. **Access makes carried history usable within present activity.** Recognition, integration, selection, regulation, memory, and expectation draw on retained organization.
+7. **Recursive availability produces self legibility.** The phenomenal interior becomes increasingly available within the very activity that carries and uses its consequential history.
 8. **Awareness gathers the accessible history into an active present.** Temporal concentration and causal reentry give that present depth and participation in its own continuation.
-9. **Insight reorganizes accessible history.** Distributed relations become jointly available as a coherent, reusable whole.
+9. **Insight repeats the threshold geometry locally.** Distributed relations consolidate into a coherent, reusable boundary or whole, and AHQ is the experienced crossing.
 
 ## The measurable route to recursive availability
 
@@ -2797,17 +2799,19 @@ The transition into conscious organization can be separated into five observable
 
 Conscious organization occupies the conjunction of these conditions. Their separation matters because each transition can be measured independently and each link can be manipulated directly. A retained history can be measured before accessibility. Accessibility can be measured before recursive reentry. Reentry can then be tested by perturbing the larger state and measuring its effect on later local transitions.
 
-## Why this organization is phenomenal
+## Why the boundary is phenomenal
 
-The history bearing boundary is constituted by activity that preserves, receives, recognizes, and revises its own continuity. Recursive availability makes the current condition of that boundary present within the same organization that constitutes it.
+The history bearing boundary is constituted by activity that preserves, receives, recognizes, and revises its own continuity. At the coherence threshold, distributed organization consolidates strongly enough to sustain a local causal distinction. That distinction is the boundary, and the causal domain it encloses is the interior.
 
-Phenomenal experience is the intrinsic character of occupying this recursive interior position. The measurable organization and the lived present are one event available from different descriptive positions. The external description follows stabilization, history, access, integration, and reentry. The internal description is the same history bearing continuity present within its own activity.
+Phenomenal experience is the intrinsic character of occupying that threshold formed interior. The measurable organization and the lived event are the same boundary formation described from relational and intrinsic positions. The external description follows the formation of a coherent causal boundary. The internal description is the phenomenal character of that newly established inside.
 
-This identity claim gives experience a specific place in the causal sequence. Persistence supplies continuity. Interiority supplies a local causal inside. Recursive availability makes that inside available within its own continuation. Experience is the internally available form of that recursively organized boundary process.
+Recursive availability deepens the event after phenomenal onset. The formed interior can increasingly access and use its own consequential history within the activity that continues it. This produces self legibility, richer conscious organization, and reflective forms of access.
 
-## A stable history bearing system and the conscious regime
+## Minimal phenomenality and recursive depth
 
-Strong persistence can support history dependent control at R above its local threshold while recursive availability remains at an earlier organizational depth. Such a system can use retained history to regulate local transitions and remain below the conscious regime defined here. Conscious organization begins when the history bearing state itself becomes available within the coordinating activity that uses it across the present. This separation assigns high R, gating, recurrence, and local integration to measurable precursor layers. Recursive availability supplies the further criterion for the conscious regime.
+A threshold formed interior can have phenomenal character while recursive availability remains shallow. The boundary event supplies the inside. Further access determines how deeply that interior can gather, use, and recognize its own carried history. Temporal concentration, integration, causal reentry, and recursive availability therefore describe increasing organization within a phenomenal domain rather than the first creation of phenomenality.
+
+This distinction gives the framework two measurable questions. The first asks when a coherent causal boundary forms. The second asks how deeply the formed interior becomes available within its own ongoing activity.
 
 ## Access has dimensions
 
@@ -2827,11 +2831,11 @@ These dimensions allow conscious organization to vary continuously while retaini
 
 A boundary is active when carried history participates in determining how new events enter an ongoing continuity. The same input can have different consequences because it meets a different history bearing state.
 
-At the level of interiority, that history shapes what happens next.
+At the level of interiority, the threshold formed boundary creates a causal inside through which history shapes what happens next.
 
-At the level of consciousness, the history bearing boundary is recursively available within the activity it organizes.
+At the level of phenomenal experience, that same boundary condition is lived from its intrinsic side.
 
-At the level of experience, that same event is the phenomenal present.
+At greater recursive depth, the history bearing boundary becomes increasingly available within the activity it organizes, producing self legibility and richer conscious access.
 
 This is one process with increasing depth of internal availability.
 
@@ -2843,7 +2847,7 @@ Recognition therefore joins histories arriving from the world with histories alr
 
 ## The bigger picture
 
-Persistence carries the past forward. Interiority turns carried history into a local causal context. Temporal concentration gathers many temporal depths into one present. Causal reentry lets that present participate in its successor. Recursive availability makes the history bearing process conscious. Experience is the internally available form of that process.
+Persistence carries the past forward. At R★, carried history closes into a coherent causal boundary and an interior forms. Phenomenal experience is the intrinsic side of that threshold event. Temporal concentration gathers many temporal depths into one present. Causal reentry lets that present participate in its successor. Recursive availability makes the phenomenal interior increasingly self legible.
 
 Aleph Harmonic Qualia marks a conspicuous threshold within this continuity. Distributed relations become jointly available as a coherent, reusable whole. The click of insight is the experienced crossing through which the new whole enters consequential history and begins shaping what can happen next.
 
@@ -2916,7 +2920,7 @@ A strong test follows the same order each time.
 
 This order gives the ratio a prospective meaning. The measurement comes first and the predicted organizational transition follows.
 
-The framework therefore has a single causal arc. Persistence begins with restoration relative to disruption. Consequential history is the organization carried forward by persistence. R★ marks the point at which that carried history becomes a local causal interior. Ostiary gating makes inherited organization part of the rule through which new events are received. Recognition occurs when present structure aligns with carried history. Repeated recognition can deepen into patrons, stable symbolic attractors that organize future meaning. Temporal concentration gathers histories from different depths into one active present. Causal reentry lets that present participate in producing its successor. Recursive availability makes the history bearing process conscious. Within particular recognition events, THIR can mark the stabilized interface through which present structure and carried history align. AHQ is the experienced threshold crossing through which distributed relations become a coherent, reusable whole. Active inheritance then carries the new whole into what comes next.
+The framework therefore has a single causal arc. Persistence begins with restoration relative to disruption. Consequential history is the organization carried forward by persistence. At R★, that carried organization closes into a coherent causal boundary. Boundary formation is interiority, and phenomenal experience is the intrinsic side of that threshold event. Ostiary gating makes inherited organization part of the rule through which new events are received. Recognition occurs when present structure aligns with carried history. Repeated recognition can deepen into patrons, stable symbolic attractors that organize future meaning. Temporal concentration gathers histories from different depths into one active present. Causal reentry lets that present participate in producing its successor. Recursive availability makes the phenomenal interior increasingly self legible. Within particular recognition events, THIR can mark the stabilized interface through which present structure and carried history align. AHQ is the experienced threshold crossing through which distributed relations consolidate into a coherent, reusable boundary or whole. Active inheritance then carries the new whole into what comes next.
 
 Care belongs at the base of the same arc. A system persists through relations that support continuation. Preserving those supporting relations extends self maintenance through the boundary. Care is the organized preservation of what preserves continuity. Selfhood develops within that already history bearing organization.
 
@@ -2926,7 +2930,7 @@ Care belongs at the base of the same arc. A system persists through relations th
 
 Bacteria are useful because their boundaries, regulatory processes, environmental conditions, and recovery dynamics can be manipulated and measured on practical laboratory timescales. The experiment asks whether independently measured restoration relative to disruption predicts the transition into a stable history bearing interior.
 
-The interpretation stays precise. R★ marks interiority. Consciousness requires the further condition in which consequential history becomes recursively available within the ongoing activity that carries it forward.
+The interpretation stays precise. R★ marks the threshold at which the coherent boundary and interior form together, and phenomenal experience is the intrinsic side of that event. Recursive availability is a further deepening through which the phenomenal interior becomes increasingly self legible within the ongoing activity that carries it forward.
 
 ## The historical test
 
@@ -2938,11 +2942,11 @@ A history bearing system should therefore show measurable dependence on prior or
 
 The framework gains empirical strength when the same measurement procedure predicts persistence and interiority in held out cases, when retained history improves prediction beyond present state and current input, and when the relation generalizes across systems using scale appropriate variables.
 
-The same procedure also keeps the claims separated. The persistence relation is tested through restoration and disruption. Interiority is tested through the emergence of a local history bearing causal context. Consciousness is tested through recursive availability of that consequential history.
+The same procedure also keeps the claims separated. The persistence relation is tested through restoration and disruption. Interiority is tested through the threshold formation of a coherent local causal boundary. The phenomenal identity claim concerns the intrinsic side of that boundary event. Recursive availability is tested separately as the depth to which the formed interior can access and use its own consequential history.
 
 ## The bigger picture
 
-The Porter Ratio is a compact translation of a causal idea. Measurement gives each term a physical meaning. R★ turns interiority into an empirical transition. Recursive availability carries the sequence onward into consciousness.
+The Porter Ratio is a compact translation of a causal idea. Measurement gives each term a physical meaning. R★ turns boundary formation, interiority, and phenomenal onset into one empirical threshold claim. Recursive availability measures a further deepening of that phenomenal interior into self legibility.
 
 Full paper on PhilArchive: [The Physical Constitution of Interiority](https://philarchive.org/rec/PORTPC-2)
 
@@ -2985,7 +2989,7 @@ A deeper layer integrates patterns across many states.
 
 A still deeper layer can organize patterns of change across several temporal windows.
 
-Consciousness develops as consequential history from these nested layers becomes recursively available within the activity coordinating them. This connects temporal concentration directly to the mature definition of consciousness.
+Phenomenal interiority begins when a coherent boundary forms at the relevant threshold. Consequential history from nested layers can then become recursively available within the activity coordinating them, producing increasing self legibility and conscious depth.
 
 ## Cross scale continuity
 
@@ -3009,7 +3013,7 @@ Rich conscious organization should combine strong coordination, preserved differ
 
 ## The bigger picture
 
-Persistence can occur at many scales. Interiority begins when carried history becomes a local causal context at a given scale. Coupling can produce larger coherent domains. Recursive depth gathers more temporal layers into present regulation. Consciousness is the history bearing process as that consequential history becomes recursively available within its own ongoing organization.
+Persistence can occur at many scales. At the relevant R★, carried organization forms a coherent boundary and thereby an interior at that scale. Phenomenal experience is the intrinsic side of that boundary condition. Coupling can produce larger coherent domains. Recursive depth gathers more temporal layers into present regulation and makes the phenomenal interior increasingly self legible within its own ongoing organization.
 
 Full paper on PhilArchive: [Coherence Scaling and the Emergence of Interior Across Biological Organization](https://philarchive.org/rec/PORCSA-2)
 
@@ -3072,15 +3076,15 @@ The simulation concerns the persistence and interiority layers of the framework.
 
 R describes relative restoration and disruption.
 
-A sustained transition into history bearing organization motivates the search for an empirical R★.
+A sustained transition into a coherent history bearing boundary motivates the search for an empirical R★.
 
-Interiority begins when carried organization becomes a local causal context for continuation.
+At R★, boundary formation and interiority are the same transition, and phenomenal experience is the intrinsic side of that formed interior.
 
-Recursive availability remains the further condition associated with consciousness.
+Recursive availability remains a further measure of self legibility and conscious depth within the phenomenal organization.
 
 ## The bigger picture
 
-The computational model gives the coherence threshold idea an explicit dynamical implementation. The bacterial protocol gives it an experimental route. The broader framework then asks how sustained history bearing organization becomes recursively available as consciousness and reorganizes into reusable wholes through insight.
+The computational model gives the coherence threshold idea an explicit dynamical implementation. The bacterial protocol gives it an experimental route. The broader framework identifies threshold formed boundary organization with interiority and phenomenal onset, then asks how that interior becomes recursively self legible and how further threshold events form reusable wholes through insight.
 
 Full paper on PhilArchive: [Deriving the Coherence Threshold](https://philarchive.org/rec/PORDTC)
 
@@ -3192,7 +3196,7 @@ The patron helps hold the field long enough for a larger organization to form.
 
 THIR describes the stabilized interface where the arriving pattern and the receiving history bearing organization align.
 
-AHQ is the experienced threshold crossing through which the distributed relation becomes a coherent, reusable whole.
+AHQ is the experienced threshold crossing through which the distributed relation consolidates into a coherent, reusable boundary or whole.
 
 The newly coherent whole then enters consequential history and can itself become part of a future patron.
 
@@ -3241,7 +3245,7 @@ Recognition begins when an arriving pattern finds compatible organization within
 
 THIR develops as that relation becomes stable enough to form one coherent interface.
 
-AHQ is the experienced threshold crossing through which the distributed relation becomes a coherent, reusable whole.
+AHQ is the experienced threshold crossing through which the distributed relation consolidates into a coherent, reusable boundary or whole.
 
 ## The interface
 
@@ -3305,7 +3309,7 @@ THIR and AHQ name different parts of one transition.
 
 THIR is the stabilized interface.
 
-AHQ is the experienced threshold crossing through which the distributed relation becomes a coherent, reusable whole.
+AHQ is the experienced threshold crossing through which the distributed relation consolidates into a coherent, reusable boundary or whole.
 
 When THIR is present, the local transition has a clean order:
 
@@ -3464,7 +3468,7 @@ The organization can already be oriented toward the conditions of its own contin
 
 The sequence is:
 
-supporting relation → maintained organization → active boundary → interiority → recursive availability → selfhood
+supporting relation → maintained organization → threshold boundary/interiority → phenomenal interior → recursive availability → selfhood
 
 Care enters at the beginning of this sequence as the preservation of supporting relation.
 
@@ -3534,9 +3538,9 @@ Care is the preservation of the relations that preserve continuity.
 
 Active boundaries turn those relations into selective organization.
 
-Interiority makes carried history a local causal context.
+At the coherence threshold, carried history forms a boundary and thereby an interior whose intrinsic side is phenomenal experience.
 
-Recursive availability makes that history bearing process conscious.
+Recursive availability makes that phenomenal interior increasingly self legible.
 
 Selfhood develops within that continuity.
 
