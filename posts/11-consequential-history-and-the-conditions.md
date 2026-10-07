@@ -7,7 +7,7 @@
 
 ---
 
-Rivers flow, organisms develop, stars evolve, and cognitive systems learn, and each stays identifiable through continuous change. Consequential History and the Conditions of Persistence explains how: consequences of earlier states continue to participate in later states. Consequential history appears here as a necessary condition of persistence, and the same continuity, at different degrees of accessibility, runs through identity, recognition, the intelligibility of nature, conscious experience, and insight.
+Rivers flow, organisms develop, stars evolve, and cognitive systems learn, and each stays identifiable through continuous change. Consequential History and the Conditions of Persistence explains how: consequences of earlier states continue to participate in later states. Consequential history appears here as a necessary condition of persistence, and the same continuity, at different degrees of organization, runs through identity, recognition, interior boundary formation, phenomenal experience, self legible consciousness, and insight.
 
 ### Why things stay identifiable
 
@@ -44,7 +44,7 @@ Persistence, identity, recognition, intelligibility, consciousness, and insight 
 - in **phenomenal experience**, threshold formed boundary organization is lived from its intrinsic side, and recursive availability can deepen that interior into self legibility;
 - in **insight**, continuity that was out of reach becomes directly available.
 
-Persistence, recognition, understanding, and conscious experience therefore belong to one continuous developmental process through which consequences propagate across time.
+Persistence, recognition, phenomenal interiority, understanding, and self legible consciousness therefore belong to one continuous developmental process through which consequences propagate across time.
 
 ### Examples
 
@@ -52,7 +52,7 @@ Rivers flow, organisms develop, stars evolve, and cognitive systems learn. Each 
 
 ### The bigger picture
 
-This is the first step of the continuity: persistence. Consequential history is the part of the past still doing causal work, and accessibility is how much of it a system can reach. Recognition, conscious experience, and insight, later in the continuity, are that same history at greater accessibility.
+This is the first step of the continuity: persistence. Consequential history is the part of the past still doing causal work. At the coherence threshold, carried organization forms a boundary and an interior whose intrinsic side is phenomenal experience. Recognition, recursive access, self legibility, and insight then describe deeper organizations of that same history.
 
 ---
 
