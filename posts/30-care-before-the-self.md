@@ -78,7 +78,7 @@ The organization can already be oriented toward the conditions of its own contin
 
 The sequence is:
 
-supporting relation → maintained organization → active boundary → interiority → recursive availability → selfhood
+supporting relation → maintained organization → threshold boundary/interiority → phenomenal interior → recursive availability → selfhood
 
 Care enters at the beginning of this sequence as the preservation of supporting relation.
 
@@ -148,9 +148,9 @@ Care is the preservation of the relations that preserve continuity.
 
 Active boundaries turn those relations into selective organization.
 
-Interiority makes carried history a local causal context.
+At the coherence threshold, carried history forms a boundary and thereby an interior whose intrinsic side is phenomenal experience.
 
-Recursive availability makes that history bearing process conscious.
+Recursive availability makes that phenomenal interior increasingly self legible.
 
 Selfhood develops within that continuity.
 
