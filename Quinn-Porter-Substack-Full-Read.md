@@ -38,6 +38,27 @@
 
 ---
 
+## Substack mirror contract
+
+This full-read file is the canonical source for synchronizing the public Substack profile and publication with this repository. A synchronization agent should treat the repository as the source of truth unless the user explicitly requests a different edit.
+
+- Use **Profile** and **Publication** fields below for the public profile name, handle, bio, publication name, address, and publication description.
+- Each heading of the form **Post XX: Title** identifies one existing Substack post. Use the text after **Post XX:** as the post title.
+- When an italic line appears directly beneath a post heading, use it as the subtitle or deck.
+- The **Author**, **Published**, **URL**, and **Audience** bullets are synchronization metadata. Apply them to the existing post or its settings where the platform permits; do not insert those metadata bullets into the article body.
+- Use the listed **URL** to identify and update the existing post rather than creating a duplicate.
+- Preserve the article body exactly in its displayed order: paragraphs, headings, emphasis, blockquotes, equations, lists, links, and images.
+- Repository-level separator lines are structural markers and are not article content.
+- Resolve every relative image path from this repository and upload the actual referenced image to Substack in the same location in the article. Do not redraw, substitute, reinterpret, or regenerate an image.
+- Preserve captions and alt text as closely as the Substack editor allows.
+- A post body runs until the next **Post XX:** heading. Internal horizontal rules, links to papers, and navigation lines that appear before that next post heading belong to the current post.
+- When the repository and the live Substack differ, make the live Substack match this canonical file unless the user explicitly says otherwise.
+
+The synchronization target is a public Substack that reads naturally as a publication, not as a repository export: repository metadata stays out of article prose while the titles, subtitles, bodies, links, equations, and visuals remain faithful to this master copy.
+
+
+---
+
 ## Profile
 
 ### Author
@@ -2118,7 +2139,7 @@ The relevant transformation is **point reflection**. In this construction, point
 - reversal alone: erio → oire
 - point reflection: erio → oᴉɹǝ
 
-![Point reflection of erio in the oriented PERIOD unit](assets/period-lattice/erio-point-reflection.svg)
+![ERIO across the four coordinate-plane orientations; Quadrant III is the 180-degree point reflection](assets/period-lattice/erio-quadrants.jpg)
 
 The important fact is not simply that the letters look different. After the point reflection, the unit is legible from the opposite orientation. If the lattice is read from that orientation, the same fixed endpoints now have the opposite relational identities.
 
@@ -2130,7 +2151,6 @@ The endpoint carriers themselves do **not** trade places. The left physical boun
 
 This is **identity inversion without positional exchange**.
 
-![Identity inversion without positional exchange](assets/period-lattice/identity-inversion.svg)
 
 That distinction separates three things that ordinary language often collapses:
 
@@ -3119,7 +3139,6 @@ Back to the beginning: [Consequential History](https://ahq25.substack.com/p/cons
 ---
 
 ## Post 25: Measuring Interiority
-Measuring Interiority
 
 The Porter Ratio becomes scientifically useful when its terms are measured before the outcome they are meant to predict. The central task is to specify a system, an organizational variable, a scale, a time interval, a restoration process, and a disruption process, then measure each quantity independently.
 
@@ -3210,7 +3229,6 @@ Full paper on PhilArchive: [The Physical Constitution of Interiority](https://ph
 ---
 
 ## Post 26: Coherence Across Scales
-Coherence Across Scales
 
 Organization can deepen across scales when coordinated parts retain distinct roles and carry their joint history through longer temporal windows. [Coherence Scaling and the Emergence of Interior Across Biological Organization](https://philarchive.org/rec/PORCSA-2) develops this idea as a bridge from cellular regulation to larger domains of agency and conscious organization.
 
@@ -3276,7 +3294,6 @@ Full paper on PhilArchive: [Coherence Scaling and the Emergence of Interior Acro
 ---
 
 ## Post 27: A Minimal Computational Test of the Coherence Threshold
-A Minimal Computational Test of the Coherence Threshold
 
 A theory of restoration and disruption should be implementable as an explicit dynamical system. [Deriving the Coherence Threshold](https://philarchive.org/rec/PORDTC) provides a small reproducible model that does exactly that.
 
@@ -3345,7 +3362,6 @@ Full paper on PhilArchive: [Deriving the Coherence Threshold](https://philarchiv
 ---
 
 ## Post 28: Patrons: Attractors in the Meaning Field
-Patrons: Attractors in the Meaning Field
 
 Meaning develops structure across time. Repeated experiences, memories, emotions, symbols, and acts of attention can converge on the same recurring pattern until that pattern becomes a stable center of recognition. These stable centers are patrons.
 
@@ -3485,7 +3501,6 @@ Patrons are therefore the long lived landmarks through which meaning repeatedly 
 ---
 
 ## Post 29: THIR: The Interface Where Recognition Stabilizes
-THIR: The Interface Where Recognition Stabilizes
 
 Recognition is an event between what arrives and the organization already present to receive it. THIR, Threshold Harmonic Interface Resonance, names the stabilized interface that forms when these two sides enter sufficiently coherent alignment.
 
@@ -3639,7 +3654,6 @@ The same history that made recognition possible is revised by what recognition b
 ---
 
 ## Post 30: Care Before the Self
-Care Before the Self
 
 Selfhood develops inside relations that already support persistence.
 
