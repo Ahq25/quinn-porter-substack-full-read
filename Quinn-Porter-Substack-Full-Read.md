@@ -1969,7 +1969,7 @@ What is the relation between a living boundary that keeps a system intact and an
 7. **AHQ marks the experienced threshold crossing.** Aleph Harmonic Qualia (AHQ) identifies the experienced event in which distributed relations consolidate into a coherent boundary or whole. Incorporation follows by carrying that new whole into continuity, where it becomes consequential for future recognition.
 8. **The organizational propagation threshold marks wider reach.** The organizational propagation threshold marks the point at which incorporation becomes consequential beyond its local point of origin and begins reshaping organization across the wider continuity.
 9. **Self legibility.** Self legibility emerges when recognition becomes available to further recognition and continuity becomes present within its own activity.
-10. **Consciousness appears here as the recursive form of the process:** the history bearing boundary becomes available within its own activity through recognition. At that level, the same boundary can be described outwardly as organized selection and inwardly as experience.
+10. **Self legible consciousness appears here as the recursive form of the process:** the already phenomenal history bearing boundary becomes increasingly available within its own activity through recognition. At that level, the outwardly described boundary process becomes increasingly accessible to itself from within.
 
 ### Five steps at the gate
 
@@ -2310,7 +2310,7 @@ Full paper on PhilArchive: [Coevolution and Conversation: The Pollinator Analogy
 
 Before this: [Coevolution and Conversation (the essay)](https://ahq25.substack.com/p/coevolution-and-conversation).
 
-Next: [Consciousness as Access to Consequential History](https://ahq25.substack.com/p/consciousness-as-access-to-consequential), where the whole continuity arrives at consciousness.
+Next: [Consciousness as Access to Consequential History](https://ahq25.substack.com/p/consciousness-as-access-to-consequential), where the phenomenal interior develops greater recursive access to its own consequential history.
 
 
 ---
@@ -2415,7 +2415,7 @@ Once a system carries its own history forward, that history starts to shape how 
 
 [The Flowering Boundary](https://philarchive.org/rec/PORTFB) gives a plant example. Earlier events change a plant’s gene activity, chromatin, hormone sensitivity, and tissue geometry. As a result, two shoot tips in otherwise similar present conditions can go on to develop along different paths. The paper measures this as **CHpred**, the extra predictive power that retained history adds beyond the plant’s present state and its environment.
 
-**Interiority** is the condition in which retained organization becomes a local causal context through which present activity unfolds and continuation is shaped. Each new event meets a state already shaped by what came before. It meets a history. Branching as Active Inheritance describes graded causal self conditioning as the increasing influence of inherited organization on present dynamics. At R★ this history bearing influence becomes stable enough to function as a local causal context for continuation, which marks interiority. Beyond that threshold, interior organization deepens as carried history becomes more local, more nested, and more available to present activity. [The Porter Ratio](https://philarchive.org/rec/PORTPR-5) describes interiority as the primitive organizational basis from which life and phenomenal experience develop.
+**Interiority** is the condition in which retained organization becomes a local causal context through which present activity unfolds and continuation is shaped. Each new event meets a state already shaped by what came before. It meets a history. Branching as Active Inheritance describes graded causal self conditioning as the increasing influence of inherited organization on present dynamics. At R★ this history bearing influence becomes stable enough to function as a local causal context for continuation, which marks interiority. Beyond that threshold, interior organization deepens as carried history becomes more local, more nested, and more available to present activity. [The Porter Ratio](https://philarchive.org/rec/PORTPR-5) places interiority at the coherence threshold where a history bearing causal boundary forms. In the present framework, phenomenal experience is the intrinsic side of that boundary forming event, while richer biological and conscious organization develops through further history bearing, recursive, and meaning bearing structure.
 
 Imagine a continuing process in an otherwise blank space. What shapes the next moment can come from something newly arriving, or from consequences already carried forward. As carried consequences become increasingly effective, the process increasingly encounters its own history.
 
