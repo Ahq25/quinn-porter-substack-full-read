@@ -133,7 +133,7 @@ Consequential History and the Conditions of Persistence separates two properties
 
 A river channel has continuity. Its history steers the water through the shape of the bed. A person recognizing an old friend in a crowd has continuity and high accessibility. Years of history come to bear on one glance.
 
-Accessibility runs along a scale. Persistence requires continuity. Recognition requires that history be accessible within present activity. Insight makes previously separate consequences available together. Conscious experience is the regime in which consequential history becomes recursively available within the same ongoing activity that carries it forward.
+Accessibility runs along a scale. Persistence requires continuity. At R★, coherent boundary formation establishes the phenomenal interior. Recognition requires that history be accessible within present activity. Recursive availability makes the phenomenal interior increasingly self legible, and insight makes previously separate consequences available together as a new coherent whole.
 
 The Shape of Persistence lays out the same climb as a sequence of stages: matching, binding, stability, self preference, interior time, self reference, and consciousness. At the stage of interior time, the system uses its own history to guide its next state. At the stage of self reference, interior time is rich enough to track its own unfolding.
 
@@ -300,7 +300,7 @@ The Porter Ratio states the full arc in a single line: “From basic restoration
 
 Each paper contributes something specific.
 
-- [Consequential History and the Conditions of Persistence](https://philarchive.org/rec/PORCHA) develops consequential history as one of the conditions through which persistence becomes possible. Its separation of continuity from accessibility places persistence, recognition, understanding, and conscious experience on one continuous scale.
+- [Consequential History and the Conditions of Persistence](https://philarchive.org/rec/PORCHA) develops consequential history as one of the conditions through which persistence becomes possible. Its separation of continuity from accessibility places persistence, boundary formation, phenomenal interiority, recognition, understanding, and self legible consciousness on one continuous scale.
 - [The Law of Self Maintained Invariance](https://philarchive.org/rec/PORTLO-12) derives the restoration disruption balance from four postulates and expresses it through the Porter Ratio with R = 1 as the balance point. The result rests on an organization, an environment, and two rates, so the same balance can be asked wherever both rates can be identified.
 - [Branching as Active Inheritance](https://philarchive.org/rec/PORBAA) turns the ratio into a direct test: measure both rates in advance, compute R before the outcome, and compare it with geometry, each rate alone, their difference, and established predictors in that field. It treats the history bearing relation as the same across very different forms, from rivers on Earth to drainage on Mars and Titan.
 - [The Ostiary Principle](https://philarchive.org/rec/PORTOP) treats a living boundary and an observer as one process and defines meaning as the participation of an arrival in an organized continuity.
