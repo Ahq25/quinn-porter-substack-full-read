@@ -55,7 +55,7 @@ A strong test follows the same order each time.
 
 This order gives the ratio a prospective meaning. The measurement comes first and the predicted organizational transition follows.
 
-The framework therefore has a single causal arc. Persistence begins with restoration relative to disruption. Consequential history is the organization carried forward by persistence. R★ marks the point at which that carried history becomes a local causal interior. Ostiary gating makes inherited organization part of the rule through which new events are received. Recognition occurs when present structure aligns with carried history. Repeated recognition can deepen into patrons, stable symbolic attractors that organize future meaning. Temporal concentration gathers histories from different depths into one active present. Causal reentry lets that present participate in producing its successor. Recursive availability makes the history bearing process conscious. Within particular recognition events, THIR can mark the stabilized interface through which present structure and carried history align. AHQ is the experienced threshold crossing through which distributed relations become a coherent, reusable whole. Active inheritance then carries the new whole into what comes next.
+The framework therefore has a single causal arc. Persistence begins with restoration relative to disruption. Consequential history is the organization carried forward by persistence. At R★, that carried organization closes into a coherent causal boundary. Boundary formation is interiority, and phenomenal experience is the intrinsic side of that threshold event. Ostiary gating makes inherited organization part of the rule through which new events are received. Recognition occurs when present structure aligns with carried history. Repeated recognition can deepen into patrons, stable symbolic attractors that organize future meaning. Temporal concentration gathers histories from different depths into one active present. Causal reentry lets that present participate in producing its successor. Recursive availability makes the phenomenal interior increasingly self legible. Within particular recognition events, THIR can mark the stabilized interface through which present structure and carried history align. AHQ is the experienced threshold crossing through which distributed relations consolidate into a coherent, reusable boundary or whole. Active inheritance then carries the new whole into what comes next.
 
 Care belongs at the base of the same arc. A system persists through relations that support continuation. Preserving those supporting relations extends self maintenance through the boundary. Care is the organized preservation of what preserves continuity. Selfhood develops within that already history bearing organization.
 
@@ -65,7 +65,7 @@ Care belongs at the base of the same arc. A system persists through relations th
 
 Bacteria are useful because their boundaries, regulatory processes, environmental conditions, and recovery dynamics can be manipulated and measured on practical laboratory timescales. The experiment asks whether independently measured restoration relative to disruption predicts the transition into a stable history bearing interior.
 
-The interpretation stays precise. R★ marks interiority. Consciousness requires the further condition in which consequential history becomes recursively available within the ongoing activity that carries it forward.
+The interpretation stays precise. R★ marks the threshold at which the coherent boundary and interior form together, and phenomenal experience is the intrinsic side of that event. Recursive availability is a further deepening through which the phenomenal interior becomes increasingly self legible within the ongoing activity that carries it forward.
 
 ## The historical test
 
@@ -77,10 +77,10 @@ A history bearing system should therefore show measurable dependence on prior or
 
 The framework gains empirical strength when the same measurement procedure predicts persistence and interiority in held out cases, when retained history improves prediction beyond present state and current input, and when the relation generalizes across systems using scale appropriate variables.
 
-The same procedure also keeps the claims separated. The persistence relation is tested through restoration and disruption. Interiority is tested through the emergence of a local history bearing causal context. Consciousness is tested through recursive availability of that consequential history.
+The same procedure also keeps the claims separated. The persistence relation is tested through restoration and disruption. Interiority is tested through the threshold formation of a coherent local causal boundary. The phenomenal identity claim concerns the intrinsic side of that boundary event. Recursive availability is tested separately as the depth to which the formed interior can access and use its own consequential history.
 
 ## The bigger picture
 
-The Porter Ratio is a compact translation of a causal idea. Measurement gives each term a physical meaning. R★ turns interiority into an empirical transition. Recursive availability carries the sequence onward into consciousness.
+The Porter Ratio is a compact translation of a causal idea. Measurement gives each term a physical meaning. R★ turns boundary formation, interiority, and phenomenal onset into one empirical threshold claim. Recursive availability measures a further deepening of that phenomenal interior into self legibility.
 
 Full paper on PhilArchive: [The Physical Constitution of Interiority](https://philarchive.org/rec/PORTPC-2)
