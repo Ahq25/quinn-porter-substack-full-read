@@ -52,14 +52,14 @@ The simulation concerns the persistence and interiority layers of the framework.
 
 R describes relative restoration and disruption.
 
-A sustained transition into history bearing organization motivates the search for an empirical R★.
+A sustained transition into a coherent history bearing boundary motivates the search for an empirical R★.
 
-Interiority begins when carried organization becomes a local causal context for continuation.
+At R★, boundary formation and interiority are the same transition, and phenomenal experience is the intrinsic side of that formed interior.
 
-Recursive availability remains the further condition associated with consciousness.
+Recursive availability remains a further measure of self legibility and conscious depth within the phenomenal organization.
 
 ## The bigger picture
 
-The computational model gives the coherence threshold idea an explicit dynamical implementation. The bacterial protocol gives it an experimental route. The broader framework then asks how sustained history bearing organization becomes recursively available as consciousness and reorganizes into reusable wholes through insight.
+The computational model gives the coherence threshold idea an explicit dynamical implementation. The bacterial protocol gives it an experimental route. The broader framework identifies threshold formed boundary organization with interiority and phenomenal onset, then asks how that interior becomes recursively self legible and how further threshold events form reusable wholes through insight.
 
 Full paper on PhilArchive: [Deriving the Coherence Threshold](https://philarchive.org/rec/PORDTC)
