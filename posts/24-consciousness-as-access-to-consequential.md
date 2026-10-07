@@ -39,7 +39,7 @@ The transition into conscious organization can be separated into five observable
 
 **Causal reentry** asks whether the higher order state changes the local conditions through which its successor is produced.
 
-Conscious organization occupies the conjunction of these conditions. Their separation matters because each transition can be measured independently and each link can be manipulated directly. A retained history can be measured before accessibility. Accessibility can be measured before recursive reentry. Reentry can then be tested by perturbing the larger state and measuring its effect on later local transitions.
+Recursive conscious organization occupies the conjunction of these conditions within an already formed phenomenal interior. Their separation matters because each transition can be measured independently and each link can be manipulated directly. Boundary formation can be measured before recursive access. Retained history can be measured before accessibility. Accessibility can be measured before recursive reentry. Reentry can then be tested by perturbing the larger state and measuring its effect on later local transitions.
 
 ## Why the boundary is phenomenal
 
