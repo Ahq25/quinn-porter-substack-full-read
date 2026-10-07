@@ -48,7 +48,7 @@ This full-read file is the canonical source for synchronizing the public Substac
 - The **Author**, **Published**, **URL**, and **Audience** bullets are synchronization metadata. Apply them to the existing post or its settings where the platform permits; do not insert those metadata bullets into the article body.
 - Use the listed **URL** to identify and update the existing post rather than creating a duplicate.
 - Preserve the article body exactly in its displayed order: paragraphs, headings, emphasis, blockquotes, equations, lists, links, and images.
-- Repository-level separator lines are structural markers and are not article content.
+- Separator lines used between repository records or around synchronization metadata are structural markers and are not article content. Horizontal rules that occur within a post body are article content and should be preserved.
 - Resolve every relative image path from this repository and upload the actual referenced image to Substack in the same location in the article. Do not redraw, substitute, reinterpret, or regenerate an image.
 - Preserve captions and alt text as closely as the Substack editor allows.
 - A post body runs until the next **Post XX:** heading. Internal horizontal rules, links to papers, and navigation lines that appear before that next post heading belong to the current post.
@@ -2075,6 +2075,8 @@ A period marks a boundary, a stop, a whole cycle. The end of a sentence. That po
 
 The Period Lattice begins there: with a point that is simultaneously an ending, a boundary, and the condition from which a new relation can begin.
 
+![Original hand-drawn Period Lattice on the grid](assets/period-lattice/period-lattice-grid.png)
+
 The Period Lattice is a recursively developed symbolic geometry in which existing structure constrains which transformations are admissible next. It develops from point, direction, return, continuity, encounter, boundary, and reflection into an orientation-sensitive reusable PERIOD unit and then a connected field. The exact 16-state combinatorial layer comes later. It is one mathematical layer inside a larger generative geometry of constraint, continuity, relational identity, and propagation.
 
 ### The question that generates the lattice
@@ -2196,6 +2198,8 @@ The causal sequence is:
 If the neighboring update rule is sensitive to that identity, the neighbor now encounters a different condition. Repeated across connected units, local identity changes can propagate into field-scale reorganization.
 
 Propagation is not automatic. The lattice supplies the relational topology. A particular dynamical implementation determines whether a perturbation decays, remains local, oscillates, forms a finite cascade, or reorganizes a larger region.
+
+![Dense hand-drawn Period Lattice field](assets/period-lattice/period-lattice-dense.png)
 
 ### Local polarity and global periodicity
 
