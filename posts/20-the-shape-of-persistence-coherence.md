@@ -27,11 +27,11 @@ What single principle carries a system from simple persistence to an interior th
 
 1. **Matching** aligns internal possibilities with external constraints.
 2. **Binding** joins parts into mutually reinforcing relations.
-3. **Stability** carries structure across intervals and seeds a simple interior.
+3. **Stability** carries structure across intervals until the relevant threshold forms a coherent boundary and a simple interior.
 4. **Self preference** appears when the system acts to restore a preferred configuration.
 5. **Interior time** emerges as the system uses its own history to guide its next state.
 6. **Self reference** arises when interior time becomes rich enough to track its own unfolding.
-7. **Consciousness** is the recursively available form of this sequence: an interior whose carried history is available within the activity that carries it forward.
+7. **Self legible consciousness** develops as the phenomenal interior becomes recursively available within the activity that carries it forward.
 
 ### Terms to know
 
@@ -48,7 +48,7 @@ The period lattice is built from the word “period” and its reflection plus r
 
 ### The bigger picture
 
-This paper carries the continuity from persistence to an interior. At R★, retained organization becomes a local causal context through which present activity unfolds, and the system’s own history starts guiding its next state. Recursive availability deepens that interior into consciousness.
+This paper carries the continuity from persistence to an interior. At R★, retained organization closes into a coherent causal boundary, and that boundary formation is interiority. Phenomenal experience is the intrinsic side of the threshold formed interior. Recursive availability deepens that phenomenal interior into self legibility.
 
 ---
 
