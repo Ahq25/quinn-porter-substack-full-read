@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="800" viewBox="0 0 1400 800">
+<rect width="1400" height="800" fill="white"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#111}.title{font-size:42px;font-weight:700}.label{font-size:31px}.big{font-size:70px}.line{stroke:#111;stroke-width:4}.arrow{marker-end:url(#a);stroke:#111;stroke-width:3}</style>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#111"/></marker></defs>
+<text x="700" y="70" text-anchor="middle" class="title">Identity inversion without positional exchange</text>
+<text x="260" y="140" text-anchor="middle" class="label">Left position</text><text x="1140" y="140" text-anchor="middle" class="label">Right position</text>
+<line x1="260" y1="180" x2="260" y2="650" class="line"/><line x1="1140" y1="180" x2="1140" y2="650" class="line"/>
+<text x="700" y="230" text-anchor="middle" class="label">Orientation Ω = +1</text>
+<text x="260" y="330" text-anchor="middle" class="big">p</text><text x="1140" y="330" text-anchor="middle" class="big">d</text>
+<line x1="700" y1="300" x2="700" y2="470" class="arrow"/>
+<text x="700" y="385" text-anchor="middle" class="label">interior relation changes orientation</text>
+<text x="700" y="535" text-anchor="middle" class="label">Orientation Ω = −1</text>
+<text x="260" y="635" text-anchor="middle" class="big">d</text><text x="1140" y="635" text-anchor="middle" class="big">p</text>
+<text x="700" y="735" text-anchor="middle" class="label">Positions remain fixed. The system-relative identity map changes.</text>
+</svg>
