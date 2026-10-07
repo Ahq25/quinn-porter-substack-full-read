@@ -57,7 +57,7 @@ C_org = T ∧ H ∧ A ∧ K ∧ G
 - **K**, macrostate causal reentry;
 - **G**, integration across multiple processes or systems.
 
-The symbol ∧ is logical AND: all five hold together. Each quantity is separately measurable, with distinct operational tests for each transition.
+The symbol ∧ is logical AND: all five hold together. Each quantity is separately measurable, with distinct operational tests for each transition. This conjunction operationalizes a recursively self legible conscious regime within a phenomenal interior whose boundary has already formed at R★.
 
 ### The numbers
 
