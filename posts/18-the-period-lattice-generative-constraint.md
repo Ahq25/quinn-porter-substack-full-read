@@ -9,44 +9,168 @@
 
 ---
 
-The Period Lattice is a recursively developed symbolic geometry in which existing structure constrains which transformations are admissible next. It joins a generative rule system with an exact finite combinatorial structure: 16 ordered local microstates fall into five balance classes with multiplicities 1, 4, 6, 4, 1. The lattice separates composition from organization, counts exactly what a composition level description leaves open, and states when a coarse description still predicts what comes next. Constraint, in this model, generates organizational possibility.
+A period marks a boundary, a stop, a whole cycle. The end of a sentence. That point in grammar that marks the end of the sentence is also the point at which the meaning of the sentence can be reflected back as a whole.
 
-### How structure shapes what comes next
+The Period Lattice begins there: with a point that is simultaneously an ending, a boundary, and the condition from which a new relation can begin.
 
-How does existing structure set what can happen next, and which distinctions does a coarse description keep or lose?
+The Period Lattice is a recursively developed symbolic geometry in which existing structure constrains which transformations are admissible next. It develops from point, direction, return, continuity, encounter, boundary, and reflection into an orientation-sensitive reusable PERIOD unit and then a connected field. The exact 16-state combinatorial layer comes later. It is one mathematical layer inside a larger generative geometry of constraint, continuity, relational identity, and propagation.
 
-### How the lattice works
+### The question that generates the lattice
 
-1. **Structure sets the admissible next moves.** The lattice is a recursively developed symbolic geometry in which existing structure constrains which transformations are admissible next.
-2. **Construction is developmental.** Construction begins from a point and develops direction, return, continuity, encounter, reflection, and an orientation sensitive reusable PERIOD unit embedded in a connected field.
-3. **The local state space is exact.** A local junction contains four ordered binary pole positions, p and d, generating 2⁴ = 16 ordered microstates.
-4. **Pascal structure appears exactly.** Grouping those states by p count produces five balance classes B0 through B4 with multiplicities 1, 4, 6, 4, 1, exactly row n = 4 of Pascal’s triangle. This counting result is standard combinatorics: the same state space is the Boolean hypercube Q4, and the five classes are its Hamming weight levels and the permutation orbits of four exchangeable positions. The claim of the Period Lattice begins with what this known counting structure leaves unresolved: positional order, orientation, coupling, and the transition differences those relational variables can produce.
-5. **Composition and organization are separate.** A class histogram can determine local class counts, Cartesian product microstate multiplicity, and mean polarity while leaving positional relational order open.
-6. **Hidden arrangements are countable.** At field scale, the number of spatial arrangements compatible with a fixed histogram is the corresponding multinomial coefficient: an exact count of the relational distinctions hidden by composition level descriptions.
-7. **Prediction needs the right partition.** A coarse description remains predictively closed when its partition is Markov lumpable. When update rules depend on adjacency, orientation, or shared boundaries, states that are identical at the coarse level can retain different transition structures.
-8. **Counting skeleton and added organization.** Pascal structure supplies the local counting skeleton, while placement, orientation, and coupling determine additional organization.
-9. **What stays open.** A Sierpinski type relation across scales becomes a decidable multiscale question once an explicit whole lattice recursion is specified.
+At every stage the same question is asked:
 
-### How construction opens new moves
+**Given what already exists, what moves are available now?**
 
-In the full paper, construction starts from a single mark read as a period, a point. A line directed toward the point gives i. Return around the point gives io. Continuity re encounters the earlier directional element and gives iod:
+The construction begins with a single mark:
 
-. → i → io → iod
+.
 
-Each stage keeps the constraints of the earlier stages and adds new structural capacities. Once a three unit object exists, a three unit continuation becomes admissible as a kind of move. The paper separates two facts here: the choice of a particular continuation is a trajectory, and the opening of that kind of move is a change in the admissible move set created by prior structure. Each realized structure changes the set of transformations that are admissible next.
+A period. A point.
 
-### Terms to know
+A point establishes position. Once position exists, direction becomes available because something can point toward the point. A directed line and the point together give a form read as **i**:
 
-- **Microstate.** One exact assignment of p or d to each of the four ordered positions. pppd, ppdp, pdpp, and dppp are four different microstates.
-- **Balance class (B0 to B4).** All microstates with the same number of p’s. B2, with two p’s and two d’s, contains six microstates.
-- **Composition.** What is present and how many of each.
-- **Arrangement, or positional relational order.** Where each element sits in relation to the others.
-- **Class histogram.** The count of how many sites in a field fall into each balance class.
-- **Mean polarity.** The average balance of p against d across a field.
-- **Staggered order.** A measure that records which polarities sit on which of two alternating sets of sites, so it depends on arrangement.
-- **Markov lumpable.** A grouping of detailed states is lumpable when every detailed state in the same group has the same total chance of moving into each next group. In plain terms: the coarse description carries everything the next step depends on.
+. → i
 
-### The numbers
+The original point has not disappeared. It has entered a larger relation. The new structure now contains a point, a direction, and the space opened between them.
+
+A direction can continue indefinitely, or it can encounter something. In the developmental construction the available encounter is return to itself. That self-encounter creates recurrence and a boundary. The frame turns and the return is represented by **o**:
+
+i → io
+
+The **o** carries continuity, return, recurrence, and re-encounter. Continuity can continue, but a further structural change appears when continuity re-encounters the earlier directional element. On the grid that encounter produces **d**:
+
+io → iod
+
+At this stage three main relations are active together:
+
+- **i:** point, position, and direction
+- **o:** continuity, return, and recurrence
+- **d:** encounter, boundary, and directed closure
+
+Once a three-unit structure exists, a three-unit continuation becomes available as a new kind of move. In the original construction, **per** is selected within that newly opened space. Reflection and return then complete the structure:
+
+iod → per-iod → period
+
+The earlier **iod** remains inside the completed word. The finished word is not simply placed onto the construction. It records the sequence of transformations that made it available:
+
+. → i → io → iod → per-iod → period
+
+Each stage changes the structure. Each stage preserves something from the previous stage. Each stage creates new possible moves. Existing organization changes the possibility space of what can happen next.
+
+### PERIOD becomes a relational unit
+
+Once PERIOD becomes reusable, its role is no longer exhausted by spelling. It occupies an orientation and participates in junctions shared with neighboring units.
+
+A useful decomposition is:
+
+**p | erio | d**
+
+The **p** and **d** are boundary carriers. The interior sequence **erio** is the orientation-sensitive region. The two boundary carriers remain at fixed geometric locations. What changes is the relational frame under which those fixed carriers are read.
+
+### Point reflection and identity inversion
+
+The interior sequence can be transformed in three conceptually different ways. A glyphwise reflection changes the orientation of the letters while keeping their order. A reversal changes their order while leaving the glyph forms otherwise unchanged. Neither operation by itself restores the coherent opposite reading of the word.
+
+The relevant transformation is a **point reflection**: in this construction, the compound reflection-and-reversal operation, equivalent to a 180° orientation change of the interior relation as a whole.
+
+- reflection alone: erio → ǝɹᴉo
+- reversal alone: erio → oire
+- point reflection: erio → oᴉɹǝ
+
+The first two transformations do not recover the coherent PERIOD relation. The point reflection does. The word becomes legible from the opposite orientation.
+
+The crucial event is what happens at the boundaries. The physical endpoint carriers do not move. Their positions remain fixed. Under the opposite orientation, however, their relational identities invert:
+
+**p → d**
+
+**d → p**
+
+This is **identity inversion without positional exchange**.
+
+The same physical point can remain where it is while what it counts as within the organized whole changes. Position, orientation, and relational identity are therefore distinct:
+
+- **Position:** where the carrier is.
+- **Orientation:** which relational frame is active.
+- **Relational identity:** what role the carrier has in that frame.
+
+The identity flip is non-arbitrary because it occurs under the transformation that restores the coherent opposite orientation.
+
+### A discrete orientation inversion
+
+The p/d relation can be written as a binary state:
+
+s ∈ {+1, −1}
+
+Point reflection induces the global complement:
+
+s → −s
+
+Every p becomes d and every d becomes p while the higher-order relational pattern can remain intact. In the lattice this is a discrete orientation inversion, structurally equivalent to a π orientation-phase inversion. Physical phase-slip language requires an actual phase variable in a particular implementation; the lattice itself supplies the discrete structural relation.
+
+### Shared boundaries make the flip consequential
+
+The p and d endpoints do not belong only to isolated words. Repeated PERIOD units intersect through shared junctions. A boundary carrier can participate simultaneously in more than one local relation.
+
+A point reflection in one unit can therefore change the identity presented to a neighboring unit without moving the shared carrier.
+
+The causal sequence is:
+
+**organization → orientation → relational identity → shared boundary condition → neighboring transition → new organization**
+
+If the neighboring update rule is sensitive to that identity, the neighbor now encounters a different condition. Repeated across connected units, local identity changes can propagate into field-scale reorganization.
+
+Propagation is not automatic. The lattice supplies the relational topology. A particular dynamical implementation determines whether a perturbation decays, remains local, oscillates, forms a finite cascade, or reorganizes a larger region.
+
+### Local polarity and global periodicity
+
+An important feature of the lattice appears when neighboring clusters occupy the two extreme balance classes:
+
+**4p : 0d**
+
+and
+
+**0p : 4d**
+
+Locally, each cluster is maximally polarized. Every position inside the cluster agrees with every other position. There is no internal mixture.
+
+Yet if those opposite extreme clusters alternate across the field,
+
+**4p:0d | 0p:4d | 4p:0d | 0p:4d | ...**
+
+a maximally regular periodic structure appears at the larger scale.
+
+The same organization is therefore described differently at different scales:
+
+- locally, the lattice maximizes distinction;
+- globally, the lattice maximizes repetition.
+
+The periodic state is produced by organized opposition rather than local sameness. Difference becomes the source of regularity. Continuity can therefore arise from the stable organization of differences.
+
+The state of greatest large-scale order can simultaneously be the state of greatest local polarity.
+
+### Four positions and sixteen local configurations
+
+Each local cluster contains four ordered pole positions. Each position can occupy one of two states, p or d. Therefore:
+
+**2⁴ = 16**
+
+ordered local microstates are possible.
+
+States such as
+
+pppd
+
+ppdp
+
+pdpp
+
+dppp
+
+contain the same number of p and d states while preserving different arrangements. Order therefore carries information.
+
+### Five balance classes
+
+If the 16 detailed states are grouped only by the number of p states, they collapse into five balance classes:
 
 - **B0:** 0p : 4d, 1 microstate
 - **B1:** 1p : 3d, 4 microstates
@@ -54,27 +178,152 @@ Each stage keeps the constraints of the earlier stages and adds new structural c
 - **B3:** 3p : 1d, 4 microstates
 - **B4:** 4p : 0d, 1 microstate
 
-These are the coefficients of (p + d)⁴ = p⁴ + 4p³d + 6p²d² + 4pd³ + d⁴. One bit changes move between adjacent classes.
+The multiplicities are:
 
-### Same composition, different organization
+**1, 4, 6, 4, 1**
 
-Matched four site fields can share the same histogram, multiplicity, and mean polarity while differing in staggered order. The full paper’s example: on alternating sites, the field (B4, B0, B4, B0) and the field (B4, B4, B0, B0) both contain two B4 sites and two B0 sites. They share histogram, multiplicity, and mean polarity. The first has staggered order 1, and the second has staggered order 0. That histogram is compatible with 4! / (2! × 2!) = 6 spatial arrangements.
+These are exactly row n = 4 of Pascal's triangle:
 
-Composition tells what is present. Arrangement determines which relations are available to the next transition. The same ingredients can therefore support different futures. The way the same bricks can make a tower, a bridge, or a wall is the everyday version.
+(p + d)⁴ = p⁴ + 4p³d + 6p²d² + 4pd³ + d⁴
 
-### Apparent memory at a coarse scale
+The same state space is the Boolean hypercube Q4, and the five balance classes are its Hamming-weight levels and the permutation orbits of four exchangeable positions.
 
-When an update rule reads arrangement, two fields with the same histogram can have different next steps. A coarse description that keeps the histogram as its state description can appear history dependent. Adding the missing relational variable, such as staggered order, neighbor relations, or boundary identity, restores predictive closure. The working rule: retain exactly those relational distinctions required to make the target dynamics predictable at the chosen scale.
+That counting structure is standard combinatorics. The Period Lattice adds its distinctive content by embedding the counting skeleton inside an orientation-sensitive connected field with shared boundaries and relational identities.
+
+### Four positions generate five balance states
+
+The cluster still contains only four positions. Nothing has been added. Yet the organization of those four binary positions generates five possible balance classes.
+
+The fifth class does not come from a fifth component. It arises from the combinatorial organization of the four-position system. The higher-level state is therefore a property of organization rather than an extra part.
+
+### A word bridges two balance spaces
+
+A PERIOD unit does not participate in only one cluster. Each word sits between relational neighborhoods:
+
+**[cluster] → period ← [cluster]**
+
+One cluster participates at one boundary of the word and another at the opposite boundary. Each cluster has its own 16-state local microspace and five-class balance space.
+
+The interior relation **erio** therefore bridges two boundary conditions. A transformation does not merely change one isolated cluster. It can redistribute relational organization across the connection between neighboring balance spaces.
+
+The progression is:
+
+**4 positions**
+
+↓
+
+**16 local configurations**
+
+↓
+
+**5 balance classes**
+
+↓
+
+**connected balance spaces linked through PERIOD**
+
+The lattice begins with binary positions, but its larger behavior depends on relations among the balance states and the shared boundaries joining them.
+
+### Composition and organization are separate
+
+Composition answers:
+
+**What is there, and how much of each?**
+
+Organization additionally asks:
+
+**Where is it, how is it oriented, what is it connected to, and what relational role does it play?**
+
+The same ingredients can therefore support different structures and different futures.
+
+For example, the fields
+
+(B4, B0, B4, B0)
+
+and
+
+(B4, B4, B0, B0)
+
+contain the same numbers of B4 and B0 sites and the same mean polarity, but the first is alternating and the second is clustered. Their relational order differs.
+
+That histogram is compatible with
+
+4! / (2! × 2!) = 6
+
+spatial arrangements.
+
+Composition leaves relational identity open.
+
+### Exact coarse graining
+
+The 16 ordered microstates can be collapsed into five balance classes. A field of balance classes can be collapsed further into a histogram. Each compression keeps some variables and erases others.
+
+A coarse description is predictively sufficient only when the distinctions it discards do not matter to what happens next.
+
+In Markov-chain language, the partition must be **lumpable**: every detailed state placed in the same coarse group must have the same total transition probabilities into the next coarse groups.
+
+In plain language:
+
+**the coarse description must retain everything the next step actually depends on.**
+
+### Apparent memory from hidden organization
+
+Two detailed fields can share the same coarse description while retaining different arrangements. If the update rule reads adjacency, orientation, or shared-boundary identity, those apparently identical coarse states can evolve differently.
+
+From the coarse viewpoint the system can then look history dependent. Adding the missing relational variable can restore predictive closure.
+
+The practical rule is:
+
+**retain exactly those relational distinctions required to predict the target dynamics at the chosen scale.**
+
+### Inversion symmetry and continuity across levels
+
+Under global p/d complement:
+
+- B0 ↔ B4
+- B1 ↔ B3
+- B2 → B2
+
+The central B2 class remains the same balance class even though every underlying p/d identity can invert.
+
+This gives a minimal example of continuity across descriptive levels. Detailed identity can change while a higher-order relation remains invariant.
+
+Continuity therefore need not mean that every component remains unchanged. A larger relational organization can survive transformation of its parts.
+
+### Operational legibility
+
+A relation can be visible to an outside observer without being used by the system itself.
+
+The stronger condition appears when a system-generated relation becomes available inside the dynamics that determine what the system does next.
+
+The Period Lattice makes this distinction concrete. Orientation assigns relational identity to fixed carriers. Shared boundaries make those identities available to neighboring transitions. The larger relation can therefore return into the local dynamics that continue the field.
+
+This is **operational legibility**:
+
+**a relation becomes internally causal when the system itself uses that relation to constrain its next transition.**
+
+The same mechanism supplies a minimal operational inside/outside distinction. Outside influence arrives through environmental coupling. An inside relation is generated by the system's own organization and re-enters the processes that continue that organization.
 
 ### What the lattice reveals
 
-The 1, 4, 6, 4, 1 count follows directly from four ordered binary positions and serves as the Period Lattice’s standard combinatorial starting point. The useful question begins after the count: which relational distinctions disappear when those 16 ordered states are collapsed into five composition classes, and which of those relations restore predictive closure for the next transition?
+The Period Lattice is a compact finite model of linked principles:
 
-The Period Lattice is a compact finite model of generative constraint, exact coarse graining, relational identity, information accounting, and organizational possibility. Constraints generate new organizational possibilities, and a description that fixes composition leaves relational identity to be specified by placement, orientation, and coupling. Its empirical test is whether those relational variables improve prediction of dynamics that composition alone leaves unresolved.
+1. Existing structure changes which transformations are available next.
+2. Later organization can inherit earlier structure without simply repeating it.
+3. Point reflection can change relational identity without moving the underlying carrier.
+4. Shared boundaries allow local identity changes to alter neighboring conditions.
+5. Local opposition can produce global periodic regularity.
+6. Four binary positions generate 16 detailed states and five exact balance classes.
+7. Composition does not determine organization.
+8. Coarse graining succeeds only when discarded relational distinctions do not affect future dynamics.
+9. Higher-order continuity can survive lower-level identity inversion.
+10. A system-level relation becomes operationally meaningful when it re-enters and changes the local dynamics that produce the next state.
 
-### The bigger picture
+The lattice therefore supplies a geometry of structural transition:
 
-The same continuity appears here in its simplest exact form. Existing structure sets the next admissible moves, and arrangement, together with composition, determines which relations are available to the next transition. The lattice supplies the geometry of a structural transition: local state, relational constraint, propagation, and global organization. Living, neural, and cognitive systems can share that geometry while each uses its own mechanism.
+**history → admissible moves → orientation → relational identity → shared constraint → local transition → propagation → field organization → new admissible moves**
+
+The full structure is recursive. What exists now determines what can happen next, and what happens next becomes part of the structure that constrains the following transition.
 
 ---
 
