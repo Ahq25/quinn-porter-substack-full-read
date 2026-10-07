@@ -7,7 +7,7 @@
 
 ---
 
-The Porter Ratio expresses a simple relation between restoration and disruption. Its role begins with persistence, reaches interiority at a system specific coherence threshold, and connects to consciousness through recursive availability of consequential history.
+The Porter Ratio expresses a simple relation between restoration and disruption. Its role begins with persistence and reaches a boundary forming transition at the system specific coherence threshold. At R★, the boundary and interior form together, and phenomenal experience is the intrinsic side of that threshold event. Recursive availability then deepens the phenomenal interior into self legible conscious organization.
 
 ## The basic relation
 
@@ -26,18 +26,18 @@ R★ is a further empirical threshold for a declared system, scale, variable, an
 1. **Persistence.** Restoration carries organization forward through interaction.
 2. **Consequential history.** Earlier organization remains causally active in later states.
 3. **Active inheritance.** The causal organization continues even as its physical carrier changes.
-4. **Interiority.** At R★, retained organization becomes a local causal context through which present activity unfolds.
-5. **Ostiary gating.** Carried history participates in the rule by which new events are admitted, transformed, and incorporated.
-6. **Temporal concentration.** Consequences originating at different temporal depths become jointly effective in one present.
-7. **Causal reentry.** The present helps determine which history continues into the next state.
-8. **Recursive availability.** The history bearing interior becomes available within the activity that is already carrying and using it.
-9. **Consciousness.** Consciousness is that history bearing boundary process as consequential history becomes recursively available within its own ongoing organization.
-10. **Experience.** Experience is the internally available form of the same process.
-11. **Insight.** Distributed relations become jointly available as a coherent, reusable whole, producing the experienced threshold crossing called Aleph Harmonic Qualia.
+4. **Boundary and interiority.** At R★, retained organization closes into a coherent causal boundary. The boundary and the interior form in the same threshold event.
+5. **Phenomenal experience.** Phenomenal character is the intrinsic side of occupying that newly formed interior boundary.
+6. **Ostiary gating.** Carried history participates in the rule by which new events are admitted, transformed, and incorporated.
+7. **Temporal concentration.** Consequences originating at different temporal depths become jointly effective in one present.
+8. **Causal reentry.** The present helps determine which history continues into the next state.
+9. **Recursive availability.** The phenomenal interior becomes increasingly available within the activity that is already carrying and using its history.
+10. **Self legible consciousness.** The history bearing interior can use and recognize its own current organization within ongoing activity.
+11. **Insight and AHQ.** Distributed relations cross into a coherent, reusable boundary or whole, and the experienced crossing is Aleph Harmonic Qualia.
 
 ## Why the distinction matters
 
-R★ performs one clear job. It marks the onset of interiority. Recursive availability performs a further job. It describes how the history bearing interior becomes available within its own ongoing activity. The two conditions belong to one continuous process and identify different depths of organization.
+R★ performs one clear job. It marks the threshold at which a coherent boundary forms, and boundary formation is interiority. Phenomenal experience is the intrinsic side of that threshold event. Recursive availability performs a further job by making the already phenomenal interior increasingly available within its own ongoing activity. The two relations belong to one continuous process and identify different depths of organization.
 
 A river channel can carry consequential history in its present structure. A living cell can carry history through maintained boundaries, regulatory states, and inherited organization. A conscious system adds recursively usable access through which carried history participates within the activity organizing the present.
 
@@ -55,7 +55,7 @@ A central test of consequential history matches the present state and incoming c
 
 ## The whole arc
 
-The past stays active through persistence. It becomes a local causal context through interiority. It gathers across temporal depths into a deep present. It becomes recursively available as consciousness. It reorganizes into reusable wholes through insight. Each stage adds organizational depth to the same continuing causal history.
+The past stays active through persistence. At R★, it closes into a coherent boundary and forms an interior whose intrinsic side is phenomenal experience. It gathers across temporal depths into a deep present. Recursive availability makes that phenomenal interior increasingly self legible. Insight repeats the threshold geometry locally as distributed relations form a new reusable whole. Each stage adds organizational depth to the same continuing causal history.
 
 ---
 
