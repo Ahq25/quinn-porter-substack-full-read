@@ -24,7 +24,7 @@ What is the relation between a living boundary that keeps a system intact and an
 7. **AHQ marks the experienced threshold crossing.** Aleph Harmonic Qualia (AHQ) identifies the experienced event in which distributed relations consolidate into a coherent boundary or whole. Incorporation follows by carrying that new whole into continuity, where it becomes consequential for future recognition.
 8. **The organizational propagation threshold marks wider reach.** The organizational propagation threshold marks the point at which incorporation becomes consequential beyond its local point of origin and begins reshaping organization across the wider continuity.
 9. **Self legibility.** Self legibility emerges when recognition becomes available to further recognition and continuity becomes present within its own activity.
-10. **Consciousness appears here as the recursive form of the process:** the history bearing boundary becomes available within its own activity through recognition. At that level, the same boundary can be described outwardly as organized selection and inwardly as experience.
+10. **Self legible consciousness appears here as the recursive form of the process:** the already phenomenal history bearing boundary becomes increasingly available within its own activity through recognition. At that level, the outwardly described boundary process becomes increasingly accessible to itself from within.
 
 ### Five steps at the gate
 
