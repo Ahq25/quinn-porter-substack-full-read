@@ -2110,17 +2110,19 @@ The **p** and **d** are boundary carriers. The interior sequence **erio** is the
 
 ### Point reflection and identity inversion
 
-The interior sequence can be transformed in three conceptually different ways. A glyphwise reflection changes the orientation of the letters while keeping their order. A reversal changes their order while leaving the glyph forms otherwise unchanged. Neither operation by itself restores the coherent opposite reading of the word.
+The interior sequence can be changed in three conceptually different ways. Reflection changes the orientation of the glyphs while keeping their order. Reversal changes their order without supplying the opposite glyph orientation. Neither operation by itself restores a coherent PERIOD unit.
 
-The relevant transformation is a **point reflection**: in this construction, the compound reflection-and-reversal operation, equivalent to a 180° orientation change of the interior relation as a whole.
+The relevant transformation is **point reflection**. In this construction, point reflection is the combined reflection-and-reversal operation: a 180-degree change of orientation of the interior relation as a whole.
 
 - reflection alone: erio → ǝɹᴉo
 - reversal alone: erio → oire
 - point reflection: erio → oᴉɹǝ
 
-The first two transformations do not recover the coherent PERIOD relation. The point reflection does. The word becomes legible from the opposite orientation.
+![Point reflection of erio in the oriented PERIOD unit](assets/period-lattice/erio-point-reflection.svg)
 
-The crucial event is what happens at the boundaries. The physical endpoint carriers do not move. Their positions remain fixed. Under the opposite orientation, however, their relational identities invert:
+The important fact is not simply that the letters look different. After the point reflection, the unit is legible from the opposite orientation. If the lattice is read from that orientation, the same fixed endpoints now have the opposite relational identities.
+
+The endpoint carriers themselves do **not** trade places. The left physical boundary remains the left physical boundary and the right physical boundary remains the right physical boundary. What changes is what each fixed carrier counts as within the newly active orientation:
 
 **p → d**
 
@@ -2128,13 +2130,15 @@ The crucial event is what happens at the boundaries. The physical endpoint carri
 
 This is **identity inversion without positional exchange**.
 
-The same physical point can remain where it is while what it counts as within the organized whole changes. Position, orientation, and relational identity are therefore distinct:
+![Identity inversion without positional exchange](assets/period-lattice/identity-inversion.svg)
+
+That distinction separates three things that ordinary language often collapses:
 
 - **Position:** where the carrier is.
 - **Orientation:** which relational frame is active.
-- **Relational identity:** what role the carrier has in that frame.
+- **Relational identity:** what the carrier counts as in that frame.
 
-The identity flip is non-arbitrary because it occurs under the transformation that restores the coherent opposite orientation.
+A point can therefore remain geometrically fixed while its role in the organized whole changes. The identity inversion is not arbitrary: it occurs under the coordinated transformation that restores the coherent opposite orientation of the full unit.
 
 ### A discrete orientation inversion
 
@@ -2164,7 +2168,7 @@ Propagation is not automatic. The lattice supplies the relational topology. A pa
 
 ### Local polarity and global periodicity
 
-An important feature of the lattice appears when neighboring clusters occupy the two extreme balance classes:
+One of the clearest scale-dependent features of the Period Lattice appears when neighboring clusters occupy the two extreme balance classes:
 
 **4p : 0d**
 
@@ -2172,22 +2176,24 @@ and
 
 **0p : 4d**
 
-Locally, each cluster is maximally polarized. Every position inside the cluster agrees with every other position. There is no internal mixture.
+Within either cluster there is no mixture. Every one of the four positions has the same pole identity, so each cluster is maximally polarized within the local balance space.
 
-Yet if those opposite extreme clusters alternate across the field,
+Now alternate those extreme clusters across the field:
 
 **4p:0d | 0p:4d | 4p:0d | 0p:4d | ...**
 
-a maximally regular periodic structure appears at the larger scale.
+![Local polarity and global periodicity](assets/period-lattice/local-polarity-global-periodicity.svg)
 
-The same organization is therefore described differently at different scales:
+At the scale of an individual cluster, the field is maximally differentiated: neighboring clusters occupy opposite extremes. At the scale of the larger field, the same arrangement is maximally regular because the opposition repeats periodically.
+
+The periodic state and the polarized state are therefore not competing descriptions. They are descriptions of the **same organization at different scales**:
 
 - locally, the lattice maximizes distinction;
 - globally, the lattice maximizes repetition.
 
-The periodic state is produced by organized opposition rather than local sameness. Difference becomes the source of regularity. Continuity can therefore arise from the stable organization of differences.
+The large-scale regularity is produced by organized difference rather than local sameness. Continuity does not require every neighboring region to become identical. It can arise from a stable organization of oppositions.
 
-The state of greatest large-scale order can simultaneously be the state of greatest local polarity.
+That is the structural duality: **the strongest local polarity can generate the clearest global periodicity.** Difference itself becomes the source of regularity.
 
 ### Four positions and sixteen local configurations
 
@@ -2211,7 +2217,7 @@ contain the same number of p and d states while preserving different arrangement
 
 ### Five balance classes
 
-If the 16 detailed states are grouped only by the number of p states, they collapse into five balance classes:
+If the 16 ordered microstates are grouped only by how many positions carry p rather than by their exact ordering, they collapse into five balance classes:
 
 - **B0:** 0p : 4d, 1 microstate
 - **B1:** 1p : 3d, 4 microstates
@@ -2223,13 +2229,17 @@ The multiplicities are:
 
 **1, 4, 6, 4, 1**
 
+![Four binary positions and five exact balance classes](assets/period-lattice/balance-classes.svg)
+
 These are exactly row n = 4 of Pascal's triangle:
 
 (p + d)⁴ = p⁴ + 4p³d + 6p²d² + 4pd³ + d⁴
 
-The same state space is the Boolean hypercube Q4, and the five balance classes are its Hamming-weight levels and the permutation orbits of four exchangeable positions.
+The same local state space can also be described as the Boolean hypercube Q4, with the five balance classes corresponding to its Hamming-weight levels.
 
-That counting structure is standard combinatorics. The Period Lattice adds its distinctive content by embedding the counting skeleton inside an orientation-sensitive connected field with shared boundaries and relational identities.
+That counting result is standard combinatorics. The distinctive Period Lattice question begins after the count: **what relational information disappears when 16 ordered arrangements are compressed into only five composition classes, and does any of that lost information matter to what happens next?**
+
+The lattice answers by keeping orientation, position, shared boundaries, and relational identity available as distinct variables. Two states can have the same p:d balance while differing in arrangement and therefore in the transitions their neighbors make available.
 
 ### Four positions generate five balance states
 
@@ -3109,8 +3119,7 @@ Back to the beginning: [Consequential History](https://ahq25.substack.com/p/cons
 ---
 
 ## Post 25: Measuring Interiority
-
-# Measuring Interiority
+Measuring Interiority
 
 The Porter Ratio becomes scientifically useful when its terms are measured before the outcome they are meant to predict. The central task is to specify a system, an organizational variable, a scale, a time interval, a restoration process, and a disruption process, then measure each quantity independently.
 
@@ -3201,8 +3210,7 @@ Full paper on PhilArchive: [The Physical Constitution of Interiority](https://ph
 ---
 
 ## Post 26: Coherence Across Scales
-
-# Coherence Across Scales
+Coherence Across Scales
 
 Organization can deepen across scales when coordinated parts retain distinct roles and carry their joint history through longer temporal windows. [Coherence Scaling and the Emergence of Interior Across Biological Organization](https://philarchive.org/rec/PORCSA-2) develops this idea as a bridge from cellular regulation to larger domains of agency and conscious organization.
 
@@ -3268,8 +3276,7 @@ Full paper on PhilArchive: [Coherence Scaling and the Emergence of Interior Acro
 ---
 
 ## Post 27: A Minimal Computational Test of the Coherence Threshold
-
-# A Minimal Computational Test of the Coherence Threshold
+A Minimal Computational Test of the Coherence Threshold
 
 A theory of restoration and disruption should be implementable as an explicit dynamical system. [Deriving the Coherence Threshold](https://philarchive.org/rec/PORDTC) provides a small reproducible model that does exactly that.
 
@@ -3338,8 +3345,7 @@ Full paper on PhilArchive: [Deriving the Coherence Threshold](https://philarchiv
 ---
 
 ## Post 28: Patrons: Attractors in the Meaning Field
-
-# Patrons: Attractors in the Meaning Field
+Patrons: Attractors in the Meaning Field
 
 Meaning develops structure across time. Repeated experiences, memories, emotions, symbols, and acts of attention can converge on the same recurring pattern until that pattern becomes a stable center of recognition. These stable centers are patrons.
 
@@ -3479,8 +3485,7 @@ Patrons are therefore the long lived landmarks through which meaning repeatedly 
 ---
 
 ## Post 29: THIR: The Interface Where Recognition Stabilizes
-
-# THIR: The Interface Where Recognition Stabilizes
+THIR: The Interface Where Recognition Stabilizes
 
 Recognition is an event between what arrives and the organization already present to receive it. THIR, Threshold Harmonic Interface Resonance, names the stabilized interface that forms when these two sides enter sufficiently coherent alignment.
 
@@ -3634,8 +3639,7 @@ The same history that made recognition possible is revised by what recognition b
 ---
 
 ## Post 30: Care Before the Self
-
-# Care Before the Self
+Care Before the Self
 
 Selfhood develops inside relations that already support persistence.
 
