@@ -10,7 +10,7 @@ Recognition begins when an arriving pattern finds compatible organization within
 
 THIR develops as that relation becomes stable enough to form one coherent interface.
 
-AHQ is the experienced threshold crossing through which the distributed relation becomes a coherent, reusable whole.
+AHQ is the experienced threshold crossing through which the distributed relation consolidates into a coherent, reusable boundary or whole.
 
 ## The interface
 
@@ -74,7 +74,7 @@ THIR and AHQ name different parts of one transition.
 
 THIR is the stabilized interface.
 
-AHQ is the experienced threshold crossing through which the distributed relation becomes a coherent, reusable whole.
+AHQ is the experienced threshold crossing through which the distributed relation consolidates into a coherent, reusable boundary or whole.
 
 When THIR is present, the local transition has a clean order:
 
