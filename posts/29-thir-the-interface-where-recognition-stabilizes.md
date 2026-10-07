@@ -1,149 +1,99 @@
 # THIR: The Interface Where Recognition Stabilizes
 
-Recognition is an event between what arrives and the organization already present to receive it. THIR, Threshold Harmonic Interface Resonance, names the stabilized interface that forms when these two sides enter sufficiently coherent alignment.
+Recognition happens at an interface. Something arrives with structure, and it meets a system that already carries structure from earlier history. The result depends on both.
 
-THIR names a local relational event that can occur within the larger architecture when present structure and carried history stabilize into one coherent interface.
+**THIR — Threshold Harmonic Interface Resonance — names the stabilized relation that can form when present structure and carried history enter sufficiently coherent reciprocal constraint.**
 
-Its role is specific. Recognition establishes compatibility between arrival and carried history. THIR is the stabilized relational organization produced by their reciprocal constraint. AHQ is the experienced crossing through which that organization becomes jointly available and reusable.
+Its role is deliberately narrower than AHQ. Recognition begins when an arriving pattern finds compatible organization within consequential history. THIR describes the interface becoming stable. AHQ describes the experienced threshold crossing through which distributed relations become jointly available as a coherent, reusable whole.
 
-Recognition begins when an arriving pattern finds compatible organization within consequential history.
+Keeping those terms distinct prevents every successful recognition from being treated as an insight and every stable interface from being treated as a new conscious boundary.
 
-THIR develops as that relation becomes stable enough to form one coherent interface.
+### Recognition is relational
 
-AHQ is the experienced threshold crossing through which the distributed relation consolidates into a coherent, reusable boundary or whole.
+Take a familiar face. The light reaching the eyes contains present structure, but recognition does not come from the incoming pattern alone. Earlier encounters have already built relational organization in memory. Current features activate some of that history, and the activated history changes how the features are grouped and interpreted.
 
-## The interface
+The causation runs both ways.
 
-An arriving pattern carries structure.
+The arrival selects which histories become relevant. The activated histories constrain how the arrival is organized. As the fit improves, uncertainty falls and the relation becomes more stable.
 
-The receiving system carries consequential history.
+THIR names that stabilized interface.
 
-Recognition begins when relations in the arrival align with relations already active in the receiver.
+The same form appears in language when an ambiguous sound settles into a familiar word, in music when a sequence settles into an expected harmonic relation, and in insight when partial relations begin converging toward one intelligible organization.
 
-As the alignment strengthens, each side constrains the other more precisely. The arriving pattern selects which carried histories become active. The activated histories shape how the arriving pattern is organized.
+The mechanisms differ. The relational form is shared.
 
-This reciprocal constraint creates an interface.
+### Why call it resonance?
 
-THIR names the point at which that interface becomes stable enough to behave as one coherent relation.
+Resonance here means that repeated interaction reinforces the same relation.
 
-## Why resonance matters
+A rhythm becomes easier to follow as expectation locks to its timing. A familiar face becomes easier to recognize as present features repeatedly recruit the same relational organization. A concept becomes clearer as incoming information continues to fit and refine a structure already carried in memory.
 
-Resonance means that repeated relation reinforces the same organization.
+This does not require literal acoustic resonance in every case. The claim is organizational: present input and retained history enter a mutually reinforcing relation whose stability can increase over time.
 
-A familiar rhythm becomes easier to follow as expectation locks into its timing.
+The word **harmonic** refers to structured compatibility among participating relations. The empirical burden is to specify what counts as that compatibility in a given domain rather than assuming the metaphor is sufficient by itself.
 
-A familiar face becomes easier to recognize as current features activate an established relational pattern.
+### THIR at the active boundary
 
-A concept becomes clearer as incoming information repeatedly aligns with a structure already carried in memory.
+The Ostiary Principle says that a history-bearing boundary receives new events through organization already present. THIR is a local case in which that reception becomes especially coherent.
 
-In each case, the receiving history and the incoming pattern begin reinforcing one another.
+The boundary supplies carried history. The arrival supplies new structure. Their interaction produces a temporary higher-order relation that can influence what happens next.
 
-THIR describes this stabilized alignment.
+That interface may stabilize without becoming a major threshold event. A familiar word can be recognized smoothly and disappear into the next sentence. A melody can settle into expectation without producing a noticeable click.
 
-## THIR and the active boundary
+THIR therefore does not require AHQ.
 
-The active boundary receives every event through the organization already present.
+### When THIR becomes AHQ
 
-THIR is a higher order expression of this same principle. It is the coherent interface formed when the organization of the arrival and the organization of the receiver become jointly legible through repeated mutual constraint.
+AHQ enters when the stabilized relation crosses into a new coherent, reusable whole.
 
-The boundary remains history bearing.
-
-The arrival remains structured.
-
-The interface becomes a temporary organization with its own stability.
-
-That organization can then participate in what follows.
-
-## THIR and patrons
-
-Patrons give THIR a stable historical anchor.
-
-A patron is a recurrent symbolic attractor built through repeated consequential history. When an arriving pattern aligns with a patron, a large structure of memory, emotion, symbolic association, and expectation can become active quickly.
-
-This increases the depth of the interface.
-
-The arrival supplies present structure.
-
-The patron supplies accumulated structure.
-
-THIR is the coherent relation that forms between them.
-
-## THIR and AHQ
-
-THIR and AHQ name different parts of one transition.
-
-THIR is the stabilized interface.
-
-AHQ is the experienced threshold crossing through which the distributed relation consolidates into a coherent, reusable boundary or whole.
-
-When THIR is present, the local transition has a clean order:
+A useful order is
 
 arrival → recognition → interface stabilization → threshold crossing → incorporation
 
-or in the framework terms:
+or, using the framework terms,
 
 consequential history → ostiary recognition → THIR → AHQ → active inheritance
 
-The interface becomes coherent.
+THIR is the stabilized interface. AHQ is the experienced crossing. Incorporation carries the resulting whole into consequential history.
 
-The crossing makes the coherence jointly available.
+This makes a possible THIR-without-AHQ condition scientifically important. If the terms are genuinely distinct, experiments should be able to find trials in which recognition stabilizes but the stronger threshold criteria for AHQ are not met.
 
-Incorporation carries the new whole forward.
+### THIR and patrons
 
-## A THIR event below AHQ
+Patrons can give THIR unusually deep historical support.
 
-THIR can be measured when present structure and carried history converge into a stable interface: recognition becomes faster, uncertainty contracts, state space trajectories converge, and the recognized configuration persists locally. AHQ adds a further event: the stabilized relation crosses into joint availability as a reusable whole and participates in later cognition or action. A trial can therefore score THIR from interface stabilization measures and score AHQ from the threshold crossing plus later reuse and, where applicable, the reported click. This creates cases in which THIR is present while the AHQ criteria remain below threshold, giving the two terms separate empirical roles.
+A patron is a recurrent symbolic attractor built by repeated consequential history. When a present cue aligns with a patron, a large structure of memory, expectation, emotion, and symbolic association can become available quickly.
 
-## Predictive alignment
+The incoming pattern supplies present constraint. The patron supplies accumulated constraint. THIR is the relation that forms between them when the fit stabilizes.
 
-The receiving system carries expectations formed from earlier history. These expectations shape which features of the arrival become salient and how quickly the relation stabilizes.
+This also explains why two people can receive the same event very differently. The arrival may be almost identical while the history available to meet it is not.
 
-THIR therefore joins present structure with inherited prediction.
+Recognition is therefore never only a property of the stimulus. It is a property of the encounter between stimulus and carried organization.
 
-As alignment strengthens, uncertainty contracts because more of the arrival is explained by the organization already active in the receiver.
+### How THIR could be measured
 
-The interface gains stability through successful mutual constraint.
+A clean experiment holds present input as closely matched as possible while varying the history carried by the receiving system.
 
-A strong THIR event should therefore correspond to increasing relational fit, increasing stability of the recognized configuration, and increasing reuse of the resulting organization.
+Familiarity, prior learning, rhythmic expectation, contextual priming, or patron strength can alter the receiving organization before the same structured input arrives. The forming interface can then be tracked through recognition latency, confidence, trajectory convergence in state space, reduction in uncertainty, cross-process coordination, and persistence of the recognized configuration.
 
-## Testing THIR
+The central prediction is straightforward: stronger alignment between present structure and relevant carried history should produce faster and more stable interface formation.
 
-THIR can be tested by holding present input closely matched while changing the history carried by the receiving system.
+A second measurement asks what happens afterward. If the stabilized relation is reused, affects later recognition, or changes subsequent choices, it has entered consequential history.
 
-Familiarity, prior learning, rhythmic expectation, contextual priming, and patron strength can each alter the receiving organization before the same structured input arrives. The interface is measured as it stabilizes through recognition latency, confidence growth, state space convergence, reduction in interpretive uncertainty, cross process coordination, and persistence of the recognized configuration.
+A third measurement compares this stabilization with AHQ. Where a reported click is relevant, trial-level timing can test whether the experienced crossing occurs when the relation passes from stable interface to jointly available reusable whole.
 
-The central prediction is that stronger alignment between present structure and carried history produces faster and more stable interface formation. Later reuse measures whether the stabilized relation entered consequential history. Trial level comparison with AHQ timing then tests whether the experienced crossing occurs as the stabilized interface becomes jointly available as one reusable whole.
+### What THIR does and does not claim
 
-## THIR across domains
+THIR is not meant to replace the coherence threshold that establishes interiority. The framework places phenomenal onset at the formation of a coherent history-bearing causal boundary, R★. THIR occurs **within** the operation of such history-bearing systems when an arriving pattern and retained organization stabilize into a local interface.
 
-The same form appears wherever a history bearing system meets structured input.
+That distinction keeps the architecture ordered.
 
-In perception, features settle into an object.
+The system already has an interior boundary. Consequential history already exists. The active boundary already receives events through that history. THIR names one way a particular arrival can stabilize in relation to it. AHQ names the stronger local crossing through which the relation becomes a new reusable whole.
 
-In language, sounds settle into a known word or phrase.
+### The larger continuity
 
-In music, tones settle into a harmonic relation.
+The same history that makes recognition possible is revised by what recognition becomes.
 
-In insight, partial relations settle into one intelligible whole.
+Consequential history shapes reception. Ostiary gating determines how an arrival enters. THIR stabilizes the relation between present structure and carried history. AHQ can mark the crossing into a new coherent whole. Active inheritance carries that whole forward.
 
-In symbolic cognition, an event aligns with a patron and activates a deep structure of meaning.
-
-The mechanisms differ by domain. The organizational form remains the same: history and arrival stabilize one another at an active interface.
-
-## The whole sequence
-
-THIR names the stabilized interface that can form between recognition and incorporation.
-
-Consequential history gives the receiver a structured past.
-
-The ostiary principle makes that past part of the rule through which arrivals are received.
-
-Patrons provide stable attractor regions within symbolic meaning.
-
-THIR is the interface where arrival and carried history stabilize into one coherent relation.
-
-AHQ is the experienced threshold crossing through which that relation becomes a reusable whole.
-
-Active inheritance carries the new whole into what comes next.
-
-The same history that made recognition possible is revised by what recognition becomes.
+Recognition therefore has a direction through time: the past helps organize the present encounter, and the result of the encounter becomes part of the past that will organize the next one.
