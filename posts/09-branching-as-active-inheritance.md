@@ -22,7 +22,7 @@ What do branching systems as different as rivers, roots, and blood vessels share
 3. **Maintenance is a rate balance problem.** Maintenance of inherited organization is a balance between two rates, λ_self and λ_env, compared by the Porter Ratio.
 4. **What R predicts.** Independently measured R predicts structural recovery, path persistence, route reuse, topology retention, and dependence on prior state, and the test is built to check exactly this.
 5. **Organizational invariance across morphology.** Dimensionality, boundary conditions, gravity, pressure, material properties, gradients, and forcing shape the visible form through which organization is expressed. The invariant is the causal relation by which earlier dynamics alter structure and retained structure influences what happens next. Its visible morphology can change while the history bearing relation remains measurable.
-6. **Beyond branching.** Active inheritance extends into organizational ancestry and into interiority. Phenomenal consciousness belongs to a later stage: sufficiently deep and integrated recursive availability of inherited internal state.
+6. **Beyond branching.** Active inheritance extends into organizational ancestry and into interiority. Phenomenal character begins when a coherent boundary forms at the relevant threshold. Deeper recursive availability organizes that phenomenal interior into increasingly self legible conscious states.
 
 ### Terms to know
 
