@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="820" viewBox="0 0 1500 820">
+<rect width="1500" height="820" fill="white"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#111}.title{font-size:42px;font-weight:700}.label{font-size:30px}.small{font-size:25px}.box{fill:white;stroke:#111;stroke-width:3}</style>
+<text x="750" y="65" text-anchor="middle" class="title">Four binary positions and five exact balance classes</text>
+<g class="label">
+<rect x="220" y="125" width="220" height="110" rx="15" class="box"/><text x="330" y="190" text-anchor="middle">s1</text>
+<rect x="455" y="125" width="220" height="110" rx="15" class="box"/><text x="565" y="190" text-anchor="middle">s2</text>
+<rect x="690" y="125" width="220" height="110" rx="15" class="box"/><text x="800" y="190" text-anchor="middle">s3</text>
+<rect x="925" y="125" width="220" height="110" rx="15" class="box"/><text x="1035" y="190" text-anchor="middle">s4</text>
+</g>
+<text x="750" y="300" text-anchor="middle" class="label">2⁴ = 16 ordered microstates</text>
+<g>
+<rect x="40" y="370" width="265" height="175" rx="16" class="box"/><text x="172" y="420" text-anchor="middle" class="label">B0</text><text x="172" y="465" text-anchor="middle" class="label">0p : 4d</text><text x="172" y="510" text-anchor="middle" class="small">1 microstate</text>
+<rect x="330" y="370" width="265" height="175" rx="16" class="box"/><text x="462" y="420" text-anchor="middle" class="label">B1</text><text x="462" y="465" text-anchor="middle" class="label">1p : 3d</text><text x="462" y="510" text-anchor="middle" class="small">4 microstates</text>
+<rect x="620" y="370" width="265" height="175" rx="16" class="box"/><text x="752" y="420" text-anchor="middle" class="label">B2</text><text x="752" y="465" text-anchor="middle" class="label">2p : 2d</text><text x="752" y="510" text-anchor="middle" class="small">6 microstates</text>
+<rect x="910" y="370" width="265" height="175" rx="16" class="box"/><text x="1042" y="420" text-anchor="middle" class="label">B3</text><text x="1042" y="465" text-anchor="middle" class="label">3p : 1d</text><text x="1042" y="510" text-anchor="middle" class="small">4 microstates</text>
+<rect x="1200" y="370" width="265" height="175" rx="16" class="box"/><text x="1332" y="420" text-anchor="middle" class="label">B4</text><text x="1332" y="465" text-anchor="middle" class="label">4p : 0d</text><text x="1332" y="510" text-anchor="middle" class="small">1 microstate</text>
+</g>
+<text x="750" y="620" text-anchor="middle" class="label">multiplicities 1 : 4 : 6 : 4 : 1</text>
+<text x="750" y="690" text-anchor="middle" class="small">Global inversion maps B0 ↔ B4, B1 ↔ B3, and leaves B2 at the same class level.</text>
+<text x="750" y="750" text-anchor="middle" class="small">Local polarity can therefore invert while a higher-order balance relation remains invariant.</text>
+</svg>
