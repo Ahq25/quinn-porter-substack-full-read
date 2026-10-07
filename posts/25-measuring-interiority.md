@@ -1,86 +1,69 @@
 # Measuring Interiority
 
-The Porter Ratio becomes scientifically useful when its terms are measured before the outcome they are meant to predict. The central task is to specify a system, an organizational variable, a scale, a time interval, a restoration process, and a disruption process, then measure each quantity independently.
+The Porter Ratio becomes scientifically useful only when its terms are fixed before the outcome they are meant to predict. The central question is not whether a system looks organized after the fact. It is whether the rate at which a declared organization restores or carries itself forward, relative to the rate at which surrounding interaction revises it, predicts a transition that was defined independently in advance.
 
-## From an idea to a measurement
+The basic relation is
 
 R = λ_self / λ_env
 
-λ_self measures how quickly the selected organization is restored or reliably carried forward.
+where **λ_self** is the effective rate at which a selected organization is maintained, restored, reinforced, or reliably propagated, and **λ_env** is the effective rate at which that same organization is revised, dispersed, overwritten, or disrupted. The two rates have to refer to the same organizational variable, over the same interval, in compatible units. Otherwise the ratio has no clear physical meaning.
 
-λ_env measures how quickly surrounding interaction revises or disrupts that same organization.
+R = 1 is the balance point. Below it, revision outruns restoration over the chosen interval. Above it, the selected organization is being carried forward faster than it is being revised. R★ is a separate quantity. It is the system-specific coherence threshold at which retained organization is predicted to become stable enough to form a coherent local causal boundary.
 
-R = 1 marks balance between the two rates.
+The important distinction is that **R★ is not chosen because a system appears conscious or interior after the fact**. The organizational transition has to be specified independently, and the measured ratio is then tested against it.
 
-R★ marks the empirical coherence threshold at which retained organization becomes stable enough to function as a local causal context for continuation.
+### What has to change at the threshold
 
-The value of R★ belongs to the declared system and scale. Measurement gives the threshold its value.
+A useful operational definition of the transition into a history-bearing interior combines three causal observations.
 
-## An independently specified transition
+First, retained history must contribute something that the present snapshot does not. If two cases are closely matched in current state and incoming conditions but differ in retained history, that difference should improve prediction of what happens next.
 
-R★ is estimated against a transition phenotype defined before the ratio is fitted.
+Second, the history must have a carrier. Some measurable state must physically preserve the relevant consequence into the present, and changing that carrier should change the later effect in the predicted direction.
 
-For interiority, the transition phenotype has three causal criteria.
+Third, the carried organization must alter local causal conditioning. Matched incoming events should be admitted, transformed, routed, incorporated, or rejected differently because they encounter different retained organization.
 
-1. **Historical contribution.** Retained history improves prediction of the next state beyond the present snapshot and incoming conditions.
-2. **Identifiable carrier.** A measurable state carries that history into the present, and manipulating the carrier changes the later effect in the predicted direction.
-3. **Local causal conditioning.** The carried organization changes how matched incoming events are admitted, transformed, routed, or incorporated.
+Together these observations identify a transition from a system merely having a past to a system whose past has become part of the local rule by which its future is produced. That is the measurable side of interiority in this account.
 
-These criteria define the organizational transition independently of the numerical value of R★. The measured R values are then used to estimate where that independently specified transition occurs. A threshold estimated in one dataset is carried unchanged into held out cases.
+The stronger identity claim comes next. At R★, when that history-bearing organization closes into a coherent causal boundary, **boundary formation and interior formation are the same event**. Phenomenal experience is proposed as the intrinsic side of occupying that newly formed interior. The boundary transition can be measured from outside. The phenomenal identity is the claim that the same event, viewed from the inside rather than from its external causal relations, is experience. Recursive availability is a later deepening through which that already-formed phenomenal interior becomes increasingly available within its own ongoing activity.
 
-This gives R★ a direct empirical role. The transition is declared through causal behavior, the ratio is measured independently, and R★ is the value at which the declared behavior becomes reliably present.
+Keeping those claims separate matters. It prevents a behavioral or physiological threshold from being treated as proof of phenomenality while still giving the theory a definite place where the phenomenal claim is located.
 
-## Worked measurement example
+### A worked example
 
-Take a bacterial membrane integrity score M measured on a standardized 0 to 1 scale after an osmotic pulse. Suppose recovery experiments estimate restoration of M at 0.12 score units per minute and matched perturbation experiments estimate revision of M at 0.08 score units per minute. Both rates refer to M over the same interval, so
+Suppose a bacterial membrane integrity score, M, is defined on a standardized 0-to-1 scale following an osmotic pulse. Recovery experiments estimate restoration of M at 0.12 score units per minute, while matched perturbation experiments estimate revision of M at 0.08 score units per minute. Both rates refer to the same variable over the same interval, so
 
 R = 0.12 / 0.08 = 1.5
 
-The transition phenotype is declared separately. Retained prehistory improves next state prediction, a measurable carrier survives into the present and changes later behavior when manipulated, and matched inputs are routed differently according to that carried state. Training observations then locate the R★ associated with that phenotype, and held out observations test the same value unchanged.
+That number by itself does not establish interiority. The transition phenotype must be measured separately. The experiment would ask whether retained prehistory improves next-state prediction, whether a measurable carrier of that prehistory survives into the present and has the predicted causal effect when manipulated, and whether matched incoming conditions are routed differently according to the carried state.
 
-The numerical values are illustrative. The measurement logic is concrete: one organizational variable, two independently estimated rates, one prospectively declared transition, and a threshold tested on new cases.
+Training observations can then be used to estimate the value of R associated with the independently defined transition. That estimated R★ is carried unchanged into held-out cases. If it continues to predict the transition, the threshold has prospective meaning rather than being a label applied afterward.
 
-## A prospective protocol
+The numerical values in this example are illustrative. The measurement logic is the important part: one declared organizational variable, two independently estimated rates, one independently defined transition, and a threshold tested on new cases.
 
-A strong test follows the same order each time.
+### A prospective protocol
 
-1. **Declare the organization.** Choose the feature whose persistence will be tracked.
-2. **Declare the interval.** Choose the temporal window over which restoration and disruption will be compared.
-3. **Measure restoration.** Estimate the rate at which the system returns toward or carries forward the selected organization.
-4. **Measure disruption.** Estimate the rate at which controlled environmental interaction alters that same organization.
-5. **Compute R.** The ratio is calculated from measurements obtained independently of the outcome.
-6. **Estimate R★.** One group of observations is used to identify the transition into sustained interior organization.
-7. **Test held out cases.** The same definitions and measurement procedure are applied to new observations.
-8. **Compare predictions.** R is compared with each rate separately and with established predictors for the system being studied.
+A rigorous test therefore follows a fixed order. The organization and the time window are declared first. Restoration and disruption are measured independently. R is computed before the scored outcome. The transition phenotype is defined without using R. R★ is estimated in one dataset and then frozen. New cases are tested using the same definitions and measurement procedure.
 
-This order gives the ratio a prospective meaning. The measurement comes first and the predicted organizational transition follows.
+The ratio should also be compared with simpler alternatives: λ_self alone, λ_env alone, their difference, geometry, and established predictors in the relevant field. If R adds no predictive value, the ratio has not earned a special explanatory role.
 
-The framework therefore has a single causal arc. Persistence begins with restoration relative to disruption. Consequential history is the organization carried forward by persistence. At R★, that carried organization closes into a coherent causal boundary. Boundary formation is interiority, and phenomenal experience is the intrinsic side of that threshold event. Ostiary gating makes inherited organization part of the rule through which new events are received. Recognition occurs when present structure aligns with carried history. Repeated recognition can deepen into patrons, stable symbolic attractors that organize future meaning. Temporal concentration gathers histories from different depths into one active present. Causal reentry lets that present participate in producing its successor. Recursive availability makes the phenomenal interior increasingly self legible. Within particular recognition events, THIR can mark the stabilized interface through which present structure and carried history align. AHQ is the experienced threshold crossing through which distributed relations consolidate into a coherent, reusable boundary or whole. Active inheritance then carries the new whole into what comes next.
+This is especially important because the framework makes a broad claim. A single successful example would show that the procedure can work in that system. Stronger evidence would come from the same measurement logic surviving across systems whose mechanisms and materials differ.
 
-Care belongs at the base of the same arc. A system persists through relations that support continuation. Preserving those supporting relations extends self maintenance through the boundary. Care is the organized preservation of what preserves continuity. Selfhood develops within that already history bearing organization.
+### Bacterial systems as a test bed
 
-## Bacterial systems as a test bed
+[The Physical Constitution of Interiority](https://philarchive.org/rec/PORTPC-2) develops bacterial systems as one practical route. Bacteria have boundaries, regulatory histories, environmental inputs, and recovery dynamics that can be manipulated on laboratory timescales. Controlled perturbations can supply the environmental challenge, while recovery of a declared boundary organization supplies the restoration measure.
 
-[The Physical Constitution of Interiority](https://philarchive.org/rec/PORTPC-2) develops a complete experimental protocol using bacterial systems. Controlled perturbations provide the environmental challenge. Recovery and restoration of the declared boundary organization provide the self restoration measure. Repeated trials across perturbation strengths allow the two rates and the transition region to be estimated.
+The central experiment is not simply whether bacteria recover. It is whether independently measured restoration relative to disruption predicts the onset of a stable, history-conditioned boundary regime, and whether retained history continues to matter after present state and input are controlled as closely as possible.
 
-Bacteria are useful because their boundaries, regulatory processes, environmental conditions, and recovery dynamics can be manipulated and measured on practical laboratory timescales. The experiment asks whether independently measured restoration relative to disruption predicts the transition into a stable history bearing interior.
+That historical comparison is crucial. Two systems can look similar now while carrying different pasts. If those different pasts lead to different futures under matched present conditions, then history is not merely descriptive background. It is causally active in the current organization.
 
-The interpretation stays precise. R★ marks the threshold at which the coherent boundary and interior form together, and phenomenal experience is the intrinsic side of that event. Recursive availability is a further deepening through which the phenomenal interior becomes increasingly self legible within the ongoing activity that carries it forward.
+### What would count as strong evidence
 
-## The historical test
+The framework gains empirical strength when measured R predicts the independently defined transition in held-out cases, retained history improves prediction beyond present state and current input, identified carriers have the expected causal effects under intervention, and the same measurement logic generalizes across more than one kind of system.
 
-The strongest test of consequential history compares cases with closely matched present states and incoming conditions while their retained histories differ. Divergent future trajectories then reveal whether history contributes information beyond the current snapshot.
+The claims should remain layered. Restoration and disruption test persistence. Historical contribution and local causal conditioning test the formation of a history-bearing interior. Boundary formation supplies the externally measurable threshold event. The phenomenal identity claim places experience on the intrinsic side of that event. Recursive availability then asks how deeply the formed interior can access, organize, and use its own consequential history.
 
-A history bearing system should therefore show measurable dependence on prior organization even when present conditions are closely matched.
+That ordering keeps the central premise intact without pretending that all parts of it have already been empirically established.
 
-## What would count as strong evidence
-
-The framework gains empirical strength when the same measurement procedure predicts persistence and interiority in held out cases, when retained history improves prediction beyond present state and current input, and when the relation generalizes across systems using scale appropriate variables.
-
-The same procedure also keeps the claims separated. The persistence relation is tested through restoration and disruption. Interiority is tested through the threshold formation of a coherent local causal boundary. The phenomenal identity claim concerns the intrinsic side of that boundary event. Recursive availability is tested separately as the depth to which the formed interior can access and use its own consequential history.
-
-## The bigger picture
-
-The Porter Ratio is a compact translation of a causal idea. Measurement gives each term a physical meaning. R★ turns boundary formation, interiority, and phenomenal onset into one empirical threshold claim. Recursive availability measures a further deepening of that phenomenal interior into self legibility.
+---
 
 Full paper on PhilArchive: [The Physical Constitution of Interiority](https://philarchive.org/rec/PORTPC-2)
