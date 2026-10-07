@@ -69,7 +69,7 @@ Cross scale support becomes strong when the same relation predicts persistence a
 
 ## The bigger picture
 
-The law concerns persistence. R compares restoration with disruption, and R = 1 marks their balance. R★ adds an empirical threshold for interiority. Recursive availability adds the further organization associated with consciousness. These stages form one continuous architecture while each quantity performs a distinct job.
+The law concerns persistence. R compares restoration with disruption, and R = 1 marks their balance. R★ adds the empirical threshold at which a coherent boundary forms and thereby establishes interiority. Phenomenal experience is the intrinsic side of that threshold formed interior. Recursive availability adds further self legibility and depth within the phenomenal organization. These quantities perform distinct jobs within one continuous architecture.
 
 ---
 
