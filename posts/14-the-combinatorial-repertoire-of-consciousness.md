@@ -24,8 +24,8 @@ How can a finite nervous system support an immense range of specific conscious c
 5. **Sequential gating shapes a geometry.** Sequential gating creates a finite horizon state space geometry. Broad sets of starting states can converge into reproducible endpoint regions, neighboring trajectories can separate across gate boundaries, and prior activity can reshape the transition map encountered by later activity.
 6. **History is physical.** Retained history is physically instantiated in variables such as synaptic efficacy, adaptation, excitability, recurrent activity, neuromodulatory state, working memory activity, or other persistent carriers.
 7. **The macrostate feeds back.** A stabilized macrostate can feed back into subsequent gate conditions, so the larger organization produced by local activity participates causally in the local transitions that continue the episode.
-8. **The conscious regime.** Conscious organization emerges when a large combinatorial repertoire is narrowed through sequential context sensitive gating into a temporally stabilized, history bearing, internally accessible, integrated macrostate whose organization causally reenters the local dynamics producing the next moment.
-9. **Lived experience.** Lived experience is identified with this accessible organization as lived from within its own continuing causal boundary. The dynamical mechanism and the phenomenal identity can be tested separately.
+8. **The recursively self legible regime.** Within an already formed phenomenal interior, a large combinatorial repertoire can be narrowed through sequential context sensitive gating into a temporally stabilized, history bearing, internally accessible, integrated macrostate whose organization causally reenters the local dynamics producing the next moment.
+9. **Specific conscious content.** The gate model concerns how an already phenomenal interior acquires a specific accessible organization. The route through gate space describes the content and recursive organization of experience, while phenomenal onset belongs to the threshold formation of the causal boundary itself.
 
 ### Terms to know
 
@@ -47,7 +47,7 @@ How can a finite nervous system support an immense range of specific conscious c
 
 Each gate receives an instantaneous feature map containing current state, input, and phase variables, together with pairwise conjunction terms, retained history projections, phase sensitive terms, and feedback from the preceding macrostate. The resulting gate vector contributes to macrostate selection, local state transition, history update, and subsequent phase evolution.
 
-The conscious regime is the conjunction
+The recursively self legible conscious regime is the conjunction
 
 C_org = T ∧ H ∧ A ∧ K ∧ G
 
