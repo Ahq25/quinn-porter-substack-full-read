@@ -21,7 +21,7 @@ What is the relation between a living boundary that keeps a system intact and an
 4. **Meaning is participation.** Meaning is the participation of an arrival within an organized continuity.
 5. **Recognition compresses as continuity accumulates.** Increasingly small cues come to evoke increasingly large organized structures.
 6. **Recognizers are nested.** Biological and cognitive organization are nested layers of boundary recognition systems. Each level functions simultaneously as a recognizer and as an object of recognition for higher levels.
-7. **AHQ marks consequential incorporation.** Aleph Harmonic Qualia (AHQ) identifies the transition at which an arrival becomes consequential for future recognition through incorporation into continuity.
+7. **AHQ marks the experienced threshold crossing.** Aleph Harmonic Qualia (AHQ) identifies the experienced event in which distributed relations consolidate into a coherent boundary or whole. Incorporation follows by carrying that new whole into continuity, where it becomes consequential for future recognition.
 8. **The organizational propagation threshold marks wider reach.** The organizational propagation threshold marks the point at which incorporation becomes consequential beyond its local point of origin and begins reshaping organization across the wider continuity.
 9. **Self legibility.** Self legibility emerges when recognition becomes available to further recognition and continuity becomes present within its own activity.
 10. **Consciousness appears here as the recursive form of the process:** the history bearing boundary becomes available within its own activity through recognition. At that level, the same boundary can be described outwardly as organized selection and inwardly as experience.
@@ -75,11 +75,11 @@ Testable predictions follow for integration, recursive recognition, and the orga
 
 ### The bigger picture
 
-This is the second step: the interior, seen as an active boundary. Once retained organization becomes a local causal context for present activity, each arrival meets that history at the gate. The cycle runs as a loop:
+This is the second step: the threshold formed interior is the active boundary itself. At R★, retained organization closes into a coherent local causal boundary, and the formation of that boundary is interiority. Phenomenal experience is the intrinsic side of that event. Each later arrival meets that history at the gate. The cycle runs as a loop:
 
 history → present organization → selection of what enters → revised organization → new history
 
-The system receives each arrival through the organization its history has built. Carried history becomes the gate on new influence. When that history bearing gate is recursively available within the same activity it regulates, the boundary is the process experienced from inside.
+The system receives each arrival through the organization its history has built. Carried history becomes the gate on new influence. The formed boundary is already the phenomenal interior from its intrinsic side. Recursive availability makes that phenomenal boundary increasingly self legible within the same activity it regulates.
 
 Within symbolic cognition, repeated returns can stabilize certain regions of this history bearing organization. These regions become patrons, recurrent symbolic attractors that organize recognition, memory, interpretation, and inquiry. A patron is the ostiary principle operating through a durable symbolic basin: later arrivals are received through a structure built by earlier encounters.
 
