@@ -32,7 +32,7 @@ A deeper layer integrates patterns across many states.
 
 A still deeper layer can organize patterns of change across several temporal windows.
 
-Consciousness develops as consequential history from these nested layers becomes recursively available within the activity coordinating them. This connects temporal concentration directly to the mature definition of consciousness.
+Phenomenal interiority begins when a coherent boundary forms at the relevant threshold. Consequential history from nested layers can then become recursively available within the activity coordinating them, producing increasing self legibility and conscious depth.
 
 ## Cross scale continuity
 
@@ -56,6 +56,6 @@ Rich conscious organization should combine strong coordination, preserved differ
 
 ## The bigger picture
 
-Persistence can occur at many scales. Interiority begins when carried history becomes a local causal context at a given scale. Coupling can produce larger coherent domains. Recursive depth gathers more temporal layers into present regulation. Consciousness is the history bearing process as that consequential history becomes recursively available within its own ongoing organization.
+Persistence can occur at many scales. At the relevant R★, carried organization forms a coherent boundary and thereby an interior at that scale. Phenomenal experience is the intrinsic side of that boundary condition. Coupling can produce larger coherent domains. Recursive depth gathers more temporal layers into present regulation and makes the phenomenal interior increasingly self legible within its own ongoing organization.
 
 Full paper on PhilArchive: [Coherence Scaling and the Emergence of Interior Across Biological Organization](https://philarchive.org/rec/PORCSA-2)
