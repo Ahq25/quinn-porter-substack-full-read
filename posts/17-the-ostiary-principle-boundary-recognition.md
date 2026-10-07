@@ -54,7 +54,7 @@ Boundary recognition occurs at nested scales. Cellular gates participate in tiss
 
 Recursive self legibility begins when recognition itself becomes available to further recognition. Memory becomes available within memory guided activity. Attention becomes available within attention. Meaning becomes available within meaning making activity. The history bearing boundary becomes available within the very recognition process through which it encounters the world.
 
-Consciousness is this recursively self legible form of living continuity. The greatest available portion of carried history becomes present within the active boundary through which the system encounters both its surroundings and its own ongoing organization.
+Self legible consciousness is the recursive form of living continuity in which the already phenomenal boundary becomes increasingly available within its own activity. The greatest available portion of carried history becomes present within the active boundary through which the system encounters both its surroundings and its own ongoing organization.
 
 ### Terms to know
 
@@ -71,7 +71,7 @@ One process, the ostiary, underlies boundary maintenance, meaning, learning, ins
 
 ### What experiments can check
 
-Testable predictions follow for integration, recursive recognition, and the organization of conscious experience.
+Testable predictions follow for integration, recursive recognition, and the organization of increasingly self legible experience within the phenomenal interior.
 
 ### The bigger picture
 
