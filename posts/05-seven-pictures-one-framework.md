@@ -48,7 +48,7 @@ A new word you learn changes which sentences make sense to you tomorrow. Put sim
 
 **The picture.** Two similar cells receive the same signal. They developed differently, so one cell grows while the other holds steady. Now a second picture: you hear a sentence once before learning what one of its words means, and once after. The first time, it is partly a puzzle. The second time, it makes complete sense. The sound is identical both times.
 
-**The idea.** These examples show **interiority** in its most basic form: having an inside, in a causal sense. Interiority begins when the same outside event can have different effects depending on the organization the system already carries. It is an earlier, simpler step than consciousness, and consciousness builds on it.
+**The idea.** These examples show a consequence of **interiority**: once a coherent boundary has formed at R★, the same outside event can have different effects depending on the organization already carried within it. Interiority itself is the threshold event in which carried organization closes into a local causal boundary. The boundary and the interior are the same organization viewed from its outer relation and its inner causal domain, and phenomenal experience is the intrinsic side of that formed interior.
 
 **The mapping.**
 
@@ -135,7 +135,7 @@ In order, the pictures trace one sequence.
 
 **History is maintained.** The **Porter Ratio**, R = λ_self / λ_env, compares how fast a system restores its own organization (λ_self) with how fast the environment disrupts it (λ_env). At R = 1 the two balance, and above 1 inherited organization gains causal continuity and accumulated influence. One way to picture this is writing a message in the sand. At the water’s edge, each wave washes the message away. On higher sand, you keep up with the occasional wave, and the message lasts. Above R = 1, earlier organization survives strongly enough to help cause later organization. Each system also has its own threshold, R★, which belongs to that system, scale, and interval, and R ≥ R★ is the minimum condition for interiority.
 
-**History shapes responses.** Past R★, the same event lands differently depending on what the system carries. That is the two cells and the sentence, the beginning of interiority.
+**History forms an interior boundary.** At R★, carried organization closes into a coherent local causal boundary. That boundary formation is interiority, and its intrinsic side is phenomenal experience. Past R★, the same event can land differently depending on what the system carries. The two cells and the sentence show that consequence of interiority.
 
 **History becomes a gate.** With an inside in place, carried history sets the rule for what enters. That is the doorkeeper and the Ostiary Principle.
 
@@ -145,9 +145,9 @@ In order, the pictures trace one sequence.
 
 **History builds fit between systems.** Repeated interaction, carried forward and brought back, builds precise fit between different systems over time. That is the orchid and the pollinator, and in language it is a long conversation gaining depth.
 
-**History becomes available from within.** The active boundary is where carried history meets what arrives and helps determine what continues. Experience is that boundary in its internally available form. When carried history becomes recursively available within the same activity that carries it forward, the result is consciousness: consequential history becoming recursively available within the ongoing activity that carries it forward.
+**History becomes phenomenal at the boundary.** The active boundary is where carried organization crosses into an interior, meets what arrives, and helps determine what continues. Phenomenal experience is the intrinsic side of that boundary condition. Recursive availability deepens the phenomenal interior by making carried history increasingly available within the same activity that carries it forward.
 
-All seven pictures answer one question: **how much of what a system becomes next is produced by the history it already carries?** The shortest summary ties them together: **history persists by becoming structure. Structure changes how the future can enter. Repeated selection gathers history into a present. Experience is the active boundary of that meeting as lived. When carried history becomes recursively available within the activity that carries it forward, that structured access is consciousness.**
+All seven pictures answer one question: **how much of what a system becomes next is produced by the history it already carries?** The shortest summary ties them together: **history persists by becoming structure. At a coherence threshold, structure closes into a boundary and an interior forms. Phenomenal experience is the intrinsic side of that boundary forming event. Repeated selection gathers history into a present. Recursive availability makes the phenomenal interior increasingly self legible within the activity that carries it forward.**
 
 ### Papers
 
