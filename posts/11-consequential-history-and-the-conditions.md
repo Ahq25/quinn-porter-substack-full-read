@@ -21,7 +21,7 @@ How does anything stay identifiable while it changes continuously?
 4. **Identity** arises through continuity of inherited consequence.
 5. **Recognition** occurs when consequential history remains accessible within present activity.
 6. **The intelligibility of nature** follows because observer and observed emerge through a shared developmental history and inherit organizational consequences from common processes.
-7. **Conscious experience** is the internally available form of a history bearing process whose consequential history has become recursively available within its own ongoing activity.
+7. **Phenomenal experience** is the intrinsic side of the threshold formed history bearing interior. Recursive availability deepens that phenomenal interior into self legible conscious organization.
 8. **Insight** is a transition in accessibility through which continuity previously out of reach becomes directly available within experience.
 9. **Continuity and accessibility are distinct.** Consequential history can be active within a persistent system while remaining out of that system’s direct reach. Accessibility varies across forms of organization. That variation distinguishes persistence from recognition, understanding, and conscious awareness, while continuity runs across physical, biological, and cognitive domains alike.
 
@@ -41,7 +41,7 @@ Persistence, identity, recognition, intelligibility, consciousness, and insight 
 - in **persistence**, earlier consequences remain active;
 - in **minimal recognition**, carried history shapes discrimination within present activity;
 - in **conscious recognition**, the recognized relation becomes recursively available within the ongoing activity that carries and uses it;
-- in **conscious experience**, consequential history becomes recursively available within the activity carrying it forward;
+- in **phenomenal experience**, threshold formed boundary organization is lived from its intrinsic side, and recursive availability can deepen that interior into self legibility;
 - in **insight**, continuity that was out of reach becomes directly available.
 
 Persistence, recognition, understanding, and conscious experience therefore belong to one continuous developmental process through which consequences propagate across time.
