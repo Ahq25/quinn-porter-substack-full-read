@@ -102,7 +102,7 @@ The patron helps hold the field long enough for a larger organization to form.
 
 THIR describes the stabilized interface where the arriving pattern and the receiving history bearing organization align.
 
-AHQ is the experienced threshold crossing through which the distributed relation becomes a coherent, reusable whole.
+AHQ is the experienced threshold crossing through which the distributed relation consolidates into a coherent, reusable boundary or whole.
 
 The newly coherent whole then enters consequential history and can itself become part of a future patron.
 
