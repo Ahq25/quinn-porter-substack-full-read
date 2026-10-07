@@ -48,4 +48,4 @@ Full paper on PhilArchive: [Coevolution and Conversation: The Pollinator Analogy
 
 Before this: [Coevolution and Conversation (the essay)](https://ahq25.substack.com/p/coevolution-and-conversation).
 
-Next: [Consciousness as Access to Consequential History](https://ahq25.substack.com/p/consciousness-as-access-to-consequential), where the whole continuity arrives at consciousness.
+Next: [Consciousness as Access to Consequential History](https://ahq25.substack.com/p/consciousness-as-access-to-consequential), where the phenomenal interior develops greater recursive access to its own consequential history.
