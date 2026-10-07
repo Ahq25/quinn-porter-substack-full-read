@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="720" viewBox="0 0 1500 720">
+<rect width="1500" height="720" fill="white"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#111}.title{font-size:42px;font-weight:700}.label{font-size:30px}.small{font-size:25px}.p{fill:white;stroke:#111;stroke-width:3}.d{fill:#111;stroke:#111;stroke-width:3}.inv{fill:white}.line{stroke:#111;stroke-width:3}</style>
+<text x="750" y="65" text-anchor="middle" class="title">Local polarity, global periodicity</text>
+<text x="750" y="120" text-anchor="middle" class="label">Alternating extreme clusters</text>
+<g transform="translate(135 180)">
+<rect x="0" y="0" width="250" height="250" rx="18" class="p"/><text x="125" y="95" text-anchor="middle" class="label">4p : 0d</text><text x="125" y="145" text-anchor="middle" class="small">maximally polarized</text><text x="125" y="190" text-anchor="middle" class="small">locally uniform</text>
+<rect x="285" y="0" width="250" height="250" rx="18" class="d"/><text x="410" y="95" text-anchor="middle" class="label inv">0p : 4d</text><text x="410" y="145" text-anchor="middle" class="small inv">maximally polarized</text><text x="410" y="190" text-anchor="middle" class="small inv">locally uniform</text>
+<rect x="570" y="0" width="250" height="250" rx="18" class="p"/><text x="695" y="95" text-anchor="middle" class="label">4p : 0d</text><text x="695" y="145" text-anchor="middle" class="small">maximally polarized</text><text x="695" y="190" text-anchor="middle" class="small">locally uniform</text>
+<rect x="855" y="0" width="250" height="250" rx="18" class="d"/><text x="980" y="95" text-anchor="middle" class="label inv">0p : 4d</text><text x="980" y="145" text-anchor="middle" class="small inv">maximally polarized</text><text x="980" y="190" text-anchor="middle" class="small inv">locally uniform</text>
+</g>
+<text x="750" y="510" text-anchor="middle" class="label">Locally: maximum distinction</text>
+<text x="750" y="565" text-anchor="middle" class="label">Globally: maximum repetition</text>
+<line x1="330" y1="610" x2="1170" y2="610" class="line"/>
+<text x="750" y="665" text-anchor="middle" class="small">The periodic field is produced by organized opposition: difference becomes the source of regularity.</text>
+</svg>
