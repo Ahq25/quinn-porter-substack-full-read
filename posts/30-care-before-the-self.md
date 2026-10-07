@@ -1,159 +1,117 @@
 # Care Before the Self
 
-Selfhood develops inside relations that already support persistence.
+A system can preserve what supports its continuation before it can represent itself as a self. That is the starting point of **Care Before the Self**.
 
-An organized system continues through processes that maintain, restore, and reinforce its organization. Some of those processes depend on maintaining relations with surrounding conditions, neighboring units, resources, and structures that support continued organization.
+The claim is not that every act of regulation should be called care. The stronger idea is that persistence can become organized around preserving **relations that preserve the system**. When the history of dependence on a supporting relation changes what the system later approaches, restores, protects, or maintains, continuation has acquired a relational direction.
 
-Care begins at this level as preserving what preserves the system.
+Care begins there.
 
-The relation follows directly from self maintained invariance. Persistence requires organization preserving activity. When part of that activity preserves an external or relational condition that contributes to λ_self, preservation extends through the boundary to the source of continued stability. Care is the organized preservation of such supporting relations as they become consequential to continuation.
+### Persistence depends on more than what is inside
 
-## Persistence before identity
-
-The Law of Self Maintained Invariance begins with persistence.
+The Law of Self Maintained Invariance begins with a simple comparison:
 
 R = λ_self / λ_env
 
-λ_self measures the effective rate at which selected organization is restored or carried forward.
+λ_self measures the effective rate at which a declared organization is maintained, restored, reinforced, or carried forward. λ_env measures the rate at which surrounding interaction revises or disrupts that same organization.
 
-λ_env measures the effective rate at which surrounding interaction revises that same organization.
+Some of the processes contributing to λ_self can occur inside the system. Others depend on relations that cross the boundary.
 
-A persistent system therefore depends on processes that support its continuation.
+A cell depends on nutrients and chemical conditions outside its membrane. A multicellular body depends on neighboring cells, coordinated signaling, circulation, and repair. An animal can depend on warmth, shelter, food, orientation, and social regulation. A person can depend on relationships, practices, places, tools, institutions, and meanings that participate in continued organization across time.
 
-Some supporting processes are internal.
+Persistence is therefore often relational. A system can maintain itself partly by maintaining access to what helps maintain it.
 
-Some supporting relations cross the system boundary.
+This is the physical root of care in the present account.
 
-The persistence of the system can depend on preserving those relations.
+### Preserving what preserves continuity
 
-This creates a deeper form of self maintenance: maintaining the conditions that maintain the system.
+The simplest form is not reflective concern. It is organized preservation of a supporting relation.
 
-## Preserving what preserves the system
+Suppose an organism repeatedly depends on a particular shelter. If the shelter contributes to continued regulation, and earlier dependence becomes consequential history that later guides the organism back toward that shelter, the relation has become part of the organism's own continuity.
 
-A membrane depends on molecular relations that maintain its structure.
+The organism is no longer merely restoring an internal variable in isolation. Its history is helping organize behavior toward restoring a relation that supports its persistence.
 
-A multicellular body depends on neighboring cells, signaling relations, nutrient exchange, and coordinated repair.
+That gives care three linked requirements.
 
-An animal can depend on environmental relations that support warmth, protection, food, orientation, and social regulation.
+The relation must contribute measurably to continuation. The system must act in ways that preserve, restore, approach, or reestablish that relation. And accumulated history must increase the specificity or precision of that maintenance.
 
-A person can depend on relationships, practices, places, and meanings that participate in continued organization across time.
+This separates care from a generic thermostat. A thermostat corrects a temperature error. Care, in this minimal sense, appears when a history-bearing system has learned or inherited which relation supports continuity and selectively preserves that relation because its consequences have become part of the system's own organization.
 
-Across these scales, persistence can include preserving the relation that supports persistence.
+### Boundary and relation
 
-That relation is the physical root of care.
+A coherent boundary creates a local inside, but an inside does not become independent of everything outside it. The boundary regulates exchange.
 
-Care is therefore an organizational orientation toward maintaining the conditions that maintain continuity.
+At R★, carried organization is proposed to form a coherent causal boundary. Boundary formation and interior formation are the same threshold event, and phenomenal experience is the intrinsic side of occupying that newly formed interior.
 
-## Boundary and relation
+Once that boundary exists, its history helps determine what is admitted, rejected, approached, incorporated, or repaired. The Ostiary Principle describes this active relation between boundary and recognition.
 
-A boundary gives a system local causal continuity.
+Care fits naturally into that architecture. Some external relations repeatedly contribute to the continuation of the interior. Their consequences become part of consequential history. Future activity is then shaped toward maintaining or recovering those relations.
 
-The boundary also organizes exchange with what lies around it.
+The boundary therefore does not merely separate self from world. It also preserves selected relations with the world.
 
-The system persists through a patterned relation with its surroundings.
+### Care before reflective selfhood
 
-The inside therefore develops through selective relation.
+Reflective selfhood requires much more. A phenomenal interior must become recursively available within its own ongoing activity. Memory, recognition, anticipation, regulation, and self-related history must become sufficiently integrated that the system can use its own condition as part of what it recognizes and regulates.
 
-An active boundary carries history about which relations support continuation. That history shapes admission, rejection, approach, withdrawal, incorporation, and repair.
+Care can begin earlier.
 
-The ostiary principle gives this process a general form.
+A system can preserve the conditions of its continuation before it can represent the proposition, “these conditions matter to me.” The organization can already be directed toward what supports it because those relations have become causally embedded in its history.
 
-Care appears when the system's history supports continued relation with what supports its own organization.
+The developmental order is therefore:
 
-## Care and regulation
+**supporting relation → maintained organization → threshold boundary/interiority → phenomenal interior → recursive availability → reflective selfhood**
 
-Generic set point regulation restores a variable. Care begins when accumulated history of a supporting relation changes which relation the system preserves, restores, approaches, or reestablishes because that relation has become part of the system's own continuity. The empirical marker is relational specificity across history: the system preferentially maintains a particular support because earlier dependence has become consequential history.
+Care enters near the beginning as history-dependent preservation of supporting relation. Reflective value comes later as that relation becomes increasingly available within a self-legible interior.
 
-This gives care three linked requirements: the relation contributes measurably to continuation, the system directs behavior toward preserving or restoring that relation, and accumulated history increases the specificity or precision of that preservation. These requirements make care a history bearing relation to support, continuous with regulation and richer as relational history accumulates.
+### How care gains depth
 
-## Care before reflective selfhood
+Care becomes richer as more history participates.
 
-Reflective selfhood requires a deep history bearing interior whose consequential history has become recursively available within its own ongoing activity.
+A supporting relation is encountered. Its beneficial consequences are retained. Later activity becomes more likely to preserve or return to it. Repeated return builds expectation and preference. Further history can add attachment, skill, memory, symbolic meaning, and explicit commitment.
 
-Care begins earlier in the causal sequence.
+The physical relation has not disappeared when richer forms emerge. It has become layered.
 
-A system can preserve supporting relations before it can represent itself as a self.
+An infant's regulatory dependence, an animal's learned return to a safe place, and an adult's reflective commitment are not identical phenomena. The framework does not collapse them into one thing. It treats them as increasingly deep organizations built on the same general causal form: history teaches the system which relations participate in its continuity, and that history changes how later activity is directed.
 
-The organization can already be oriented toward the conditions of its own continuation because those conditions have become part of the causal structure that keeps it going.
+### Care, patrons, and meaning
 
-The sequence is:
+At the symbolic level, care can become organized around patrons.
 
-supporting relation → maintained organization → threshold boundary/interiority → phenomenal interior → recursive availability → selfhood
+A person may repeatedly return to a person, place, question, practice, image, or commitment because it has become deeply integrated with consequential history. Such a structure can become a stable attractor in the meaning field.
 
-Care enters at the beginning of this sequence as the preservation of supporting relation.
+A patron can therefore carry care in symbolic form. It can organize memory, attention, interpretation, and future action around a relation whose preservation has become part of personal continuity.
 
-## Care and consequential history
+This is one route by which care and identity become linked. The relation matters now partly because a long history of interaction has made it part of the organization through which the present is lived.
 
-Care becomes richer as history accumulates.
+### Care in the deep present
 
-A system encounters a relation that supports continuation.
+Mature care can gather many temporal depths into one action.
 
-The consequences of that relation are retained.
+Immediate bodily regulation may participate alongside learned attachment, memory, expectation, developmental history, cultural inheritance, and explicit purpose. All of those histories can be causally active in one present decision.
 
-Later activity becomes increasingly organized toward maintaining or returning to the same support.
+That is a deep present directed toward continuation.
 
-The relation becomes part of consequential history.
+The present carries what has supported the system before. It uses those inherited relations now. Its action changes which relations will remain available afterward.
 
-Repeated return can create preference, attachment, expectation, skill, and eventually reflective value.
+Care therefore joins consequential history, temporal concentration, ostiary selection, and causal reentry in one directed organization.
 
-The later forms of care therefore inherit a deeper causal structure: history has taught the system which relations participate in its continuity.
+### How the idea can be tested
 
-## Care and patrons
+The minimal claim can be operationalized without assuming reflective emotion.
 
-At the symbolic level, care can organize meaning around stable attractors.
+First identify a supporting relation and measure whether it contributes to restoration or continued organization. Then perturb access to that relation and observe whether the system acts to preserve, restore, approach, or reestablish it. Finally, manipulate or compare the system's history and ask whether accumulated dependence increases the specificity, speed, or precision of that maintenance.
 
-A person repeatedly returns to certain people, questions, places, practices, images, or commitments because these structures have become deeply integrated into consequential history.
+A clean causal sequence would be:
 
-Some of these become patrons.
+**supporting relation → measurable contribution to restoration → retained history of dependence → selective preservation of the relation → improved continuity**
 
-A patron can therefore carry care in symbolic form. It can mark a region of meaning whose preservation helps preserve continuity across changing circumstances.
+If history makes no difference, the stronger care claim has not been shown. If the relation does not contribute to continuation, it is not a supporting relation in this operational sense.
 
-This links care with identity through the same history bearing architecture.
+### The larger continuity
 
-## Care and the deep present
+Care belongs at the base of the framework because persistence is never only about surviving the present instant. A history-bearing system continues by preserving the organization and relations that make later continuation possible.
 
-A mature present gathers many temporal layers at once.
+At the coherence threshold, carried history forms a boundary and thereby an interior. Phenomenal experience is the intrinsic side of that boundary event. Recursive availability makes the phenomenal interior increasingly self-legible. Reflective selfhood develops within that deeper organization.
 
-Immediate regulation, learned attachment, memory, expectation, developmental history, and cultural inheritance can all participate in one act of care.
+Care can precede the reflective self because the relations that sustain a future self can already be preserved before the system can explicitly represent itself.
 
-Care then becomes a deep present directed toward continuation.
-
-The present carries what has supported the system before.
-
-It acts through those inherited relations now.
-
-It shapes which relations will continue into the future.
-
-Care therefore joins consequential history, temporal concentration, and causal reentry in one directed organization.
-
-## Testing care as an organizational relation
-
-Care can be operationalized as active maintenance of a relation that contributes to the system's own continuation.
-
-The first measurement identifies a supporting relation and quantifies its contribution to λ_self. The second measurement tracks whether the system acts to preserve, restore, approach, or reestablish that relation across perturbation. The third measurement tests whether accumulated history increases the probability and precision of that maintenance.
-
-This yields a direct causal sequence:
-
-supporting relation → contribution to restoration → history dependent preservation of the relation → improved continuity
-
-Across biological and behavioral systems, the specific mechanism changes with scale. The organizational criterion stays the same: preservation extends toward a relation because that relation participates in maintaining the system's own continuing organization.
-
-## The whole sequence
-
-Persistence establishes the need for continued organization.
-
-Supporting relations participate in that persistence.
-
-Care is the preservation of the relations that preserve continuity.
-
-Active boundaries turn those relations into selective organization.
-
-At the coherence threshold, carried history forms a boundary and thereby an interior whose intrinsic side is phenomenal experience.
-
-Recursive availability makes that phenomenal interior increasingly self legible.
-
-Selfhood develops within that continuity.
-
-Care comes before the reflective self because the conditions that sustain a self are already being preserved before the self becomes available to itself.
-
-The mature forms of care in relationships, commitments, meaning, and identity are deeper organizations of this same continuity.
+The mature forms of care found in attachment, commitment, meaning, and identity are not detached from that beginning. They are deeper, more recursively available organizations of the same history-bearing relation to what supports continuity.
