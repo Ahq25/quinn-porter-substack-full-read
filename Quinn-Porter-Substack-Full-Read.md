@@ -2141,24 +2141,35 @@ The relevant transformation is **point reflection**. In this construction, point
 
 ![ERIO across the four coordinate-plane orientations; Quadrant III is the 180-degree point reflection](assets/period-lattice/erio-quadrants.jpg)
 
-The important fact is not simply that the letters look different. After the point reflection, the unit is legible from the opposite orientation. If the lattice is read from that orientation, the same fixed endpoints now have the opposite relational identities.
+The important part is what happens to the whole word when the interior relation flips. The letters in **erio** undergo a 180-degree point reflection. From the opposite orientation, the PERIOD unit is legible again. The structure has not been rebuilt somewhere else. It is the same structure read through the opposite orientation.
 
-The endpoint carriers themselves do **not** trade places. The left physical boundary remains the left physical boundary and the right physical boundary remains the right physical boundary. What changes is what each fixed carrier counts as within the newly active orientation:
+That changes the identities of the two boundary poles.
+
+The **p** and **d** do not physically move. The left endpoint stays at the left geometric position and the right endpoint stays at the right geometric position. But once the orientation of the unit reverses, the role of each fixed endpoint is read oppositely:
 
 **p → d**
 
 **d → p**
 
-This is **identity inversion without positional exchange**.
+The positions stay fixed while the identities switch.
 
+This is the central move of the Period Lattice: **identity can change without position changing**. The carrier remains where it is. What changes is the relational organization around it, and because the identity of the endpoint depends on that relation, the same fixed position is now read differently.
 
-That distinction separates three things that ordinary language often collapses:
+The distinction is therefore:
 
 - **Position:** where the carrier is.
-- **Orientation:** which relational frame is active.
-- **Relational identity:** what the carrier counts as in that frame.
+- **Orientation:** which way the organized unit is being read.
+- **Relational identity:** whether that fixed carrier functions as p or d in that orientation.
 
-A point can therefore remain geometrically fixed while its role in the organized whole changes. The identity inversion is not arbitrary: it occurs under the coordinated transformation that restores the coherent opposite orientation of the full unit.
+The p-to-d and d-to-p change is therefore not a literal exchange of places. Nothing slides across the lattice. The same two boundary locations remain where they were while their identities invert under the point reflection.
+
+This matters because the p and d endpoints are not isolated marks. In the Period Lattice they are shared with neighboring PERIOD units. A fixed endpoint that is read as p in one orientation can become d after the local relation flips, and that change alters what the neighboring unit encounters at the same shared point. A local orientation change can therefore become consequential beyond the word in which it occurs.
+
+The sequence is:
+
+**point reflection of erio → opposite orientation of PERIOD → p/d identity inversion at fixed positions → changed shared boundary condition → neighboring reorientation**
+
+That is how the ERIO flip connects the visible transformation of the word to the larger lattice. The word stays structurally connected, the endpoints stay in place, and the relational identity carried by those endpoints changes.
 
 ### A discrete orientation inversion
 
