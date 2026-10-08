@@ -42,7 +42,7 @@ That gives care three linked requirements.
 
 The relation must contribute measurably to continuation. The system must act in ways that preserve, restore, approach, or reestablish that relation. And accumulated history must increase the specificity or precision of that maintenance.
 
-This distinguishes the proposed care condition from a simple one-variable controller. The operational difference is not that one mechanism uses feedback and the other does not. It is whether a history-bearing system selectively maintains a relationship that contributes to its continuing organization, and whether changing the retained history changes that selective behavior.
+This distinguishes the proposed care condition from a simple one-variable controller. The operational difference is not that one mechanism uses feedback and the other does not. It is whether a history-bearing system selectively maintains a relationship that contributes to its continuing organization, and whether changing the retained history changes that selective behavior. Passive proximity to a beneficial condition does not meet the stronger criterion by itself; the system must have an effective way of preserving or reestablishing the relation when it is disturbed.
 
 ### Boundary and relation
 
@@ -62,7 +62,7 @@ A coherent boundary is sometimes described as if it made an organism independent
 
 Supporting relationships therefore do not disappear when a boundary forms. The organization of the boundary determines which relationships remain effective and how incoming conditions alter the interior. The Ostiary Principle describes this history-conditioned reception.
 
-The Porter Ratio may quantify one balance involved in maintaining the interior, but it does not identify which external relation supports it. That requires causal measurement of the relation, its physical carriers, and the selective activities through which it is preserved.
+The Porter Ratio may quantify one balance involved in maintaining the interior, but it does not identify which external relation supports it. That requires causal measurement of the relation, its physical carriers, and the selective activities through which it is preserved. Nor is the proposed organization of care a mathematical consequence of R > 1: the ratio describes relative maintenance, while the care claim concerns a history-sensitive policy directed toward a demonstrably supporting relation.
 
 ### Care before reflective selfhood
 
