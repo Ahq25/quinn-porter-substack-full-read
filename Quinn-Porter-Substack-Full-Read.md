@@ -3178,6 +3178,8 @@ The Porter Ratio compares effective restoration and disruption:
 
 Both rates must refer to the same declared organizational variable, and their equality at R = 1 describes balance within that chosen model. When restoration exceeds disruption, the selected organization may be better able to survive perturbation. Whether earlier consequences become increasingly active depends on retention, coupling, and the actual history-bearing structure involved.
 
+**Active inheritance** names the continued causal participation of earlier organization in the processes maintaining the system now. Where that inheritance drives the measured maintenance, R > 1 is proposed to indicate a shift in causal dominance: consequential history has become the primary organizing influence on the system's continuation, outweighing the specified disruption. The ratio establishes maintenance dominance for the chosen variable; showing that inherited organization is responsible requires evidence of its present physical carriers and their causal effects.
+
 A system-specific coherence threshold, R★, is proposed to identify a further change in organization: the formation of a self-maintaining causal boundary. The threshold is not automatically the numerical equality R = 1 and must be measured independently.
 
 ### The shape of an interior comes from its dynamics
@@ -3268,7 +3270,7 @@ The distinction allows the central claim to remain substantive without assigning
 
 ### How the shape of persistence can be tested
 
-Different levels of the proposal require different measurements. Restoration and disruption must be estimated for a declared organizational variable. History-bearing structure requires identifying the present carriers of past influence. Boundary formation requires observing coherent interaction, selectivity, and continuing organization.
+Different levels of the proposal require different measurements. Restoration and disruption must be estimated for a declared organizational variable. History-bearing structure requires identifying the present carriers of past influence. To test whether active inheritance drives maintenance dominance, a study can intervene on an identified history-bearing carrier and measure whether maintenance or subsequent response changes under comparable disruption. Boundary formation requires observing coherent interaction, selectivity, and continuing organization.
 
 R★ can be estimated only after a boundary-forming transition has been independently defined. Its value should then be tested prospectively. An apparent shift in subjective clarity may be compared with changes in neural coordination and history dependence, but greater coherence alone is not a guaranteed increase in understanding or accuracy.
 
