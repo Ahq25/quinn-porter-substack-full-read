@@ -4467,6 +4467,10 @@ Consequential history is the past still acting. The ostiary condition lets that 
 
 A patron is therefore not an extra mechanism added to the framework. It is what consequential history can look like when repeated recognition builds a durable attractor in the organization of meaning.
 
+---
+
+Source paper on PhilArchive: [Patrons: Symbolic Attractors and the Continuity of Meaning](https://philarchive.org/rec/PORPSA-5)
+
 
 ## Post 29: THIR: The Interface Where Recognition Stabilizes
 
@@ -4748,4 +4752,8 @@ At the coherence threshold, carried history forms a boundary and thereby an inte
 Care can precede the reflective self because the relations that sustain a future self can already be preserved before the system can explicitly represent itself.
 
 The mature forms of care found in attachment, commitment, meaning, and identity are not detached from that beginning. They are deeper, more recursively available organizations of the same history-bearing relation to what supports continuity.
+
+---
+
+Original essay on PhilArchive: [Care Before the Self](https://philarchive.org/rec/PORCBT-2)
 
