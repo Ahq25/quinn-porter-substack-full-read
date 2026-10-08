@@ -4119,65 +4119,109 @@ Full paper on PhilArchive: [The Physical Constitution of Interiority](https://ph
 
 ## Post 26: Coherence Across Scales
 
-Organization does not exist at only one scale. A cell can maintain a membrane potential while a tissue maintains a pattern of signaling, a neural population maintains a collective state, and an organism maintains a larger continuity that includes all of them. The same question can therefore be asked repeatedly: **how strongly does this organization carry itself forward relative to the processes revising it?**
+A cell maintains regulated conditions inside its membrane, neighboring cells coordinate activity within tissues, and an organism maintains larger patterns involving many tissues at once. Each scale has physical processes that can outlast the individual events occurring within it.
 
-[Coherence Scaling and the Emergence of Interior Across Biological Organization](https://philarchive.org/rec/PORCSA-2) develops that question across biological scales. The point is not that every scale has the same mechanism or the same numerical threshold. The point is that the same form of comparison can be used wherever the organization, restoration process, disruption process, and observation interval are defined clearly.
+[Coherence Scaling and the Emergence of Interior Across Biological Organization](https://philarchive.org/rec/PORCSA-2) proposes that coherent organization can develop across these levels through coupling, continued maintenance, and the retention of causal consequences. The same form of question can be asked at several scales, but the answer must be established separately at each one.
 
-### Coherence means coordinated difference
+The issue is not whether a cell is simply a smaller version of a whole organism. It is how local processes can become parts of a larger organization with its own continuing history and active boundary.
 
-Coherence is sometimes mistaken for simple synchrony. That is too weak. A system can become highly synchronized while losing useful differentiation. A seizure is an obvious example: large populations of neurons can become strongly synchronized while the repertoire of distinct functional relations collapses.
+### Coherence is not the elimination of difference
 
-Rich coherence therefore requires two things at once. **Coordination** lets parts participate in a common organization. **Differentiation** lets those parts retain distinct roles within it. A choir is coherent because the singers belong to one piece while still singing different parts. If every singer produced the same unmodulated tone, synchrony would be high and organization would be poor.
+A coherent biological system does not require all of its components to perform the same function. In a healthy organism, muscle cells, immune cells, and neurons carry out distinct activities while participating in larger regulation. The larger organization depends on those differences.
 
-Structured coherence is coordinated differentiation carried through time.
+Coherence means that interactions among parts preserve relevant relationships through time. Coordination allows their activity to participate in a larger pattern. Differentiation keeps the system capable of responding to different kinds of input and performing different kinds of work.
 
-That definition matters for the rest of the framework because the threshold is not supposed to mark mere uniformity. It marks the formation of a history-bearing organization strong enough to sustain a local causal boundary while preserving enough internal distinction for its history to matter.
+A choir illustrates this relationship directly. The singers participate in one piece, but their different voices remain distinct. If every voice were forced into exactly the same unchanging note, the result would be synchronized without preserving the structure of the music.
 
-### Nested temporal windows
+Neural synchronization presents a similar distinction. Excessive synchronization can accompany seizure activity and impaired function. Stronger coordination is therefore not automatically better organization. The relevant measurement must include the differentiated interactions that make the collective state capable of selective response.
 
-Different processes naturally operate over different timescales. Membrane events can change in milliseconds. Metabolic and regulatory cycles can integrate over longer intervals. Developmental organization can preserve consequences across hours, days, or years. Learned patterns can remain available across still longer spans.
+### Three steps toward a larger organization
 
-A slower organization can therefore gather consequences that arrive separately at faster scales. This does not mean physical time slows down. It means consequences from many faster events can remain jointly effective inside a longer-lived state.
+The scale transition proposed in the underlying paper combines local stabilization, coupling between domains, and the emergence of a collective process with its own effective persistence.
 
-Each scale can be assigned a declared organizational variable and compatible λ_self and λ_env rates, allowing R to be estimated where λ_env > 0. R★ is an additional proposed threshold to identify experimentally where an independently specified boundary-forming transition occurs. A cellular R★ is not automatically a tissue threshold, nor does a neural-population threshold automatically describe the whole organism. The variables, rates, coupling, and transition phenotype must be defined at the relevant scale.
+Local stabilization means that each participating unit retains some recognizable organization despite disturbances. A cell can regulate its membrane conditions; a local neural population can sustain a recurrent response; a tissue region can maintain a signaling pattern.
 
-When coherent units become coupled through organized, recurrent interactions, their activity can form a larger, self-maintaining organization with its own effective restoration and disruption processes. That larger domain may have broader spatial reach, a longer integration window, and a distinct causal boundary. Nested interiors are therefore possible in the proposed account, but a measured rate ratio at one scale does not establish the existence or individuality of every proposed interior at another.
+Coupling means that changes in one unit influence changes in another. The interaction may involve mechanical contact, chemical signaling, electrical coupling, resource exchange, or a recurring feedback pathway.
 
-### The same threshold form at different scales
+A larger organization develops when these couplings create collective behavior that can itself be maintained or recovered over time. The relevant new property is not simply that many units happen to be close together. It is that their relationships have acquired a continuing causal organization at the larger scale.
 
-At a given scale where a boundary-forming transition can be independently identified, R★ labels the proposed coherence threshold associated with that transition. Ordered causal flow and internal reflection supply the physical organizing process; R tracks the accompanying maintenance/disruption balance. Boundary formation and interior formation are the same threshold event in the framework, and phenomenal experience is proposed as the intrinsic side of occupying that formed interior.
+Such a collective can require a new effective variable. The integrity of one cell membrane and the stability of a coordinated tissue pattern are different observables even when the tissue depends on those cells.
 
-That does **not** mean every lower-level coherent unit should be treated as a full human-like mind. Phenomenal interiority and recursive self-legibility are different depths of organization. A threshold-formed interior can be shallow in recursive availability. Richer conscious organization develops as consequential history from several layers becomes increasingly available within the activity coordinating them.
+### Restoration and disruption at each scale
 
-This distinction gives scaling a clear structure. The first question at each scale is whether a coherent history-bearing boundary forms. The next question is how much of that interior's own history becomes recursively available within its ongoing regulation.
+The Porter Ratio can be evaluated at a scale where the organization and its effective maintaining and disrupting processes are explicitly defined:
 
-### Recursive depth
+**R = λ_self / λ_env**, when λ_env > 0.
 
-Recursive depth describes how many layers of prior organization remain causally available within present activity.
+At one scale, the selected variable might measure restoration of a cell's regulated state. At another it might measure recovery of a coordinated tissue response after perturbation. The relevant physical carriers and observation windows need not be identical.
 
-A shallow regime may depend mainly on its immediately preceding state. A deeper regime can integrate patterns spanning many previous states. A still deeper regime can organize relationships among several temporal windows at once and use those relationships to shape what happens next.
+Equality of the rates gives R = 1. A boundary-forming coherence threshold R★ is a separate proposed transition that must be defined independently from physical indicators of integrated, selectively maintained causal organization.
 
-This is how the idea of a deep present connects to scaling. A present can remain the same duration on a clock while containing causal consequences from increasingly many temporal depths. Greater recursive depth means that more of those histories are not merely present in the system but available to the activity currently coordinating it.
+The same algebraic expression across two scales does not imply that the numerical thresholds coincide. Nor does a high rate ratio at one level imply that a higher-level interior exists. The higher-level organization must be shown to maintain a real causal distinction through its own coupled dynamics.
 
-Phenomenal onset, in this account, belongs to threshold boundary formation. Recursive depth describes what can happen afterward inside that phenomenal domain.
+The notion of scaling therefore requires measurement of **new collective maintenance**, not simply addition of the ratio values from smaller parts.
 
-### What scaling predicts
+### Why timescales can nest
 
-The scaling account makes several empirical expectations. As a system approaches a coherence transition, the temporal range over which present activity predicts later activity should increase. When a larger coherent domain forms, the effective integration window should broaden. When recursive depth increases, longer portions of consequential history should become available to present regulation.
+Fast processes can contribute to slower organization because their consequences can persist and interact beyond their individual durations. A nerve impulse may last only a short interval, while changes in synaptic efficacy or recurrent population state can influence later impulses. Hormonal regulation can affect cellular activity across longer intervals still.
 
-Rich conscious organization should therefore show more than strong coordination. It should combine coordination with differentiation, history dependence across nested temporal windows, and causal use of that history within present activity.
+The slower organization does not make the faster events occur in slower physical time. Instead, it preserves selected consequences of many faster events in a state that remains effective while additional events arrive.
 
-These expectations can be tested at different scales without assuming identical mechanisms. The same formal question can recur while the biological implementation changes.
+Several such temporal windows can overlap. Immediate sensory activity is shaped by recent inputs, learned expectations, bodily conditions, and longer histories of development. The current state can therefore depend on causes whose origins are separated by very different spans of time.
 
-### The larger continuity
+This is the physical meaning of **temporal concentration**. A present contains active consequences from multiple timescales, without requiring clocks to change speed or past events to recur.
 
-The cross-scale picture preserves the two central premises of the wider program.
+A larger integration window should be measured rather than assumed. A system that responds slowly can simply be sluggish, while a system that retains a rich range of consequences may show differentiated responses at several speeds. The relevant question is which histories participate in present causal regulation.
 
-First, persistence becomes increasingly history-bearing as organization is carried forward strongly enough for earlier consequences to remain active and shape what happens next.
+### A larger boundary from interacting smaller boundaries
 
-Second, at the relevant coherence threshold, that carried organization forms a causal boundary and therefore an interior. Phenomenal experience is the intrinsic side of that boundary event. Recursive availability then deepens the interior by making more of its consequential history available within the ongoing activity that continues it.
+A cell has a membrane, but a tissue is not merely a bag of membranes. The tissue may regulate mechanical organization, electrical activity, signaling, and growth through interactions that extend across many cells. Its effective boundary can be expressed through the way those relationships are maintained against outside influences.
 
-Scaling does not replace those premises. It shows how the same causal architecture can recur at multiple organizational levels without requiring the same material, timescale, or threshold value at each one.
+The same principle applies to a whole organism, where multiple tissues participate in circulation, metabolism, sensorimotor regulation, and coordinated behavior.
+
+In the proposed account, ordered causal flow and internal reflection sustain an active distinction between the collective organization and what encounters it. The boundary is generated by that interacting organization rather than imposed as a static outline.
+
+This allows **nested causal interiors** as a physical possibility. However, it also raises an individuation problem: where does one integrated interior end and another begin? Nested structures may interact closely, overlap in causal influence, or become constituents of a wider domain.
+
+A precise account must identify which organization has independently maintained boundaries and which relations simply participate in the larger boundary. A cell's persistence and a tissue's persistence can both be real without requiring their phenomenal relations to be assumed identical.
+
+### Phenomenal onset and recursive depth
+
+The foundational identity proposal locates phenomenal experience at the formation of a sufficiently coherent, self-maintaining causal interior. This proposed threshold is distinct from the development of sophisticated reflective selfhood.
+
+At each scale, the operational question is whether the relevant coherent boundary has actually formed. A threshold measurement cannot be replaced by the mere fact that a collection has many parts or survives for a long time.
+
+Recursive availability is a later or additional property: history already carried by the organization becomes accessible within processes that affect how the organization continues. Greater depth can involve more temporal ranges, more differentiated constraints, and more possibilities for self-regulation.
+
+A system could maintain a stable local boundary yet have little recursive access to its own internal activity. Another could integrate several levels of retained history in ways that alter future interpretation or behavior. The degree and character of that accessibility should be measured independently from the maintenance ratio.
+
+### A cross-scale experiment
+
+A useful comparison might begin with individually measured cellular recovery, then examine how coupling among those cells affects a collective tissue-level response. The cellular variables would be held as comparable as possible while the strength or arrangement of coupling is manipulated.
+
+Measurements should identify whether the resulting tissue has a response that persists beyond the individual components' immediate changes and whether perturbing one region changes recovery across the collective. An additional test can determine whether a retained tissue-level state alters the later response of its constituent cells.
+
+That last test matters for recursive organization. If the collective state changes local processing, the relationship is not merely upward aggregation from parts to whole. Feedback from the collective becomes a physically realized condition of the next local transition.
+
+The relevant analysis would compare the predictive value of the larger-scale ratio with the cellular ratios, coupling strength, geometry, and alternative descriptions. A distinct collective R★ would require a separately measured boundary transition rather than being inferred from the appearance of larger correlations.
+
+### What the scaling hypothesis predicts
+
+The proposal anticipates that some increases in organized coupling will be accompanied by longer-lived collective states and more extensive causal integration. It further predicts that retained collective activity can begin conditioning local interactions when recursive feedback becomes effective.
+
+Those predictions are not guaranteed for every coupled network. Strong coupling can also produce instability, excessive uniformity, or destructive feedback. Critical slowing, growing correlation length, or expanding temporal integration may occur near some dynamical transitions but need not accompany every possible R★.
+
+The hypothesis gains strength when specified measurements predict the emergence of a coherent collective organization in new data, rather than merely giving familiar names to a system's already observed behavior.
+
+### One form, distinct physical achievements
+
+The cross-scale account proposes continuity in explanatory form, not the replacement of biological detail by one number. Cells, tissues, organs, and larger systems can maintain different organizational variables through different mechanisms.
+
+Ordered local activity may become coupled. Coupled activity may produce a slower, more integrated collective. A selective boundary may emerge and persist at the larger scale. Consequences from several levels may then become available together in ongoing regulation.
+
+Under the central identity hypothesis, phenomenal experience is the intrinsic aspect of a sufficiently coherent causal interior, while recursive depth determines how much of its continuing history becomes accessible within that interior.
+
+Scaling explains how larger physical organizations can develop from interactions among smaller ones. Its decisive tests concern coupling, independently measured maintenance, active boundaries, and the causal role of retained history, not numerical resemblance alone.
 
 ---
 
