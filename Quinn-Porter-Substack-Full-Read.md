@@ -1818,6 +1818,16 @@ The resulting click is a change in what is accessible within consciousness, not 
 
 A realization that never influences another event can be vivid yet brief. A realization that reorganizes subsequent thought has acquired lasting causal significance. Understanding is not exhausted by the instant of recognition; it includes the continuation of the recognized relationship.
 
+### When a pattern keeps reinforcing itself
+
+A history can remain effective without being accurate or beneficial. A pattern can become familiar, accessible, and compelling because earlier experiences have made the same response increasingly likely. Even the feeling that something has finally clicked into place does not establish that the interpretation is correct. That judgment requires evidence beyond the feeling of recognition.
+
+Addiction provides a concrete example. A place, a feeling, or a remembered situation can become associated with substance use. Taking the substance may bring pleasure or temporarily relieve discomfort. Either consequence can reinforce the learned connection, so that a similar cue later makes the same action more likely. What happens in one moment becomes part of the conditions shaping the next. The cycle can strengthen through repetition, even while its longer-term consequences become harmful.
+
+Someone caught in that cycle may understand the harm and still experience powerful cravings or difficulty controlling the response. Addiction is not simply an incorrect idea that can be corrected by supplying better information. Learned associations, stress and withdrawal, changes in brain and body regulation, and the circumstances surrounding a person all contribute. Research on addiction identifies both reward and temporary relief as possible sources of reinforcement ([U.S. Surgeon General's report](https://www.ncbi.nlm.nih.gov/books/NBK424849/)).
+
+This reveals a limit that belongs to the wider argument. **Causal continuity does not guarantee correctness, and reinforcement does not guarantee benefit.** A history can persist by making its own next repetition more likely. To understand the pattern, the question is not only what earlier activity it carries forward, but also whether its expectations match what actually follows, and what keeps the cycle going when they do not.
+
 ### The scope of the principle
 
 Consequential history is a candidate general condition of persistence because a continuing organized system depends on causal connections between its successive states. The form of continuity is broad. It can appear as a retained channel, a regulated state, a developing tissue, or a learned relationship.
