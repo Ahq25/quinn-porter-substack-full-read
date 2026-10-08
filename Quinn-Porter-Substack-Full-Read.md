@@ -4008,69 +4008,109 @@ Back to the beginning: [Consequential History](https://ahq25.substack.com/p/cons
 
 ## Post 25: Measuring Interiority
 
-The Porter Ratio becomes scientifically useful only when its terms are fixed before the outcome they are meant to predict. The central question is not whether a system looks organized after the fact. It is whether the rate at which a declared organization restores or carries itself forward, relative to the rate at which surrounding interaction revises it, predicts a transition that was defined independently in advance.
+A physical theory of interiority needs a way to identify the transition before interpreting what the transition means. It is easy to recognize a cell membrane, a stable feedback loop, or a recovering biological system after it has already formed. The harder question is whether measurements taken independently can predict when ordered activity will establish a coherent, history-bearing boundary.
 
-The basic relation is
+[The Physical Constitution of Interiority](https://philarchive.org/rec/PORTPC-2) develops a prospective approach to that question. The experimental target is a transition in causal organization: earlier states begin shaping later interaction through an integrated, self-maintaining interface. The accompanying physicalist identity claim proposes that phenomenal experience is the intrinsic character of the sufficiently coherent interior formed through that activity.
 
-R = λ_self / λ_env
+### Define the organization before measuring it
 
-where **λ_self** is the effective rate at which a selected organization is maintained, restored, reinforced, or reliably propagated, and **λ_env** is the effective rate at which that same organization is revised, dispersed, overwritten, or disrupted. The two rates have to refer to the same organizational variable, over the same interval, in compatible units. Otherwise the ratio has no clear physical meaning. The ordinary quotient also requires λ_env > 0; an interval with no measured disruption must be analyzed separately or with a preregistered numerical regularization whose effect is reported.
+An experiment cannot measure the persistence of a system without saying what must persist. A bacterial cell may maintain membrane integrity while changing its internal chemical composition. A neural population may retain a collective response while individual neurons change their momentary firing. A tissue may preserve functional organization even while its geometry develops.
 
-R = 1 is equality of the measured rates. Below it, revision dominates the declared two-rate comparison over the chosen interval; above it, restoration dominates. That inference does not establish a unique dynamical law unless the rate decomposition adequately represents the selected organization. R★ is a separate quantity. It is the system-specific coherence threshold at which retained organization is predicted to become stable enough to form a coherent local causal boundary.
+Each example requires a specific **organizational variable**, a chosen observation interval, and a set of perturbations relevant to that variable. Measuring the recovery of a membrane integrity score does not automatically measure preservation of every property of a cell.
 
-The important distinction is that **R★ is not chosen because a system appears conscious or interior after the fact**. The organizational transition has to be specified independently, and the measured ratio is then tested against it.
+The Porter Ratio compares two effective processes acting on the same declared variable:
 
-### What has to change at the threshold
+**R = λ_self / λ_env**, with λ_env > 0.
 
-A useful operational definition of the transition into a history-bearing interior combines three causal observations.
+The numerator represents maintenance, restoration, reinforcement, or reliable propagation of the selected organization. The denominator represents revision, disruption, or dispersal of that same organization by specified interactions. Both terms require compatible units and matched intervals.
 
-First, retained history must contribute something that the measured present snapshot does not capture. Two cases may match on specified present observables and incoming conditions but differ in unmeasured carriers of past organization; that difference should improve prediction of what happens next. Complete physical microstates with the same future inputs are not being claimed to have different futures merely because their descriptions mention different pasts. Consequential history is physically present in carried variables, whether or not the chosen measurement captures them.
+When R = 1, the two measured terms balance. R > 1 identifies restoration dominance under the chosen decomposition. R < 1 identifies disruption dominance. A separate mathematical model must specify what these rates imply about the later state, especially when multiple variables, feedback pathways, or nonlinear effects participate.
 
-Second, the history must have a carrier. Some measurable state must physically preserve the relevant consequence into the present, and changing that carrier should change the later effect in the predicted direction.
+If the disruption denominator is zero, the ordinary quotient is undefined. A separate convention or a disclosed numerical regularizer may be useful, but cannot be applied silently as though the original ratio were unchanged.
 
-Third, the carried organization must alter local causal conditioning. Matched incoming events should be admitted, transformed, routed, incorporated, or rejected differently because they encounter different retained organization.
+### Why the threshold is not R = 1
 
-Together these observations provide an operational test of an active, history-conditioned causal boundary. Ordered causal flow, internal reflection, recirculation, and selective interaction provide the proposed formation mechanism: the organized activity generates and maintains the interface through which new encounters become consequential. The ratio measures the balance of maintenance and disruption for a declared variable, while the other measurements identify whether the relevant integrated, history-bearing boundary has actually formed.
+The proposed boundary-forming threshold, R★, is distinct from the equality point. A system may have strong local restoration without possessing an integrated interior. A network of independently recovering parts can return each part to its previous state without forming one coherent, selectively active boundary.
 
-The stronger identity claim comes next. At R★, when that history-bearing organization closes into a coherent causal boundary, **boundary formation and interior formation are the same event**. Phenomenal experience is proposed as the intrinsic side of occupying that newly formed interior. The boundary transition can be measured from outside. The phenomenal identity is the claim that the same event, viewed from the inside rather than from its external causal relations, is experience. Recursive availability is a later deepening through which that already-formed phenomenal interior becomes increasingly available within its own ongoing activity.
+The proposed transition instead involves physical relationships among the parts. Ordered causal flow, internal reflection, recirculation, and coupling allow consequences of earlier activity to affect later interaction. When that continuing organization sustains a distinction between itself and the surroundings, a boundary can form as an active interface.
 
-Keeping those claims separate matters. It prevents a behavioral or physiological threshold from being treated as proof of phenomenality while still giving the theory a definite place where the phenomenal claim is located.
+Its physical significance is selective. Two arriving events of similar magnitude can produce different results because the present organization permits, delays, redirects, or transforms them differently. The interface also retains changes made by earlier encounters.
 
-### A worked example
+**R★ must therefore be identified from an independently defined boundary transition**, not chosen because a system seems complex, responsive, or conscious. The ratio is then tested as a possible predictor of that transition.
 
-Suppose a bacterial membrane integrity score, M, is defined on a standardized 0-to-1 scale following an osmotic pulse. Recovery experiments estimate restoration of M at 0.12 score units per minute, while matched perturbation experiments estimate revision of M at 0.08 score units per minute. Both rates refer to the same variable over the same interval, so
+### Three observable requirements
 
-R = 0.12 / 0.08 = 1.5
+A history-bearing boundary needs more than a record of earlier activity. The proposed test separates historical effect, physical carrier, and history-conditioned selection.
 
-That number by itself does not establish interiority. The transition phenotype must be measured separately. The experiment would ask whether retained prehistory improves next-state prediction, whether a measurable carrier of that prehistory survives into the present and has the predicted causal effect when manipulated, and whether matched incoming conditions are routed differently according to the carried state.
+First, **retained history must change a later outcome**. Two conditions may have similar measured present states and receive the same new input, while different retained histories predict different responses. Such a comparison reveals the limits of the chosen present-state measurement rather than a violation of physical causality.
 
-Training observations can then be used to estimate the value of R associated with the independently defined transition, including a test of whether a single threshold adequately separates the observed regimes. That estimated R★ is carried unchanged into held-out cases under the same measurement definitions. If it continues to predict the transition, the threshold has prospective meaning rather than being a label applied afterward.
+Second, **a present carrier must account for the difference**. Earlier exposure may alter receptor abundance, metabolic regulation, gene expression, electrical state, or mechanical organization. The experimental task is to identify which of those existing states carries the relevant consequence and test it through intervention.
 
-The numerical values in this example are illustrative. The measurement logic is the important part: one declared organizational variable, two independently estimated rates, one independently defined transition, and a threshold tested on new cases.
+Third, **the carrier must change how subsequent encounters are received**. An arrival should be routed, admitted, excluded, transformed, or incorporated differently because of the retained organization. A carrier that predicts a later response but has no demonstrated role in determining it is weaker evidence than one whose manipulation changes the response.
 
-### A prospective protocol
+Together, these conditions describe an active, history-conditioned causal interface. Additional evidence of coupling and integrated self-maintenance is required to establish that the interface belongs to one coherent interior rather than a collection of independent local mechanisms.
 
-A rigorous test therefore follows a fixed order. The organization and the time window are declared first. Restoration and disruption are measured independently. R is computed before the scored outcome. The transition phenotype is defined without using R. R★ is estimated in one dataset and then frozen. New cases are tested using the same definitions and measurement procedure.
+### A worked numerical example
 
-The ratio should also be compared with simpler alternatives: λ_self alone, λ_env alone, their difference, geometry, and established predictors in the relevant field. If R adds no predictive value, the ratio has not earned a special explanatory role.
+Suppose an experiment defines a bacterial membrane integrity score M between zero and one. After a standardized osmotic challenge, recovery measurements estimate maintenance of that score at 0.12 score units per minute. Matched challenges estimate its disruption at 0.08 score units per minute.
 
-This is especially important because the framework makes a broad claim. A single successful example would show that the procedure can work in that system. Stronger evidence would come from the same measurement logic surviving across systems whose mechanisms and materials differ.
+For that selected variable and interval:
 
-### Bacterial systems as a test bed
+**R = 0.12 / 0.08 = 1.5.**
 
-[The Physical Constitution of Interiority](https://philarchive.org/rec/PORTPC-2) develops bacterial systems as one practical route. Bacteria have boundaries, regulatory histories, environmental inputs, and recovery dynamics that can be manipulated on laboratory timescales. Controlled perturbations can supply the environmental challenge, while recovery of a declared boundary organization supplies the restoration measure.
+The units cancel, and the stated two-rate comparison favors restoration. This is an illustrative calculation, not a reported bacterial observation.
 
-The central experiment is not simply whether bacteria recover. It is whether independently measured restoration relative to disruption predicts the onset of a stable, history-conditioned boundary regime, and whether retained history continues to matter after present state and input are controlled as closely as possible.
+A score of 1.5 does not say whether the cell has formed a new boundary, whether it already had a boundary before the perturbation, or how much of its earlier history influences the next event. Those require separate observations.
 
-That historical comparison is crucial. Two systems can look similar now while carrying different pasts. If those different pasts lead to different futures under matched present conditions, then history is not merely descriptive background. It is causally active in the current organization.
+The example could be extended by giving cells distinct controlled prehistories and asking whether a measurable retained regulator predicts the response to a subsequent osmotic pulse. Perturbing the regulator would test causal contribution. Measurements of exchange, coupling, and recovery would then establish whether the response is coordinated through an active interface rather than being merely a local change in the chosen score.
 
-### What would count as strong evidence
+### The experiment must detect a transition
 
-The framework gains empirical strength when measured R predicts the independently defined transition in held-out cases, retained history improves prediction beyond present state and current input, identified carriers have the expected causal effects under intervention, and the same measurement logic generalizes across more than one kind of system.
+An existing bacterium already has an organized cell envelope. Measuring the recovery of its current membrane after stress is primarily a test of **maintenance of an existing boundary**, not automatically a demonstration of a boundary coming into being for the first time.
 
-The claims should remain layered. Restoration and disruption test persistence. Historical contribution and local causal conditioning test the formation of a history-bearing interior. Boundary formation supplies the externally measurable threshold event. The phenomenal identity claim places experience on the intrinsic side of that event. Recursive availability then asks how deeply the formed interior can access, organize, and use its own consequential history.
+A stronger test of boundary formation would examine a controlled process in which a previously uncoordinated or insufficiently self-maintaining organization becomes capable of selective, integrated continuation. The transition would be defined by external physical measurements independently of the ratio.
 
-That ordering keeps the central premise intact without pretending that all parts of it have already been empirically established.
+If the experiment instead uses established cells, its claim should be limited to how boundary integrity and historical gating vary across conditions. That remains scientifically useful, but the distinction between boundary maintenance and boundary onset cannot be skipped.
+
+This separation also protects the phenomenal identity proposal from being equated with an ordinary stress-recovery result.
+
+### What counts as a present state
+
+The phrase **same present state, different histories** can be misleading if taken to mean complete physical microstates are identical. If two complete states and future inputs are genuinely identical under a deterministic model, the past cannot create a second outcome independently of those states.
+
+In a real experiment, measurements capture only selected observables. Two cells can have matching measured membrane scores and environments while differing in a retained regulatory state. Those are not identical complete physical states. The unmeasured or separately measured carrier is how earlier history remains consequential now.
+
+The empirical prediction is therefore that identifying and manipulating retained carriers improves causal explanation and prospective prediction beyond a chosen limited snapshot.
+
+### A prospective measurement protocol
+
+The sequence of testing matters because a threshold can otherwise be selected after the desired result is already known.
+
+The declared organization, scale, time window, and relevant perturbation class are fixed first. Restoration and disruption are then measured independently and used to compute R.
+
+The boundary-transition outcome is defined without using R as one of its defining features. A training dataset may be used to estimate an R★ that predicts the transition, after which the threshold and procedures are held fixed for new cases.
+
+Performance should be assessed on held-out observations. The ratio must compete with the numerator alone, denominator alone, their difference, relevant coupling measures, physical geometry, and established predictors.
+
+If the outcome is predicted no better by the ratio than by a simpler quantity, the special role claimed for R has not been demonstrated for that system. If an apparent transition lacks integrated causal selection despite favorable R, the proposed sufficiency of the comparison has likewise failed in that implementation.
+
+### Persistence, interiority, and experience
+
+There are distinct claims in this research program. A successful two-rate model explains some measured forms of persistence. Identification of retained carriers and their selective effects demonstrates consequential history. Measurements of coupled, self-maintaining organization can establish an operational causal interior.
+
+The further claim that this coherent interior is phenomenal from its intrinsic side is a proposed **physical identity**, not a behavioral label or an algebraic result. No external recording of a bacterium's recovery curve alone reveals whether anything is experienced. The proposal must be judged through its full causal architecture and its consequences, not through the numerical threshold in isolation.
+
+Recursive availability is another development beyond boundary formation. A formed interior may carry history without making that history explicitly recognizable. Richer systems can make parts of their own activity available to later recognition and regulation, increasing the depth and structure of awareness within an interior that already continues.
+
+### The value of a falsifiable boundary condition
+
+The physical proposal improves when it becomes possible to specify a clear failure. A predicted threshold may fail to transfer to new trials. A high-R system may lack the claimed causal boundary. A history variable may predict an outcome without having any causal effect under manipulation. A simpler variable may explain everything the ratio was supposed to explain.
+
+These failures would not make the question of interiority meaningless. They would show which part of the proposed relationship needs revision.
+
+The strongest result would combine independent rate measurements, an independently defined boundary-forming transition, an identified history carrier, selective causal effects under intervention, and successful held-out prediction. Different substrates could then be compared through the same measurement logic without assuming they share identical mechanisms or a universal numerical R★.
+
+The central scientific aim is to locate the boundary as a physical achievement of organized flow and inherited interaction. The phenomenal claim identifies the intrinsic condition of that achieved interior; the experimental program asks whether the proposed formation mechanism can be specified and predicted with enough precision to support the identity.
 
 ---
 
