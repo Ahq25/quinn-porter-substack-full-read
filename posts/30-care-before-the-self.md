@@ -151,3 +151,7 @@ At the coherence threshold, carried history forms a boundary and thereby an inte
 Care can precede the reflective self because the relations that sustain a future self can already be preserved before the system can explicitly represent itself.
 
 The mature forms of care found in attachment, commitment, meaning, and identity are not detached from that beginning. They are deeper, more recursively available organizations of the same history-bearing relation to what supports continuity.
+
+---
+
+Original essay on PhilArchive: [Care Before the Self](https://philarchive.org/rec/PORCBT-2)
