@@ -1,8 +1,7 @@
 # Measuring Interiority
 
 - **Author:** Quinn Porter
-- **Audience:** everyone (free, public; intended for synchronization)
-- **Mirror status:** Existing Substack URL not recorded; check by title before creating a new post.
+- **Audience:** everyone (free, public)
 
 ---
 
@@ -23,6 +22,8 @@ The Porter Ratio compares two effective processes acting on the same declared va
 The numerator represents maintenance, restoration, reinforcement, or reliable propagation of the selected organization. The denominator represents revision, disruption, or dispersal of that same organization by specified interactions. Both terms require compatible units and matched intervals.
 
 When R = 1, the two measured terms balance. R > 1 identifies restoration dominance under the chosen decomposition. R < 1 identifies disruption dominance. A separate mathematical model must specify what these rates imply about the later state, especially when multiple variables, feedback pathways, or nonlinear effects participate.
+
+The framework's further proposal is that **where the measured maintenance is genuinely driven by active inheritance, R > 1 marks consequential history becoming the primary organizing influence on the selected organization's continuation relative to the specified disruption**. The inequality does not establish that causal mechanism on its own. An experiment must identify the physical carriers of inherited organization and determine whether changing those carriers changes subsequent maintenance and recovery as predicted.
 
 If the disruption denominator is zero, the ordinary quotient is undefined. A separate convention or a disclosed numerical regularizer may be useful, but cannot be applied silently as though the original ratio were unchanged.
 
@@ -68,7 +69,11 @@ An existing bacterium already has an organized cell envelope. Measuring the reco
 
 A stronger test of boundary formation would examine a controlled process in which a previously uncoordinated or insufficiently self-maintaining organization becomes capable of selective, integrated continuation. The transition would be defined by external physical measurements independently of the ratio.
 
+In that transition, previously separate processes would establish a newly self-maintaining causal whole. Its coordinated relationships would help maintain the collective organization, resist specified disturbances, and influence how its components respond next. Self-maintaining does not mean self-sufficient: the new organization may still depend on continuous exchange of energy and matter with its surroundings.
+
 If the experiment instead uses established cells, its claim should be limited to how boundary integrity and historical gating vary across conditions. That remains scientifically useful, but the distinction between boundary maintenance and boundary onset cannot be skipped.
+
+The same distinction applies across nested scales. A local reorganization inside an established interior, and the onset of a new collective boundary, are different physical events even when they overlap in time. The experiment should define which transition it is designed to detect.
 
 This separation also protects the phenomenal identity proposal from being equated with an ordinary stress-recovery result.
 
@@ -106,7 +111,7 @@ The physical proposal improves when it becomes possible to specify a clear failu
 
 These failures would not make the question of interiority meaningless. They would show which part of the proposed relationship needs revision.
 
-The strongest result would combine independent rate measurements, an independently defined boundary-forming transition, an identified history carrier, selective causal effects under intervention, and successful held-out prediction. Such an experiment should also compare the boundary's organization before and after the transition: which causal pathways begin reflecting or recirculating, which exchanges become selectively regulated, and whether the new organization maintains its own distinction under a standardized disturbance. Different substrates could then be compared through the same measurement logic without assuming they share identical mechanisms or a universal numerical R★.
+The strongest result would combine independent rate measurements, an independently defined boundary-forming transition, an identified history carrier, selective causal effects under intervention, and successful held-out prediction. A test of historical causal dominance would also examine whether intervening on that carrier specifically weakens the active maintenance associated with R > 1. Such an experiment should also compare the boundary's organization before and after the transition: which causal pathways begin reflecting or recirculating, which exchanges become selectively regulated, and whether the new organization maintains its own distinction under a standardized disturbance. Different substrates could then be compared through the same measurement logic without assuming they share identical mechanisms or a universal numerical R★.
 
 The central scientific aim is to locate the boundary as a physical achievement of organized flow and inherited interaction. The phenomenal claim identifies the intrinsic condition of that achieved interior; the experimental program asks whether the proposed formation mechanism can be specified and predicted with enough precision to support the identity.
 
