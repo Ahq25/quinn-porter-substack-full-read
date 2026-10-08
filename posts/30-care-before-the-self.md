@@ -1,5 +1,11 @@
 # Care Before the Self
 
+- **Author:** Quinn Porter
+- **Audience:** everyone (free, public; intended for synchronization)
+- **Mirror status:** Existing Substack URL not recorded; check by title before creating a new post.
+
+---
+
 A system can preserve what supports its continuation before it can represent itself as a self. That is the starting point of **Care Before the Self**.
 
 The claim is not that every act of regulation should be called care. The more specific idea is that a system can become organized around preserving **relations that preserve the system**, including relationships whose supporting role was established through earlier encounters. When the history of dependence on a supporting relation changes what the system later approaches, restores, protects, or maintains, continuation has acquired a relational direction.
