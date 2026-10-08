@@ -3059,6 +3059,8 @@ When the measured disruption rate is zero, the ordinary quotient is undefined. S
 
 The comparison is useful because it isolates a question that can otherwise disappear behind descriptions of complexity: **what enables the selected organization to keep influencing what happens next despite processes capable of revising it?**
 
+Where the measured maintenance is genuinely driven by active inheritance, R > 1 is proposed to indicate a shift in causal dominance: consequential history has become the primary organizing influence on the system's continuation, outweighing the specified disruption.
+
 ### Maintenance is not the same as accumulated history
 
 A simple control mechanism may return a variable to the same value after each perturbation. That is effective restoration. But it may also erase nearly all information about which disturbances occurred. A maintained condition therefore need not accumulate a detailed record of its own past.
