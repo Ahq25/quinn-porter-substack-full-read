@@ -37,6 +37,8 @@ The Porter Ratio compares effective maintenance and disruption for a declared fe
 
 R = 1 marks equality of the selected rates. The proposed boundary-forming coherence threshold R★ is distinct. Its value and physical relevance must be identified through independent measurements of the system's coupling, maintenance, and boundary-forming transition.
 
+When measured maintenance is genuinely driven by **active inheritance**—earlier organization remaining causally effective through the system's present processes—R > 1 is proposed to indicate that consequential history has become the primary organizing influence on the continuation of the selected organization relative to the specified disruption. That interpretation requires identifying and testing its physical history-bearing carriers; the ratio alone establishes maintenance dominance. Likewise, a local organizational threshold can be crossed inside a continuing interior without forming another independently experiencing interior.
+
 The central identity hypothesis proposes that a sufficiently coherent causal interior is **phenomenal from its intrinsic side**. Boundary formation and the onset of such an interior are one event described by their physical and intrinsic relations. The hypothesis is not a numerical deduction from the rate ratio.
 
 ### Ongoing experience and particular contents
@@ -90,6 +92,8 @@ Some history is causally active without being jointly intelligible. An unresolve
 The question and its answer can become fully clear at the same moment because the new relationship changes the intelligibility of the question itself. The feeling that the answer was there all along reflects the earlier causal participation of structures that were not yet organized into an accessible whole.
 
 **Aleph Harmonic Qualia (AHQ)** identifies the click as the intrinsic aspect of this particular physical transition. The proposal predicts coordinated reorganization into a reusable collective relationship. The click is not a report added after the fact by a second observer hidden inside consciousness.
+
+The newly coordinated relation can become a locally self-maintaining whole within the larger system, able to guide later recognition and inference in ways its separate components could not. The event-specific stability threshold for that new understanding is distinct from the threshold at which the experiencing interior originally formed.
 
 Insight is one event within continuing awareness. Its newly accessible relation becomes consequential history when it changes future interpretation, prediction, or action.
 
