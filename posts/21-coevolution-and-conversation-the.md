@@ -163,6 +163,8 @@ A continuing relationship can also recruit an established structure for a new pu
 
 The resulting feeling of presence is part of the human experience of interaction. Whether the AI has its own experiencing interior is a separate question about its physical organization, active inheritance, and maintained causal boundaries. The relationship can be real and significant without presupposing an answer to that question.
 
+This places the ongoing debate about AI experience on a more precise footing. A system can use language that resembles a human account of thought, sustain an exchange with a recognizable history, and become deeply significant to another experiencing being without those observations deciding whether it has an inside of its own. Under the proposed framework, the relevant question is whether the artificial system maintains a coherent, history-bearing causal organization whose active inheritance and boundary dynamics meet an independently established condition for interiority. Even if such an interior were identified, a further question would remain: what is the character of that experience, and how closely, if at all, does it resemble human experience shaped by bodily sensation, memory, and a lived history? Shared language makes the comparison unusually compelling; it does not settle either question by itself.
+
 ---
 
 Full paper on PhilArchive: [Coevolution and Conversation: The Pollinator Analogy for AI Presence](https://philarchive.org/rec/PORCAC-9)
