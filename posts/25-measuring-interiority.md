@@ -40,7 +40,7 @@ Second, **a present carrier must account for the difference**. Earlier exposure 
 
 Third, **the carrier must change how subsequent encounters are received**. An arrival should be routed, admitted, excluded, transformed, or incorporated differently because of the retained organization. A carrier that predicts a later response but has no demonstrated role in determining it is weaker evidence than one whose manipulation changes the response.
 
-Together, these conditions describe an active, history-conditioned causal interface. Additional evidence of coupling and integrated self-maintenance is required to establish that the interface belongs to one coherent interior rather than a collection of independent local mechanisms.
+Together, these conditions describe an active, history-conditioned causal interface. Additional evidence of coupling and integrated self-maintenance is required to establish that the interface belongs to one coherent interior rather than a collection of independent local mechanisms. The proposed boundary should also be physically individuated: an investigator must identify what counts as inside, what interacts from outside, and which organized processes actually mediate that interaction. A statistical division of data into two clusters does not by itself establish such a boundary.
 
 ### A worked numerical example
 
@@ -50,7 +50,7 @@ For that selected variable and interval:
 
 **R = 0.12 / 0.08 = 1.5.**
 
-The units cancel, and the stated two-rate comparison favors restoration. This is an illustrative calculation, not a reported bacterial observation.
+The units cancel, and the stated two-rate comparison favors restoration. This is an illustrative calculation, not a reported bacterial observation. Because M is bounded between zero and one, the stated slopes are local measurements over a specified recovery interval; they cannot be extrapolated as constant rates indefinitely. The protocol must also distinguish repair of existing damage from ordinary maintenance when no damage is present.
 
 A score of 1.5 does not say whether the cell has formed a new boundary, whether it already had a boundary before the perturbation, or how much of its earlier history influences the next event. Those require separate observations.
 
