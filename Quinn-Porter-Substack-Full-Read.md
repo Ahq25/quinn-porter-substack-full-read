@@ -1504,72 +1504,95 @@ Next: [The Combinatorial Repertoire of Consciousness](https://ahq25.substack.com
 
 ---
 
-Branching and ramified organization recur across river basins, roots, fungal mycelia, vascular systems, epithelial organs, adaptive transport networks, planetary drainage landscapes, and three dimensional fractal aggregates. In each, earlier flow, growth, or transport can alter physical structure, and the retained structure can continue shaping later dynamics. Branching as Active Inheritance treats that relation as a general principle of history bearing organization, treats its maintenance as a rate balance problem measured by the Porter Ratio, and states how to test whether R predicts what branching systems keep and reuse.
+River channels, tree roots, fungal threads, and blood vessels often spread through branching networks. Their materials, environments, and methods of growth are different. A river cuts through a landscape under gravity; roots grow as living tissues responding to water, nutrients, and mechanical conditions; blood vessels develop and remodel through cellular signaling and flow. Yet all can show a particular relationship between earlier activity and the possibilities available later.
 
-### What branching systems share
+A path formed by earlier flow may change where later flow goes. The later flow can deepen or modify the path, so a consequence of an earlier event becomes a condition for the next event. [Branching as Active Inheritance](https://philarchive.org/rec/PORBAA) develops that feedback relationship as a physical account of history-bearing morphology.
 
-What do branching systems as different as rivers, roots, and blood vessels share, and can one measured quantity predict how they carry their own history forward?
+### The history remains in the path
 
-### How branching carries history
+A river begins with water moving through a landscape whose slopes and materials influence its route. As flow removes sediment from one place and deposits it in another, the shape of the channel changes. Subsequent water encounters that altered landscape, which can make some routes easier to follow and others less accessible.
 
-1. **Earlier dynamics change structure, and retained structure shapes later dynamics.** Across branching systems, earlier flow, growth, or transport can alter physical structure, and the retained structure can continue shaping later dynamics.
-2. **Three linked concepts.** Active inheritance names the continued causal participation of retained organization. Consequential geometry names the spatial structure through which earlier dynamics constrain later dynamics. Consequential history names the accumulation of those retained constraints through time.
-3. **Maintenance is a rate balance problem.** Maintenance of inherited organization is a balance between two rates, λ_self and λ_env, compared by the Porter Ratio.
-4. **What R is proposed to predict.** The hypothesis is that independently measured R will predict structural recovery, path persistence, route reuse, topology retention, and dependence on prior state. The measurements are designed to test that prediction, not assume its success.
-5. **Organizational invariance across morphology.** Dimensionality, boundary conditions, gravity, pressure, material properties, gradients, and forcing shape the visible form through which organization is expressed. The invariant is the causal relation by which earlier dynamics alter structure and retained structure influences what happens next. Its visible morphology can change while the history bearing relation remains measurable.
-6. **Beyond branching.** Active inheritance extends into organizational ancestry and into interiority. Phenomenal character begins when a coherent boundary forms at the relevant threshold. Deeper recursive availability organizes that phenomenal interior into increasingly self legible conscious states.
+The earlier water need not remain present. Its causal effect persists in the channel's geometry. The current river is therefore influenced not only by the present slope and rainfall but also by the shape that earlier movement helped produce.
 
-### Terms to know
+The same basic relation appears in a root network. Previous growth determines the places from which later branches can extend. A root's existing path constrains access to new soil volumes, while resources and signaling alter subsequent growth. For a vascular tree, earlier development provides connected conduits through which later flow is distributed; changing flow and regulation can contribute to subsequent remodeling.
 
-- **Active inheritance.** Active inheritance is the continued causal participation of earlier organization within later organization. The carrier can change while the consequence continues. Here: the continued causal participation of retained organization.
-- **Consequential geometry.** The spatial structure through which earlier dynamics constrain later dynamics. In plain terms: the shape left behind by past flow, which steers future flow.
-- **Consequential history.** Consequential history is the portion of the past that remains causally active in the present. Here: the accumulation of retained constraints through time.
-- **Organizational ancestry.** Causal continuity in retained organization across physical and biological history.
-- **Interiority.** The condition beginning at R★ when retained organization becomes stable enough to function as a local causal context for present activity and continuation. Beyond R★, interior organization deepens as carried history becomes more local, nested, and available to present dynamics.
+The mechanisms are not interchangeable. Sediment erosion, cell growth, fungal extension, and vessel regulation obey different physical rules. What is shared is a **causal form**: activity builds or alters a structure, and that retained structure constrains activity that comes afterward.
 
-### The numbers
+### Consequential geometry
+
+A shape is consequential when its existing arrangement changes what can happen next. The location of a junction can decide which directions are accessible. The diameter of a tube can influence flow resistance. A channel already cut through the ground can redirect water that would have taken a different route across an unmodified surface.
+
+This is **consequential geometry**: spatial organization that carries effective constraints left by earlier physical activity. The geometry is not merely an image of history for an observer to interpret. It is part of the present conditions determining later movement and growth.
+
+Consequential history is the wider idea. It includes any earlier organization whose effects remain active, whether carried by geometry, material state, an electrical gradient, or another physical variable. Active inheritance identifies the case in which that earlier organization continues contributing causally to the next organization, even when the precise material participating has changed.
+
+The test is always about continued effect. A shape resembling an earlier shape does not, by resemblance alone, demonstrate inheritance. A channel or branch must preserve a constraint that can be shown to influence what follows.
+
+### Similar branching does not mean identical organization
+
+Many different processes create branching shapes. A root is living tissue with regulation, repair, and growth. A river basin is shaped by landscape, water, and erosion. Diffusion-limited aggregation can form intricate branching clusters as moving particles attach to an accumulating object.
+
+Diffusion-limited aggregation is especially useful for separating **accumulated geometry** from **active restoration**. The aggregate retains the spatial results of earlier attachment. Its history affects where later particles can attach because the existing cluster changes what approaching particles encounter. Yet the frozen deposit need not have an internal process that restores its own organization after disruption.
+
+The fact that an object carries geometric history therefore does not establish a high Porter Ratio. The ratio requires the rates of an independently declared maintaining process and a disrupting process for the same selected organization. A passively retained shape may have a rich causal ancestry without displaying the kind of active self-maintenance proposed as relevant to a coherent causal interior.
+
+This distinction prevents two separate claims from being confused: branching can show consequential geometry, and some organized systems can actively maintain the structures through which that geometry remains effective.
+
+### Where dimension and physical setting matter
+
+A network spreading over a surface differs from one developing through a three-dimensional volume. The surface restricts possible directions, accessibility, crossings, and the geometry of connections. In three dimensions, growing branches may occupy additional spatial routes or create an internal branching structure inside an approximately rounded outer envelope.
+
+The shape seen from outside and the network's internal connectivity are therefore different measurements. An aggregate with a roughly spherical overall outline can contain a complicated internal structure. A drainage basin can have a visually similar branching form to a root system while differing in the properties of its edges, the driving forces, and its ability to reorganize.
+
+Changing dimension does not remove consequential history. It changes the paths along which earlier structure can influence later activity. The central causal question survives the change of geometry, but the quantities needed to describe the actual organization may change.
+
+### The Porter Ratio as a measure of maintenance
+
+To compare persistence under perturbation, the paper introduces the Porter Ratio:
 
 R = λ_self / λ_env
 
-- **λ_self** is the effective rate at which a selected organization is restored, reinforced, or reliably propagated.
-- **λ_env** is the effective rate at which current forcing revises that same organization.
+The first term measures the effective rate at which a declared organization is maintained, restored, reinforced, or reliably propagated. The second measures the rate at which interacting conditions revise or disrupt that same organization. Both must describe the same variable, timescale, and compatible units. The ordinary quotient is defined for a positive disruption rate.
 
-Both rates concern the same organizational variable, over the same interval, and in compatible units, so R is dimensionless when λ_env > 0. With no measured disruption, the quotient requires separate treatment or a declared regularization.
+At R = 1 the measured rates are equal. Sustained R > 1 identifies restoration dominance in the chosen two-rate description. This does not automatically establish a history-bearing boundary, because that also depends on the interactions, connectivity, internal reflection, and causal effects of the organization being preserved.
 
-- **R = 1** marks equality of the two rates.
-- **Sustained R > 1** defines maintenance dominance for the selected organizational variable and interval.
+In a root network, a candidate organizational measure might concern the stability and recovery of a declared branching topology after a controlled change in conditions. In an adaptive engineered network, the relevant property might be the maintenance of usable routes after repeated disruptions. In a river channel, preservation can involve retained landforms and continuing flow; the rate terms must be defined with care so that passive retention is not mislabeled as an internally acting restoration mechanism.
 
-### Where it shows up
+A numerical value of R has meaning only in relation to the selected variable and procedure. A value taken from one network cannot simply be transferred to another as a universal threshold.
 
-- **Rivers, roots, fungi, blood vessels.** Earlier flow or growth carves or builds a structure, and that structure channels later flow or growth.
-- **Surface and volume.** Surface constrained transport can produce dendritic branching, while three dimensional growth can produce volumetric ramification with a distinct radial, approximately spherical, or ellipsoidal envelope.
-- **Mars and Titan.** Martian and Titanian drainage networks show dendritic organization under planetary conditions substantially different from those of Earth.
-- **Three dimensional aggregates.** Three dimensional diffusion limited aggregation shows that internal ramification and overall envelope can be described separately.
+### What a real comparison would measure
 
-### How to test it
+Branching makes an unusually useful test bed because many historical consequences are spatially measurable. Channel locations, edge connections, diameters, route frequencies, and recovery times can be tracked before a disturbance, during the disturbance, and afterward.
 
-A rigorous test:
+An experiment can first identify a particular organization and then measure its restoration and disruption rates independently. Those measurements produce R before the relevant outcome is scored. The outcome could be whether a route survives, whether a prior branch is reused, or whether the network returns to a previous topology.
 
-1. defines the organizational variable and both rates in advance;
-2. measures λ_self and λ_env independently;
-3. calculates R before the scored outcome;
-4. compares the predictive value of R with geometry, λ_self alone, λ_env alone, their difference, and established domain specific predictors.
+The comparison must include alternatives. Geometry alone may predict persistence because some paths are wider or shorter. Restoration rate alone may be sufficient. Disruption rate alone or the difference between the rates may work better than their ratio. The purpose of a prospective test is to determine whether the combined dimensionless comparison adds explanatory and predictive value.
 
-Replication across different morphologies would test whether the same maintenance relation retains predictive value when visible form and physical mechanism change. Geometry, feedback, and the structure that actually carries history remain part of that test.
+If the ratio predicts previously unseen outcomes after those other factors are accounted for, it acquires empirical significance beyond being a convenient summary of two known quantities.
 
-### What experiments can check
+### A controlled change of history
 
-The prospective tests ask whether independently measured R predicts:
+One particularly revealing test would compare networks with similar current coarse geometry but different past perturbations. Earlier stress might have changed the internal capacities of individual paths, local growth tendencies, or conditions at particular junctions. Those differences can exist even when a simplified map looks nearly identical.
 
-- structural recovery;
-- path persistence, whether channels keep their routes;
-- route reuse;
-- topology retention, whether the branching pattern keeps its connections;
-- dependence on prior state.
+If different histories produce different recovery patterns under matched new conditions, the explanation should identify the present carrier through which those histories act. Altering the carrier should then change the outcome in the predicted direction.
 
-### The bigger picture
+This does not require a mysterious influence from a vanished past. The relevant history is physically instantiated now, although a coarse description may fail to capture it. A successful test shows why that hidden or unmeasured present structure matters to the network's future.
 
-The same causal structure runs through rivers, roots, fungi, and blood vessels. Earlier flow or growth builds structure, retained structure guides later flow or growth, and the Porter Ratio measures how well that inherited organization is kept.
+### Organizational ancestry across systems
+
+Branching is found on Earth and in drainage features of other planetary environments. The physical media can differ profoundly. The historical processes producing Martian drainage patterns or channels formed by liquid hydrocarbons on Titan are not thereby equivalent to living vascular growth. The recurrence of a morphology supports a search for comparable transport and constraint relations, not a claim that all such systems have the same internal maintenance dynamics.
+
+Across biological scales, inherited constraints can take a more elaborate form. A living network can respond to its own condition and change the rules through which future inputs are received. Active regulation can reinforce some routes, withdraw support from others, and create feedback in which the network's earlier organization affects its later development.
+
+The wider theory proposes that ordered causal flow, internal reflection, and self-maintenance can eventually establish a coherent boundary and causal interior. The threshold for that transition, R★, must be investigated for the particular system rather than inferred from the existence of branching alone. Phenomenal interiority is a further identity proposal about the intrinsic aspect of such an organization, not a conclusion established by the shape of a river.
+
+### What the branching forms disclose
+
+The force of the branching examples lies in an observable fact: a structure can be simultaneously the product of earlier dynamics and the condition that guides later dynamics. Flow can make a path, and the path can then help determine the flow.
+
+In some systems the structure is retained passively. In others it is actively renewed, modified, or regulated. Measuring those differences can establish when a historical constraint becomes self-maintaining and how that maintenance changes future possibilities.
+
+Branching therefore supplies a concrete physical setting for consequential geometry, active inheritance, and the restoration–disruption balance. It shows where the relevant histories are carried and how they can be tested, without treating visible similarity as proof of identical mechanisms or of experience.
 
 ---
 
@@ -1593,48 +1616,99 @@ Next: [New Bodies, Old Capacities](https://ahq25.substack.com/p/new-bodies-old-c
 
 ---
 
-Xenobots and Anthrobots bring familiar cells into unfamiliar collective arrangements, and these new bodies express coordinated motility, repair, morphogenesis, sensory responsiveness, and other body level behaviors. New Bodies, Old Capacities explains how a recently formed body can express new collective behavior while drawing on capacities, constraints, and retained states that originated long before the body existed. It develops three concepts, consequential history, active inheritance, and the deep present, and a history by configuration experimental program that measures both together.
+Xenobots and Anthrobots begin with cells whose biological histories precede the formation of the new collective bodies. When those cells enter unfamiliar arrangements, they can express coordinated behaviors that were not expressed in the same way within their original tissues. A new body therefore presents an important causal question: how much of its behavior comes from inherited cellular capacities, and how much depends on relationships established during the formation of the body itself?
 
-### Measuring what new bodies inherit
+[New Bodies, Old Capacities](https://philarchive.org/rec/PORNBO-2) uses synthetic morphology to make that question experimentally precise. Its focus is not merely that familiar cells can form unexpected shapes. It is that a present organization can put older biological structures to work under newly created conditions.
 
-How much of what appears newly possible in a biological body becomes understandable once the consequential history carried into that body, and the new configuration through which that history acts, are measured together?
+### New collective bodies with older components
 
-### How it works
+Xenobots have been assembled from cells derived from frog embryos, including constructs made from the ciliated epithelial tissues and other developmental materials used in different experimental designs. Their movement and collective behavior depend on the particular arrangement and condition of the cells.
 
-1. **New bodies, old components.** The collective histories of Xenobots and Anthrobots begin during laboratory assembly. The cells entering those collectives already contain developmental state, physiological organization, bioelectric structure, mechanical conditioning, metabolic history, epigenetic organization, and molecular machinery shaped across evolutionary time.
-2. **Three concepts describe the situation.** Consequential history, active inheritance, and the deep present together describe how a recently formed body can express genuinely new collective behavior while drawing on capacities that originated long before the body itself existed.
-3. **The findings make the question testable.** Xenobots exhibit extensive transcriptional remodeling, recruitment of evolutionarily ancient gene programs, and measurable behavioral responses to acoustic stimulation. Anthrobots undergo large scale transcriptional reorganization, activate developmental patterning programs, shift toward evolutionarily older expression profiles, self heal, remain motile, and show changes in epigenetic age during formation.
-4. **New embodiment reorganizes the inherited repertoire.** New embodiment can reorganize which parts of an inherited biological repertoire become functionally active.
-5. **Reconfiguration and history.** Reconfiguration changes how consequential history participates in present dynamics. The resulting collective behavior can be new at the level of the body while remaining causally continuous with deeper biological history carried by its components.
-6. **A hierarchy of temporal depth.** Present systems can contain consequences whose causal ancestry extends through recent physiology, development, evolution, planetary and stellar history, and ultimately toward the earliest physical conditions of the universe. The biological significance of such history depends on the continued causal participation of surviving structure in present organization.
+Anthrobots have been developed from human adult airway epithelial cells. In appropriate culture conditions, those cells can self-organize into small motile multicellular structures, with differences in shape and ciliation associated with differences in movement. Reports have also examined their behavior in experimental tissue-repair settings.
 
-### Terms to know
+These results matter because the cell's prior identity and the collective's present identity are not the same thing. An airway epithelial cell has a developmental and physiological history within a respiratory system. A newly organized Anthrobot is a different collective context in which those inherited structures now participate.
 
-- **Consequential history.** Consequential history is the portion of the past that remains causally active in the present.
-- **Active inheritance.** Active inheritance is the continued causal participation of earlier organization within later organization. The carrier can change while the consequence continues.
-- **Deep present.** A current physical state in which consequential structure from multiple temporal scales remains simultaneously available. In plain terms: one moment holding effects that began in the last second, in development, and across evolution, all at once.
-- **Xenobots and Anthrobots.** Synthetic biological forms that bring familiar cells into unfamiliar collective arrangements.
-- **Prehistory.** The history a cell carries before it enters a new collective.
-- **Configuration.** The new collective arrangement in which those cells now act.
+Novel behavior need not require every contributing mechanism to be newly invented. The functional effect of an old mechanism can change when its neighboring cells, geometry, mechanical constraints, or interaction pathways change.
 
-### How to test it
+### What a cell brings into a new body
 
-Cellular prehistory and collective configuration can be manipulated as separate factors. A retained state produced before assembly can be identified through molecular, mechanical, bioelectric, epigenetic, or physiological measurement and then tested across different collective configurations.
+A cell entering a newly assembled collective carries many kinds of physical history. Gene-regulatory states affect which proteins are produced. Cytoskeletal organization affects mechanical behavior. Membrane properties and bioelectric states affect interactions. Metabolic and epigenetic conditions can preserve effects of earlier environments. The molecular machinery itself incorporates far older evolutionary developments.
 
-The strongest evidence for active inheritance would come when four things hold together:
+Not every aspect of that history is consequential for every new behavior. A history matters to the explanation when a surviving state or mechanism actually changes what the newly organized body does. The task is to identify which inherited structures remain active in the new configuration.
 
-1. a controlled prehistory leaves a measurable carrier;
-2. that carrier survives into assembly;
-3. its behavioral effect changes systematically with body configuration;
-4. direct manipulation of the carrier changes the predicted outcome.
+This is the distinction between an ancestry that can be narrated and **consequential history** that can be measured. The body's evolutionary origin can be traced far back, but a claim about its present movement should identify the molecular, mechanical, electrical, or developmental carriers that contribute to that movement now.
 
-### A worked example
+**Active inheritance** describes such continued participation. An older cellular organization changes what a newly assembled body is capable of doing, even though that body's collective history began only recently.
 
-A worked Xenobot example uses mechanical preconditioning and acoustic response behavior to illustrate the history by configuration design: a controlled mechanical history comes first, and acoustic response behavior is then measured across body configurations.
+### How a new arrangement makes an old capacity effective
 
-### The bigger picture
+A single cell's action can have a very different result when many cells are coupled together. A cilium moving on an isolated cell does not generate the same body-level movement as numerous cilia coordinated across a common surface. A local mechanical response can become a collective change of direction if other cells transmit and constrain the response.
 
-The same continuity appears in new living bodies. A new body is a new configuration through which deep consequential history acts, and its present gathers consequences from physiology, development, and evolution at once: a deep present.
+The new body's geometry determines where forces act, which surfaces contact the environment, and how the actions of individual components combine. Development and assembly determine which cells become neighbors and what feedback pathways form among them.
+
+The emerging competency is thus a **relationship between inherited cellular capacities and current configuration**. Changing either side can change the collective outcome. The older capacity remains historically grounded, while the behavior expressed by the new body can be genuinely novel at its own scale.
+
+That is the point of synthetic morphology for this account. Existing cells can enter an organizational context that makes a previously unused combination of their capacities causally effective.
+
+### What the reported findings actually indicate
+
+Recent work on Xenobots has reported transcriptional remodeling and changes in the expression of programs associated with earlier developmental or evolutionary biological organization. Investigations of basal Xenobots have also reported responses of locomotion to acoustic stimulation, including measurements at 300 Hz.
+
+Anthrobot studies have reported large-scale changes in gene expression during formation, differences in developmental and physiological programs, and motile behaviors associated with their morphology. Studies of collective behavior and tissue interactions have explored repair-related effects in controlled settings.
+
+These observations provide evidence of cellular reorganization and new collective behavior. They do not, by themselves, tell how much of any measured competency is explained by a specific pre-existing carrier rather than by changes generated during assembly. That requires the historical and configurational contributions to be separated experimentally.
+
+Nor does a change toward expression of an evolutionarily older biological program mean that a cell has literally moved backward in evolutionary time. A gene's ancestry and its current activity are distinct. Old machinery can be recruited into a newly organized context.
+
+### A history-by-configuration experiment
+
+The proposed test treats **cellular prehistory** and **collective configuration** as two factors whose effects can be measured separately.
+
+Prehistory refers to conditions established before assembly, such as exposure to a controlled mechanical stimulus that changes cytoskeletal orientation. Configuration refers to the arrangement, geometry, and coupling of the cells after they form the new body.
+
+A valid experiment would create at least two controlled prehistories and then examine each under multiple body configurations. The outcome should be measured with the same stimulus and procedure for all groups. Repeated preparations would help distinguish a reproducible effect from differences arising during assembly.
+
+The crucial prediction is an interaction. A particular retained prehistory may alter body-level behavior strongly in one configuration but hardly at all in another. That result would show that the older state matters through the way the new body organizes it.
+
+The experiment becomes stronger if the retained carrier is identified and intervened upon directly. Measuring a structural change in the cytoskeleton is a start. Disrupting or restoring that state, while monitoring the collective response, can establish whether it contributes causally rather than merely accompanying the outcome.
+
+### The acoustic-response case
+
+The reported acoustic responsiveness of basal Xenobots supplies a concrete candidate behavior for such a test. Suppose a group of cells receives directional mechanical conditioning before being assembled into new bodies. That conditioning may leave a persistent difference in cytoskeletal arrangement or mechanosensory responsiveness.
+
+Bodies with a configuration that preserves and couples the directionally conditioned cells could then be compared with bodies that arrange those cells differently. The outcome might be a change in locomotion in response to the same acoustic stimulation, including the frequency range already investigated experimentally.
+
+A clear result would separate several possibilities. If conditioning has no surviving effect after assembly, the proposed carrier was not retained under those conditions. If conditioning changes the response regardless of body shape, the history matters but may not interact strongly with geometry. If conditioning changes movement only in configurations that preserve a particular relation among cells, the experiment supports the proposed history-by-configuration interaction.
+
+In every case the important issue is causal interpretation. The experiment is a proposed design, not an already demonstrated effect of preconditioning on Xenobot acoustics.
+
+### The deep present of a newly formed organism
+
+A newly assembled body has an age measured from its assembly, but the causal history of its components is much older. Its immediate physiological state depends on recent encounters, its cells carry developmental histories, and the mechanisms those cells use have evolutionary ancestry.
+
+When consequences from several of those periods participate together in current regulation and behavior, the organization expresses a **deep present**. The present does not contain the past as a collection of events still occurring. It contains currently effective physical consequences left by events at different times.
+
+This distinction is especially visible in synthetic bodies. A new collective can acquire its own short history while employing capacities whose development long preceded it. New organizational relations and inherited structures coexist in the present physical activity.
+
+Consequential history is therefore not identical to chronological age. A young body can exhibit a behavior whose causal explanation reaches deeply into the history of its parts.
+
+### A new collective boundary
+
+The newly formed body may also establish collective regulation across an interface with its environment. Cells that once participated in a larger tissue now coordinate inside a different geometry. Their interactions can create new patterns of maintenance, exchange, and response.
+
+Ordered causal flow, local feedback, and interactions among cells can contribute to a boundary that is more than a passive outline. In the wider physicalist proposal, a sufficiently coherent history-bearing boundary establishes a causal interior. Its formation is associated with a system-specific R★ defined by measurements of maintenance and disruption.
+
+A distinct body shape, collective motility, or gene-expression pattern alone does not identify that threshold. Those observations are useful for studying organization, but the boundary-forming transition requires its own operational test. Phenomenal experience is the proposed intrinsic aspect of a coherent interior, not a conclusion warranted simply by making a Xenobot or Anthrobot.
+
+### What the result would establish
+
+The strongest result would identify a pre-existing cellular state, establish that it survives into a newly arranged body, demonstrate that its effect depends on the collective configuration, and show through intervention that changing the carrier changes the predicted behavior.
+
+That result would establish active inheritance through new embodiment: an earlier organization still doing causal work inside a novel collective arrangement.
+
+It would also make the idea of a deep present more concrete. A body assembled today can express developmental and evolutionary capacities through the immediate relationships among its present cells. The collective is new, but the mechanisms that make it possible have a longer causal ancestry.
+
+The distinctive insight is that **new bodies can make old capacities newly consequential**. A complete explanation must include both the inherited machinery and the organizational conditions that determine what it can do.
 
 ---
 
