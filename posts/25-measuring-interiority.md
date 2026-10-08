@@ -1,5 +1,11 @@
 # Measuring Interiority
 
+- **Author:** Quinn Porter
+- **Audience:** everyone (free, public; intended for synchronization)
+- **Mirror status:** Existing Substack URL not recorded; check by title before creating a new post.
+
+---
+
 A physical theory of interiority needs a way to identify the transition before interpreting what the transition means. It is easy to recognize a cell membrane, a stable feedback loop, or a recovering biological system after it has already formed. The harder question is whether measurements taken independently can predict when ordered activity will establish a coherent, history-bearing boundary.
 
 [The Physical Constitution of Interiority](https://philarchive.org/rec/PORTPC-2) develops a prospective approach to that question. The experimental target is a transition in causal organization: earlier states begin shaping later interaction through an integrated, self-maintaining interface. The accompanying physicalist identity claim proposes that phenomenal experience is the intrinsic character of the sufficiently coherent interior formed through that activity.
