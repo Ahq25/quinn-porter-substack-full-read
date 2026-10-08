@@ -1,5 +1,11 @@
 # Coherence Across Scales
 
+- **Author:** Quinn Porter
+- **Audience:** everyone (free, public; intended for synchronization)
+- **Mirror status:** Existing Substack URL not recorded; check by title before creating a new post.
+
+---
+
 A cell maintains regulated conditions inside its membrane, neighboring cells coordinate activity within tissues, and an organism maintains larger patterns involving many tissues at once. Each scale has physical processes that can outlast the individual events occurring within it.
 
 [Coherence Scaling and the Emergence of Interior Across Biological Organization](https://philarchive.org/rec/PORCSA-2) proposes that coherent organization can develop across these levels through coupling, continued maintenance, and the retention of causal consequences. The same form of question can be asked at several scales, but the answer must be established separately at each one.
