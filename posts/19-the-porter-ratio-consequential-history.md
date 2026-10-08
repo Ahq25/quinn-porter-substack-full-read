@@ -11,15 +11,15 @@ The Porter Ratio expresses a simple relation between restoration and disruption.
 
 ## The basic relation
 
-R = λ_self / λ_env
+R = λ_self / λ_env, for λ_env > 0
 
 λ_self measures the effective rate at which a declared organization is maintained, restored, reinforced, or reliably propagated.
 
 λ_env measures the effective rate at which surrounding interaction revises, disperses, overwrites, or disrupts that same organization.
 
-R = 1 is the balance point.
+R = 1 marks equality of the two effective rates for the declared organization. Restoration dominance does not by itself determine how much history is retained or whether a causal interior forms. When λ_env = 0, the quotient needs separate treatment instead of silently assigning a finite value.
 
-R★ is a further empirical threshold for a declared system, scale, variable, and interval. At R★, carried organization becomes stable enough to function as a local causal context for what follows. That is the onset of interiority.
+R★ is a further, proposed system-specific coherence threshold. Its empirical definition must use a declared variable, scale, interval, and independently measured boundary-forming transition. Ordered causal flow, internal reflection, recirculation, and coupling are the proposed physical processes through which the maintained organization establishes its own boundary. R provides a maintenance/disruption coordinate for that process; the boundary is the physical result of the organized dynamics rather than of division alone.
 
 ## From persistence to consciousness
 
@@ -43,7 +43,7 @@ A river channel can carry consequential history in its present structure. A livi
 
 ## Cross scale form
 
-The Porter Ratio can be evaluated at different scales when the organizational variable and both rates are defined at that scale. Each scale has its own effective R and its own empirical R★. Coupled coherent units can form a larger domain whose restoration and disruption rates are measured at the collective level.
+The Porter Ratio can be evaluated at different scales when the organizational variable and both rates are defined at that scale. Each scale may have its own effective R; a distinct R★ should be assigned only when an independently specified transition can be measured and tested at that scale. Coupled coherent units can form a larger domain whose restoration and disruption rates are measured at the collective level.
 
 This gives the framework a cross scale form while preserving local measurement. The same relation can organize the question across scales, and the numerical values remain properties of the systems being studied.
 
@@ -51,11 +51,11 @@ This gives the framework a cross scale form while preserving local measurement. 
 
 The variables are declared before the outcome. λ_self and λ_env are measured independently. R is computed prospectively. R★ is estimated in one set of observations and tested on held out observations.
 
-A central test of consequential history matches the present state and incoming conditions as closely as possible while retained history differs. If the differing histories improve prediction of the next state, retained history has measurable causal relevance.
+A central test of consequential history matches the measured present observables and incoming conditions while varying or identifying additional current carriers of past organization. If those retained-history variables improve prediction of the next state and interventions on their carriers alter the outcome, the causal relevance of history is measurable. The complete physical microstate is not held identical when its history-bearing carriers differ.
 
 ## The whole arc
 
-The past stays active through persistence. At R★, it closes into a coherent boundary and forms an interior whose intrinsic side is phenomenal experience. It gathers across temporal depths into a deep present. Recursive availability makes that phenomenal interior increasingly self legible. Insight repeats the threshold geometry locally as distributed relations form a new reusable whole. Each stage adds organizational depth to the same continuing causal history.
+The past can remain active through maintained organization. At the proposed R★, ordered causal flow and internal reflection establish a coherent boundary and interior whose intrinsic side is identified with phenomenal experience. It gathers across temporal depths into a deep present. Recursive availability makes that phenomenal interior increasingly self legible. Insight repeats the threshold geometry locally as distributed relations form a new reusable whole. Each stage adds organizational depth to the same continuing causal history.
 
 ---
 
