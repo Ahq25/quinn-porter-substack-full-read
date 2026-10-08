@@ -6,7 +6,7 @@ These stable symbolic centers are called **patrons**.
 
 A patron is a proposed recurrent, history-bearing attractor in the organization of meaning. It develops when earlier encounters make a pattern increasingly likely to organize later attention, recognition, interpretation, and inquiry. The word *attractor* refers to a tendency of thought to return to a recognizable region of organization; establishing an attractor in a strict dynamical sense requires a defined state space and evidence of return under varying initial conditions.
 
-The term is meant to describe a real causal structure rather than simply a favorite symbol. A patron matters because earlier encounters have built an organization that later encounters can reactivate.
+The term identifies a proposed causal organization rather than merely a favorite symbol. Its defining feature is not how often a symbol is noticed, but whether retained relationships surrounding it continue affecting later attention, interpretation, and action. Earlier encounters must have built an organization that later encounters can reactivate.
 
 ### How a patron forms
 
@@ -66,7 +66,7 @@ A mathematical attractor describes a region or set toward which trajectories evo
 
 A practical measurement could begin by defining that pattern through recurring concepts, emotional associations, recalled scenes, or other observable relations. Repeated observations would then test whether attention returns to the same region despite variation in the immediate cue. The duration of return, the stability of the associated relationships, and the effect of deliberate interruption are different properties to measure.
 
-Stability does not require identical content every time. A scientific question can remain recognizable for years while accumulating new evidence and undergoing major revisions. The persistent organization may be a continuing set of constraints and problems rather than an unchanged image.
+Stability does not require identical content every time. A scientific question can remain recognizable for years while accumulating new evidence and undergoing major revisions. Its continuing identity can reside in a retained problem and set of constraints, even when many former interpretations are abandoned. The persistent organization may be a continuing set of constraints and problems rather than an unchanged image.
 
 An attractor can also become limiting. Strong recurrence may narrow attention, reinforce a mistaken interpretation, or make unrelated events seem connected. The theory should explain these possibilities as well as cases in which recurrence supports insight or creative development.
 
