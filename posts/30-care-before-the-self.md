@@ -1,8 +1,7 @@
 # Care Before the Self
 
 - **Author:** Quinn Porter
-- **Audience:** everyone (free, public; intended for synchronization)
-- **Mirror status:** Existing Substack URL not recorded; check by title before creating a new post.
+- **Audience:** everyone (free, public)
 
 ---
 
@@ -19,6 +18,8 @@ The Law of Self Maintained Invariance begins with a simple comparison:
 R = λ_self / λ_env
 
 λ_self measures the effective rate at which a declared organization is maintained, restored, reinforced, or carried forward. λ_env measures the rate at which surrounding interaction revises or disrupts that same organization.
+
+For λ_env > 0, R > 1 means that the selected organization's measured maintenance exceeds the specified disruption. Where that maintenance is actively sustained by inherited organization, the framework further proposes that consequential history has become the primary maintaining influence on its continuation relative to that disruption. The ratio alone does not establish that causal history or show which supporting relationships matter. Those contributions have to be identified through the system's organization and tested through intervention.
 
 Some of the processes contributing to λ_self can occur inside the system. Others depend on relations that cross the boundary.
 
@@ -101,6 +102,8 @@ Care becomes richer as more history participates.
 A supporting relation is encountered. Its beneficial consequences are retained. Later activity becomes more likely to preserve or return to it. Repeated return builds expectation and preference. Further history can add attachment, skill, memory, symbolic meaning, and explicit commitment.
 
 The physical relation has not disappeared when richer forms emerge. It has become layered.
+
+Those layers can also become new self-maintaining wholes. Cells may preserve exchanges that sustain coordinated tissue activity, while the tissue's continuing organization changes what its cells need and how their activity is regulated. At another scale, an organism can preserve relationships with its surroundings that help maintain the larger whole. Each genuine organizational threshold can establish new collective capacities and new dependencies worth preserving. Several levels may remain active or undergo related transitions in overlapping periods, without requiring their distinct thresholds to occur at precisely the same instant.
 
 An infant's regulatory dependence, an animal's learned return to a safe place, and an adult's reflective commitment are not identical phenomena. The framework does not collapse them into one thing. It treats them as increasingly deep organizations built on the same general causal form: history teaches the system which relations participate in its continuity, and that history changes how later activity is directed.
 
