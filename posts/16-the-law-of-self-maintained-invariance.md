@@ -11,6 +11,8 @@ An identifiable system can remain organized while its material and circumstances
 
 [The Law of Self Maintained Invariance](https://philarchive.org/rec/PORTLO-12) proposes a concise way to compare the processes that preserve such an organization with the processes that revise it. The aim is to isolate an observable dynamical relationship and then ask where it predicts persistence, history dependence, and the formation of self-maintaining boundaries.
 
+The central proposal is that when active internal maintenance overtakes disruption, consequential history has become the primary organizing influence on what happens next. Earlier organization, carried forward through present physical processes, now determines more of the system's continuation than the specified disturbance. This is the interpretation the ratio is meant to help test.
+
 ### What an organizational invariant means
 
 An invariant is a feature that remains sufficiently stable under a specified range of changes. In ordinary language, it is what continues to be recognizable while something else varies. A living organism does not need every molecule to remain unchanged for a regulated pattern of activity to persist.
