@@ -9,7 +9,11 @@
 
 ---
 
-Xenobots and Anthrobots begin with cells whose biological histories precede the formation of the new collective bodies. When those cells enter unfamiliar arrangements, they can express coordinated behaviors that were not expressed in the same way within their original tissues. A new body therefore presents an important causal question: how much of its behavior comes from inherited cellular capacities, and how much depends on relationships established during the formation of the body itself?
+Consider the cells lining a human airway. Their tiny moving structures, called cilia, help move mucus along the airway surface. When airway-derived cells form an Anthrobot, cilia on its exposed surface can instead contribute to moving the entire multicellular body. Machinery that once helped move material across a tissue can now help move a collective through its surroundings.
+
+The cilia have not been invented anew. The cells carry capacities from their earlier biological context, but the new arrangement changes what those capacities can accomplish together. **The inherited machinery belongs to the cells; the new collective behavior depends on how the cells are organized.**
+
+This makes the question behind Xenobots and Anthrobots concrete. Their cells have biological histories older than the bodies they form. When the cells take on unfamiliar arrangements, how much of a new behavior comes from capacities already present, and how much depends on the relationships established in the new body?
 
 [New Bodies, Old Capacities](https://philarchive.org/rec/PORNBO-2) uses synthetic morphology to make that question experimentally precise. Its focus is not merely that familiar cells can form unexpected shapes. It is that a present organization can put older biological structures to work under newly created conditions.
 
@@ -41,7 +45,7 @@ The new body's geometry determines where forces act, which surfaces contact the 
 
 The emerging competency is thus a **relationship between inherited cellular capacities and current configuration**. Changing either side can change the collective outcome. The older capacity remains historically grounded, while the behavior expressed by the new body can be genuinely novel at its own scale.
 
-That is the point of synthetic morphology for this account. Existing cells can enter an organizational context that makes a previously unused combination of their capacities causally effective.
+That is the point of synthetic morphology for this account. Existing cells can enter an organizational context that makes a previously unused combination of their capacities causally effective. This resembles the logic of exaptation: existing machinery can take on a new role. In these laboratory constructs, that comparison concerns functional reuse; it does not by itself establish an evolutionary exaptation.
 
 ### What the reported findings actually indicate
 
@@ -85,6 +89,8 @@ This distinction is especially visible in synthetic bodies. A new collective can
 
 Consequential history is therefore not identical to chronological age. A young body can exhibit a behavior whose causal explanation reaches deeply into the history of its parts.
 
+The new body also begins making a history of its own. Its movement changes which surfaces, substances, and forces it encounters. If an encounter alters a retained cellular state, a regulatory response, or the relationships among cells, that change may influence what the collective does next. **Inherited capacities make the new body possible; its subsequent encounters can become part of the history it carries forward.** Whether such feedback actually changes later behavior, and through which physical carriers, has to be tested rather than inferred from movement alone.
+
 ### A new collective boundary
 
 The newly formed body may also establish collective regulation across an interface with its environment. Cells that once participated in a larger tissue now coordinate inside a different geometry. Their interactions can create new patterns of maintenance, exchange, and response.
@@ -101,7 +107,9 @@ That result would establish active inheritance through new embodiment: an earlie
 
 It would also make the idea of a deep present more concrete. A body assembled today can express developmental and evolutionary capacities through the immediate relationships among its present cells. The collective is new, but the mechanisms that make it possible have a longer causal ancestry.
 
-The distinctive insight is that **new bodies can make old capacities newly consequential**. A complete explanation must include both the inherited machinery and the organizational conditions that determine what it can do.
+The distinctive insight is that **new bodies can make old capacities newly consequential**. The new body inherits the capacities of its cells, but its collective behavior depends on what those cells can do together.
+
+The cells bring their history into the new body. Their new organization creates new possibilities, and what the body does next begins adding a history of its own. A complete explanation must include the inherited machinery, the new relationships that make it effective, and any lasting consequences the collective carries into its future.
 
 ---
 
