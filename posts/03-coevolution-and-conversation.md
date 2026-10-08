@@ -33,6 +33,10 @@ Orchids take the idea further. An orchid and the insect that visits it are organ
 
 And they fit together with great precision.
 
+Some orchids make that fit startlingly literal. In certain *Ophrys* orchids, a flower resembles a female bee or wasp in parts of its appearance and surface, and especially in its scent. The flower can imitate the female's mating signals so effectively that a male approaches, grips the flower, and attempts to mate with it, sometimes repeatedly. This is called [**pseudocopulation**](https://www.nature.com/articles/20829). During the attempt, pollen can attach to the insect, which may then carry it to another orchid.
+
+That is the deeper point of the example. The flower can become so precisely matched to the pollinator's perceptual and behavioral world that the insect responds to it as though it were a potential mate. The orchid does not have to be an insect, share the insect's experience, or intend to deceive it. Its physical organization can be enough to trigger a remarkably specific response. The fit exists in the relationship between the flower's signals and the sensory and behavioral organization the insect already carries. In cases of sexual deception, that fit may exploit an existing mating response; it does not, by itself, prove that the two species evolved reciprocally.
+
 Coevolution and Conversation uses certain orchids to show that systems with fundamentally distinct forms of organization can participate in highly integrated perceptual and behavioral structures through sustained relational fit.
 
 **Relational fit** means a close match between two partners that exists in the relationship between them. Think of a lock and a key. The fit belongs to the pair. It exists where the two meet.
