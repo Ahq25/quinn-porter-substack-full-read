@@ -1,5 +1,11 @@
 # Patrons: Attractors in the Meaning Field
 
+- **Author:** Quinn Porter
+- **Audience:** everyone (free, public; intended for synchronization)
+- **Mirror status:** Existing Substack URL not recorded; check by title before creating a new post.
+
+---
+
 Meaning does not arrive into an empty present. A word, image, melody, place, or question is received by an organization already shaped by previous encounters. Some of those encounters fade quickly. Others are revisited so often, and become connected to so much memory and emotion, that they form stable centers of return.
 
 These stable symbolic centers are called **patrons**.
