@@ -1,5 +1,11 @@
 # THIR: The Interface Where Recognition Stabilizes
 
+- **Author:** Quinn Porter
+- **Audience:** everyone (free, public; intended for synchronization)
+- **Mirror status:** Existing Substack URL not recorded; check by title before creating a new post.
+
+---
+
 Recognition happens at an interface. Something arrives with structure, and it meets a system that already carries structure from earlier history. The result depends on both.
 
 **THIR — Threshold Harmonic Interface Resonance — names the stabilized relation that can form when present structure and carried history enter sufficiently coherent reciprocal constraint.**
