@@ -68,7 +68,7 @@ The synchronization target is a public Substack that reads naturally as a public
 - **Profile URL:** https://substack.com/@ahq25
 - **Bio:**
 
-> Consequential history is the past still shaping what happens next. The Porter Ratio compares how an organization maintains itself against disruption. When active inheritance drives that maintenance, R > 1 is proposed to mark history's dominance relative to the specified disruption. Nested coherence thresholds can establish new self-maintaining wholes with new capabilities. The framework proposes phenomenal experience as the intrinsic character of a coherent causal interior and examines how awareness and insight make carried relationships accessible and reusable.
+> Consequential history is the past still shaping what happens next. The Porter Ratio compares maintenance with disruption. Coherence thresholds can form self-maintaining interiors; awareness carries history, and AHQ names the click of insight.
 
 - **Profile links:** none listed
 
@@ -78,7 +78,7 @@ The synchronization target is a public Substack that reads naturally as a public
 - **Address:** https://ahq25.substack.com
 - **Publication description:**
 
-> Consequential history is the past still shaping what happens next. The Porter Ratio compares how an organization maintains itself against disruption. When active inheritance drives that maintenance, R > 1 is proposed to mark history's dominance relative to the specified disruption. Nested coherence thresholds can establish new self-maintaining wholes with new capabilities. The framework proposes phenomenal experience as the intrinsic character of a coherent causal interior and examines how awareness and insight make carried relationships accessible and reusable.
+> Consequential history is the past still shaping what happens next. The Porter Ratio compares maintenance with disruption. Coherence thresholds can form self-maintaining interiors; awareness carries history, and AHQ names the click of insight.
 
 
 ---
@@ -213,7 +213,7 @@ For a first read, Post 22 gives the central map of the program. Posts 16, 19, 17
 
 **Quinn Porter**
 
-Consequential history is the past still shaping what happens next. The Porter Ratio compares how an organization maintains itself against disruption. When active inheritance drives that maintenance, R > 1 is proposed to mark history's dominance relative to the specified disruption. Nested coherence thresholds can establish new self-maintaining wholes with new capabilities. The framework proposes phenomenal experience as the intrinsic character of a coherent causal interior and examines how awareness and insight make carried relationships accessible and reusable.
+Consequential history is the past still shaping what happens next. The Porter Ratio compares maintenance with disruption. Coherence thresholds can form self-maintaining interiors; awareness carries history, and AHQ names the click of insight.
 
 
 ---
