@@ -960,7 +960,7 @@ Consequential history comes into view through a small set of everyday pictures: 
 
 ### The scar, the language, and the river channel
 
-**The picture.** A scar forms where an injury healed, and the injury, long over, still shows in the way the skin grew back. That healed tissue still affects how the skin looks and moves. A language you learned years ago still decides what sounds mean to you today. A river channel was carved by earlier floods, and the carved land now steers the water that comes later. Today’s water follows a path that yesterday’s water cut.
+**The picture.** A scar forms where an injury healed, and the injury, long over, still shows in the way the skin grew back. That healed tissue still affects how the skin looks and moves. When a scar is visible, it can also affect how other people respond to the person carrying it. The mark, and the responses it receives, may change how that person feels about themselves, including their confidence, and how they behave. Those changes can influence later encounters in turn. An injury from the past can therefore shape present experience and relationships as well as the skin itself. A language you learned years ago still decides what sounds mean to you today. A river channel was carved by earlier floods, and the carved land now steers the water that comes later. Today’s water follows a path that yesterday’s water cut.
 
 **The idea.** These three examples show **consequential history**. Consequential history is the portion of the past that remains causally active in the present. Some consequences fade at once, like the sound of a hand clap. Others stay physically active and keep shaping what happens later.
 
@@ -968,7 +968,7 @@ Consequential history comes into view through a small set of everyday pictures: 
 
 - The injury, the learning, and the floods are the earlier events.
 - The healed tissue, the stored links between sounds and meanings, and the shape of the riverbed are the present structures that carry those events forward.
-- The skin’s look and movement, the meaning you hear, and the path of today’s water are the present effects.
+- The skin’s look and movement, the meaning you hear, and the path of today’s water are the present effects. A visible scar can also influence other people's reactions, the person's own feelings and behavior, and the interactions that follow.
 
 Each example has the same shape: the past acts through something that exists right now. That gives the first basic relation: **for something from the past to matter now, some consequence of it must still be taking part now.** **Active inheritance** is the continued causal participation of earlier organization within later organization. The carrier can change while the consequence continues. In short, **everything that persists carries its own earlier organization forward.**
 
