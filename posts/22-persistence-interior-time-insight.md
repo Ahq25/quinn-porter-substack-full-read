@@ -141,6 +141,16 @@ The Shape of Persistence describes related organizational developments through m
 
 [Continuity as an Organizing Variable](https://philarchive.org/rec/PORCAA-6) turns this into measurements. Its prediction is that continuity of retained propagation tracks organized interior behavior more closely than complexity alone. Measures include recurrence strength, autocorrelation persistence (how long a signal stays correlated with its own earlier values), context retention, and responses to perturbation.
 
+#### Thresholds within thresholds
+
+A coherent organization need not operate at only one scale. Within a nervous system, a local circuit can maintain an organized pattern while several circuits participate in a larger coordinated network. That larger network has relationships of its own, and its changing condition can influence the smaller processes that sustain it. Organization can therefore be maintained within organization: an established pattern becomes part of the conditions under which a larger pattern persists.
+
+**Thresholds can be nested.** A local system may cross a transition in its own organization while the interacting local systems approach a further transition at a larger scale. Several levels can maintain their organization at the same time. Their transitions can also overlap, synchronize, or unfold in sequence, with a change at one level altering what becomes possible at another. During insight, for example, local neural activity may reorganize while coordinated populations change their joint behavior and a larger conceptual relationship becomes stable enough to be reused. The levels are connected, but need not cross their thresholds at precisely the same instant.
+
+Each level requires its own declared organizational variable, maintenance and disruption rates, coupling, and observation interval. A proposed interior-forming R★ belongs to the level where a coherent causal boundary can be independently identified; there is no single numerical threshold automatically shared by all scales. Many local thresholds mark changes in coordination, learning, or stability within an already experiencing interior. **Crossing one of those thresholds does not, by itself, establish a new experiencing interior.**
+
+These layered processes also explain how a present can carry many temporal depths. Faster activity leaves effects that slower organizations retain, while the slower organizations can influence what the faster processes do next. Consequences maintained across different levels can thus become jointly effective in a continuing present.
+
 ### Step 3: Awareness and time
 
 #### A thick present
@@ -160,7 +170,7 @@ Awareness Where Time Concentrates defines two processes.
 
 A road with a series of traffic lights shows both. Cars arrive at scattered times. A red light holds them, and the green releases them together as a group. The group reaches the next light at a time set by the first light, and the next light shapes it further. After five lights, cars with very different arrival histories leave in a few groups. That convergence is basin compression. Each departing group carries in its timing the effects of all five lights, which acted at five different moments. That joint presence is temporal concentration. The clocks along the road keep their ordinary pace throughout, and the gathering happens in the timing of the traffic. What concentrates is history.
 
-A nervous system has layers of this kind. The Porter Ratio describes how, where organizing processes form interacting layers, “a slower regime can retain and coordinate consequences that would otherwise pass separately.” Fast nerve signals feed slower collective states, and those slower states hold the consequences of many fast events together.
+A nervous system has layers of this kind. The nested organizations described in Step 2 can maintain distinct relationships across fast and slow processes while remaining causally coupled. The Porter Ratio describes how, where organizing processes form interacting layers, “a slower regime can retain and coordinate consequences that would otherwise pass separately.” Fast nerve signals feed slower collective states, and those slower states hold the consequences of many fast events together.
 
 #### Gates that read history
 
@@ -277,6 +287,8 @@ Active inheritance is that continued causal participation.
 The Porter Ratio compares the rate at which a declared organization is maintained or propagated with the rate at which specified influences disrupt it. When that maintenance is actively driven by inherited organization, R > 1 is proposed to indicate that consequential history has become the dominant maintaining influence on what happens next. That causal interpretation must be verified through the system's physical history-bearing processes.
 
 R = 1 is the balance point between restoration and disruption. R★ is the separately identified coherence threshold proposed for a declared system, scale, and interval, at which the requisite organization forms a coherent causal boundary. Within the framework's physicalist identity proposal, forming that boundary establishes an interior whose intrinsic aspect is phenomenal experience.
+
+Organizations can be nested across scales, with their thresholds operating concurrently or influencing one another. The formation of one interior does not imply that every local transition forms an additional experiencing interior; each boundary-forming claim requires its own evidence.
 
 That causal interior is encountered by everything that arrives next. Carried history therefore becomes part of the gate through which the future enters.
 
