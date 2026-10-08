@@ -7,7 +7,7 @@
 
 ---
 
-The Shape of Persistence describes a single structural principle that links matter, time, experience, and meaning. A system persists when its internal restoration outruns environmental disturbance. When the coherence ratio R = λ_self / λ_env reaches the system specific threshold R★, the organization already being carried forward becomes stable enough to function as a local causal context for its future, and an interior form of time arises.
+The Shape of Persistence describes a single structural principle that links matter, time, experience, and meaning. A system can persist through interaction when processes carrying its organization forward keep pace with, or overcome, processes that revise it. The Porter Ratio, R = λ_self / λ_env, compares those effective rates for a declared variable and interval. Ordered causal flow, internal reflection, and reinforcing interactions can then maintain a real boundary. The proposed system-specific threshold R★ identifies the regime in which that organization establishes a coherent causal interior with its own continuing history.
 
 ### Why persistence gains an inside
 
@@ -15,9 +15,9 @@ What single principle carries a system from simple persistence to an interior th
 
 ### How it works
 
-1. **Persistence is restoration outrunning disturbance.** A system persists when its internal restoration outruns environmental disturbance.
-2. **The relation has a threshold.** The relation appears as a coherence ratio, R = λ_self / λ_env, with a system specific threshold R★.
-3. **At the threshold, interiority arises.** When R reaches or exceeds R★, the organization already being carried forward becomes stable enough to function as a local causal context for its future, and interiority arises.
+1. **Persistence is maintained organization.** Where disruption acts, restoration, passive retention, propagation, or other maintaining processes must suffice to preserve the selected structure. R > 1 identifies restoration dominance within a declared two-rate description, not every possible form of physical persistence.
+2. **The relation has a proposed threshold.** The dimensionless ratio R compares compatible rates where λ_env > 0. R★ is a further hypothesized, system-specific boundary-forming threshold requiring independent operational measurement; it need not equal 1.
+3. **At the boundary-forming threshold, interiority arises.** The account proposes that organized causal flow, reflection, and maintenance establish a coherent physical boundary at the relevant R★. The new local causal context is interiority; the ratio is one description of its maintenance balance rather than the complete physical mechanism.
 4. **The progression unfolds in distinct stages,** from matching and binding through threshold formed phenomenal interiority to increasingly self legible forms of consciousness.
 5. **The same coherence principle can be described physically and experientially.** Matter expresses stable pattern. Time expresses organized persistence. At the threshold, a history bearing organization forms a coherent boundary and thereby an interior. Its outward description is dynamical boundary formation and its inward description is phenomenal experience. Recursive availability can then make that phenomenal interior increasingly self legible. Valence tracks changes in coherence within the interior, and meaning arises when arriving patterns enter and reshape an organized continuity.
 6. **Recognition of order appears from within.** Quantum geometry, the period lattice, and AHQ together illustrate how local rules under constraint generate global order and how recognition of that order appears from within.
@@ -44,7 +44,7 @@ What single principle carries a system from simple persistence to an interior th
 
 ### The period lattice as a model
 
-The period lattice is built from the word “period” and its reflection plus reversal. It serves as a symbolic model of a phase drop: a discrete reorientation that propagates through a field. The Period Lattice develops this construction into an exact finite model.
+The Period Lattice begins with the word “period” and a specified combined reflection-and-reversal rule. It supplies an exact finite combinatorial state space for a discrete orientation inversion. Propagation through a connected field requires an explicit update rule; the geometry alone does not establish that an actual phase slip occurs in physical matter.
 
 ### The bigger picture
 
