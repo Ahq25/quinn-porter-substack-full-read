@@ -57,7 +57,7 @@ C_org = T ∧ H ∧ A ∧ K ∧ G
 - **K**, macrostate causal reentry;
 - **G**, integration across multiple processes or systems.
 
-The symbol ∧ is logical AND: all five hold together. Each quantity is separately measurable, with distinct operational tests for each transition. This conjunction operationalizes a recursively self legible conscious regime within a phenomenal interior whose boundary has already formed at R★.
+The symbol ∧ is logical AND: all five conditions are required by this proposed operational definition. The conjunction is a criterion to test, not a theorem showing that those five observables are sufficient for consciousness. Each condition must have a distinct measurement procedure fixed before applying the criterion. In this account, the conjunction describes recursive self-legibility within an already formed phenomenal interior whose boundary formation is associated with R★; it does not replace or mathematically prove that foundational identity claim.
 
 ### The numbers
 
@@ -65,11 +65,11 @@ A simple 24-gate toy simulation makes the combinatorial point measurable. These 
 
 - Fifty thousand sampled signal context states generate 26,683 distinct 24-bit activation patterns from the same fixed gate architecture.
 - Eight step trajectories form four macrostate centered endpoint groups with basin conditioned RMS spread ratios of 0.0089, 0.0504, 0.2834, and 0.2516.
-- Changing the retained history state while holding the present state grid fixed changes final basin assignment for 59.8% of grid points. In plain terms: with the present held the same, a different retained past changes where the system ends up for 59.8% of the present states tested.
+- Changing the retained-history variable while holding the instantaneous observed-state grid fixed changes final basin assignment for 59.8% of the grid points tested. The complete model states are not identical, because their retained-history variables differ. The result illustrates history carried in additional present variables and its influence on later trajectories; it does not violate ordinary state-dependent dynamics.
 - A recursive feedback sweep produces 86.28% uninterrupted twenty step macrostate persistence at feedback strength ρ = 2.5 and 100% at ρ = 3.0.
 - A branched perturbation experiment starting from identical pre perturbation states yields a 19.45% return probability with recursive macrostate reentry active and 0.10% with the recursive term clamped. Final macrostate identity differs between branches for 53.575% of trajectories.
 
-The simulation is a constructive demonstration of the operations and supplies exact numerical targets for reproduction and criticism.
+The numerical values are reported results of the declared toy-model parameterization, not observations of a brain and not consequences derived solely from the gate-count formula. They provide specific targets for an independent run of the same model. Reproduction requires the exact update rules, fixed gate parameters, random seeds, basin-labeling procedure, and evaluation code or outputs. The public text describes the reported results; it should not be taken as an independent execution of the simulation. The constructive claim is that the stated operations can be implemented together in one finite dynamical model.
 
 ### A Period Lattice example
 
