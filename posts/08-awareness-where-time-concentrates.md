@@ -9,61 +9,103 @@
 
 ---
 
-A conscious present is the present of a continuing system, carrying history from many times. Awareness Where Time Concentrates explains causally how such a present arises in a materially changing organism. A present belongs to a system when the system’s own consequential history helps produce it and the present, in turn, helps determine how that history continues. The explanation runs through the Porter balance, the ostiary condition, temporal basin compression, temporal concentration, the deep present, and causal reentry, and it ends in a precise statement of awareness.
+A present moment contains more causal history than its brief duration suggests. A sentence being understood now depends on words encountered seconds earlier, language learned years earlier, and a nervous system shaped by development. Those earlier events do not occur again in the present. Their surviving consequences participate in the activity through which the present takes shape.
 
-### How a present belongs to a system
+[Awareness Where Time Concentrates](https://philarchive.org/rec/PORAWT) examines how a materially changing system can have an ongoing present of its own. Its proposal connects three processes: the retention of consequential history, the organization of consequences from different times within a shared current state, and the capacity of that state to affect how its successor is produced.
 
-How can a present belong to a system whose material keeps changing?
+### What makes a present belong to a system
 
-### How it works
+A nervous system does not retain exactly the same physical configuration from one moment to the next. Molecules move, neural activity changes, and a large part of the organism's material is eventually replaced. Nevertheless, new states can be caused partly by the organization's earlier states. The continuity is carried by interactions, structures, and changes that remain effective after the original events have ended.
 
-1. **A present belongs to a system through recursive dependence.** A present belongs to a system when the system’s own consequential history helps produce it and the present, in turn, helps determine how that history continues.
-2. **Consequential history and active inheritance.** Consequential history is the portion of prior organization that remains causally active now. Active inheritance describes the continued participation of that organization through changing physical carriers.
-3. **The Porter balance.** The Porter balance identifies the persistence condition under which self maintained organization can remain available through environmental disruption.
-4. **The ostiary condition.** The ostiary condition occurs when inherited organization becomes part of the rule by which new events are selectively admitted, transformed, and incorporated. History itself becomes a determinant of future state transitions.
-5. **Gating compresses histories.** Repeated history dependent gating can compress temporally dispersed trajectories into increasingly organized present states.
-6. **The deep present.** The result is a current organization in which recent activity, retained states, learned organization, developmental history, and older biological structure can remain consequential together.
-7. **Causal reentry closes the loop.** Causal reentry occurs when this larger present alters the local conditions through which its successor is produced. This generates recursive continuity: history produces the present, and the present participates in selecting which history continues.
-8. **Awareness.** Awareness is the lived availability of consequential history when temporally distributed relations become jointly organized within an active present and that present remains causally involved in producing its successor.
+The relevant history is not every event that ever occurred in the system's surroundings. **Consequential history** is the portion of the past whose effects remain causally active. Earlier events can contribute through chemical states, synaptic organization, learned sensorimotor habits, regulated electrical activity, tissue structure, and other existing physical carriers.
 
-### Terms to know
+**Active inheritance** describes how such consequences continue doing work. A carrier can change while a relevant organization or constraint persists through its replacement. A previously established pattern may alter how an incoming signal is treated even if the material immediately carrying that pattern is no longer identical to the material present when it began.
 
-- **Consequential history.** Consequential history is the portion of the past that remains causally active in the present.
-- **Active inheritance.** Active inheritance is the continued causal participation of earlier organization within later organization. The carrier can change while the consequence continues.
-- **Porter balance.** The persistence condition under which self maintained organization can remain available through environmental disruption.
-- **Ostiary condition.** Inherited organization becoming part of the rule that admits, transforms, and incorporates new events. In plain terms: the past helps decide what gets in and what it becomes.
-- **Temporal basin compression.** The convergence of distinct histories into a narrower range of later possibilities. In plain terms: many different starting paths funnel toward a few outcomes.
-- **Temporal concentration.** The joint causal availability of consequences originating at different temporal depths. In plain terms: effects that began at very different times are all at work together now.
-- **Deep present.** A current organization in which recent activity, retained states, learned organization, developmental history, and older biological structure remain consequential together. A deep present runs on the same clock tick as any other present. It is a present containing consequences from more temporal depths.
-- **Causal reentry.** The larger present altering the local conditions that produce the next present.
-- **Recursive continuity.** History producing the present, and the present participating in selecting which history continues.
+A present belongs to the continuing system when that inherited organization participates in producing the current state and the current state helps determine which of those consequences will remain effective next. The requirement is causal continuity, not the preservation of an unchanged inventory of parts.
 
-### Awareness, defined
+### How ordered causal activity maintains an inside
 
-**Awareness is the lived availability of consequential history when temporally distributed relations become jointly organized within an active present and that present remains causally involved in producing its successor.** Awareness combines access to consequential history, temporal concentration, and causal reentry.
+The broader physical proposal begins with flows of causal influence that become organized across time. Continuing trajectories, feedback, internal reflection, and recirculation can allow earlier interactions to influence the subsequent conditions of interaction. Through enough organization and self-maintenance, these processes can create a coherent boundary between activity being carried forward and activity encountered from outside.
 
-A present becomes lived when what the system has carried from many different times is available together now, and this present is still helping determine what the next present will be.
+The Porter Ratio compares effective restoration and disruption for a declared organizational variable:
 
-The whole picture fits in one line: “experience is the present tense of a working history.”
+R = λ_self / λ_env
 
-### Where it connects
+The quotient is defined directly for a positive disruption rate. R = 1 marks equality of the declared rates, while R★ names a proposed, separately identified transition into a coherent history-bearing boundary. The ratio alone does not specify a boundary's geometry or prove its emergence. Those features depend on the actual interactions, coupling, and organization of the system.
 
-Developmental continuity, synthetic morphology, state dependent neural processing, hierarchical neural timescales, recurrent dynamics, and temporal gating all fit within this common causal structure.
+At the proposed boundary-forming threshold, an interior begins to participate coherently in its own continuation. Phenomenal experience is identified, in this physicalist account, with the intrinsic aspect of that formed interior. The later accumulation and use of a deeper history can enrich its experienced organization without creating consciousness anew at each event.
 
-### What experiments can check
+### The gates inherit their own rules
 
-Experiments can address:
+A boundary that selectively receives events has more than a shape. Its current organization helps determine which encounters are admitted, which are delayed, and what effects admitted events produce. This is the **Ostiary Principle**.
 
-- **retained carriers:** the physical states that carry history forward;
-- **controlled prehistory:** setting a system’s earlier history on purpose and tracking its effects;
-- **history dependent gating:** whether what a system admits depends on what it carries;
-- **trajectory convergence:** whether different histories funnel toward the same later states;
-- **temporal depth:** how far back the consequences active in a present reach;
-- **recursive state dependence:** whether the present shapes the conditions of its own successor.
+A cell provides a concrete instance of selective exchange. Transport proteins and regulatory states can make entry depend on the cell's current condition. The same outside concentration need not produce the same result after the cell has been exposed to a different history of conditions. The earlier exposure acts through a present physical carrier that changes the gate's response.
 
-### The bigger picture
+In a nervous system, previously established synaptic connections, adaptation, ongoing oscillations, and recurrent states can likewise affect what a signal contributes to current activity. The same sensory arrival may be processed differently depending on an expectation, a learned category, or a recently active pattern.
 
-This is the third step: awareness and time. Repeated gating gathers consequences from different temporal depths into a deep present. When that present participates in producing its own successor, history has become recursively active, and the lived availability of that recursively organized history is awareness.
+The important step occurs when **carried history becomes part of the rule for receiving the future**. Then the system is not merely affected by the past in a passive way. Existing organization conditions subsequent interactions, and those interactions can change the organization that conditions later ones.
+
+### Temporal basin compression
+
+A system can receive many distinct trajectories yet bring them into a narrower range of later states. This process is called **temporal basin compression**.
+
+A sequence of traffic lights provides a direct picture. Cars approach an intersection at different moments. A red light holds them until a shared release interval; cars with distinct arrival histories then leave in a more concentrated group. The light has compressed differences in their earlier timing into a smaller range of departure times.
+
+A following light can act on that newly grouped arrival, producing another set of constraints. The changing state of each light determines how the group is reorganized. The original arrival differences still matter insofar as they affect which car joins which release, although not every detail survives.
+
+A neural or biological system can do something structurally comparable when a regulatory gate admits inputs within particular windows, or when recurrent dynamics bring distinct starting trajectories into a common later state. This is a claim about the convergence of trajectories, not about physical time running at a different speed.
+
+Compression is selective. Some distinctions are preserved and other distinctions are discarded. The resulting organization can become easier to carry forward precisely because many earlier variations now lead to fewer possible outcomes.
+
+### Temporal concentration and the deep present
+
+Temporal concentration is related to basin compression but means something different. It concerns **how many causally effective consequences originating at different times are jointly available in a present organization**.
+
+Consider reading a familiar musical phrase. The immediate sound is affected by the previous note, the rhythm established over the preceding seconds, years of listening, and patterns of expectation developed through learning. Those influences can act together in current perception. Their histories have different ages and timescales, but their effects are organized within one active state.
+
+A deep present is such an organization of jointly consequential temporal depths. Its physical duration need not be long, and the clocks involved do not change their rate. Depth refers to the history participating in the state, rather than to a slowed or stretched external second.
+
+A present can also be deep without making every component of its history explicitly recognizable. Some inherited relations shape perception or action beneath explicit report. Accessibility becomes richer when the organization allows more of those relations to participate together in current discrimination, recognition, and regulation.
+
+### Why the present also matters to its successor
+
+Retaining history and gathering it into one state are not the end of the process. The resulting organization can alter the conditions under which the next state is generated.
+
+This is **causal reentry**. A larger or longer-lived organization feeds back into the local gates and interactions that will produce its continuation. Earlier events have shaped the present, and the present changes which earlier influences remain relevant afterward.
+
+For example, a recurrent neural population can change its subsequent responsiveness through a pattern formed during earlier activity. A learned interpretation may alter what is attended to next, and that new attention changes which information will later be remembered. In each case, causal history influences current selection, and current selection changes the future path of causal history.
+
+The resulting loop is physically continuous. No influence travels backward in time: later states are affected by current carriers of earlier events, and those later states alter subsequent transitions.
+
+### Awareness and recursive availability
+
+The paper states its identity hypothesis as follows:
+
+**Awareness is the lived availability of consequential history when temporally distributed relations become jointly organized within an active present and that present remains causally involved in producing its successor.**
+
+This sentence connects the physical side of the proposal to its experiential side. Consequential history supplies inherited organization. Temporal concentration describes the joint causal availability of consequences from different times. Causal reentry makes the present an active contributor to what follows. Recursive availability concerns how much of that ongoing organization becomes usable within the process that carries it.
+
+The account distinguishes the formation of a phenomenal interior from the richer awareness that may develop through recursive access. A coherent boundary is proposed to establish the intrinsic condition of experience. Further organization determines how much history becomes available in that experience and how deeply it can shape itself.
+
+This also explains why momentary qualia and the ongoing conscious interior should not be confused. Particular experiences perturb a continuing organization; they can change what it carries forward without creating the entire organized interior again.
+
+### What could be measured
+
+The physical parts of the proposal are testable separately. A controlled prehistory can be imposed before an event, and current carriers of its effects can be identified. A putative gate can then be challenged with matched input to determine whether its response depends on those carriers.
+
+The strongest history claim is causal rather than merely correlational: changing a retained carrier should change a later outcome in the predicted direction. Matching selected current observables while manipulating a history carrier does not imply that the complete physical states are identical. The carrier is part of the current state.
+
+Trajectory convergence can be measured by determining whether different starting conditions enter the same later region. Temporal concentration requires a declared method for attributing historical contributions and an independent definition of the temporal window being studied. Reentry can be tested by altering a larger state and checking whether that intervention changes the subsequent local transition rules.
+
+The identity between these processes and lived awareness remains a further physicalist hypothesis; it is not an equation derived solely from measurements of retention. The physical tests determine whether the proposed causal architecture exists and how it changes with the experiential condition being investigated.
+
+### A continuing present
+
+A present is not an isolated instant receiving information from a vanished past. It is an event in a continuing system, formed by physical consequences already present and able to alter the conditions of what comes next.
+
+Some of those consequences are recent, some are old, and some act through structures that have changed carrier many times. They become jointly effective when ordered dynamics and selective gates bring them into a common activity. Reentry makes that activity participate in its own continuation.
+
+This is the intended sense of a **deep present**: a currently organized process bearing multiple ages of consequential history. Awareness, under the proposed identity, is the lived availability of that process as it continues shaping itself.
 
 ---
 
