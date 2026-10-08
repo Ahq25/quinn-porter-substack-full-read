@@ -117,3 +117,7 @@ Patrons occupy the symbolic layer of the same causal architecture that begins wi
 Consequential history is the past still acting. The ostiary condition lets that history shape how the present is received. Patrons are stable symbolic regions built by repeated participation of that history. THIR can form when an arrival and that history stabilize into one relation. AHQ is the experienced crossing when distributed relations become a coherent, reusable whole. The new whole then becomes consequential history in turn.
 
 A patron is therefore not an extra mechanism added to the framework. It is what consequential history can look like when repeated recognition builds a durable attractor in the organization of meaning.
+
+---
+
+Source paper on PhilArchive: [Patrons: Symbolic Attractors and the Continuity of Meaning](https://philarchive.org/rec/PORPSA-5)
