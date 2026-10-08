@@ -7,7 +7,7 @@
 
 ---
 
-The Law of Self Maintained Invariance states a general law for the persistence of identifiable systems in open environments. Persistence is governed by the relation between processes that restore or carry forward a selected organization and processes that revise or disrupt that same organization.
+The Law of Self Maintained Invariance proposes a general balance relation for the persistence of identifiable organization in open environments. Its central comparison concerns processes that maintain or carry forward a selected organization and processes that revise or disrupt that same organization. The ratio supplies a testable dynamical coordinate; its predictive value and connection to boundary formation remain empirical questions.
 
 ## The four postulates
 
@@ -27,7 +27,9 @@ Both rates refer to the same organizational variable, in compatible units, over 
 
 R = λ_self / λ_env
 
-The four postulates derive the restoration disruption balance. Expressing the two rates as the dimensionless Porter Ratio gives R = λ_self / λ_env, with equality at R = 1.
+The four postulates motivate an effective two-process description; they do not alone prove a universal differential equation. For an explicitly chosen positive organizational magnitude O(t), one simple benchmark is dO/dt = O(λ_self − λ_env), when λ_self and λ_env are comparable nonnegative fractional rates and no additional term is being modeled. Under those assumptions, their difference determines whether O increases or decreases. Coupled systems, passive retention, and nonlinear feedback may require additional terms or a different effective model.
+
+The dimensionless Porter Ratio compares the effective rates for λ_env > 0: R = λ_self / λ_env. Equality occurs at R = 1. When λ_env = 0, the quotient is undefined, so a zero-disruption convention or difference-based analysis must be stated. A denominator regularizer can aid estimation, but changes the numerical ratio and must be declared in advance.
 
 R = 1
 
@@ -35,7 +37,7 @@ marks equality between the two rates.
 
 R > 1
 
-marks a restoration dominant regime in which the selected organization is carried forward faster than surrounding interaction revises it.
+marks restoration dominance for the selected organization and measurement interval under the declared rate decomposition. This comparison alone does not guarantee that new consequential history accumulates or that a causal boundary forms.
 
 R < 1
 
@@ -45,13 +47,13 @@ The derived relation places restoration and disruption in one dimensionless comp
 
 ## Historical constraint
 
-Repeated restoration allows organization inherited from earlier states to remain causally active in later states. As those consequences persist, present organization increasingly depends on accumulated history. This is the physical basis of consequential history and active inheritance.
+Repeated maintenance can preserve consequences of earlier organization so that they participate causally in later states. How much history remains consequential also depends on retention, coupling, internal reflection, and the response to that history. Ordered causal flow and recirculation can reinforce a distinguishable organization and help generate its maintained boundary. Restoration dominance permits this development but does not guarantee it. Consequential history and active inheritance name the continued causal contribution when retained structures actually alter future dynamics.
 
 ## Across scales
 
 The same form can be applied wherever a system, organizational variable, interval, restoration process, and disruption process can be declared. A molecular assembly, a cell, a tissue, a neural population, an organism, or another organized system can therefore be studied with the same comparison while using scale specific variables and rates.
 
-R = 1 has the same meaning at every scale because it marks equality of the declared rates. R★ is a further empirical threshold associated with the onset of interiority for a particular system and scale. Its numerical value belongs to the measured system.
+R = 1 marks equality of the declared rates wherever they are comparable and positive; it need not have identical physical consequences across scales. R★ is a separate, proposed system-specific coherence threshold associated with the formation of a causal boundary through ordered self-maintaining interaction. Its numerical value and whether a single ratio identifies the transition require independent measurement. The physicalist premise identifies phenomenal experience with the intrinsic aspect of that formed interior; phenomenality is not deduced from equality of two rates.
 
 ## How the law is tested
 
