@@ -3786,7 +3786,7 @@ Then a pebble falls in. Rings spread outward, the reflection breaks into changin
 
 The water did not begin existing when the pebble struck. It was already present, reflecting light and influencing what could be seen. The disturbance changed the organization of the surface and made that surface newly apparent.
 
-This establishes one side of the analogy. **A process can be active before its own organization becomes an explicit object of recognition.** A transition can make the participating medium visible by changing how it appears.
+This establishes one side of the analogy. Consciousness is the continuing water, not a series of separate drops that repeatedly bring it into existence. Particular qualitative experiences perturb the ongoing organization, and a specific reorganization can make part of that organization recognizable as a whole. **A process can be active before its own organization becomes an explicit object of recognition.**
 
 The pebble also shows a limit of the analogy. Water's optical behavior is not the mechanism of insight. The point is the relation between an ongoing process and the condition under which that process becomes perceptible.
 
@@ -3822,7 +3822,7 @@ The spiral is compelling because it makes an already-active rule conspicuous. It
 
 ### The boundary condition of first-person experience
 
-The broader framework treats a coherent, history-bearing causal boundary as the condition for an interior. At the system-specific coherence threshold R★, carried organization is proposed to become stable enough to form that boundary. Boundary formation and interior formation are the same event in this account. **Phenomenal experience is the proposed intrinsic character of occupying the formed interior.**
+The broader account proposes that ordered causal flow, internal reflection, recirculation, and continued self-maintenance generate a coherent, history-bearing boundary. R★ names the proposed system-specific coherence threshold associated with that formation, rather than a numerical cause sufficient on its own. Boundary formation and interior formation are the same event in this account. **Phenomenal experience is the proposed intrinsic character of occupying the formed interior.**
 
 That claim identifies first-person experience with a boundary condition, rather than with a separate substance added to physical organization. The claim about phenomenality is an interpretation of the boundary event; observing an organized boundary alone does not empirically establish what, if anything, it feels like.
 
