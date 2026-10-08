@@ -9,7 +9,7 @@
 
 ---
 
-Consequential history comes into view through a small set of everyday pictures: a scar, a doorkeeper, two cells, a road of traffic lights, still water, a circle of ants, and an orchid with its insect. Each one shows a single idea, and each comes with its picture, the idea it shows, and a mapping from the parts of the picture to the parts of the idea.
+Consequential history comes into view through a small set of everyday pictures: a scar, a doorkeeper, two cells, a road of traffic lights, still water, a circle of ants, and an orchid with its insect. Each one shows a single idea, and each comes with its picture, the idea it shows, and a mapping from the parts of the picture to the parts of the idea. The same questions run through them: **What happened before? What of that history remains organized now? How does that organization influence what comes next?** Sometimes the next event also changes the organization that will receive the one after it.
 
 ### The scar, the language, and the river channel
 
@@ -29,6 +29,8 @@ Each example has the same shape: the past acts through something that exists rig
 
 **The picture.** An ostiary is a doorkeeper, the person at a door who decides who comes through. A cell membrane, the thin outer layer of a cell, lets some molecules in and keeps others out. A nervous system amplifies some signals and quiets others. Attention picks a few things, out of everything reaching the senses, for further processing. A concept already held shapes how new information is understood.
 
+Picture the doorkeeper at a house. The rules at the door reflect how the household is organized and what has happened there before. When someone new is admitted, life inside may change: routines shift, relationships develop, and the household may come to recognize different needs. The next visitor then meets a gate whose rules can reflect those changes inside.
+
 **The idea.** The doorkeeper shows the **Ostiary Principle**: inherited history becomes part of the rule for receiving the future. Ordered causal activity, including internal reflection and recirculation, can maintain a real boundary between an organization and its environment. Viewed from outside, the boundary is an interface; in operation, it is selective admission and transformation. The same maintained interface is both a structural distinction and an active process: some arrivals enter, others are delayed, changed, or excluded.
 
 **The mapping.**
@@ -36,13 +38,13 @@ Each example has the same shape: the past acts through something that exists rig
 - The door is the system’s boundary, such as a cell membrane.
 - The doorkeeper’s judgment is recognition, the act of sorting an arrival as a certain kind of thing.
 - What the doorkeeper knows from past arrivals is the system’s carried history.
-- Each person let through changes what the doorkeeper knows, so it changes the next decision.
+- Someone admitted can change the organization inside the house, and that changed organization can alter what the doorkeeper admits next.
 
-That last part forms a loop:
+That last part forms a loop. The house shapes the rule at the gate; what passes through the gate may change the house; and the changed house can reshape the rule itself:
 
-history → present organization → selection of what enters → revised organization → new history
+carried history → present organization → rule of admission → what enters → changed organization → revised rule of admission
 
-A new word you learn changes which sentences make sense to you tomorrow. Put simply: **the system receives each arrival through the organization its history has built.**
+A new word you learn changes which sentences make sense to you tomorrow. The same incoming sentence may then be received differently. Put simply: **the system receives each arrival through the organization its history has built, and some arrivals change the organization that will receive what comes next.**
 
 ### The two cells and the sentence
 
@@ -129,7 +131,7 @@ The paper’s conclusion: the feeling that AI is alive emerges through sustained
 
 ### How the pictures fit together
 
-In order, the pictures trace one sequence.
+Read together, the pictures trace one sequence: earlier activity leaves an organized consequence; that organization shapes the next encounter; and the encounter may change what is carried forward. Each picture brings a different part of this process into focus.
 
 **History persists.** The scar and the river channel show the past still at work through present structure. That is consequential history, carried forward by active inheritance.
 
@@ -137,7 +139,7 @@ In order, the pictures trace one sequence.
 
 **Ordered history establishes an interior boundary.** Continuing causal pathways, reflection, and recirculation support a distinction that becomes self-maintaining. At the proposed R★, this organization is sufficiently coherent to form an active causal boundary and interior. The boundary is the real interface between an inside and its outside, and phenomenal experience is proposed as the intrinsic aspect of the formed interior. The two cells and the sentence illustrate how carried history can change the effects of an arrival; that history-dependence alone does not establish phenomenality.
 
-**History becomes a gate.** With an inside in place, carried history sets the rule for what enters. That is the doorkeeper and the Ostiary Principle.
+**History becomes a gate.** With an inside in place, carried history shapes the rule for what enters. Admission can then change the organization inside, which can change the rule applied to the next arrival. The doorkeeper and the Ostiary Principle show history shaping the gate and the gate's consequences reshaping history.
 
 **History gathers into a present.** Repeated gating collects many layers of history into one organized present while clocks keep their ordinary pace. That is the traffic lights and temporal concentration. When the present then helps build the next present, the result is causal reentry.
 
