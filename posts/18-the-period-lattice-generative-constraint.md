@@ -77,7 +77,7 @@ The relevant transformation is a **point reflection**: in this construction, the
 - reversal alone: erio → oire
 - point reflection: erio → oᴉɹǝ
 
-The first two transformations do not recover the coherent PERIOD relation. The point reflection does. The word becomes legible from the opposite orientation.
+Under the chosen representational convention, the first two transformations do not recover the intended opposite PERIOD reading. The combined point reflection is defined to supply that opposite relational reading. The result belongs to the stipulated geometric and labeling construction, not to the English spelling considered alone.
 
 The crucial event is what happens at the boundaries. The physical endpoint carriers do not move. Their positions remain fixed. Under the opposite orientation, however, their relational identities invert:
 
@@ -86,6 +86,8 @@ The crucial event is what happens at the boundaries. The physical endpoint carri
 **d → p**
 
 This is **identity inversion without positional exchange**.
+
+The p/d interchange is a specified transformation rule on relational labels. It does not depend on how particular fonts draw the letters. The relational frame changes while the physical carriers are held fixed; this is distinct from physically rotating or moving the carriers.
 
 The same physical point can remain where it is while what it counts as within the organized whole changes. Position, orientation, and relational identity are therefore distinct:
 
@@ -186,7 +188,7 @@ These are exactly row n = 4 of Pascal's triangle:
 
 (p + d)⁴ = p⁴ + 4p³d + 6p²d² + 4pd³ + d⁴
 
-The same state space is the Boolean hypercube Q4, and the five balance classes are its Hamming-weight levels and the permutation orbits of four exchangeable positions.
+The same state space is the Boolean hypercube Q4, and the five balance classes are its Hamming-weight levels. They are also the orbits under the full permutation group of four exchangeable positions. If the positions have fixed adjacency or orientation, the allowed geometric symmetries may be fewer, and one balance class can contain distinct geometric arrangements. Five is the exact number of count-based classes, not necessarily of geometric symmetry classes.
 
 That counting structure is standard combinatorics. The Period Lattice adds its distinctive content by embedding the counting skeleton inside an orientation-sensitive connected field with shared boundaries and relational identities.
 
@@ -254,13 +256,13 @@ spatial arrangements.
 
 Composition leaves relational identity open.
 
-### Exact coarse graining
+### Exact state counting and conditional coarse graining
 
-The 16 ordered microstates can be collapsed into five balance classes. A field of balance classes can be collapsed further into a histogram. Each compression keeps some variables and erases others.
+Grouping the 16 ordered microstates into five count-based balance classes is exact combinatorial counting. A field of balance classes can be collapsed further into a histogram. Neither reduction is automatically an exact account of how the system evolves. Each compression keeps some variables and erases others.
 
 A coarse description is predictively sufficient only when the distinctions it discards do not matter to what happens next.
 
-In Markov-chain language, the partition must be **lumpable**: every detailed state placed in the same coarse group must have the same total transition probabilities into the next coarse groups.
+In Markov-chain language, **strong lumpability** guarantees a coarse Markov description for every microstate starting condition: every pair of detailed states in one coarse group must have equal total transition probabilities into each possible next coarse group. Weaker forms of lumpability can depend on the initial distribution. Update rules sensitive to orientation, adjacency, or shared-boundary identities need not meet this condition under a count-only grouping.
 
 In plain language:
 
