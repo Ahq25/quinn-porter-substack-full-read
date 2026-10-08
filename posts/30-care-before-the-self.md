@@ -2,7 +2,7 @@
 
 A system can preserve what supports its continuation before it can represent itself as a self. That is the starting point of **Care Before the Self**.
 
-The claim is not that every act of regulation should be called care. The stronger idea is that persistence can become organized around preserving **relations that preserve the system**. When the history of dependence on a supporting relation changes what the system later approaches, restores, protects, or maintains, continuation has acquired a relational direction.
+The claim is not that every act of regulation should be called care. The more specific idea is that a system can become organized around preserving **relations that preserve the system**, including relationships whose supporting role was established through earlier encounters. When the history of dependence on a supporting relation changes what the system later approaches, restores, protects, or maintains, continuation has acquired a relational direction.
 
 Care begins there. The term names a proposed minimal causal organization of preservation. Its later emotional and ethical meanings require further capacities, including experience, evaluation, attachment, and reflective responsibility.
 
@@ -68,13 +68,15 @@ The Porter Ratio may quantify one balance involved in maintaining the interior, 
 
 Reflective selfhood requires much more. A phenomenal interior must become recursively available within its own ongoing activity. Memory, recognition, anticipation, regulation, and self-related history must become sufficiently integrated that the system can use its own condition as part of what it recognizes and regulates.
 
-Care can begin earlier.
+Care can begin earlier in the proposed minimal, causal sense.
 
-A system can preserve the conditions of its continuation before it can represent the proposition, the significance of those conditions to its own continuation. The organization can already be directed toward what supports it because those relations have become causally embedded in its history.
+A system can preserve the conditions of its continuation before it can represent the significance of those conditions to its own continuation. The organization can already be directed toward what supports it because those relations have become causally embedded in its history.
 
-The developmental order is therefore:
+One possible developmental progression is:
 
-**supporting relation → maintained organization → threshold boundary/interiority → phenomenal interior → recursive availability → reflective selfhood**
+**supporting relation → history-sensitive preservation → coherent boundary formation → phenomenal interior → recursive availability → reflective selfhood**
+
+The stages can overlap and influence one another; this sequence distinguishes capacities rather than proposing that every living system must pass through a fixed series of discrete steps.
 
 Care enters near the beginning as history-dependent preservation of supporting relation. Reflective value comes later as that relation becomes increasingly available within a self-legible interior.
 
