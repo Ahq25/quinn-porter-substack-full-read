@@ -14,7 +14,7 @@ Take a familiar face. The light reaching the eyes contains present structure, bu
 
 The interaction has two directions of influence within the developing response, not a cause traveling backward from recognition to the event that already arrived. An incoming pattern recruits retained organization, while that activated organization changes how continuing input is weighted and interpreted. If the stimulus is fixed and cannot respond, the reciprocity occurs inside the receiving dynamics; it does not mean that the earlier external signal has been altered retroactively.
 
-The arrival recruits particular retained relationships. Those currently active relationships affect how the continuing incoming activity is grouped, weighted, and interpreted. As the fit improves, uncertainty falls and the relation becomes more stable.
+The arrival recruits particular retained relationships. Those currently active relationships affect how the continuing incoming activity is grouped, weighted, and interpreted. When incoming evidence increasingly constrains the available interpretations, uncertainty can fall and a particular recognition may stabilize. The change needs to be measured; confidence or familiarity alone does not establish accurate recognition.
 
 THIR names that stabilized interface.
 
@@ -46,7 +46,7 @@ The proposed physical target is therefore a temporarily coherent relation betwee
 
 The Ostiary Principle says that a history-bearing boundary receives new events through organization already present. THIR is a local case in which that reception becomes especially coherent.
 
-The boundary supplies carried history. The arrival supplies new structure. Their interaction produces a temporary higher-order relation that can influence what happens next.
+The active boundary carries consequences of earlier interaction, and a new arrival introduces further constraints. Their interaction can produce a temporarily maintained higher-order relation that influences what happens next. The interface is an event within the organized causal flow; it need not be a new physical membrane or a newly born conscious interior.
 
 That interface may stabilize without becoming a major threshold event. A familiar word can be recognized smoothly and disappear into the next sentence. A melody can settle into expectation without producing a noticeable click.
 
@@ -64,9 +64,11 @@ This leaves THIR as a proposed organizational mechanism with several possible ph
 
 AHQ enters when the stabilized relation crosses into a new coherent, reusable whole.
 
-A useful order is
+A useful order for an episode that progresses all the way to insight is
 
-arrival → recognition → interface stabilization → threshold crossing → incorporation
+arrival → history-conditioned recognition → interface stabilization → possible threshold crossing → incorporation
+
+An ordinary recognition can end after stabilization, while a later event may reactivate and transform the stabilized relation.
 
 or, using the framework terms,
 
