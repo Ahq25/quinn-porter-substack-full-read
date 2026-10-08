@@ -39,6 +39,8 @@ The resulting ant death spiral has a striking property: the ants have not acquir
 
 A feedback relation previously expressed across many routes has become concentrated into a small set of repeating possibilities. The colony's movement is organized around a loop that it continually renews through its own activity.
 
+The trail-following rule is old, but the collective loop is new. Movements that once contributed to different routes now reinforce one recurring organization, and that organization constrains the movements that sustain it. The spiral is therefore both a revelation of an existing rule and a new consequence of that rule operating under changed conditions.
+
 This also illustrates consequential history. Earlier movement leaves a chemical consequence. That consequence changes later movement. Later movement reinforces the consequence again. The present trail is not just a record of the past; it is part of the causal condition determining what happens next.
 
 The spiral also cautions against confusing coherence with health. A tightly organized feedback loop can be destructive. A system can become strongly constrained and highly repetitive without becoming better adapted or more capable.
@@ -68,6 +70,8 @@ An unresolved question can remain an identifiable object of thought because a re
 During an insight, the maintained separation loses its earlier role. Relations that had been participating separately begin to constrain one another as a coherent whole. In the language of boundary dynamics, **the old separation collapses as a newly integrated organization stabilizes.**
 
 There is no contradiction between the formation of the phenomenal interior and the collapse involved in insight. They concern different boundaries. The first establishes the continuing interior in which experience occurs. The second reorganizes a particular distinction within that interior, allowing a new whole to form.
+
+When the newly coordinated relations stabilize through their own reciprocal constraints, they establish a locally self-maintaining whole within the larger system. That whole can persist, guide a later inference, or become a component of another understanding—capacities the earlier relations did not possess together. The local threshold thus marks a new causal organization within an existing interior, rather than another independent origin of experience.
 
 ### Why the answer feels as if it was already there
 
