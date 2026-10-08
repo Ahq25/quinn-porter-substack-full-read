@@ -20,9 +20,9 @@ The model then tracks what happens to local and field-scale organization as thes
 
 ### What changes as R changes
 
-When disruption dominates, perturbations tend to remain local or dissolve the organization faster than it can be restored. Earlier structure has limited influence because the field is continually being rewritten.
+Under the stated toy update rules, disruption-dominated runs can erase or scatter retained structure faster than the restoration rule rebuilds it. That behavior is a property to measure in the constructed model, not a universal consequence of R < 1: different interaction rules can instead spread perturbations through a field.
 
-As restoration grows stronger relative to disruption, local corrections persist and overlap. Correlations can extend farther through the field, and the effect of earlier organization becomes more consequential for later states.
+Under the chosen model rules, increasing restoration relative to disruption can allow local corrections to persist and overlap. Correlations may then extend farther through the field, and carried organization may exert more influence on later states. The ratio is one control coordinate; connectivity, update order, interaction geometry, and retention rules also help determine the result.
 
 The important result is not that one particular numerical value of R has been proven to be a universal threshold. The result is that a change in the balance between restoration and disruption can generate a reproducible transition in the organization of a controlled system.
 
@@ -36,7 +36,7 @@ First, the restoration-versus-disruption relation can be implemented with explic
 
 Second, repeated local interactions can generate a change from a disruption-dominated regime to a more extended, restoration-dominated organization.
 
-Third, the model is reproducible. The rules, lattice size, random seed, update procedure, and coherence measure can be inspected and altered. A critic can change the assumptions and see whether the transition survives.
+Third, the model is specified as a candidate for reproducible testing. Independent reproduction requires access to the complete update rules, lattice size, initialization, random seeds, parameter choices, coherence measure, and implementation or equivalent executable specification. A reader should be able to alter those assumptions and test whether the reported transition survives. The prose description alone is not a completed independent replication.
 
 That last point is especially important. A useful toy model should expose the framework to failure, not insulate it from criticism.
 
@@ -44,7 +44,7 @@ That last point is especially important. A useful toy model should expose the fr
 
 A computational transition is not evidence by itself that biological systems cross the same threshold, and it does not establish phenomenality.
 
-The model supplies an existence proof for the dynamical architecture: a restoration/disruption competition can be instantiated and can generate qualitatively different regimes. Empirical support requires independent measurements in physical and biological systems.
+The model is presented as a constructive example of the dynamical architecture: explicit restoration and disruption rules can produce different organizational regimes under suitable coupling and update assumptions. The simulation result depends on those declared rules; a mathematical statement about all possible restoration/disruption systems does not follow. Independent execution is needed to verify the particular run, and empirical support requires separate measurements in physical and biological systems.
 
 Likewise, the phenomenal claim remains a distinct identity claim. In the wider framework, R★ marks the empirical boundary-forming transition for a declared system, and boundary formation is identified with interior formation. Phenomenal experience is proposed as the intrinsic side of that formed interior. A toy simulation can help define and detect the boundary transition. It cannot by itself verify the intrinsic side of that event.
 
@@ -66,7 +66,7 @@ The model also clarifies why persistence and history belong together. When resto
 
 That is the minimal computational form of consequential history: the past remains active because some consequence of earlier organization still participates in producing what happens next.
 
-In a biological experiment, the stronger test would go further by matching current states while varying retained history and asking whether future trajectories diverge. The toy model prepares that question without pretending to answer it for living systems.
+In a biological experiment, a stronger test would match selected observable present variables while manipulating or measuring additional present carriers of retained history, then ask whether later trajectories diverge. The complete physical state is not held identical when a history carrier is changed. The toy model prepares that causal question without pretending to answer it for living systems.
 
 ### The larger picture
 
