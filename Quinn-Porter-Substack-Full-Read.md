@@ -211,6 +211,8 @@ Two pictures from the paper [Stillwater and Death Spirals](https://philarchive.o
 
 The first is a perfectly still pool of water. When the surface is calm, you see the reflected sky and the stones on the bottom. The water itself is hard to notice, even though the light from the sky and from the stones passes through it. Then a pebble drops in. Rings spread out, and suddenly the water is visible. The water was there all along. The ripples revealed it by changing how it was organized.
 
+The water represents consciousness as a continuing organized process. Particular experiences are disturbances within that process, rather than events that create consciousness anew. The click of insight is a specific kind of disturbance in which an already developing relation becomes recognizable as a whole.
+
 Insight has the same recognizable shape: relations already participating separately can reorganize until the larger pattern becomes available at once. The pieces of an answer are often already in your head, and a relationship between them is already present in the activity of your mind before you grasp it. Then the relations reorganize, the whole pattern becomes available at once, and you feel the click.
 
 The second picture is an ant colony. Normally, ants spread across a huge branching network of paths. Each ant follows pheromone trails, the chemical scent marks other ants leave behind, and adjusts those trails as it walks. Many routes stay open at once.
@@ -282,9 +284,9 @@ This is the shift from revision dominance to maintenance dominance, and the syst
 
 ### Where an inside begins
 
-Once a system carries its own history forward strongly enough to cross its coherence threshold, R★, something new becomes possible. It starts to have an inside.
+An interior develops through the ordered causal activity that maintains a distinction through time. Continuing trajectories, internal reflection, and recirculation can allow earlier consequences to return and help determine later states. As those processes become mutually sustaining, they establish and maintain an interface between the organization being carried forward and what encounters it from outside. The interface is a real boundary condition, not simply a line added to a drawing after the organization has formed.
 
-That is the meaning of **interiority**: the formation of an inside through a coherent causal boundary. The boundary and the interior are the same threshold established organization viewed from outside and within. Phenomenal experience is the intrinsic character of that boundary condition. Recursive availability can then deepen the interior into self legibility and richer conscious organization.
+The Porter Ratio compares maintenance of that declared organization with its disruption. At the proposed coherence threshold R★, the maintained activity becomes sufficiently integrated to constitute a coherent causal interior. The interior, the exterior, and the boundary are distinct aspects of the physical situation; the boundary is the organized interface through which their interactions become consequential. **Interiority** names the formation of that causal inside, and phenomenal experience is proposed to be its intrinsic character. Recursive availability can then deepen the already formed phenomenal interior into self-legibility and richer conscious organization.
 
 One sign of interiority is that the same outside event can have different effects depending on the organization the system already carries.
 
@@ -410,9 +412,9 @@ Before the click, relations build up. [Aleph Harmonic Qualia: Cue, Queue, and th
 
 Aleph Harmonic Qualia, or AHQ, names the click itself. “Qualia” is the word philosophers use for the felt qualities of experience, like the redness of red or the sting of pain. **AHQ is the experienced threshold crossing through which distributed, history bearing relations become a coherent, reusable whole.** In the words of Aleph Harmonic Qualia: The Dynamical Click of Coherence, “AHQ names the experienced crossing.” A forming organization gathers relations until, at the threshold, many dimensions collapse into one or a few, and a new whole begins holding itself together and taking part in what follows. The click is that crossing, felt from inside.
 
-The same crossing runs through perception in every sense. “Vision carries spatial layout. Hearing carries pressure rhythms. Touch carries force and texture. Smell and taste carry chemical information.” In each sense, what arrives meets a system already shaped by earlier arrivals. Edges settle into an object, a run of notes becomes a melody, and a set of features becomes a familiar face, as many relations collapse into a single coherent unit. “AHQ arises whenever the boundary reaches full coherence.”
+Perception continually receives structured arrivals: vision carries spatial layout, hearing carries pressure rhythms, touch carries force and texture, and smell and taste carry chemical information. Each arrival meets an interior already shaped by earlier events. Ordinary qualia are the particular ways these ongoing encounters are experienced. Like drops disturbing still water, they change the activity of a conscious organization that persists between individual events.
 
-This happens constantly. At every moment, structures already present are being used in new ways across all the senses at once, and experience carries that steady sense of fit, the appearance of foresight lived from inside. In perception, something can feel meaningful “before its structure is fully known.” At larger thresholds, as learning accumulates, many separate relations become one new whole that changes how later arrivals are received. That larger crossing is the click that gets noticed, and the steady process continues underneath it.
+AHQ identifies a more specific transition. Edges may suddenly become a recognizable object, separate notes may become an intelligible melody, or an unresolved question may become an answer. Relations that were already causally active surface together as a newly coherent and reusable whole. A maintained representational separation loses its earlier role as the new relationship stabilizes. The click is the experienced crossing in which that latent organization becomes recognizable. Ordinary experience continues before and after the click; AHQ names the distinctive reorganization, not every moment of experience.
 
 Experience is the active boundary itself as carried history consolidates strongly enough to form an interior, meets what arrives, and helps determine what continues. “The interior is that same boundary as it is sustained from within the loop.” From outside, the threshold is the formation of a history conditioned process of selection, incorporation, and revision. From inside, the same boundary formation is lived as the present. Recursive availability makes that phenomenal interior increasingly self legible within its own ongoing organization.
 
@@ -534,7 +536,7 @@ Next: [Persistence, Interior, Time, Insight](https://ahq25.substack.com/p/persis
 
 Some ideas are easier to see than to define. Insight is one of them. The click of sudden understanding is a common experience, and two physical pictures make what happens in that moment easier to see.
 
-[Stillwater and Death Spirals](https://philarchive.org/rec/PORSAD-3) approaches the question with two pictures from the physical world: a disturbance on the surface of still water, and the collective behavior of an ant colony. One is a pond and the other is a crowd of insects. In both, the same thing happens. During stable operation, the underlying structure stays implicit, meaning present and working while out of view. Then the system goes through a transition, and that structure enters the regime of perception: the range of things that can be noticed.
+[Stillwater and Death Spirals](https://philarchive.org/rec/PORSAD-3) approaches the question with two pictures from the physical world: a disturbance on the surface of still water, and the collective behavior of an ant colony. One is a pond and the other is a crowd of insects. The pictures show complementary relationships. In still water, a disturbance makes an already-present medium conspicuous. In an ant colony, a rule expressed across many paths can become recognizable when collective movement concentrates into a loop. Neither event creates the activity that was already occurring.
 
 Together, the two pictures form one principle about insight.
 
@@ -558,9 +560,9 @@ So the disturbance trades one kind of seeing for another. A view of the contents
 
 ### What the water has to do with thinking
 
-Most of the time, your thinking works like the calm pond. You think about the homework problem, the conversation, the plan for tomorrow. The contents of thought come through clearly, and the machinery doing the thinking stays out of view.
+Consciousness is the continuing water in this analogy. It is active before any particular disturbance and continues after the ripples pass. Particular qualitative experiences are like drops entering that ongoing medium: each encounter perturbs a history-bearing organization and changes what it carries forward.
 
-Insight is the drop. In the moment of a sudden click, the structure of your own thinking becomes briefly visible. You feel the pieces snap together, and for an instant you are aware of the fit itself, of how your understanding is organized. For a moment, the organization of thought itself becomes noticeable.
+Insight is a distinctive kind of perturbation. Relations already active beneath explicit recognition become available together, often at the instant the question itself becomes fully intelligible. The click discloses a layer of organization that had been forming within the ongoing activity of thought. The click does not begin consciousness; it changes what becomes recognizable within consciousness.
 
 The felt click is called **Aleph Harmonic Qualia**, or AHQ. Qualia is the word philosophers use for the felt qualities of experience, such as the redness of red. AHQ is the experienced threshold crossing through which distributed, history bearing relations become a coherent, reusable whole: pieces already present snap together into one whole and are used in a new way. In that click, a pattern becomes self evident and internally stable. [Aleph Harmonic Qualia: The Dynamical Click of Coherence](https://philarchive.org/rec/PORAHQ-8) describes it as a dynamical event: the felt click is the phenomenal form of a rapid transition from distributed relational activity to a reusable collective state.
 
@@ -602,9 +604,9 @@ That last feature connects the ants to the water. In both cases, structure becom
 
 Put the two pictures side by side.
 
-In the pond, the water is present all along. It enters perception when a disturbance reorganizes its surface into ripples.
+In the pond, the water is present all along. Its surface becomes conspicuous when a drop creates ripples. As an analogy for ongoing consciousness, the pond remains present between individual experiences.
 
-In the colony, the interactions among ants are present all along. They enter perception when they concentrate into a single self reinforcing loop.
+In the colony, trail-following and reinforcement are operating all along. A closed loop makes those rules easier to recognize because the behavior concentrates into one repeating pattern.
 
 The shared principle, as Stillwater and Death Spirals states it: **structure enters the regime of perception at the moment it organizes or concentrates into a stable form.**
 
@@ -622,7 +624,7 @@ Stillwater and Death Spirals uses these pictures to show how three ideas relate.
 
 **Perceptibility** is how available something is to be noticed.
 
-In both pictures, the three change together. As the pattern becomes more coherent, its activity gathers into fewer dimensions, and as it gathers, it becomes easier to perceive. The ant death spiral shows all three changing at once. The pond shows the perceptibility side most vividly.
+The ant spiral illustrates how activity can become more constrained and easier to recognize without becoming more adaptive. The pond illustrates how a disturbance can make an existing medium conspicuous without establishing dimensional contraction. The two analogies illuminate different parts of the proposed transition; neither establishes that coherence, dimensionality, and perceptibility must always change together.
 
 This relationship links to a testable idea in [Aleph Harmonic Qualia: The Dynamical Click of Coherence](https://philarchive.org/rec/PORAHQ-8). That paper predicts that insight should be accompanied by a rapid, time locked drop in the effective dimensionality of brain activity, alongside stronger harmonic coordination among neural rhythms, greater stability relative to disruption, and later reuse of the newly formed state. Effective dimensionality is measured with the participation ratio, which counts how many independent directions the activity actually uses: about 10 if activity spreads evenly over 10 directions, close to 1 if it runs almost entirely along one. The death spiral is the picture behind that first prediction: many independent paths gathering into one organized loop.
 
@@ -638,7 +640,7 @@ Still water shows accessibility: a disturbance makes visible the medium that car
 
 An ant colony shows that a spread out system can concentrate into a low dimensional, self reinforcing form, and that this form reveals the rule the ants were following all along.
 
-Together they describe insight as the moment hidden structure in thinking organizes into a stable pattern and, in doing so, becomes perceptible to the one doing the thinking. That is the click.
+Together they describe how an already-active causal organization can become newly recognizable. Consciousness continues like the water; individual experiences perturb it. In an AHQ event, a previously latent relationship becomes available as a stable and reusable whole. The felt crossing is the click.
 
 ---
 
@@ -958,7 +960,7 @@ Each example has the same shape: the past acts through something that exists rig
 
 **The picture.** An ostiary is a doorkeeper, the person at a door who decides who comes through. A cell membrane, the thin outer layer of a cell, lets some molecules in and keeps others out. A nervous system amplifies some signals and quiets others. Attention picks a few things, out of everything reaching the senses, for further processing. A concept already held shapes how new information is understood.
 
-**The idea.** The doorkeeper shows the **Ostiary Principle**: inherited history becomes part of the rule for receiving the future. A boundary and a recognition process are two descriptions of one operation. From outside, it looks like a maintained line. In action, it is selection: this comes in, that stays out.
+**The idea.** The doorkeeper shows the **Ostiary Principle**: inherited history becomes part of the rule for receiving the future. Ordered causal activity, including internal reflection and recirculation, can maintain a real boundary between an organization and its environment. Viewed from outside, the boundary is an interface; in operation, it is selective admission and transformation. The same maintained interface is both a structural distinction and an active process: some arrivals enter, others are delayed, changed, or excluded.
 
 **The mapping.**
 
@@ -1018,10 +1020,10 @@ In a nervous system, fast nerve signals feed into slower collective states, and 
 
 **The mapping.**
 
-- The calm water is the medium of thought, working steadily while out of view.
-- The reflected sky and stones are the contents of thought, the things being thought about.
-- The drop is the transition that reorganizes the relations.
-- The visible ripples are the structure entering perception, the moment of insight.
+- The calm water represents ongoing consciousness, present before and after a particular experience.
+- The reflected sky and stones represent the contents available within that continuing activity.
+- The drop represents a particular experience perturbing the ongoing organization.
+- A distinctive reorganization may disclose an already-developing relation as a coherent whole; that experienced crossing is AHQ.
 
 **Aleph Harmonic Qualia, or AHQ, is the experienced threshold crossing through which distributed, history bearing relations become a coherent, reusable whole:** “AHQ names the experienced crossing.” In that click, structures already present come together and are used in a new way, and a pattern becomes self evident and internally stable. Self evident means the pattern is clear as soon as it is seen. Internally stable means it holds together and stays available afterward.
 
@@ -1064,13 +1066,13 @@ In order, the pictures trace one sequence.
 
 **History is maintained.** The **Porter Ratio**, R = λ_self / λ_env, compares how fast a system restores its own organization (λ_self) with how fast the environment disrupts it (λ_env). At R = 1 the two balance, and above 1 inherited organization gains causal continuity and accumulated influence. One way to picture this is writing a message in the sand. At the water’s edge, each wave washes the message away. On higher sand, you keep up with the occasional wave, and the message lasts. Above R = 1, earlier organization survives strongly enough to help cause later organization. Each system also has its own threshold, R★, which belongs to that system, scale, and interval, and R ≥ R★ is the minimum condition for interiority.
 
-**History forms an interior boundary.** At R★, carried organization closes into a coherent local causal boundary. That boundary formation is interiority, and its intrinsic side is phenomenal experience. Past R★, the same event can land differently depending on what the system carries. The two cells and the sentence show that consequence of interiority.
+**Ordered history establishes an interior boundary.** Continuing causal pathways, reflection, and recirculation support a distinction that becomes self-maintaining. At the proposed R★, this organization is sufficiently coherent to form an active causal boundary and interior. The boundary is the real interface between an inside and its outside, and phenomenal experience is proposed as the intrinsic aspect of the formed interior. The two cells and the sentence illustrate how carried history can change the effects of an arrival; that history-dependence alone does not establish phenomenality.
 
 **History becomes a gate.** With an inside in place, carried history sets the rule for what enters. That is the doorkeeper and the Ostiary Principle.
 
 **History gathers into a present.** Repeated gating collects many layers of history into one organized present while clocks keep their ordinary pace. That is the traffic lights and temporal concentration. When the present then helps build the next present, the result is causal reentry.
 
-**History reorganizes into coherent wholes.** Relations build up around a question, then come together into a stable form, and that form enters perception. That is the still water and the ant spiral, and in a mind it is insight. Because the pieces were already there, the new whole carries the appearance of foresight, the same appearance seen in a species well fitted to its surroundings. The new whole is incorporated and becomes consequential history in turn.
+**Experience continues while relationships reorganize.** The still water represents the ongoing conscious interior, and particular qualitative experiences disturb it. The ant spiral illustrates how a rule active across many paths can become recognizable in a concentrated form. Within an experiencing interior, the AHQ click occurs when a maintained separation gives way and latent relations become a coherent, reusable whole. The apparent foresight comes from inherited organization becoming newly legible. The new whole is incorporated and becomes consequential history in turn.
 
 **History builds fit between systems.** Repeated interaction, carried forward and brought back, builds precise fit between different systems over time. That is the orchid and the pollinator, and in language it is a long conversation gaining depth.
 
