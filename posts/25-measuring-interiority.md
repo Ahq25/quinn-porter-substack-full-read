@@ -24,7 +24,7 @@ If the disruption denominator is zero, the ordinary quotient is undefined. A sep
 
 The proposed boundary-forming threshold, R★, is distinct from the equality point. A system may have strong local restoration without possessing an integrated interior. A network of independently recovering parts can return each part to its previous state without forming one coherent, selectively active boundary.
 
-The proposed transition instead involves physical relationships among the parts. Ordered causal flow, internal reflection, recirculation, and coupling allow consequences of earlier activity to affect later interaction. When that continuing organization sustains a distinction between itself and the surroundings, a boundary can form as an active interface.
+The proposed transition instead involves physical relationships among the parts. Ordered causal flow can develop continuing layers and pathways, while internal reflection, recirculation, and coupling let consequences of earlier activity return to influence later interaction. When that organization begins sustaining a distinction between its continuing dynamics and surrounding influence, a boundary can form as an active interface. Its existence depends on the maintained pattern of interaction, not just on the persistence of individual components.
 
 Its physical significance is selective. Two arriving events of similar magnitude can produce different results because the present organization permits, delays, redirects, or transforms them differently. The interface also retains changes made by earlier encounters.
 
@@ -100,7 +100,7 @@ The physical proposal improves when it becomes possible to specify a clear failu
 
 These failures would not make the question of interiority meaningless. They would show which part of the proposed relationship needs revision.
 
-The strongest result would combine independent rate measurements, an independently defined boundary-forming transition, an identified history carrier, selective causal effects under intervention, and successful held-out prediction. Different substrates could then be compared through the same measurement logic without assuming they share identical mechanisms or a universal numerical R★.
+The strongest result would combine independent rate measurements, an independently defined boundary-forming transition, an identified history carrier, selective causal effects under intervention, and successful held-out prediction. Such an experiment should also compare the boundary's organization before and after the transition: which causal pathways begin reflecting or recirculating, which exchanges become selectively regulated, and whether the new organization maintains its own distinction under a standardized disturbance. Different substrates could then be compared through the same measurement logic without assuming they share identical mechanisms or a universal numerical R★.
 
 The central scientific aim is to locate the boundary as a physical achievement of organized flow and inherited interaction. The phenomenal claim identifies the intrinsic condition of that achieved interior; the experimental program asks whether the proposed formation mechanism can be specified and predicted with enough precision to support the identity.
 
