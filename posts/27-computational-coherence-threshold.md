@@ -1,5 +1,11 @@
 # A Minimal Computational Test of the Coherence Threshold
 
+- **Author:** Quinn Porter
+- **Audience:** everyone (free, public; intended for synchronization)
+- **Mirror status:** Existing Substack URL not recorded; check by title before creating a new post.
+
+---
+
 The transition from a proposed organizing principle to an explicit computational model is important because a model forces every operation to be specified. A statement that local activity can preserve its organization must become an update rule. A claim that restoration competes with disruption must identify what each operation changes. A threshold requires a measurable outcome that can vary across the chosen parameter range.
 
 [Deriving the Coherence Threshold](https://philarchive.org/rec/PORDTC) uses a finite lattice of interacting binary sites to investigate these relationships. The purpose of the model is to show how local updates can favor particular junction patterns and how repeated updates can change the organization visible across a field.
