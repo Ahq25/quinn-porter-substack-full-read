@@ -7,71 +7,97 @@
 
 ---
 
-The Law of Self Maintained Invariance proposes a general balance relation for the persistence of identifiable organization in open environments. Its central comparison concerns processes that maintain or carry forward a selected organization and processes that revise or disrupt that same organization. The ratio supplies a testable dynamical coordinate; its predictive value and connection to boundary formation remain empirical questions.
+An identifiable system can remain organized while its material and circumstances change. A pump maintains operating conditions as loads vary. A cell repairs and regulates itself during exchanges with its surroundings. A network can retain a route after damage if the conditions maintaining its connections remain effective. In each case, one particular organization is carried forward despite processes capable of changing it.
 
-## The four postulates
+[The Law of Self Maintained Invariance](https://philarchive.org/rec/PORTLO-12) proposes a concise way to compare the processes that preserve such an organization with the processes that revise it. The aim is to isolate an observable dynamical relationship and then ask where it predicts persistence, history dependence, and the formation of self-maintaining boundaries.
 
-1. **Persistence preserves organization.** An identifiable system persists when at least one declared organizational feature remains sufficiently stable across interaction.
-2. **Open systems continuously interact.** Surrounding processes can alter the organizational feature being tracked.
-3. **Continued organization requires restoration.** Persistence through such interaction depends on processes that maintain, restore, reinforce, or reliably propagate the selected organization.
-4. **Net change reflects competing rates.** At the effective dynamical level, restoration and disruption jointly determine whether the selected organization accumulates, balances, or erodes over the declared interval.
+### What an organizational invariant means
 
-## The two rates
+An invariant is a feature that remains sufficiently stable under a specified range of changes. In ordinary language, it is what continues to be recognizable while something else varies. A living organism does not need every molecule to remain unchanged for a regulated pattern of activity to persist.
 
-- **λ_self** is the effective rate at which the selected organization is maintained, restored, reinforced, or reliably carried forward.
-- **λ_env** is the effective rate at which surrounding interaction revises, disperses, overwrites, or disrupts that same organization.
+The word **organizational** is important. The quantity being tracked may concern connectivity, spatial arrangement, a regulated concentration, a functional response, or the relation among several processes. It must be declared before measurement. Stability of a temperature and stability of a whole organism's boundary are not the same invariant.
 
-Both rates refer to the same organizational variable, in compatible units, over the same interval.
+A system may preserve one feature while another deteriorates. A nearly unchanged shape may conceal disrupted internal regulation. An altered shape may carry an important regulatory relationship forward. The persistence claim is therefore meaningful only after specifying which organization is being maintained, over which time interval, and under which class of disturbances.
 
-## The Porter Ratio
+### The assumptions behind a rate balance
+
+The proposed law rests on four connected assumptions. The first is that persistence can be evaluated by identifying an organization that remains recognizable through successive states. The second is that open systems encounter interactions capable of changing that organization. The third is that a maintained organization must survive those influences through some physical combination of retention, restoration, reinforcement, or propagation. The fourth is that, for an appropriately selected variable, the competing effects can be summarized by compatible rates.
+
+The assumptions do not require every system to possess an active repair mechanism. An accumulated geological formation may persist by remaining physically stable under current conditions. A living system may respond actively to disturbances by changing its internal activity. Both have histories, but their means of continuation are different.
+
+A two-rate description is most useful when the relevant maintaining and disrupting processes can actually be distinguished and estimated.
+
+### The Porter Ratio
+
+The comparison is written:
 
 R = λ_self / λ_env
 
-The four postulates motivate an effective two-process description; they do not alone prove a universal differential equation. For an explicitly chosen positive organizational magnitude O(t), one simple benchmark is dO/dt = O(λ_self − λ_env), when λ_self and λ_env are comparable nonnegative fractional rates and no additional term is being modeled. Under those assumptions, their difference determines whether O increases or decreases. Coupled systems, passive retention, and nonlinear feedback may require additional terms or a different effective model.
+λ_self measures the effective rate at which a declared organization is maintained, restored, reinforced, or propagated through the system's own specified dynamics. λ_env measures the effective rate at which the same organization is revised, dispersed, or disrupted by the specified interacting influences.
 
-The dimensionless Porter Ratio compares the effective rates for λ_env > 0: R = λ_self / λ_env. Equality occurs at R = 1. When λ_env = 0, the quotient is undefined, so a zero-disruption convention or difference-based analysis must be stated. A denominator regularizer can aid estimation, but changes the numerical ratio and must be declared in advance.
+Both must be measured in compatible units, over the same interval and for the same organizational variable. The ordinary ratio is dimensionless when λ_env is positive. When the disruption rate is zero, the quotient is not defined in the usual way; a zero-disruption convention or a difference-based analysis must be stated separately. Adding a small value to the denominator may help a numerical procedure but changes the measured quantity.
 
-R = 1
+The equality point is R = 1. Values above one indicate maintenance dominance under the selected decomposition; values below one indicate disruption dominance. Neither sign is a proof of the complete future behavior of a coupled system unless the two-rate description accounts for the relevant dynamics.
 
-marks equality between the two rates.
+### A minimal equation for maintained organization
 
-R > 1
+A simple formal model makes the balance explicit. Let O(t) be a positive scalar measuring the amount of a selected organizational feature. If maintenance and disruption act as comparable fractional rates and no additional effects are included, an effective benchmark can be written:
 
-marks restoration dominance for the selected organization and measurement interval under the declared rate decomposition. This comparison alone does not guarantee that new consequential history accumulates or that a causal boundary forms.
+dO/dt = O(t)(λ_self − λ_env)
 
-R < 1
+In this model, a positive rate difference makes O increase, a negative difference makes it decrease, and equality gives a locally balanced magnitude. The Porter Ratio reports which of the two measured rates dominates.
 
-marks a disruption dominant regime in which revision proceeds faster than restoration.
+This equation is a chosen minimal dynamical description, not a theorem following automatically from the meaning of persistence. A network with several interacting variables may obey coupled equations. A developmental process may have changing attractors, spatial transport, delays, or nonlinear feedback. Such features can change the relation between local restoration and a system's long-term stability.
 
-The derived relation places restoration and disruption in one dimensionless comparison. R expresses their relative rate, and R = 1 is the equality point.
+The correct use of the ratio begins by showing that its components can be measured for the declared organization and by comparing the resulting predictions with a fuller model where one is available.
 
-## Historical constraint
+### Why restoration alone is not consequential history
 
-Repeated maintenance can preserve consequences of earlier organization so that they participate causally in later states. How much history remains consequential also depends on retention, coupling, internal reflection, and the response to that history. Ordered causal flow and recirculation can reinforce a distinguishable organization and help generate its maintained boundary. Restoration dominance permits this development but does not guarantee it. Consequential history and active inheritance name the continued causal contribution when retained structures actually alter future dynamics.
+A structure can be maintained without storing increasingly rich information about its own past. A simple restoring process may repeatedly return a variable to the same value, erasing differences among earlier disturbances. In that case, maintenance is effective, but the detailed history may become less recoverable rather than more.
 
-## Across scales
+Consequential history requires that some effects of earlier organization remain physically active. A retained state must continue changing the production of later states, even when the material carrying it changes. Active inheritance names that continuing contribution.
 
-The same form can be applied wherever a system, organizational variable, interval, restoration process, and disruption process can be declared. A molecular assembly, a cell, a tissue, a neural population, an organism, or another organized system can therefore be studied with the same comparison while using scale specific variables and rates.
+Feedback, internal reflection, and recirculation provide ways for a system's previous organization to influence its own continuation. Distinct paths of influence can become coordinated without losing every difference among them. The retained relationships may then alter how new interactions are received and how the next state develops.
 
-R = 1 marks equality of the declared rates wherever they are comparable and positive; it need not have identical physical consequences across scales. R★ is a separate, proposed system-specific coherence threshold associated with the formation of a causal boundary through ordered self-maintaining interaction. Its numerical value and whether a single ratio identifies the transition require independent measurement. The physicalist premise identifies phenomenal experience with the intrinsic aspect of that formed interior; phenomenality is not deduced from equality of two rates.
+Restoration dominance can make these effects more durable. It does not, merely by exceeding one, determine their content, depth, or accessibility.
 
-## How the law is tested
+### How an active boundary forms
 
-The measurement procedure is declared before the outcome. λ_self and λ_env are estimated independently. The ratio is computed prospectively. Predictions are compared with recovery, persistence, history dependence, and established predictors in the relevant field. A threshold fitted in one set of observations is then applied to held out observations using the same definitions.
+Ordered causal flow can organize into continuing paths that interact with one another through internal reflection and feedback. When those interactions repeatedly sustain a distinction between the organized activity and its surroundings, a causal boundary becomes a maintained physical interface.
 
-Cross scale support becomes strong when the same relation predicts persistence across systems whose materials and mechanisms differ while the operational definitions remain fixed within each system.
+That interface is not supplied by the ratio as an abstract border. It is produced by the actual geometry, coupling, regulation, and selectivity of the processes involved. An encounter arriving from outside may be transmitted, excluded, transformed, or incorporated according to the organization already maintained within the system.
 
-## Terms to know
+The broader account proposes a coherence threshold R★ associated with the formation of this history-bearing causal boundary. R★ is not R = 1 and is not necessarily the same numerical value across systems. The threshold must be identified through an independently defined boundary-forming transition, then tested against prospectively measured rates.
 
-- **Organizational invariant.** A declared feature of organization whose persistence can be tracked through interaction.
-- **Restoration.** Processes that maintain or rebuild that organization.
-- **Disruption.** Processes that revise or disperse that organization.
-- **Consequential history.** Earlier organization whose consequences remain causally active in the present.
-- **R★.** The empirical coherence threshold at which retained organization becomes a local causal context for continuation.
+The premise concerning consciousness is distinct from the arithmetic: phenomenal experience is identified with the intrinsic aspect of the sufficiently coherent interior formed by these physical dynamics. The quantitative restoration balance can help locate and explain persistence, but an experimentally measured boundary transition and its phenomenal identity are not deduced by dividing two rates.
 
-## The bigger picture
+### What changes across scales
 
-The law concerns persistence. R compares restoration with disruption, and R = 1 marks their balance. R★ adds the empirical threshold at which a coherent boundary forms and thereby establishes interiority. Phenomenal experience is the intrinsic side of that threshold formed interior. Recursive availability adds further self legibility and depth within the phenomenal organization. These quantities perform distinct jobs within one continuous architecture.
+The same form of comparison can be used for a chemical assembly, cell, organism, neural population, or engineered system if a meaningful maintaining process, disrupting process, and organizational variable can be declared. This is a claim about the applicability of a method, not an assertion that all such systems contain the same kind of interior.
+
+Different scales may involve different carriers and timescales. A membrane potential may be actively regulated over short intervals while a developmental pattern is maintained across days. A larger organization formed through coupling of smaller units may possess a new effective boundary and its own restoration dynamics.
+
+A threshold measured for one scale cannot simply be transferred numerically to another. Even when the ratio remains dimensionless, the dynamics supplying its numerator and denominator may be quite different.
+
+### What an experiment must settle
+
+A study begins by choosing the organizational variable and perturbation class. The maintaining and disrupting rates are then estimated independently using procedures that do not depend on observing the desired outcome afterward.
+
+An independently defined persistence or boundary-forming measure supplies the outcome. A value of R★ may be estimated on training observations if a suitable transition is present, then carried unchanged into held-out cases.
+
+The ratio must also compete against simpler descriptions: λ_self alone, λ_env alone, their difference, geometry, connectivity, or a domain-specific measure already known to predict the outcome. If the ratio adds little predictive power, the proposed comparison has not earned explanatory priority for that system.
+
+A stronger program repeats the measurement logic across different materials while preserving careful operational definitions within each case. Agreement across systems would support a broad organizational relationship; disagreement would help identify where the two-rate approximation needs refinement.
+
+### The law's intended scope
+
+Self-maintained invariance concerns the continued operation of identifiable structure despite revision and disturbance. The Porter Ratio gives one dimensionless coordinate for that competition.
+
+The next questions concern what the maintained structure actually does. Does earlier organization alter later interaction? Can feedback and reflection sustain a selective interface? Does a distinct, history-bearing boundary form? Can its organization become accessible to the processes that continue it?
+
+Those questions connect persistence to consequential history, active inheritance, the Ostiary Principle, and the proposed onset of a phenomenal interior. The connection is physical throughout, but the answers require the appropriate variables and evidence at each step.
+
+The law's contribution is the explicit restoration–disruption comparison, together with a procedure for testing its relevance. It makes a proposed condition of persistence measurable without treating the ratio as a substitute for the organized causal dynamics that persistence allows to continue.
 
 ---
 
