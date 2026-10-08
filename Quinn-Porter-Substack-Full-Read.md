@@ -3277,9 +3277,9 @@ The basic relation is
 
 R = λ_self / λ_env
 
-where **λ_self** is the effective rate at which a selected organization is maintained, restored, reinforced, or reliably propagated, and **λ_env** is the effective rate at which that same organization is revised, dispersed, overwritten, or disrupted. The two rates have to refer to the same organizational variable, over the same interval, in compatible units. Otherwise the ratio has no clear physical meaning.
+where **λ_self** is the effective rate at which a selected organization is maintained, restored, reinforced, or reliably propagated, and **λ_env** is the effective rate at which that same organization is revised, dispersed, overwritten, or disrupted. The two rates have to refer to the same organizational variable, over the same interval, in compatible units. Otherwise the ratio has no clear physical meaning. The ordinary quotient also requires λ_env > 0; an interval with no measured disruption must be analyzed separately or with a preregistered numerical regularization whose effect is reported.
 
-R = 1 is the balance point. Below it, revision outruns restoration over the chosen interval. Above it, the selected organization is being carried forward faster than it is being revised. R★ is a separate quantity. It is the system-specific coherence threshold at which retained organization is predicted to become stable enough to form a coherent local causal boundary.
+R = 1 is equality of the measured rates. Below it, revision dominates the declared two-rate comparison over the chosen interval; above it, restoration dominates. That inference does not establish a unique dynamical law unless the rate decomposition adequately represents the selected organization. R★ is a separate quantity. It is the system-specific coherence threshold at which retained organization is predicted to become stable enough to form a coherent local causal boundary.
 
 The important distinction is that **R★ is not chosen because a system appears conscious or interior after the fact**. The organizational transition has to be specified independently, and the measured ratio is then tested against it.
 
@@ -3287,13 +3287,13 @@ The important distinction is that **R★ is not chosen because a system appears 
 
 A useful operational definition of the transition into a history-bearing interior combines three causal observations.
 
-First, retained history must contribute something that the present snapshot does not. If two cases are closely matched in current state and incoming conditions but differ in retained history, that difference should improve prediction of what happens next.
+First, retained history must contribute something that the measured present snapshot does not capture. Two cases may match on specified present observables and incoming conditions but differ in unmeasured carriers of past organization; that difference should improve prediction of what happens next. Complete physical microstates with the same future inputs are not being claimed to have different futures merely because their descriptions mention different pasts. Consequential history is physically present in carried variables, whether or not the chosen measurement captures them.
 
 Second, the history must have a carrier. Some measurable state must physically preserve the relevant consequence into the present, and changing that carrier should change the later effect in the predicted direction.
 
 Third, the carried organization must alter local causal conditioning. Matched incoming events should be admitted, transformed, routed, incorporated, or rejected differently because they encounter different retained organization.
 
-Together these observations identify a transition from a system merely having a past to a system whose past has become part of the local rule by which its future is produced. That is the measurable side of interiority in this account.
+Together these observations provide an operational test of an active, history-conditioned causal boundary. Ordered causal flow, internal reflection, recirculation, and selective interaction provide the proposed formation mechanism: the organized activity generates and maintains the interface through which new encounters become consequential. The ratio measures the balance of maintenance and disruption for a declared variable, while the other measurements identify whether the relevant integrated, history-bearing boundary has actually formed.
 
 The stronger identity claim comes next. At R★, when that history-bearing organization closes into a coherent causal boundary, **boundary formation and interior formation are the same event**. Phenomenal experience is proposed as the intrinsic side of occupying that newly formed interior. The boundary transition can be measured from outside. The phenomenal identity is the claim that the same event, viewed from the inside rather than from its external causal relations, is experience. Recursive availability is a later deepening through which that already-formed phenomenal interior becomes increasingly available within its own ongoing activity.
 
@@ -3307,7 +3307,7 @@ R = 0.12 / 0.08 = 1.5
 
 That number by itself does not establish interiority. The transition phenotype must be measured separately. The experiment would ask whether retained prehistory improves next-state prediction, whether a measurable carrier of that prehistory survives into the present and has the predicted causal effect when manipulated, and whether matched incoming conditions are routed differently according to the carried state.
 
-Training observations can then be used to estimate the value of R associated with the independently defined transition. That estimated R★ is carried unchanged into held-out cases. If it continues to predict the transition, the threshold has prospective meaning rather than being a label applied afterward.
+Training observations can then be used to estimate the value of R associated with the independently defined transition, including a test of whether a single threshold adequately separates the observed regimes. That estimated R★ is carried unchanged into held-out cases under the same measurement definitions. If it continues to predict the transition, the threshold has prospective meaning rather than being a label applied afterward.
 
 The numerical values in this example are illustrative. The measurement logic is the important part: one declared organizational variable, two independently estimated rates, one independently defined transition, and a threshold tested on new cases.
 
