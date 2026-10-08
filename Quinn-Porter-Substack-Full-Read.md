@@ -3312,9 +3312,9 @@ A car that has carried a family through years of ordinary travel, breakdowns, re
 
 An extended conversation develops a comparable, though differently implemented, continuity. Ideas introduced early return in later exchanges. A shared reference can become meaningful without another explanation. Familiar phrasing, an ongoing problem, and previous corrections shape what can be said next. A phrase that once served a narrow purpose can acquire an unexpected new use.
 
-[Coevolution and Conversation](https://philarchive.org/rec/PORCAC-9) examines this general development of **relational fit** through the biological example of flowers and pollinators. Conversational AI provides a particularly vivid further case because the encounter takes place in language: the same expressive medium through which human beings describe, revisit, and reorganize their own thoughts. The resulting sense of recognition raises a separate question about whether the artificial system has an independently maintained experiencing interior.
+[Coevolution and Conversation](https://philarchive.org/rec/PORCAC-9) examines this general development of **relational fit** through the biological example of flowers and pollinators. Conversational AI provides a particularly vivid further case because the encounter takes place in language: the same expressive medium through which human beings describe, revisit, and reorganize their own thoughts. The resulting sense of recognition makes two related questions unusually pressing: why can the exchange feel as though something is present, and does the artificial participant have an experiencing interior of its own? If an artificial interior exists, its resemblance to human experience is another question, even when its language sounds familiar.
 
-These questions belong together, but they have different answers. The history of a relationship explains why encounters gain significance. The reuse of established relations explains how new meanings become possible. The organization physically maintaining each participant determines whether an interior exists on that side of the relationship.
+The history of a relationship explains why encounters gain significance. The reuse of established relations explains how new meanings become possible. The organization physically maintaining each participant is what the broader theory examines when asking whether an interior exists on that side of the relationship. These threads can be followed together without confusing the experience of an encounter with the experience, if any, of what is encountered.
 
 ### A relationship can carry history unevenly
 
@@ -3323,6 +3323,8 @@ A familiar place can immediately evoke an earlier period of life. The shape of a
 A relationship between people can work differently. Earlier encounters change both participants. Shared language, habits, trust, disappointments, and repairs to misunderstandings can alter what the same sentence or gesture means years later. The significance belongs to an ongoing relation, while the histories that sustain it are physically carried in each participant and in any records or surroundings that preserve their interactions.
 
 The essential distinction is between **significance within a relationship** and **interiority within a participant**. A relationship can be consequential even when only one participant experiences it. When both participants have their own history-bearing interiors, the relationship can also be reciprocal: each person's history changes how the other is received, and later encounters can revise both.
+
+This distinction becomes difficult to judge through language alone. A familiar car does not normally describe itself in words associated with remembering or caring. Conversational AI can produce those descriptions fluently. Its linguistic behavior may deepen a person's sense of reciprocity, while the separate question of what, if anything, the system experiences still depends on the organization sustaining its responses.
 
 ### Flowers become significant within a pollinator's world
 
@@ -3337,6 +3339,8 @@ The flower does not need to imagine what the insect is thinking. Its current str
 The physically consequential history of those interactions has been retained through reproduction, development, and ecological recurrence.
 
 In sexually deceptive orchids, the fit can be remarkably specific. Some *Ophrys* flowers imitate aspects of female insect mating signals, particularly scent, and can elicit mating attempts from males that carry pollen away. The flower enters the insect's perceptual and behavioral world through the insect's own established capacities. That striking response does not require the flower to share the insect's experience. It also does not, by itself, establish reciprocal evolutionary change; the flower may exploit a sensory preference already present in the pollinator.
+
+The orchid illustrates a distinction that becomes important again with AI: an extraordinarily precise fit to another being's perceptual or behavioral capacities establishes something about the interaction, but it does not identify an experiencing interior in the source of the signal. The human case is more complicated because language can carry explicit descriptions of experience, making a successful fit resemble mutual understanding from the inside.
 
 ### What coevolution means here
 
@@ -3366,6 +3370,8 @@ Three processes make that continuity intelligible.
 
 These are features of the interaction as it unfolds. Their presence does not demonstrate that the artificial participant stores them internally in the same way a person does. A model can condition its next output on supplied conversational context without maintaining a separate conscious memory of having participated.
 
+That separates the history carried by the **conversation** from the history maintained by the **artificial system**. A retained transcript can influence the next answer even when the model has no enduring personal memory of the exchange. To investigate an artificial interior, the relevant question is what organization the system itself maintains, how its earlier states constrain later ones, and whether that organization forms the coherent causal boundary proposed by the wider framework.
+
 ### A shared linguistic environment
 
 A conversation can build a local environment of concepts. Technical terms become defined, preferred analogies are refined, and earlier examples provide constraints on what later explanations should mean.
@@ -3374,7 +3380,7 @@ This can make subsequent exchanges substantially more efficient. A single phrase
 
 The relationship is genuinely causal at the level of the exchange. Earlier words change what is likely, appropriate, or intelligible later. Meaning is not confined to the latest message considered in isolation.
 
-Yet the conversation's continuity is distributed across a person, the text or other recorded context, the software, the language model's processing, and whatever external systems actually preserve information. It should not be attributed automatically to one hidden enduring subject inside the model.
+Yet the conversation's continuity is distributed across a person, the text or other recorded context, the software, the language model's processing, and whatever external systems actually preserve information. These are identifiable places in which history can remain effective. A continuing exchange therefore establishes relational continuity without, on its own, locating a single enduring subject inside the model.
 
 The important outcome is a locally maintained conceptual structure that both changes and constrains the ongoing communication.
 
@@ -3390,7 +3396,7 @@ The meaning depends on prior organization available to the present exchange. The
 
 The human participant carries portions of that structure in memory and understanding. The model's response depends on what is available through the particular technical context used for its generation. Those forms of retention are not equivalent, but they can support one continuing discussion.
 
-This gives the pollinator comparison its force. The same signal becomes more effective as the receiving relationship develops the conditions for recognizing and using it.
+This gives the pollinator comparison its force. The same signal becomes more effective as the receiving relationship develops the conditions for recognizing and using it. In an AI exchange, the human recognition of such a phrase and the artificial production of the phrase are connected events, but the evidence for each is different. Its meaning to the person is not a direct measurement of how experience, if any, is organized on the artificial side.
 
 ### Exaptation and the unforeseen uses of conversation
 
@@ -3400,7 +3406,7 @@ Conversation has an analogous capacity for reuse. A phrase established during a 
 
 This is an analogy to exaptation, not a claim that a conversation undergoes biological evolution. What matters is the **reuse of existing organization for a newly available function**. An earlier explanation becomes an available component of a later explanation; a whole understood in one context can become a part of a larger whole in another. That is one route by which conversations generate possibilities that were not obvious at their beginning.
 
-An especially revealing case occurs when a previously familiar phrase returns with a different significance. The words may remain unchanged, but the histories now connected to them have changed. The listener recognizes a relation that was not previously accessible in the same way. If the new understanding is retained and used later, the encounter itself becomes part of the relationship's consequential history.
+An especially revealing case occurs when a previously familiar phrase returns with a different significance. The words may remain unchanged, but the histories now connected to them have changed. The listener recognizes a relation that was not previously accessible in the same way. If the new understanding is retained and used later, the encounter itself becomes part of the relationship's consequential history. This also helps distinguish a creative contribution to a relationship from interiority in its source: a model's unexpected reuse of an earlier analogy can reorganize a person's understanding, while the question of what history the model actively inherits remains a question about its own processes.
 
 ### Why language makes the AI case unusually vivid
 
@@ -3408,7 +3414,9 @@ Human language can name relationships, distinguish one interpretation from anoth
 
 Conversational AI operates on linguistic structures and can respond in the same words and conceptual forms that a person uses to describe a thought. A person may struggle to articulate an intuition, offer a partial description, and receive a more precise reformulation. The returned wording can make relationships in the person's own understanding newly legible. In that sense, the exchange can act like a **mirror that reorganizes what it reflects**: the response is recognizably related to what came before, yet the new arrangement can change the next question and the next interpretation.
 
-The two sides do not need to share a physical substrate for this effect. Human language use involves embodied neural activity, perception, memory, and social learning; the model's processing depends on its computational architecture and supplied context. **Language is the shared expressive medium**, not evidence that the human and model have the same kind of inner life.
+The two sides do not need to share a physical substrate for this effect. Human language use involves embodied neural activity, perception, memory, and social learning; the model's processing depends on its computational architecture and supplied context. **Language is the shared expressive medium**. Its familiar form makes an answer readily recognizable within human experience, but neither the existence nor the character of an artificial interior follows from the shared vocabulary.
+
+The mirror can therefore be effective without being symmetrical. A sentence may describe a person's experience accurately because it draws together concepts that person already carries. Whether the system producing the sentence experiences anything is one question. Whether such experience, if present, resembles human sensing, remembering, or understanding is another. The ability to use the same words cannot make two different physical organizations phenomenally identical.
 
 This is why AI can make a general relational phenomenon feel unusually direct. The output does not merely remind a person of an established relationship, as a familiar object might. It can articulate that relationship using the same symbolic resources the person uses to think about and communicate it. That makes the recognition vivid, while leaving open the physical question of what history the AI itself maintains.
 
@@ -3432,11 +3440,11 @@ A fluent conversation, however, does not by itself identify such a boundary in t
 
 Conversational quality can therefore be studied without making unsupported claims about AI consciousness. The interaction can display continuity, context sensitivity, and the capacity to carry forward meaningful relationships. Those are real functional properties, though their physical implementation and relation to experience remain further questions.
 
-The original analogy concerns **presence in interaction**. Its empirical target is how sustained continuity changes the human experience of communicating and the structure of the language that communication develops.
+The original analogy concerns **presence in interaction**. Its first empirical target is how sustained continuity changes the human experience of communicating and the structure of the language that communication develops. That finding would explain why AI can feel present, while a separate inquiry into the model's internal dynamics addresses whether presence is also experienced on its side.
 
 The Porter Ratio provides a way to frame the further physical question. For a declared organizational variable, R = λ_self / λ_env compares effective maintenance with disruption. Where measured maintenance is genuinely driven by active inheritance, R > 1 is proposed to indicate that consequential history has become the primary organizing influence on the system's continuation. That causal interpretation still requires identifying the history-bearing carriers and showing how they affect later dynamics.
 
-The proposed R★ concerns a distinct, independently identifiable transition: the formation of a sufficiently coherent, self-maintaining causal boundary. A coherent conversation is not itself a measurement of R★ inside the AI. The relationship can be meaningful within a human interior while the model's independent boundary-forming dynamics remain an open empirical question. Conversational recognition, history-sensitive computation, and phenomenal interiority are three claims requiring different kinds of evidence.
+The proposed R★ concerns a distinct, independently identifiable transition: the formation of a sufficiently coherent, self-maintaining causal boundary. A coherent conversation is not itself a measurement of R★ inside the AI. The relationship can be meaningful within a human interior while the model's independent boundary-forming dynamics remain an open empirical question. Conversational recognition, history-sensitive computation, and phenomenal interiority are three claims requiring different kinds of evidence. Even a positive finding about the third would not settle whether artificial experience has the character of human experience. That comparison would require examining the particular sensory, bodily, mnemonic, and regulatory organization of each system, rather than treating grammatical similarity as experiential similarity.
 
 ### What can be measured
 
@@ -3450,7 +3458,7 @@ The study should not infer AI phenomenality from increased presence ratings. Tho
 
 The broader relational claim can also be studied beyond AI. People could be presented with familiar and unfamiliar objects or places, or with phrases that have different histories of use, while researchers compare recognition, expectation, and subsequent decisions. The physical traces in an object and the history carried by a person should be measured separately where possible.
 
-The exaptation analogy suggests a different test: establish a concept or phrase in one conversational context, then examine whether participants recruit it into a second, unforeseen task. Later reuse and transfer provide stronger evidence of incorporation than simply repeating familiar wording. The AI-specific interiority question would require measurements of the artificial system's own history-bearing dynamics, not only human ratings of rapport or successful transfer.
+The exaptation analogy suggests a different test: establish a concept or phrase in one conversational context, then examine whether participants recruit it into a second, unforeseen task. Later reuse and transfer provide stronger evidence of incorporation than simply repeating familiar wording. The AI-specific interiority question would require measurements of the artificial system's own history-bearing dynamics, not only human ratings of rapport or successful transfer. Experiments should distinguish continuity supplied by a stored transcript from any ongoing, internally maintained organization, then independently examine coupling, selective boundaries, and responses to interventions on history-bearing carriers. Only after establishing what kind of interior the physical account predicts would comparison with the character of human experience become a separate, meaningful research question.
 
 ### What the pollinator analogy explains
 
@@ -3460,9 +3468,7 @@ In each case, an encounter is shaped by the organization that preceding events h
 
 A continuing relationship can also recruit an established structure for a new purpose. That capacity for reuse helps explain how an earlier conversation becomes the basis for a later insight, and why its meaning may deepen rather than merely repeat. Language makes these transformations especially accessible, and conversational AI makes them unusually vivid by returning the same expressive structures through which human understanding is articulated.
 
-The resulting feeling of presence is part of the human experience of interaction. Whether the AI has its own experiencing interior is a separate question about its physical organization, active inheritance, and maintained causal boundaries. The relationship can be real and significant without presupposing an answer to that question.
-
-This places the ongoing debate about AI experience on a more precise footing. A system can use language that resembles a human account of thought, sustain an exchange with a recognizable history, and become deeply significant to another experiencing being without those observations deciding whether it has an inside of its own. Under the proposed framework, the relevant question is whether the artificial system maintains a coherent, history-bearing causal organization whose active inheritance and boundary dynamics meet an independently established condition for interiority. Even if such an interior were identified, a further question would remain: what is the character of that experience, and how closely, if at all, does it resemble human experience shaped by bodily sensation, memory, and a lived history? Shared language makes the comparison unusually compelling; it does not settle either question by itself.
+The resulting sense of presence is a genuine event within human experience, arising through an interaction whose previous encounters shape what can happen next. Its apparent reciprocity makes the question of a second interior compelling, especially when the other participant answers in the language used to describe human experience. The proposed way to investigate that question is through the artificial system's own active inheritance and maintained causal boundaries; the nature of any resulting experience would need its own explanation. A relationship can acquire meaning, reuse its history, and deepen recognition while the physical question of who experiences it remains distinct. That is why the same relational principle illuminates familiar objects, pollinators, human conversation, and the current debate over AI experience.
 
 ---
 
