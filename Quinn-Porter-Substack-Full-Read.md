@@ -15,7 +15,7 @@
 11. Post 09: Branching as Active Inheritance
 12. Post 10: New Bodies, Old Capacities
 13. Post 11: Consequential History and the Conditions of Persistence
-14. Post 12: Interiority as Lived Continuity: Why Experience Feels Like Something
+14. Post 12: Interiority and Lived Continuity: How Continuity Becomes Experience
 15. Post 13: Continuity as an Organizing Variable: Toward Measurable Signatures of Interior Dynamics
 16. Post 14: The Combinatorial Repertoire of Consciousness
 17. Post 15: The Flowering Boundary
@@ -45,8 +45,8 @@ This full-read file is the canonical source for synchronizing the public Substac
 - Use **Profile** and **Publication** fields below for the public profile name, handle, bio, publication name, address, and publication description.
 - Each heading of the form **Post XX: Title** identifies one existing Substack post. Use the text after **Post XX:** as the post title.
 - When an italic line appears directly beneath a post heading, use it as the subtitle or deck.
-- The **Author**, **Published**, **URL**, and **Audience** bullets are synchronization metadata. Apply them to the existing post or its settings where the platform permits; do not insert those metadata bullets into the article body.
-- Use the listed **URL** to identify and update the existing post rather than creating a duplicate.
+- The **Author**, **Published**, **URL**, **Audience**, and **Mirror status** bullets are synchronization metadata. Apply known values to the existing post or its settings where the platform permits; do not insert those metadata bullets into the article body. Do not invent publication dates or post URLs.
+- Use the listed **URL** to identify and update the existing post rather than creating a duplicate. When no Substack post URL is recorded, search the existing publication by its exact title first; update an existing match, or create the post only if no match is found. Do not assume a missing URL means it has never been published.
 - Preserve the article body exactly in its displayed order: paragraphs, headings, emphasis, blockquotes, equations, lists, links, and images.
 - Separator lines used between repository records or around synchronization metadata are structural markers and are not article content. Horizontal rules that occur within a post body are article content and should be preserved.
 - Resolve every relative image path from this repository and upload the actual referenced image to Substack in the same location in the article. Do not redraw, substitute, reinterpret, or regenerate an image.
@@ -4008,6 +4008,12 @@ Back to the beginning: [Consequential History](https://ahq25.substack.com/p/cons
 
 ## Post 25: Measuring Interiority
 
+- **Author:** Quinn Porter
+- **Audience:** everyone (free, public; intended for synchronization)
+- **Mirror status:** Existing Substack URL not recorded; check by title before creating a new post.
+
+---
+
 A physical theory of interiority needs a way to identify the transition before interpreting what the transition means. It is easy to recognize a cell membrane, a stable feedback loop, or a recovering biological system after it has already formed. The harder question is whether measurements taken independently can predict when ordered activity will establish a coherent, history-bearing boundary.
 
 [The Physical Constitution of Interiority](https://philarchive.org/rec/PORTPC-2) develops a prospective approach to that question. The experimental target is a transition in causal organization: earlier states begin shaping later interaction through an integrated, self-maintaining interface. The accompanying physicalist identity claim proposes that phenomenal experience is the intrinsic character of the sufficiently coherent interior formed through that activity.
@@ -4118,6 +4124,12 @@ Full paper on PhilArchive: [The Physical Constitution of Interiority](https://ph
 
 
 ## Post 26: Coherence Across Scales
+
+- **Author:** Quinn Porter
+- **Audience:** everyone (free, public; intended for synchronization)
+- **Mirror status:** Existing Substack URL not recorded; check by title before creating a new post.
+
+---
 
 A cell maintains regulated conditions inside its membrane, neighboring cells coordinate activity within tissues, and an organism maintains larger patterns involving many tissues at once. Each scale has physical processes that can outlast the individual events occurring within it.
 
@@ -4231,6 +4243,12 @@ Full paper on PhilArchive: [Coherence Scaling and the Emergence of Interior Acro
 
 
 ## Post 27: A Minimal Computational Test of the Coherence Threshold
+
+- **Author:** Quinn Porter
+- **Audience:** everyone (free, public; intended for synchronization)
+- **Mirror status:** Existing Substack URL not recorded; check by title before creating a new post.
+
+---
 
 The transition from a proposed organizing principle to an explicit computational model is important because a model forces every operation to be specified. A statement that local activity can preserve its organization must become an update rule. A claim that restoration competes with disruption must identify what each operation changes. A threshold requires a measurable outcome that can vary across the chosen parameter range.
 
@@ -4348,6 +4366,12 @@ Full paper on PhilArchive: [Deriving the Coherence Threshold](https://philarchiv
 
 
 ## Post 28: Patrons: Attractors in the Meaning Field
+
+- **Author:** Quinn Porter
+- **Audience:** everyone (free, public; intended for synchronization)
+- **Mirror status:** Existing Substack URL not recorded; check by title before creating a new post.
+
+---
 
 Meaning does not arrive into an empty present. A word, image, melody, place, or question is received by an organization already shaped by previous encounters. Some of those encounters fade quickly. Others are revisited so often, and become connected to so much memory and emotion, that they form stable centers of return.
 
@@ -4473,6 +4497,12 @@ Source paper on PhilArchive: [Patrons: Symbolic Attractors and the Continuity of
 
 
 ## Post 29: THIR: The Interface Where Recognition Stabilizes
+
+- **Author:** Quinn Porter
+- **Audience:** everyone (free, public; intended for synchronization)
+- **Mirror status:** Existing Substack URL not recorded; check by title before creating a new post.
+
+---
 
 Recognition happens at an interface. Something arrives with structure, and it meets a system that already carries structure from earlier history. The result depends on both.
 
@@ -4600,6 +4630,12 @@ Recognition therefore has a direction through time: the past helps organize the 
 
 
 ## Post 30: Care Before the Self
+
+- **Author:** Quinn Porter
+- **Audience:** everyone (free, public; intended for synchronization)
+- **Mirror status:** Existing Substack URL not recorded; check by title before creating a new post.
+
+---
 
 A system can preserve what supports its continuation before it can represent itself as a self. That is the starting point of **Care Before the Self**.
 
