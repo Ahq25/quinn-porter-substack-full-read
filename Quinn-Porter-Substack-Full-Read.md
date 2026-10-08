@@ -832,6 +832,16 @@ Repeat this down the road. After five lights, a platoon leaving the fifth light 
 
 This simple picture already shows the two distinct processes defined in Awareness Where Time Concentrates.
 
+### The commute: different departures, familiar arrival times
+
+Consider the same effect on an ordinary drive to work. A person starts work at 2:00 p.m. The trip usually takes twenty to thirty minutes, and on different days the person might leave home anytime from about 1:10 to 1:30. The route is much the same each day, with several traffic lights along the way. After many trips, the arrival times may show something unexpected. Perhaps 1:58 occurs much more often than 1:57 or 1:55. Another group of arrivals may gather around 1:54, while 1:52 is comparatively rare. The departure times spread across a fairly smooth twenty-minute range, but the arrivals collect around a few preferred times. These are illustrative possibilities, not reported measurements of a particular commute.
+
+The reason lies in what each light does to the difference between two trips. On one day, the car reaches a light just after it turns red and waits seventy seconds. On another day, the driver leaves home forty seconds later but reaches that light closer to the end of the red phase and waits only thirty seconds. The forty-second difference between the starts can be absorbed by the forty-second difference in waiting. Both trips pass through the intersection within nearly the same window. Another light farther down the road can gather their timing again. Over several lights, departures that began far apart can lead to nearly the same arrival time.
+
+Not every departure is gathered in this way. A car that catches green may pass straight through, preserving its lead. Another that arrives just after green ends may have to wait through an entire red interval and fall into a different arrival group. Each gate can narrow, preserve, or enlarge the separation between trips. Together, the lights sort a continuous range of possible departures into a more structured set of outcomes.
+
+That is the insight behind **temporal basin compression**. The road does more than add travel time. Its sequence of gates changes the relation between *when a journey begins* and *when it ends*. Different starting histories can converge on the same preferred arrival window, while nearby starting times can sometimes separate sharply. At the destination, the effects of the lights are still present in the arrival time even though those intersections are now behind the driver. The clock has moved normally throughout; what changed was how the route organized the timing of events.
+
 ### Process one: temporal basin compression
 
 Awareness Where Time Concentrates defines **temporal basin compression** as the convergence of distinct histories into a narrower range of later possibilities.
