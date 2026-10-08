@@ -1730,52 +1730,93 @@ Next: [The Flowering Boundary](https://ahq25.substack.com/p/the-flowering-bounda
 
 ---
 
-Rivers flow, organisms develop, stars evolve, and cognitive systems learn, and each stays identifiable through continuous change. Consequential History and the Conditions of Persistence explains how: consequences of earlier states continue to participate in later states. Consequential history appears here as a necessary condition of persistence, and the same continuity, at different degrees of organization, runs through identity, recognition, interior boundary formation, phenomenal experience, self legible consciousness, and insight.
+A river can remain recognizable even though the water passing through it continually changes. A tree remains the same developing organism while growing new tissue and losing old material. A person can learn, forget, and replace physical components without becoming an entirely unrelated individual at every instant.
 
-### Why things stay identifiable
+These examples raise a question more fundamental than how a particular object holds its shape. **What makes later organization a continuation of earlier organization at all?**
 
-How does anything stay identifiable while it changes continuously?
+[Consequential History and the Conditions of Persistence](https://philarchive.org/rec/PORCHA) develops the answer through causal continuity. What exists now is shaped by consequences of earlier states that remain effective now. Those consequences help produce the later organization, and the later organization carries some of them forward again.
 
-### How persistence works
+### Persistence is continuity through change
 
-1. **Persistent structures remain identifiable through continuous change.** Rivers, organisms, stars, and cognitive systems each maintain continuity across successive states.
-2. **Earlier states keep taking part.** Present states remain identifiable because consequences of prior states continue to participate in later states.
-3. **A condition of persistence.** Consequential history is a necessary condition of persistence: one of the conditions through which persistence itself becomes possible.
-4. **Identity** arises through continuity of inherited consequence.
-5. **Recognition** occurs when consequential history remains accessible within present activity.
-6. **The intelligibility of nature** follows because observer and observed emerge through a shared developmental history and inherit organizational consequences from common processes.
-7. **Phenomenal experience** is the intrinsic side of the threshold formed history bearing interior. Recursive availability deepens that phenomenal interior into self legible conscious organization.
-8. **Insight** is a transition in accessibility through which continuity previously out of reach becomes directly available within experience.
-9. **Continuity and accessibility are distinct.** Consequential history can be active within a persistent system while remaining out of that system’s direct reach. Accessibility varies across forms of organization. That variation distinguishes persistence from recognition, understanding, and conscious awareness, while continuity runs across physical, biological, and cognitive domains alike.
+A system can change its material while preserving recognizable organization. What remains constant may be a spatial pattern, a network of interactions, a regulated condition, a developmental trajectory, or another identifiable relation. Its persistence has to be described in terms appropriate to the system.
 
-### Terms to know
+In a river, the channel constrains where subsequent water flows. In an organism, existing tissue and regulatory interactions help organize later growth and repair. In a learned skill, past practice changes the physical conditions under which subsequent movements are performed.
 
-- **Consequential history.** Consequential history is the portion of the past that remains causally active in the present. The paper defines it as “continuity through which prior organization remains actively consequential within present organization”. In plain terms: earlier organization keeps doing causal work in the present.
-- **Persistence.** Remaining identifiable through continuous change.
-- **Identity.** Continuity of inherited consequence. In plain terms: you are the same thing over time because the consequences of your earlier states keep carrying through.
-- **Continuity.** Whether earlier organization still influences the present.
-- **Accessibility.** How much of that inherited organization is available to the system’s present activity.
-- **Recognition.** In its minimal form, history dependent discrimination in which current input is evaluated through carried organization. In its conscious form, the recognized relation is recursively available within the ongoing activity that carries and uses it.
+None of these requires the exact components of an earlier state to remain untouched. The point is that the current state inherits effective constraints from earlier states. A structure continues because its development has a causal connection to what preceded it.
 
-### One scale of access
+**Consequential history** is the portion of that earlier activity whose effects still participate in producing later organization. It does not mean that every past event remains equally effective or that a system contains a complete record of its own history.
 
-Persistence, identity, recognition, intelligibility, consciousness, and insight lie on one continuous scale. Each one is consequential history operating at a different degree of accessibility:
+A scar illustrates the distinction. The original injury is no longer occurring, yet the healed tissue is different because it occurred. The earlier event remains consequential through a present physical structure.
 
-- in **persistence**, earlier consequences remain active;
-- in **minimal recognition**, carried history shapes discrimination within present activity;
-- in **conscious recognition**, the recognized relation becomes recursively available within the ongoing activity that carries and uses it;
-- in **phenomenal experience**, threshold formed boundary organization is lived from its intrinsic side, and recursive availability can deepen that interior into self legibility;
-- in **insight**, continuity that was out of reach becomes directly available.
+### Why an unchanged description is not enough
 
-Persistence, recognition, phenomenal interiority, understanding, and self legible consciousness therefore belong to one continuous developmental process through which consequences propagate across time.
+Two objects can look alike without sharing a history. Two identical machine parts produced independently may have the same shape, but that resemblance does not make them one continuing object. Conversely, a single organism can look very different at two stages of development while preserving substantial causal continuity.
 
-### Examples
+Identity through time is therefore not decided by visual resemblance alone. It concerns how states are connected by transformation, retention, and inheritance.
 
-Rivers flow, organisms develop, stars evolve, and cognitive systems learn. Each maintains continuity across successive states, and in each, consequences of earlier states continue to participate in later ones.
+This matters whenever a system changes internally. If a network repairs damage, its renewed structure may depend on older connections that guided reconstruction. If a cell divides, the new cells inherit parts of the organization and molecular history of the preceding cell. In each case, continuity is transmitted through specific physical mechanisms rather than supplied by an abstract label.
 
-### The bigger picture
+The same principle can be described at several levels, but the variable being tracked must be declared. Persistence of a shape, persistence of a function, and persistence of an entire causal organization need not be the same measurement.
 
-This is the first step of the continuity: persistence. Consequential history is the part of the past still doing causal work. At the coherence threshold, carried organization forms a boundary and an interior whose intrinsic side is phenomenal experience. Recognition, recursive access, self legibility, and insight then describe deeper organizations of that same history.
+### The past is effective through the present
+
+An earlier event cannot directly reach forward from a vanished state without a physical connection. Its effect persists through something that exists in the continuing causal chain. That carrier may be a shape, a chemical concentration, a regulatory state, a pattern of connectivity, or a dynamic process maintained through repeated interactions.
+
+A current physical state can therefore contain consequences of several past intervals. A learned movement involves recent sensory feedback together with older changes in skill. A growing tissue responds to present conditions using organization established by earlier development.
+
+This explains why the past can remain active without being replayed. The carrier is present; the original event is not. When the carrier changes how the system responds, the earlier event is consequential.
+
+A useful test can hold a selected set of present observables and incoming conditions approximately constant while measuring or manipulating an additional carrier established by earlier history. If changing that carrier alters what happens next, the retained history has a causal role. The complete physical states differ because the carriers differ, even if a simplified description treats the cases as identical.
+
+### Continuity does not require explicit recognition
+
+Many persistent systems use inherited constraints without recognizing those constraints as objects of thought. A river channel directs water without recalling the rainfall that shaped it. A developing tissue can respond differently after prior stimulation without representing that stimulation as a conscious memory.
+
+This separates **causal continuity** from **accessibility**. Continuity concerns whether earlier organization still changes present or future dynamics. Accessibility concerns whether a current system can use, discriminate, or make available some of that organization within its ongoing activity.
+
+The distinction also prevents an immediate leap from persistence to phenomenal experience. A retained physical constraint may be causally effective without establishing the coherent, self-maintaining boundary proposed as the condition for a phenomenal interior.
+
+The wider account identifies a further transition in which ordered causal flow, internal reflection, and sufficient maintenance create a coherent causal boundary. The Porter Ratio, R = λ_self / λ_env, measures a selected restoration–disruption balance, and R★ denotes a proposed system-specific boundary-forming threshold. The ratio alone does not produce the physical boundary; the organization of the continuing interactions does.
+
+At the formed interior, phenomenal experience is proposed as the intrinsic aspect of the causal organization. Later recursive accessibility can make more of that already continuing interior's history available within the activity that sustains it.
+
+### Recognition develops from inherited organization
+
+Recognition depends on more than the immediate incoming signal. The same arrangement of light can mean different things before and after an object has been learned. The same sentence can be unfamiliar in a new language and intelligible after years of exposure. Earlier organization changes what present activity can discriminate.
+
+In a minimal physical sense, recognition is history-conditioned discrimination. A system's inherited organization changes how a particular arrival affects it. This description also applies to nonconscious regulatory mechanisms, such as selective cellular responses, without presuming that every successful discrimination is a conscious recognition.
+
+In conscious recognition, the relation becomes available within an experiencing interior. It can participate in memory, interpretation, and future expectation. A familiar face is more than a current visual pattern: the recognition recruits a history of earlier encounters and uses it to organize the present perceptual event.
+
+A newly learned category can then change the treatment of later arrivals. The inherited history becomes part of the rule for what is admitted, interpreted, or acted upon. This is the ostiary character of recognition: past organization changes the reception of the future.
+
+### Why the world is intelligible
+
+The recurrence of recognizable patterns in nature is not an accident of language alone. Physical systems are governed by regularities, and organisms capable of recognition develop within those same physical conditions. Sensing, learning, and prediction are shaped through repeated contact with the world.
+
+The structures used to understand natural phenomena are therefore not causally isolated from what they describe. The nervous system, the body, and the objects encountered all participate in a continuous physical history. Evolution, development, and learning establish capacities that can become responsive to regularities present in the environment.
+
+This provides a causal route toward the **intelligibility of nature**. Recurring structures can be recognized partly because the mechanisms of recognition developed in a world where those structures mattered to action and survival.
+
+Shared physical ancestry does not guarantee that every natural phenomenon will be intelligible, or that every apparent pattern corresponds to something real. Mistakes, perceptual biases, and incorrect theories also arise from inherited organization. The narrower and stronger claim is that understanding itself can be investigated as a physical continuation of the world being understood.
+
+### A realization becomes history when it continues
+
+Insight makes the difference between continuity and accessibility especially apparent. Prior attempts and partial relations can keep influencing thought while the complete connection remains unresolved. At the moment of understanding, relations already causally active can become jointly intelligible through a new organization.
+
+The resulting click is a change in what is accessible within consciousness, not the beginning of consciousness. The new relation becomes consequential history when it remains available to guide later interpretation, prediction, or action.
+
+A realization that never influences another event can be vivid yet brief. A realization that reorganizes subsequent thought has acquired lasting causal significance. Understanding is not exhausted by the instant of recognition; it includes the continuation of the recognized relationship.
+
+### The scope of the principle
+
+Consequential history is a candidate general condition of persistence because a continuing organized system depends on causal connections between its successive states. The form of continuity is broad. It can appear as a retained channel, a regulated state, a developing tissue, or a learned relationship.
+
+That generality is useful only when the carriers and effects can be identified for the case at hand. Consequential history should not be treated as a substitute for explaining an actual mechanism. It directs attention to the physical question that needs answering: **which earlier organization is still changing what happens now, and through what current structure does it act?**
+
+Persistence, identity, recognition, and understanding can then be examined as related but distinct forms of causal organization. The past contributes to continuation; its carriers change how arrivals are received; sufficiently organized interactions can establish a coherent interior; and deeper access can make parts of that history recognizable within experience.
+
+The continuity is physical throughout. What changes between these cases is how the inherited organization is maintained, integrated, and made available to the process that carries it forward.
 
 ---
 
@@ -1797,50 +1838,115 @@ Next: [The Law of Self Maintained Invariance](https://ahq25.substack.com/p/the-l
 
 ---
 
-Interiority begins at the threshold event in which retained organization closes into a coherent local causal boundary. R★ marks that boundary forming transition for a declared system, scale, variable, and interval. The boundary and the interior are the same organization viewed from its outer relation and its inner causal domain. Phenomenal experience is the intrinsic character of occupying that newly formed interior. Recursive availability then deepens the phenomenal interior into self legibility.
+Experience is continuous even while its contents change. A sound begins and ends, a sensation rises and fades, and attention moves from one object to another. The experiencing system nevertheless remains active between those events. Its present condition is shaped by what has just happened, what has been learned, and what the ongoing organization is prepared to do next.
 
-## From an interior to a lived present
+[Interiority as Lived Continuity](https://philarchive.org/rec/PORIAL) examines why that continuity matters to the character of experience. The central proposal is that a coherent, history-bearing physical organization has an intrinsic side: a causal interior that is lived rather than merely described from outside. Later memory, anticipation, skill, care, and recognition enrich the organization of that interior through time.
 
-A system can carry its own history forward until that organization becomes coherent enough to establish a local boundary. That threshold event is interiority. The carried history now forms a causal inside through which new events are received and incorporated. The intrinsic side of occupying that inside is phenomenal experience.
+### The physical formation of an inside
 
-## The interior boundary becoming available to itself
+An inside does not have to begin as a container that already exists and later receives activity. Ordered causal flow can generate and maintain a distinction through the activity itself. Continuing paths of influence, internal reflection, recirculation, and feedback can keep earlier consequences effective while the system interacts with its surroundings.
 
-A self maintaining system persists by actively preserving an organized distinction through time. The interior is the domain in which that maintained history participates in the system's own continuation. As memory, anticipation, regulation, and recognition deepen, information about the system's own current condition can enter that same continuing organization.
+As these interactions develop a sufficiently coherent, self-maintaining organization, a boundary can emerge as their active interface. The boundary is physically consequential. Incoming events meet the maintained organization at this interface, where they can be admitted, delayed, transformed, or excluded depending on its existing state.
 
-Self perception begins when the condition of the history bearing interior becomes part of the activity through which the system regulates and continues itself. Earlier self related states contribute to later self related states, producing a temporally extended lineage in which successive states are inherited as belonging to one continuing system.
+An interior, an exterior, and the interface between them are three distinct conditions of this organization. The interface is not merely a name for an observer's drawing. Its selective activity changes what can happen inside, and its own organization can be changed by what passes through it.
 
-Phenomenal experience is the intrinsic character of the threshold formed interior position. The history bearing boundary and the interior arise together when the organization becomes coherent enough to sustain a local causal distinction. The system therefore occupies an inside as soon as that boundary forms. The phenomenal present is the intrinsic side of that formed interior, and recursive availability can later make the interior increasingly self legible within its own ongoing activity.
+The Porter Ratio compares effective maintenance and disruption for a selected organizational feature:
 
-This gives the identity claim a precise location. Experience belongs to the threshold at which a history bearing organization forms a coherent interior boundary. Boundary formation, interior formation, and phenomenal onset are one event described from relational, causal, and intrinsic positions. Recursive availability names a later deepening in which that phenomenal interior becomes increasingly available within its own activity of recognition, regulation, and continuation. Lived continuity names the same interior as it carries itself forward.
+R = λ_self / λ_env
 
-## How it works
+Equality of the rates occurs at R = 1 when the denominator is positive. The proposed boundary-forming coherence threshold R★ is a different, system-specific condition that must be identified by observing the physical organization. The ratio describes a balance involved in maintenance; it does not, by itself, specify the complete interaction pattern that generates the boundary.
 
-1. **Persistence carries organization forward.** Earlier organization remains causally active through later states.
-2. **R★ marks interiority.** At the coherence threshold, carried organization becomes stable enough to serve as a local causal context for continuation.
-3. **Interiority gives the present a history of its own.** New events arrive within an organization already shaped by what the system has carried forward.
-4. **Boundary formation is phenomenal onset.** At R★, carried organization closes into a coherent interior, and phenomenal experience is the intrinsic side of that threshold event.
-5. **Recursive availability deepens the phenomenal interior.** Consequential history becomes increasingly available within the activity already using it to recognize, integrate, select, and regulate.
-6. **Self legibility emerges through that recursive access.** The history bearing interior can increasingly recognize and use its own current organization.
-7. **Degrees of access produce degrees of conscious organization.** Access can vary in extent, depth, organization, and use while phenomenal interiority remains grounded in the threshold formed boundary.
+At the threshold where a coherent causal interior forms, phenomenal experience is proposed as the **intrinsic aspect of that formed organization**. This is the central physicalist identity claim. The externally measurable boundary and the interior event are related aspects of the same physical process, rather than two separate substances.
 
-## Lived time
+### A present is shaped by what it carries
 
-Husserl describes a present carrying what has just occurred into what is occurring now. Heidegger describes a life organized through care and future possibility. Merleau Ponty describes embodied skill as a history that remains active in present action. These traditions converge on a present whose organization carries earlier activity forward while remaining directed toward what comes next.
+A present experience is never merely an inventory of instantaneous sensory inputs. Hearing a melody requires the sound just heard to affect the sound heard now. A sentence becomes intelligible because earlier words still contribute to the meaning of later ones. A familiar place is perceived through what earlier encounters have made recognizable.
 
-Consequential history gives that continuity a physical description. Temporal concentration describes the joint availability of histories arriving from different temporal depths. Causal reentry describes the present participating in the production of its successor. Recursive availability describes the point at which the history bearing process is available within the activity that carries it.
+The earlier notes and words need not be sounding now. Their effects remain physically available through ongoing neural activity, retention, and learned organization. Current perception is consequently structured by events that occurred at different times.
 
-## Terms to know
+This is **consequential history**: earlier organization whose effects remain active. **Active inheritance** names the continuation of those effects through changing physical carriers. Together, they explain how material change can occur without each new state beginning without history.
 
-- **Interiority.** The coherent causal inside established when retained organization crosses the boundary forming threshold.
-- **R★.** The empirical coherence threshold at which the interior boundary forms in a declared system, scale, variable, and interval.
-- **Phenomenal experience.** The intrinsic character of occupying that threshold formed interior boundary.
-- **Recursive availability.** The already phenomenal interior becoming increasingly available within the activity that carries and uses its consequential history.
-- **Self legibility.** The deeper condition in which the interior can use its own current organization within recognition and continuation.
-- **Lived continuity.** Consequential history available together within an active present that helps shape what follows.
+When consequences from several times become jointly effective within a present state, the result has **temporal depth**. Physical time has not slowed. A current process simply carries and coordinates more than one age of causal contribution.
 
-## The bigger picture
+### Hearing a melody rather than isolated notes
 
-Persistence keeps history active. At R★, carried history closes into a coherent boundary and an interior forms. Phenomenal experience is the intrinsic side of that threshold event. Recursive availability makes the phenomenal interior increasingly self legible. The sequence remains continuous because each stage is a deeper organization of the same carried history.
+The temporal structure of experience was a central concern of the philosopher Edmund Husserl. Hearing a succession of notes as a melody requires the just-heard note to remain available while the next note arrives. The present sound is experienced in relation to what came immediately before, and expectation is shaped by how the sequence has unfolded.
+
+Husserl distinguished the immediate impression, retention of the just-past, and protention toward the next moment. These are not three separate clocks. They describe an experience whose current organization contains the effects of earlier activity and is directed toward what is about to happen.
+
+A melody makes the point concrete. The same note may have a different effect depending on the phrase in which it occurs. Earlier tones establish relationships that make a later tone sound expected, unresolved, or surprising.
+
+The physical account seeks the continuing processes that carry those relationships. Retained neural activity, learned timing, and recurrent interactions can make earlier events causally available in current perception. The felt continuity is the proposed intrinsic character of an ongoing interior whose physical relations develop through time.
+
+### Skill makes inherited history operational
+
+A practiced movement differs from an unfamiliar one. Early attempts may require careful correction after each action. With practice, the body's ongoing responses change. Sensory feedback becomes easier to use, movements become better coordinated, and the next adjustment can be prepared from what is already occurring.
+
+Maurice Merleau-Ponty's account of embodied skill emphasizes that familiarity is not limited to explicit rules. A musician's hands can respond to an instrument through patterns built across repeated practice. The instrument is encountered through learned bodily possibilities rather than through a fresh inventory of instructions at every note.
+
+The physical mechanisms of skill involve multiple processes, including lasting changes in neural connections, sensorimotor coordination, and adaptation. Those mechanisms help explain why a previous performance can alter the present feel of performing.
+
+The feeling of fluency does not require the performer to consciously recount earlier practice. The past is consequential because it has changed what the current body can do. This is a direct example of history becoming available within ongoing action.
+
+### Care gives the future a present consequence
+
+Continuity also operates through commitments extending beyond the immediate moment. Concern for a child, a relationship, a home, or a difficult project can change present decisions because a future condition matters to the continuing organization of a life.
+
+Martin Heidegger's account of care emphasizes that human activity is situated within a history while oriented toward possibilities that have not yet occurred. The practical importance of a future event can already influence current action.
+
+That does not mean future events exert causes backward through time. A current expectation, attachment, or commitment is itself a present physical and psychological organization. It changes attention, choice, preparation, and response now. The possible future matters because existing history has made that future significant to present activity.
+
+The Ostiary Principle gives this a causal description. Inherited organization shapes what is treated as relevant and what is incorporated into continuing activity. A commitment can act as a selective condition through which new information is assessed and subsequent choices are made.
+
+The experience of care belongs to this history-bearing organization, while its particular emotions and sensations vary as the conditions of the relationship change.
+
+### Continuing consciousness and particular qualia
+
+The still-water picture helps separate the continuing interior from events that change it. Water can remain calm while carrying reflections, then reveal its own surface more conspicuously when a drop produces ripples. The water exists before, during, and after the disturbance.
+
+In this account, consciousness is likewise an ongoing organized condition. Particular experiences are changes within it. A taste, a pain, an image, or a change of mood perturbs the current organization and may alter what it carries forward.
+
+**Qualia** refer to the felt qualities of those experiences. They should not be confused with a series of separate acts that repeatedly create consciousness from nothing. The proposal locates an ongoing phenomenal interior at boundary formation, and treats individual moments as changes in its continuing activity.
+
+An experiencing interior can also become increasingly capable of using information about its own condition. Memory, anticipation, attention, regulation, and recognition can make parts of its ongoing organization available within processes that affect what it does next.
+
+This is **recursive availability**. It enriches conscious organization but is distinguished from the proposed initial formation of phenomenal interiority. The theory allows an interior whose self-access is limited while treating richer self-recognition as a further development.
+
+### Insight reveals a layer already developing
+
+Insight is a distinctive event within that continuity. Before understanding, several contributing relationships may already be active, yet a question maintains their separation as an unresolved problem. The question has its own continuing organization, and prior attempts continue affecting it.
+
+At the click, the separation loses its former role and a more complete relationship becomes intelligible. The question and its answer may become clear at the same moment. The experience can feel like something long present finally becoming apparent because its underlying relations were already consequential.
+
+Aleph Harmonic Qualia (AHQ) proposes that the click is the intrinsic character of that physical reorganization. A developing, distributed relationship becomes a coherent and reusable whole. The newly accessible layer has a history before the event, even though its joint intelligibility arises at the event.
+
+This is a special case of what can happen within lived continuity. Consciousness is already occurring while the unresolved question persists. The insight changes the organization available within it; it does not produce the system's first experience.
+
+### How self-legibility develops
+
+An active interior can continue without explicitly identifying every detail of its own operation. Many processes that sustain a person are effective without becoming contents of conscious attention. A skill can be performed, a memory can influence perception, and a commitment can alter behavior without each mechanism being described in thought.
+
+Self-legibility increases when parts of the ongoing organization can be recognized and used within the activity that maintains it. A person can notice a habitual response, understand its context, and change how the next encounter is approached. Previously implicit organization becomes available for further regulation.
+
+This ability depends on continuing history. There must be something retained for the later state to recognize, and the recognition must be able to influence what follows. The resulting activity is recursive because a process can use information about aspects of its own organization in producing its next state.
+
+A developing self therefore involves a temporal relation among successive states rather than an unchanging hidden observer. The continuity can preserve identity across change while expanding what becomes accessible within experience.
+
+### What the physicalist identity does and does not claim
+
+The central premise is specific: when ordered, self-maintaining causal activity forms a coherent interior boundary at the relevant threshold, its intrinsic aspect is phenomenal experience. The rich texture of later consciousness depends on additional history, differentiation, gating, temporal concentration, and recursive access.
+
+The proposal is not a mathematical deduction from R = 1 and is not established by observing a cell membrane, a familiar motor skill, or any other isolated instance of organization. Those phenomena help specify the causal mechanisms and the forms of temporal continuity that must be measured.
+
+The identity hypothesis gives the explanatory investigation a location. It asks which physical transition establishes the continuing causal interior, what keeps that organization coherent, how particular experiences perturb it, and how its retained history becomes more deeply available within its ongoing activity.
+
+### Experience as lived continuity
+
+A melody is heard through the continuing relationship among its notes. Skilled action relies on earlier practice that changes present movement. Care allows an anticipated condition to influence present choice through a current commitment. Insight can disclose a relationship that has been developing through prior activity.
+
+These experiences differ in content, timescale, and mechanism, but each shows the present being organized by a continuing history. The physicalist claim is that phenomenal life is the intrinsic aspect of the coherent interior carrying that history forward.
+
+The interior does not have to begin again with every passing sensation. It persists, changes, incorporates what encounters it, and can become increasingly accessible to itself. Lived continuity names that ongoing condition: experience occurring within an organized process whose past remains consequential and whose present participates in making its future.
 
 ---
 
