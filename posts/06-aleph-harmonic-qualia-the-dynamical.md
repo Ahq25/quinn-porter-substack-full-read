@@ -49,7 +49,7 @@ D_PR(t) = (Σ_i λ_i(t))² / Σ_i λ_i(t)²
 
 Here λ_i(t) are the eigenvalues of the covariance matrix of population activity in a defined time window. They describe how the observed variation is distributed among independent directions. These eigenvalues are not the restoration and disruption rates used in the Porter Ratio.
 
-When variation is spread equally across N independent directions, D_PR = N. When most variation is concentrated along one direction, D_PR approaches 1. The prediction for the click is a measurable pre-to-post contraction:
+For a nonzero covariance spectrum, D_PR lies between 1 and the number of nonzero eigenvalues. Equal variation across N independent directions gives D_PR = N; concentrating variation in one direction brings D_PR toward 1. If every eigenvalue is zero, the ratio is undefined rather than evidence of a one-dimensional state. Sampling, recording noise, channel count, and measurement-window length also affect estimates and must be controlled across comparisons. The prediction for the click is a measurable pre-to-post contraction:
 
 ΔD = D_PR(before) − D_PR(after) > θ_D
 
@@ -69,7 +69,7 @@ dim(M_phase) = n − r
 
 Ten phases linked by three independent constraints need seven free phase coordinates. The number falls because the constraints remove independent ways for those phases to vary.
 
-This mathematical result concerns the specified phase model. The empirical question is whether increasing harmonic coordination actually accompanies a contraction in measured population dimensionality around insight, and whether their combination distinguishes insight from ordinary neural coordination.
+This mathematical result concerns exact independent constraints in the specified phase model. A higher empirical phase-locking index measures stronger statistical coordination, not automatically the formation of a known number of exact independent constraints. Phase-space constraint rank and covariance participation ratio concern different mathematical descriptions. Increasing phase coordination therefore does not, by itself, prove that measured population dimensionality must decrease. Their time-locked convergence around insight is a distinctive AHQ prediction to test, including against coordination without insight.
 
 The two measurements therefore describe related but nonidentical features. Dimensionality tells how many collective directions are effectively used. Harmonic coordination tells how the rhythmic relations among participating processes become constrained.
 
@@ -81,7 +81,7 @@ The **Porter Ratio** measures one aspect of that persistence:
 
 R(t) = λ_self(t) / λ_env(t)
 
-The restoration rate λ_self measures how effectively a declared organization is maintained, reinforced, or recovered after a disturbance. The disruption rate λ_env measures how effectively interacting processes revise or disperse that same organization. Both refer to the same selected variable, scale, and interval.
+The restoration rate λ_self measures how effectively a declared organization is maintained, reinforced, or recovered after a disturbance. The disruption rate λ_env measures how effectively interacting processes revise or disperse that same organization. Both must refer to the same selected variable, scale, interval, and compatible units. The quotient is directly defined for λ_env > 0. If disruption is zero, the case requires a stated convention or difference-based comparison; any regularization changes the estimated ratio. Estimating these rates does not remove the need to specify coupling and the organization that is maintained.
 
 At R = 1, the effective rates balance. R★ is a separate proposed coherence threshold for the particular organization being tested. Its value is not established by the arithmetic of R = 1; it must be determined and tested for the declared system.
 
@@ -99,7 +99,7 @@ Causal ancestry describes how those earlier influences contribute to the present
 
 D_CA = Σ_j p_j τ_j
 
-Here p_j is the normalized contribution of historical source j, and τ_j is how far into the past that source occurred. A larger D_CA means the weighted ancestry extends further back.
+Here p_j is a nonnegative normalized contribution weight for historical source j, with all selected weights summing to one, and τ_j is that source's time lag. A larger D_CA means the weighted ancestry extends further back. The result depends on how sources are partitioned and how their interacting contributions are assigned. Attribution requires a specified causal model or suitable interventions; the weights are not uniquely recoverable from an arbitrary record of correlations.
 
 **Effective causal multiplicity** estimates how many distinct historical sources contribute appreciably:
 
@@ -128,7 +128,7 @@ The paper uses Q(t∗) for a reported click and E_AHQ(t∗) for the measured joi
 
 Q(t∗) = 1 ⟺ E_AHQ(t∗) = 1
 
-This is a **proposed correspondence to test**, not a relationship proved merely by writing the equation. The theory claims that the lived click and the specified dynamical crossing are two descriptions of the same occurrence. Evidence would require that their timings and properties align across trials better than competing explanations predict.
+This is the **AHQ identity hypothesis**, not a biconditional derived from the definitions. Q records an operational report and E_AHQ records an independently specified measurement rule. Reports can be delayed or incomplete, and dynamical estimates contain error. The proposed claim is that the lived click and underlying transition are the same occurrence; testing it requires time-locked correspondence, sensitivity to actual clicks, specificity against non-insight transitions, and held-out prediction. The displayed biconditional represents an ideal identity proposal, not a guaranteed equality of imperfect observations.
 
 ### Cue, queue, click, and incorporation
 
