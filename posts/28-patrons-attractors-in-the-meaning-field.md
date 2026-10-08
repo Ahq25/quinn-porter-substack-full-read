@@ -1,8 +1,7 @@
 # Patrons: Attractors in the Meaning Field
 
 - **Author:** Quinn Porter
-- **Audience:** everyone (free, public; intended for synchronization)
-- **Mirror status:** Existing Substack URL not recorded; check by title before creating a new post.
+- **Audience:** everyone (free, public)
 
 ---
 
@@ -86,6 +85,8 @@ Patrons can also support creativity. A stable attractor gives inquiry somewhere 
 
 This is why a durable question can remain generative for years. Its persistence lets many separate histories gather around one center until relationships become visible that would not have been available in a single encounter.
 
+A patron can also acquire a use that its earlier history did not anticipate. A phrase shared between old friends might begin as a joke, then become a way to signal reassurance or recognize a difficult situation years later. The familiar words provide a stable route back into shared history, while the new situation gives that route a new function. The existing organization is reused without being merely repeated. This is a form of **exaptation**: a maintained capacity becomes useful for something different from the role in which it first developed.
+
 ### Patrons, THIR, and AHQ
 
 A patron can prepare the conditions for recognition without itself being the moment of insight.
@@ -97,6 +98,8 @@ The sequence is therefore not that a patron automatically produces a click. Rath
 **patron → history-rich recognition → possible interface stabilization → possible threshold crossing → incorporation**
 
 If a new whole forms, it can then be incorporated into consequential history. Repeated later use may deepen or alter the patron that helped make the recognition possible.
+
+The patron's return and the formation of a new whole are different transitions. Familiarity can reopen an existing organization without producing new insight; when previously separate relations stabilize into something newly reusable, that local organization can acquire capabilities the earlier associations did not possess together. The resulting understanding may then become part of the patron's continuing history.
 
 The process is recursive. Meaning built by earlier encounters shapes a new recognition, and the new recognition changes the meaning available to future encounters.
 
