@@ -3362,13 +3362,13 @@ Different processes naturally operate over different timescales. Membrane events
 
 A slower organization can therefore gather consequences that arrive separately at faster scales. This does not mean physical time slows down. It means consequences from many faster events can remain jointly effective inside a longer-lived state.
 
-Each scale can be assigned its own declared organizational variable and its own λ_self, λ_env, R, and R★. A cellular R★ is not automatically the R★ of a tissue, and a neural-population threshold is not automatically the threshold of a whole organism. The variables and rates have to be defined at the scale where the organization exists.
+Each scale can be assigned a declared organizational variable and compatible λ_self and λ_env rates, allowing R to be estimated where λ_env > 0. R★ is an additional proposed threshold to identify experimentally where an independently specified boundary-forming transition occurs. A cellular R★ is not automatically a tissue threshold, nor does a neural-population threshold automatically describe the whole organism. The variables, rates, coupling, and transition phenotype must be defined at the relevant scale.
 
-When coherent units become coupled strongly enough, their interaction can itself form a larger organization. That larger domain may have a broader spatial reach, a longer effective temporal window, and its own restoration and disruption processes. The framework therefore allows nested interiors without treating them as copies of one another.
+When coherent units become coupled through organized, recurrent interactions, their activity can form a larger, self-maintaining organization with its own effective restoration and disruption processes. That larger domain may have broader spatial reach, a longer integration window, and a distinct causal boundary. Nested interiors are therefore possible in the proposed account, but a measured rate ratio at one scale does not establish the existence or individuality of every proposed interior at another.
 
 ### The same threshold form at different scales
 
-At a given scale, R★ marks the proposed transition at which carried organization becomes coherent enough to form a local causal boundary. Boundary formation and interior formation are the same threshold event in the framework, and phenomenal experience is proposed as the intrinsic side of occupying that formed interior.
+At a given scale where a boundary-forming transition can be independently identified, R★ labels the proposed coherence threshold associated with that transition. Ordered causal flow and internal reflection supply the physical organizing process; R tracks the accompanying maintenance/disruption balance. Boundary formation and interior formation are the same threshold event in the framework, and phenomenal experience is proposed as the intrinsic side of occupying that formed interior.
 
 That does **not** mean every lower-level coherent unit should be treated as a full human-like mind. Phenomenal interiority and recursive self-legibility are different depths of organization. A threshold-formed interior can be shallow in recursive availability. Richer conscious organization develops as consequential history from several layers becomes increasingly available within the activity coordinating them.
 
