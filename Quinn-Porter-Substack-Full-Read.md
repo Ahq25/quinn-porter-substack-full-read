@@ -4405,8 +4405,7 @@ Full paper on PhilArchive: [Coherence Scaling and the Emergence of Interior Acro
 ## Post 27: A Minimal Computational Test of the Coherence Threshold
 
 - **Author:** Quinn Porter
-- **Audience:** everyone (free, public; intended for synchronization)
-- **Mirror status:** Existing Substack URL not recorded; check by title before creating a new post.
+- **Audience:** everyone (free, public)
 
 ---
 
@@ -4478,6 +4477,8 @@ The next question would be whether a particular R★ predicts that transition in
 
 Without this calibration, the model shows that update rules can generate different-looking or differently balanced fields; it does not yet derive a specific boundary-forming threshold from the Porter Ratio.
 
+There is also a causal question separate from whether the restoration attempts outnumber disruptions. If a measured R > 1 is sustained by the grid's inherited arrangement changing subsequent updates, the framework proposes that consequential history has become the primary maintaining influence on the declared organization relative to the specified disruption. To test that interpretation, the model would need to compare fields with controlled differences in their retained patterns and determine whether disrupting those patterns changes later maintenance. A large number of restoration attempts, by itself, cannot establish historical causal dominance.
+
 ### History in a finite lattice
 
 A state of the lattice at one time depends on earlier updates because those updates changed the current arrangement. That gives the simulation an ordinary physical and mathematical history.
@@ -4489,6 +4490,8 @@ This history dependence is implemented through the present grid. No earlier stat
 An experiment can compare matched coarse measurements under different detailed grid configurations. If two fields have the same fraction of balanced junctions but different arrangements, their later evolution may differ because the update rule responds to local patterns. The complete current grids are different, even though the reported scalar coherence scores match.
 
 This is a useful illustration of why a coarse variable can omit consequential structure.
+
+The distinction can be tested directly: vary the detailed arrangement while holding the coarse score comparable, then observe whether later recovery, propagation, or selective response changes. That would show what the present inherited pattern contributes to the model's future organization. A further step would be to establish whether these interactions form a newly self-maintaining collective with an independently identifiable causal boundary, rather than only repeatedly favoring a local pattern.
 
 ### The relation to the Period Lattice
 
@@ -4528,8 +4531,7 @@ Full paper on PhilArchive: [Deriving the Coherence Threshold](https://philarchiv
 ## Post 28: Patrons: Attractors in the Meaning Field
 
 - **Author:** Quinn Porter
-- **Audience:** everyone (free, public; intended for synchronization)
-- **Mirror status:** Existing Substack URL not recorded; check by title before creating a new post.
+- **Audience:** everyone (free, public)
 
 ---
 
@@ -4613,6 +4615,8 @@ Patrons can also support creativity. A stable attractor gives inquiry somewhere 
 
 This is why a durable question can remain generative for years. Its persistence lets many separate histories gather around one center until relationships become visible that would not have been available in a single encounter.
 
+A patron can also acquire a use that its earlier history did not anticipate. A phrase shared between old friends might begin as a joke, then become a way to signal reassurance or recognize a difficult situation years later. The familiar words provide a stable route back into shared history, while the new situation gives that route a new function. The existing organization is reused without being merely repeated. This is a form of **exaptation**: a maintained capacity becomes useful for something different from the role in which it first developed.
+
 ### Patrons, THIR, and AHQ
 
 A patron can prepare the conditions for recognition without itself being the moment of insight.
@@ -4624,6 +4628,8 @@ The sequence is therefore not that a patron automatically produces a click. Rath
 **patron → history-rich recognition → possible interface stabilization → possible threshold crossing → incorporation**
 
 If a new whole forms, it can then be incorporated into consequential history. Repeated later use may deepen or alter the patron that helped make the recognition possible.
+
+The patron's return and the formation of a new whole are different transitions. Familiarity can reopen an existing organization without producing new insight; when previously separate relations stabilize into something newly reusable, that local organization can acquire capabilities the earlier associations did not possess together. The resulting understanding may then become part of the patron's continuing history.
 
 The process is recursive. Meaning built by earlier encounters shapes a new recognition, and the new recognition changes the meaning available to future encounters.
 
@@ -4659,8 +4665,7 @@ Source paper on PhilArchive: [Patrons: Symbolic Attractors and the Continuity of
 ## Post 29: THIR: The Interface Where Recognition Stabilizes
 
 - **Author:** Quinn Porter
-- **Audience:** everyone (free, public; intended for synchronization)
-- **Mirror status:** Existing Substack URL not recorded; check by title before creating a new post.
+- **Audience:** everyone (free, public)
 
 ---
 
@@ -4734,6 +4739,8 @@ arrival → history-conditioned recognition → interface stabilization → poss
 
 An ordinary recognition can end after stabilization, while a later event may reactivate and transform the stabilized relation.
 
+Stabilization at THIR can give the arriving pattern and inherited structure a dependable relationship that guides continued processing. In some encounters, this becomes a component of a further transition: several such relations begin sustaining a new collective organization that can be retained and used in later thought. That newly maintained whole is the relevant additional achievement proposed for AHQ. A stable THIR relation alone does not show that the stronger event-specific threshold has been crossed.
+
 or, using the framework terms,
 
 consequential history → ostiary recognition → THIR → AHQ → active inheritance
@@ -4774,6 +4781,8 @@ That distinction keeps the architecture ordered.
 
 The system already has an interior boundary. Consequential history already exists. The active boundary already receives events through that history. THIR names one way a particular arrival can stabilize in relation to it. AHQ names the stronger local crossing through which the relation becomes a new reusable whole.
 
+The threshold for a new reusable relation must be evaluated within the already functioning interior. It is distinct from R★ when that symbol names the independently measured boundary-forming threshold of the encompassing system. Nested local reorganizations can therefore contribute to richer understanding without being mistaken for repeated beginnings of consciousness.
+
 ### A failure condition for the interface claim
 
 An operational THIR model should identify when the input–history relation begins to stabilize, how strongly it resists perturbation, and how much of its organization is retained afterward. If trials labeled THIR show no reproducible stabilization beyond ordinary perceptual categorization, then the term has not yet added a measurable mechanism.
@@ -4792,8 +4801,7 @@ Recognition therefore has a direction through time: the past helps organize the 
 ## Post 30: Care Before the Self
 
 - **Author:** Quinn Porter
-- **Audience:** everyone (free, public; intended for synchronization)
-- **Mirror status:** Existing Substack URL not recorded; check by title before creating a new post.
+- **Audience:** everyone (free, public)
 
 ---
 
@@ -4810,6 +4818,8 @@ The Law of Self Maintained Invariance begins with a simple comparison:
 R = λ_self / λ_env
 
 λ_self measures the effective rate at which a declared organization is maintained, restored, reinforced, or carried forward. λ_env measures the rate at which surrounding interaction revises or disrupts that same organization.
+
+For λ_env > 0, R > 1 means that the selected organization's measured maintenance exceeds the specified disruption. Where that maintenance is actively sustained by inherited organization, the framework further proposes that consequential history has become the primary maintaining influence on its continuation relative to that disruption. The ratio alone does not establish that causal history or show which supporting relationships matter. Those contributions have to be identified through the system's organization and tested through intervention.
 
 Some of the processes contributing to λ_self can occur inside the system. Others depend on relations that cross the boundary.
 
@@ -4892,6 +4902,8 @@ Care becomes richer as more history participates.
 A supporting relation is encountered. Its beneficial consequences are retained. Later activity becomes more likely to preserve or return to it. Repeated return builds expectation and preference. Further history can add attachment, skill, memory, symbolic meaning, and explicit commitment.
 
 The physical relation has not disappeared when richer forms emerge. It has become layered.
+
+Those layers can also become new self-maintaining wholes. Cells may preserve exchanges that sustain coordinated tissue activity, while the tissue's continuing organization changes what its cells need and how their activity is regulated. At another scale, an organism can preserve relationships with its surroundings that help maintain the larger whole. Each genuine organizational threshold can establish new collective capacities and new dependencies worth preserving. Several levels may remain active or undergo related transitions in overlapping periods, without requiring their distinct thresholds to occur at precisely the same instant.
 
 An infant's regulatory dependence, an animal's learned return to a safe place, and an adult's reflective commitment are not identical phenomena. The framework does not collapse them into one thing. It treats them as increasingly deep organizations built on the same general causal form: history teaches the system which relations participate in its continuity, and that history changes how later activity is directed.
 
