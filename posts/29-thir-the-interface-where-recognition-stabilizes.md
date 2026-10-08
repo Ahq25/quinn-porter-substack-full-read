@@ -12,7 +12,7 @@ Keeping those terms distinct prevents every successful recognition from being tr
 
 Take a familiar face. The light reaching the eyes contains present structure, but recognition does not come from the incoming pattern alone. Earlier encounters have already built relational organization in memory. Current features activate some of that history, and the activated history changes how the features are grouped and interpreted.
 
-The interaction has two directions of influence within the developing response, not a cause traveling backward from recognition to the event that already arrived.
+The interaction has two directions of influence within the developing response, not a cause traveling backward from recognition to the event that already arrived. An incoming pattern recruits retained organization, while that activated organization changes how continuing input is weighted and interpreted. If the stimulus is fixed and cannot respond, the reciprocity occurs inside the receiving dynamics; it does not mean that the earlier external signal has been altered retroactively.
 
 The arrival recruits particular retained relationships. Those currently active relationships affect how the continuing incoming activity is grouped, weighted, and interpreted. As the fit improves, uncertainty falls and the relation becomes more stable.
 
@@ -94,7 +94,7 @@ A clean experiment holds present input as closely matched as possible while vary
 
 Familiarity, prior learning, rhythmic expectation, contextual priming, or patron strength can alter the receiving organization before the same structured input arrives. The forming interface can then be tracked through recognition latency, confidence, trajectory convergence in state space, reduction in uncertainty, cross-process coordination, and persistence of the recognized configuration.
 
-The central prediction is that better-measured compatibility between present structure and relevant carried history will predict faster or more stable interface formation under comparable conditions. Very strong expectations can also produce premature or mistaken recognition, so stability and correctness should be measured independently.
+The central prediction is that better-measured compatibility between present structure and relevant carried history will predict faster or more stable interface formation under comparable conditions. Compatibility should be defined independently of the recognition result, for example by a trained model of prior feature relations or a controlled learned association. Otherwise the observation that recognition stabilized would simply be used to redefine the input as compatible, making the proposal circular. Very strong expectations can also produce premature or mistaken recognition, so stability and correctness should be measured independently.
 
 A second measurement asks what happens afterward. If the stabilized relation is reused, affects later recognition, or changes subsequent choices, it has entered consequential history.
 
