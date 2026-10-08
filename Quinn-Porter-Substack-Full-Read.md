@@ -1284,46 +1284,83 @@ Next: [Branching as Active Inheritance](https://ahq25.substack.com/p/branching-a
 
 ---
 
-Insight is a sudden transition in which an unresolved question becomes immediately intelligible. The Collapse of Separation and the Structure of Insight sets out the organizational transition that produces it. A question is modeled as a coherent representational separation maintained within cognition. Insight occurs when the coherence maintaining that separation falls below a critical threshold: the boundary dissolves, and continuity already participating in cognition becomes directly available.
+The moment of insight is recognizable because an unresolved question can become clear almost all at once. A difficult problem may remain active for hours. Several relevant facts may already be understood separately, yet the relationship that resolves the problem remains inaccessible. Then the question itself changes. The reason for asking it, the structure that made it difficult, and the relation that resolves it can become intelligible together.
 
-### What produces insight
+The paper [The Collapse of Separation and the Structure of Insight](https://philarchive.org/rec/PORTCO-18) develops this event as a change in how an experiencing system maintains and reorganizes its own representations. The central proposal is that a question has a continuing organization of its own. Part of that organization preserves a separation between what is presently understood and a relation that has not yet become available as a whole. The click occurs when the old separation can no longer retain its previous structure and a more comprehensive relation becomes stable and accessible.
 
-What organizational transition produces insight, and how do its consequences unfold afterward?
+### How a question holds its shape
 
-### How insight works
+An unresolved problem does not disappear whenever attention moves elsewhere. A person can return to the same problem the following morning and immediately recognize it as the same question. Certain details, constraints, and possible answers remain connected closely enough to preserve its identity. A problem therefore has more organization than an empty space awaiting information.
 
-1. **Insight has a distinctive phenomenology.** Relations that appeared disconnected become unified, uncertainty gives way to apparent obviousness, and understanding emerges with a distinctive phenomenology of revelation.
-2. **The transition and its consequences.** Information acquisition, pattern recognition, and problem solving describe the consequences of insight. The organizational transition that produces insight comes first.
-3. **A question can be a maintained separation.** A question is a coherent representational separation maintained within cognition. Its persistence depends on an organizational boundary that preserves its identity as a distinct object of thought.
-4. **The same boundary does two jobs.** The same organization that allows the question to persist is also the organization that prevents direct access to its resolution.
-5. **The threshold.** Insight occurs when the coherence maintaining this representational separation falls below a critical threshold. The boundary dissolves, previously concealed continuity becomes accessible, and the question ceases to exist in its prior form.
-6. **The answer was already participating.** Continuity that was already participating within the organization of cognition becomes directly available. The experience of discovery is a transformation in accessibility. Revelation, illumination, obviousness, and the flash of insight follow directly from this transition.
-7. **One organization, two sides.** The question and its resolution are the same underlying organization viewed from opposite sides of a representational boundary.
-8. **What remains afterward.** What persists beyond the moment of realization is the inherited organization established by the revealed relation.
-9. **Recursive correspondence.** The paper further holds that certain forms of humor, ambiguity, symbolism, elegance, conceptual beauty, and scientific discovery derive part of their significance from a recursive correspondence between the structure of what is understood and the structure of the understanding event itself. In such cases, the organization revealed within the object mirrors the organizational transition occurring within the observer.
-10. **Understanding.** Understanding is the replacement of representational separation by accessible continuity and the subsequent inheritance of that continuity within future cognition.
+Consider a puzzle in which two familiar facts seem incompatible. Each fact can be recalled clearly. The problem persists because they have not yet been understood in one relationship. The question preserves that distinction, determining what counts as relevant evidence and what would qualify as a resolution. Earlier attempts can strengthen the problem's boundaries by ruling out explanations that were initially plausible.
 
-### Terms to know
+This is a **maintained representational separation**. A representation is the current organization through which something can be held in thought. The separation consists in the continuing distinction between relations that are available individually and their still-unresolved joint significance. It is not necessarily a literal membrane in the brain. It is a functional boundary in the organized activity of an already experiencing interior.
 
-- **Representational separation.** A question held apart as its own object of thought. In plain terms: the gap that keeps a question a question.
-- **Organizational boundary.** The organization that preserves the question’s identity as a distinct object of thought.
-- **Critical threshold.** The level of coherence below which the separation dissolves.
-- **Accessible continuity.** Continuity already present in cognition that has become directly available.
-- **Inherited organization.** The organization established by the revealed relation, carried into future cognition.
+That boundary performs two jobs. It makes a question identifiable through time, and it keeps a relationship unresolved. The search for the answer is shaped by the question's continuing identity. At the same time, some of the very constraints preserving that identity may prevent an alternative organization from becoming apparent.
 
-### The phase transition analogy
+### The answer can be causally present before it is intelligible
 
-The transition parallels physical phase transitions. A physical system can undergo extensive underlying reorganization before reaching a critical point at which a new state emerges. In the same way, representational structures can accumulate hidden continuity while preserving the appearance of separation. The felt event of realization is analogous to the observable signature of such a transition.
+An answer can feel as though it had been there all along. That feeling need not mean that a complete, finished sentence was stored somewhere and waiting to be retrieved. The relevant relationships can already be influencing perception, memory, expectation, and the search for a solution without being accessible together as one intelligible result.
 
-A photon marks the transition between electronic states. In the same way, the phenomenology of insight marks the transition through which continuity becomes accessible, while the resulting continuity remains available afterward.
+The distinction is between **causal participation** and **joint accessibility**. A memory can influence which answers seem plausible before it becomes the explicit subject of thought. A recognized pattern can guide attention before its complete structure can be described. A question can narrow a field of possibilities while its own solution remains outside immediate recognition.
 
-### Why understanding feels like revelation
+The feeling of being on the tip of the tongue makes this especially clear. Familiarity, meaning, and partial sound can constrain the search for a word even when the complete word is unavailable. When recall succeeds, the missing expression suddenly seems obvious. The search had already been guided by information that became recognizable only at the end.
 
-The answer arrives as continuity that had been participating all along, made directly available in the moment of insight. That is why understanding so often appears as the revelation of something present all along. Understanding is the persistence of that revealed continuity: the relation stays available and keeps shaping later interpretation, prediction, action, and recognition. The release of the old separation and the stabilization of the new whole are two descriptions of one transition. Its consequences reach the study of insight, learning, creativity, conceptual change, meaning, and the phenomenology of discovery.
+Insight may involve a further change. The question and its answer can become fully intelligible in the same instant. The completed relationship supplies both the resolution and a new understanding of why the problem had taken its earlier form. The click is therefore not always a separate answer delivered to an unchanged question. It can be the event in which the organization of the question itself is transformed.
 
-### The bigger picture
+### What collapses at the threshold
 
-This is the fourth step seen from inside a question. The relations needed for the answer are already participating, held apart by the question’s boundary. Insight is the moment they become jointly available, and the new organization is then carried into future cognition as consequential history.
+The paper proposes that a representational separation remains intact while the relations maintaining it are sufficiently coherent. During continued thought, other relations may develop beneath that separation. Memories are reactivated, alternatives are compared, and previously isolated constraints begin participating together.
+
+When the earlier separation loses the coherence needed to preserve its independence, the question ceases to operate in its former form. The relations it held apart become available through a new organization. The old boundary's dissolution and the new whole's stabilization occur as related parts of one transition.
+
+Two distinct conditions should be kept clear. The **loss of coherence in the old separation** describes why the unresolved question cannot continue in precisely the same form. The **gain of coherence in the newly accessible relation** describes why understanding can persist afterward. Neither transition means that consciousness itself has vanished and returned. Both happen within an already continuing conscious system.
+
+The account can be compared to a phase transition. A material may undergo gradual microscopic changes while preserving an observable state, until a change of conditions produces a qualitatively different organization. For insight, the proposed critical change concerns how relations are maintained and accessed. An actual critical point would need a specified dynamical model and measurements; the term threshold is a mechanistic proposal rather than a numerical value supplied by the experience alone.
+
+### Why a full layer can surface at once
+
+The resulting experience can be more complete than simply noticing one new connection. A previously latent layer of organization may become accessible as a whole. Relations developed across different times and activities suddenly constrain one another in a way that makes the problem comprehensible.
+
+The layer has a causal history. Earlier learning, partial recognition, errors, and repeated encounters have changed the organization available to the present. Those contributors may have been active well before the click. Their simultaneous accessibility is new.
+
+This explains why the event often carries both surprise and familiarity. The surprise belongs to the newly organized whole. The familiarity belongs to the relations that were already participating in the activity from which that whole emerged. The sense of revelation can follow from the actual relation between a developed history and a newly available organization.
+
+The full layer need not have existed beforehand as an intact hidden object. Its constituent relations could have been physically available while the particular collective structure that reveals their compatibility was still forming. Insight is a change in the accessible organization of that history, not the appearance of information without causes.
+
+### The click is a transition within continuing experience
+
+Consciousness is not created by the click. It continues through the unresolved problem, through periods of ordinary perception, and after the answer becomes available. The still-water picture captures that continuity: the water remains present before and after a drop disturbs its surface. Particular qualitative experiences alter an ongoing interior without bringing that interior into existence.
+
+Aleph Harmonic Qualia (AHQ) makes a more specific identity proposal about insight. The felt click is the intrinsic character of the transition in which distributed, history-bearing relations become constrained into a coherent, reusable whole. In its measurable formulation, this could involve a reduction of effective population dimensionality, increased harmonic coordination, sufficient self-maintenance, and later reuse. Those are joint predictions, not properties proved merely by the familiar feeling of recognition.
+
+The collapse of separation describes the organizational change from the standpoint of the question. AHQ describes the proposed phenomenal and dynamical character of the crossing. The ongoing conscious interior provides the condition in which both can occur.
+
+### What distinguishes understanding from a momentary impression
+
+The sudden certainty accompanying an insight is not a guarantee that the resulting belief is correct. A mistaken solution can feel just as immediately obvious. The strength of the experience and the truth of its content are separate matters.
+
+The question of **incorporation** is also separate from immediate confidence. A newly accessible relationship must remain usable if it is to change understanding. It may guide future judgments, alter how similar problems are approached, or permit a result to be applied in a different situation. If the feeling fades without changing later reasoning, the event may have little enduring consequence.
+
+An incorporated insight becomes part of **consequential history**: earlier organization that continues participating in later states. Its importance is measured partly by what it changes afterward, not simply by the intensity of the moment of realization.
+
+This is why understanding can be described as the persistence of revealed continuity. A relationship becomes available, remains coherent enough to be retained, and enters the conditions under which later events are interpreted.
+
+### Recognition of recognition
+
+Some moments of insight reveal a relationship that closely resembles the act of insight itself. A joke can turn on the sudden reinterpretation of a familiar phrase. An elegant proof can expose why several steps that seemed independent belong to one simple argument. A discovery about the structure of recognition can make the very event of recognizing it newly intelligible.
+
+In these cases, there is a potential **recursive correspondence** between what is understood and how understanding occurs. The realized content can concern the same kinds of separation, reorganization, and continuity through which the realization took place. This is a possible source of the distinctive force of some intellectual or aesthetic experiences; it does not make every joke, scientific discovery, or expression of beauty an instance of the same measured neural event.
+
+The important relation is precise. A system already capable of experience can sometimes make part of the organization of its own recognition available to itself. Its newly accessible understanding then joins the history that will shape later recognition.
+
+### What the proposal asks experiments to distinguish
+
+Insight studies can compare unresolved trials, sudden reports of understanding, correct solutions reached gradually, and confidently mistaken solutions. A useful measurement must distinguish a simple change of attention or arousal from a reorganization of the relevant relationships. It must also separate the breakdown of a particular unresolved representation from the creation of a stable replacement.
+
+The strongest evidence would connect the timing of reported realization to independently measured changes in relational organization and demonstrate that the resulting collective pattern predicts later reuse. Evidence of dimensional contraction or coordination alone would not establish the entire identity hypothesis. The relevant prediction is that an old maintained separation gives way while a new, history-bearing relation becomes jointly accessible.
+
+The central proposition is that the click discloses a continuity built through earlier causal participation. A question preserves a separation; developing relationships eventually change the organization that made the question persist; the newly intelligible whole becomes part of future cognition. The felt event is the transition through which a latent layer becomes available, while consciousness continues before, during, and after it.
 
 ---
 
@@ -1347,61 +1384,103 @@ Next: [Aleph Harmonic Qualia: The Dynamical Click of Coherence](https://ahq25.su
 
 ---
 
-A conscious present is the present of a continuing system, carrying history from many times. Awareness Where Time Concentrates explains causally how such a present arises in a materially changing organism. A present belongs to a system when the system’s own consequential history helps produce it and the present, in turn, helps determine how that history continues. The explanation runs through the Porter balance, the ostiary condition, temporal basin compression, temporal concentration, the deep present, and causal reentry, and it ends in a precise statement of awareness.
+A present moment contains more causal history than its brief duration suggests. A sentence being understood now depends on words encountered seconds earlier, language learned years earlier, and a nervous system shaped by development. Those earlier events do not occur again in the present. Their surviving consequences participate in the activity through which the present takes shape.
 
-### How a present belongs to a system
+[Awareness Where Time Concentrates](https://philarchive.org/rec/PORAWT) examines how a materially changing system can have an ongoing present of its own. Its proposal connects three processes: the retention of consequential history, the organization of consequences from different times within a shared current state, and the capacity of that state to affect how its successor is produced.
 
-How can a present belong to a system whose material keeps changing?
+### What makes a present belong to a system
 
-### How it works
+A nervous system does not retain exactly the same physical configuration from one moment to the next. Molecules move, neural activity changes, and a large part of the organism's material is eventually replaced. Nevertheless, new states can be caused partly by the organization's earlier states. The continuity is carried by interactions, structures, and changes that remain effective after the original events have ended.
 
-1. **A present belongs to a system through recursive dependence.** A present belongs to a system when the system’s own consequential history helps produce it and the present, in turn, helps determine how that history continues.
-2. **Consequential history and active inheritance.** Consequential history is the portion of prior organization that remains causally active now. Active inheritance describes the continued participation of that organization through changing physical carriers.
-3. **The Porter balance.** The Porter balance identifies the persistence condition under which self maintained organization can remain available through environmental disruption.
-4. **The ostiary condition.** The ostiary condition occurs when inherited organization becomes part of the rule by which new events are selectively admitted, transformed, and incorporated. History itself becomes a determinant of future state transitions.
-5. **Gating compresses histories.** Repeated history dependent gating can compress temporally dispersed trajectories into increasingly organized present states.
-6. **The deep present.** The result is a current organization in which recent activity, retained states, learned organization, developmental history, and older biological structure can remain consequential together.
-7. **Causal reentry closes the loop.** Causal reentry occurs when this larger present alters the local conditions through which its successor is produced. This generates recursive continuity: history produces the present, and the present participates in selecting which history continues.
-8. **Awareness.** Awareness is the lived availability of consequential history when temporally distributed relations become jointly organized within an active present and that present remains causally involved in producing its successor.
+The relevant history is not every event that ever occurred in the system's surroundings. **Consequential history** is the portion of the past whose effects remain causally active. Earlier events can contribute through chemical states, synaptic organization, learned sensorimotor habits, regulated electrical activity, tissue structure, and other existing physical carriers.
 
-### Terms to know
+**Active inheritance** describes how such consequences continue doing work. A carrier can change while a relevant organization or constraint persists through its replacement. A previously established pattern may alter how an incoming signal is treated even if the material immediately carrying that pattern is no longer identical to the material present when it began.
 
-- **Consequential history.** Consequential history is the portion of the past that remains causally active in the present.
-- **Active inheritance.** Active inheritance is the continued causal participation of earlier organization within later organization. The carrier can change while the consequence continues.
-- **Porter balance.** The persistence condition under which self maintained organization can remain available through environmental disruption.
-- **Ostiary condition.** Inherited organization becoming part of the rule that admits, transforms, and incorporates new events. In plain terms: the past helps decide what gets in and what it becomes.
-- **Temporal basin compression.** The convergence of distinct histories into a narrower range of later possibilities. In plain terms: many different starting paths funnel toward a few outcomes.
-- **Temporal concentration.** The joint causal availability of consequences originating at different temporal depths. In plain terms: effects that began at very different times are all at work together now.
-- **Deep present.** A current organization in which recent activity, retained states, learned organization, developmental history, and older biological structure remain consequential together. A deep present runs on the same clock tick as any other present. It is a present containing consequences from more temporal depths.
-- **Causal reentry.** The larger present altering the local conditions that produce the next present.
-- **Recursive continuity.** History producing the present, and the present participating in selecting which history continues.
+A present belongs to the continuing system when that inherited organization participates in producing the current state and the current state helps determine which of those consequences will remain effective next. The requirement is causal continuity, not the preservation of an unchanged inventory of parts.
 
-### Awareness, defined
+### How ordered causal activity maintains an inside
 
-**Awareness is the lived availability of consequential history when temporally distributed relations become jointly organized within an active present and that present remains causally involved in producing its successor.** Awareness combines access to consequential history, temporal concentration, and causal reentry.
+The broader physical proposal begins with flows of causal influence that become organized across time. Continuing trajectories, feedback, internal reflection, and recirculation can allow earlier interactions to influence the subsequent conditions of interaction. Through enough organization and self-maintenance, these processes can create a coherent boundary between activity being carried forward and activity encountered from outside.
 
-A present becomes lived when what the system has carried from many different times is available together now, and this present is still helping determine what the next present will be.
+The Porter Ratio compares effective restoration and disruption for a declared organizational variable:
 
-The whole picture fits in one line: “experience is the present tense of a working history.”
+R = λ_self / λ_env
 
-### Where it connects
+The quotient is defined directly for a positive disruption rate. R = 1 marks equality of the declared rates, while R★ names a proposed, separately identified transition into a coherent history-bearing boundary. The ratio alone does not specify a boundary's geometry or prove its emergence. Those features depend on the actual interactions, coupling, and organization of the system.
 
-Developmental continuity, synthetic morphology, state dependent neural processing, hierarchical neural timescales, recurrent dynamics, and temporal gating all fit within this common causal structure.
+At the proposed boundary-forming threshold, an interior begins to participate coherently in its own continuation. Phenomenal experience is identified, in this physicalist account, with the intrinsic aspect of that formed interior. The later accumulation and use of a deeper history can enrich its experienced organization without creating consciousness anew at each event.
 
-### What experiments can check
+### The gates inherit their own rules
 
-Experiments can address:
+A boundary that selectively receives events has more than a shape. Its current organization helps determine which encounters are admitted, which are delayed, and what effects admitted events produce. This is the **Ostiary Principle**.
 
-- **retained carriers:** the physical states that carry history forward;
-- **controlled prehistory:** setting a system’s earlier history on purpose and tracking its effects;
-- **history dependent gating:** whether what a system admits depends on what it carries;
-- **trajectory convergence:** whether different histories funnel toward the same later states;
-- **temporal depth:** how far back the consequences active in a present reach;
-- **recursive state dependence:** whether the present shapes the conditions of its own successor.
+A cell provides a concrete instance of selective exchange. Transport proteins and regulatory states can make entry depend on the cell's current condition. The same outside concentration need not produce the same result after the cell has been exposed to a different history of conditions. The earlier exposure acts through a present physical carrier that changes the gate's response.
 
-### The bigger picture
+In a nervous system, previously established synaptic connections, adaptation, ongoing oscillations, and recurrent states can likewise affect what a signal contributes to current activity. The same sensory arrival may be processed differently depending on an expectation, a learned category, or a recently active pattern.
 
-This is the third step: awareness and time. Repeated gating gathers consequences from different temporal depths into a deep present. When that present participates in producing its own successor, history has become recursively active, and the lived availability of that recursively organized history is awareness.
+The important step occurs when **carried history becomes part of the rule for receiving the future**. Then the system is not merely affected by the past in a passive way. Existing organization conditions subsequent interactions, and those interactions can change the organization that conditions later ones.
+
+### Temporal basin compression
+
+A system can receive many distinct trajectories yet bring them into a narrower range of later states. This process is called **temporal basin compression**.
+
+A sequence of traffic lights provides a direct picture. Cars approach an intersection at different moments. A red light holds them until a shared release interval; cars with distinct arrival histories then leave in a more concentrated group. The light has compressed differences in their earlier timing into a smaller range of departure times.
+
+A following light can act on that newly grouped arrival, producing another set of constraints. The changing state of each light determines how the group is reorganized. The original arrival differences still matter insofar as they affect which car joins which release, although not every detail survives.
+
+A neural or biological system can do something structurally comparable when a regulatory gate admits inputs within particular windows, or when recurrent dynamics bring distinct starting trajectories into a common later state. This is a claim about the convergence of trajectories, not about physical time running at a different speed.
+
+Compression is selective. Some distinctions are preserved and other distinctions are discarded. The resulting organization can become easier to carry forward precisely because many earlier variations now lead to fewer possible outcomes.
+
+### Temporal concentration and the deep present
+
+Temporal concentration is related to basin compression but means something different. It concerns **how many causally effective consequences originating at different times are jointly available in a present organization**.
+
+Consider reading a familiar musical phrase. The immediate sound is affected by the previous note, the rhythm established over the preceding seconds, years of listening, and patterns of expectation developed through learning. Those influences can act together in current perception. Their histories have different ages and timescales, but their effects are organized within one active state.
+
+A deep present is such an organization of jointly consequential temporal depths. Its physical duration need not be long, and the clocks involved do not change their rate. Depth refers to the history participating in the state, rather than to a slowed or stretched external second.
+
+A present can also be deep without making every component of its history explicitly recognizable. Some inherited relations shape perception or action beneath explicit report. Accessibility becomes richer when the organization allows more of those relations to participate together in current discrimination, recognition, and regulation.
+
+### Why the present also matters to its successor
+
+Retaining history and gathering it into one state are not the end of the process. The resulting organization can alter the conditions under which the next state is generated.
+
+This is **causal reentry**. A larger or longer-lived organization feeds back into the local gates and interactions that will produce its continuation. Earlier events have shaped the present, and the present changes which earlier influences remain relevant afterward.
+
+For example, a recurrent neural population can change its subsequent responsiveness through a pattern formed during earlier activity. A learned interpretation may alter what is attended to next, and that new attention changes which information will later be remembered. In each case, causal history influences current selection, and current selection changes the future path of causal history.
+
+The resulting loop is physically continuous. No influence travels backward in time: later states are affected by current carriers of earlier events, and those later states alter subsequent transitions.
+
+### Awareness and recursive availability
+
+The paper states its identity hypothesis as follows:
+
+**Awareness is the lived availability of consequential history when temporally distributed relations become jointly organized within an active present and that present remains causally involved in producing its successor.**
+
+This sentence connects the physical side of the proposal to its experiential side. Consequential history supplies inherited organization. Temporal concentration describes the joint causal availability of consequences from different times. Causal reentry makes the present an active contributor to what follows. Recursive availability concerns how much of that ongoing organization becomes usable within the process that carries it.
+
+The account distinguishes the formation of a phenomenal interior from the richer awareness that may develop through recursive access. A coherent boundary is proposed to establish the intrinsic condition of experience. Further organization determines how much history becomes available in that experience and how deeply it can shape itself.
+
+This also explains why momentary qualia and the ongoing conscious interior should not be confused. Particular experiences perturb a continuing organization; they can change what it carries forward without creating the entire organized interior again.
+
+### What could be measured
+
+The physical parts of the proposal are testable separately. A controlled prehistory can be imposed before an event, and current carriers of its effects can be identified. A putative gate can then be challenged with matched input to determine whether its response depends on those carriers.
+
+The strongest history claim is causal rather than merely correlational: changing a retained carrier should change a later outcome in the predicted direction. Matching selected current observables while manipulating a history carrier does not imply that the complete physical states are identical. The carrier is part of the current state.
+
+Trajectory convergence can be measured by determining whether different starting conditions enter the same later region. Temporal concentration requires a declared method for attributing historical contributions and an independent definition of the temporal window being studied. Reentry can be tested by altering a larger state and checking whether that intervention changes the subsequent local transition rules.
+
+The identity between these processes and lived awareness remains a further physicalist hypothesis; it is not an equation derived solely from measurements of retention. The physical tests determine whether the proposed causal architecture exists and how it changes with the experiential condition being investigated.
+
+### A continuing present
+
+A present is not an isolated instant receiving information from a vanished past. It is an event in a continuing system, formed by physical consequences already present and able to alter the conditions of what comes next.
+
+Some of those consequences are recent, some are old, and some act through structures that have changed carrier many times. They become jointly effective when ordered dynamics and selective gates bring them into a common activity. Reentry makes that activity participate in its own continuation.
+
+This is the intended sense of a **deep present**: a currently organized process bearing multiple ages of consequential history. Awareness, under the proposed identity, is the lived availability of that process as it continues shaping itself.
 
 ---
 
