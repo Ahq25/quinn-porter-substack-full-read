@@ -2407,6 +2407,8 @@ An identifiable system can remain organized while its material and circumstances
 
 [The Law of Self Maintained Invariance](https://philarchive.org/rec/PORTLO-12) proposes a concise way to compare the processes that preserve such an organization with the processes that revise it. The aim is to isolate an observable dynamical relationship and then ask where it predicts persistence, history dependence, and the formation of self-maintaining boundaries.
 
+The central proposal is that when active internal maintenance overtakes disruption, consequential history has become the primary organizing influence on what happens next. Earlier organization, carried forward through present physical processes, now determines more of the system's continuation than the specified disturbance. This is the interpretation the ratio is meant to help test.
+
 ### What an organizational invariant means
 
 An invariant is a feature that remains sufficiently stable under a specified range of changes. In ordinary language, it is what continues to be recognizable while something else varies. A living organism does not need every molecule to remain unchanged for a regulated pattern of activity to persist.
@@ -2433,7 +2435,9 @@ R = λ_self / λ_env
 
 Both must be measured in compatible units, over the same interval and for the same organizational variable. The ordinary ratio is dimensionless when λ_env is positive. When the disruption rate is zero, the quotient is not defined in the usual way; a zero-disruption convention or a difference-based analysis must be stated separately. Adding a small value to the denominator may help a numerical procedure but changes the measured quantity.
 
-The equality point is R = 1. Values above one indicate maintenance dominance under the selected decomposition; values below one indicate disruption dominance. Neither sign is a proof of the complete future behavior of a coupled system unless the two-rate description accounts for the relevant dynamics.
+The equality point is R = 1. Values above one indicate maintenance dominance under the selected decomposition; values below one indicate disruption dominance. The proposed causal interpretation is that, when active maintenance exceeds disruption, consequential history has become the primary organizing influence on the system's continuation. Existing internal relationships established through earlier activity are doing more to determine what happens next than the specified disturbance.
+
+This interpretation is a hypothesis to test, not a mathematical consequence of R > 1. An experiment must identify the history-bearing physical carrier and show that altering it changes maintenance and subsequent responses under comparable disturbances. Neither side of the rate comparison alone proves the future behavior of a coupled system.
 
 ### A minimal equation for maintained organization
 
@@ -2502,6 +2506,7 @@ Full paper on PhilArchive: [The Law of Self Maintained Invariance](https://phila
 Before this: [Consequential History and the Conditions of Persistence](https://ahq25.substack.com/p/consequential-history-and-the-conditions).
 
 Next: [The Shape of Persistence](https://ahq25.substack.com/p/the-shape-of-persistence-coherence), where crossing R★ gives carried history a local causal interior.
+
 
 ---
 
