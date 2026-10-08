@@ -1368,7 +1368,7 @@ The click occurs when a way of keeping those relations apart gives way and a new
 
 Full paper on PhilArchive: [The Collapse of Separation and the Structure of Insight](https://philarchive.org/rec/PORTCO-18)
 
-Related paper: [Consequential Continuity and the Schrödinger Boundary](https://philarchive.org/) — the road-and-bag example and the boundary-of-access argument.
+Related paper: *Consequential Continuity and the Schrödinger Boundary* — the source of the road-and-bag example and the boundary-of-access argument.
 
 Before this: [Stillwater and Death Spirals (the paper)](https://ahq25.substack.com/p/stillwater-and-death-spirals-coherence).
 
