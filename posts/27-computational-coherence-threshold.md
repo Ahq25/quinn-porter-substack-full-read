@@ -1,8 +1,7 @@
 # A Minimal Computational Test of the Coherence Threshold
 
 - **Author:** Quinn Porter
-- **Audience:** everyone (free, public; intended for synchronization)
-- **Mirror status:** Existing Substack URL not recorded; check by title before creating a new post.
+- **Audience:** everyone (free, public)
 
 ---
 
@@ -74,6 +73,8 @@ The next question would be whether a particular R★ predicts that transition in
 
 Without this calibration, the model shows that update rules can generate different-looking or differently balanced fields; it does not yet derive a specific boundary-forming threshold from the Porter Ratio.
 
+There is also a causal question separate from whether the restoration attempts outnumber disruptions. If a measured R > 1 is sustained by the grid's inherited arrangement changing subsequent updates, the framework proposes that consequential history has become the primary maintaining influence on the declared organization relative to the specified disruption. To test that interpretation, the model would need to compare fields with controlled differences in their retained patterns and determine whether disrupting those patterns changes later maintenance. A large number of restoration attempts, by itself, cannot establish historical causal dominance.
+
 ### History in a finite lattice
 
 A state of the lattice at one time depends on earlier updates because those updates changed the current arrangement. That gives the simulation an ordinary physical and mathematical history.
@@ -85,6 +86,8 @@ This history dependence is implemented through the present grid. No earlier stat
 An experiment can compare matched coarse measurements under different detailed grid configurations. If two fields have the same fraction of balanced junctions but different arrangements, their later evolution may differ because the update rule responds to local patterns. The complete current grids are different, even though the reported scalar coherence scores match.
 
 This is a useful illustration of why a coarse variable can omit consequential structure.
+
+The distinction can be tested directly: vary the detailed arrangement while holding the coarse score comparable, then observe whether later recovery, propagation, or selective response changes. That would show what the present inherited pattern contributes to the model's future organization. A further step would be to establish whether these interactions form a newly self-maintaining collective with an independently identifiable causal boundary, rather than only repeatedly favoring a local pattern.
 
 ### The relation to the Period Lattice
 
