@@ -4,7 +4,7 @@ A system can preserve what supports its continuation before it can represent its
 
 The claim is not that every act of regulation should be called care. The stronger idea is that persistence can become organized around preserving **relations that preserve the system**. When the history of dependence on a supporting relation changes what the system later approaches, restores, protects, or maintains, continuation has acquired a relational direction.
 
-Care begins there.
+Care begins there. The term names a proposed minimal causal organization of preservation. Its later emotional and ethical meanings require further capacities, including experience, evaluation, attachment, and reflective responsibility.
 
 ### Persistence depends on more than what is inside
 
@@ -22,6 +22,14 @@ Persistence is therefore often relational. A system can maintain itself partly b
 
 This is the physical root of care in the present account.
 
+### How a relationship becomes worth maintaining
+
+A supporting relationship becomes a target of ongoing activity when the system can distinguish, recover, or preserve it through its own organization. An animal returning to a sheltered place after a disturbance provides a concrete example. The shelter contributes to continued regulation, but the repeated return depends on orientation, retained experience, and the capacity to act upon those consequences.
+
+A tissue provides a different example. Cells exchange materials and signals needed for collective regulation, and feedback can preserve the pathways through which those exchanges occur. The relation being maintained is not a single internal variable. It can be a network of interactions that supports a larger organization.
+
+Neither case proves subjective concern. Both show how the preservation of a supporting relation can become organized into behavior before a system explicitly represents the importance of that relation.
+
 ### Preserving what preserves continuity
 
 The simplest form is not reflective concern. It is organized preservation of a supporting relation.
@@ -34,7 +42,7 @@ That gives care three linked requirements.
 
 The relation must contribute measurably to continuation. The system must act in ways that preserve, restore, approach, or reestablish that relation. And accumulated history must increase the specificity or precision of that maintenance.
 
-This separates care from a generic thermostat. A thermostat corrects a temperature error. Care, in this minimal sense, appears when a history-bearing system has learned or inherited which relation supports continuity and selectively preserves that relation because its consequences have become part of the system's own organization.
+This distinguishes the proposed care condition from a simple one-variable controller. The operational difference is not that one mechanism uses feedback and the other does not. It is whether a history-bearing system selectively maintains a relationship that contributes to its continuing organization, and whether changing the retained history changes that selective behavior.
 
 ### Boundary and relation
 
@@ -48,19 +56,35 @@ Care fits naturally into that architecture. Some external relations repeatedly c
 
 The boundary therefore does not merely separate self from world. It also preserves selected relations with the world.
 
+### Boundaries preserve selected dependencies
+
+A coherent boundary is sometimes described as if it made an organism independent of its environment. A functioning membrane demonstrates something more interesting: continuing separation can depend on regulated exchange. A boundary can preserve an inside while maintaining the routes through which the outside contributes to it.
+
+Supporting relationships therefore do not disappear when a boundary forms. The organization of the boundary determines which relationships remain effective and how incoming conditions alter the interior. The Ostiary Principle describes this history-conditioned reception.
+
+The Porter Ratio may quantify one balance involved in maintaining the interior, but it does not identify which external relation supports it. That requires causal measurement of the relation, its physical carriers, and the selective activities through which it is preserved.
+
 ### Care before reflective selfhood
 
 Reflective selfhood requires much more. A phenomenal interior must become recursively available within its own ongoing activity. Memory, recognition, anticipation, regulation, and self-related history must become sufficiently integrated that the system can use its own condition as part of what it recognizes and regulates.
 
 Care can begin earlier.
 
-A system can preserve the conditions of its continuation before it can represent the proposition, “these conditions matter to me.” The organization can already be directed toward what supports it because those relations have become causally embedded in its history.
+A system can preserve the conditions of its continuation before it can represent the proposition, the significance of those conditions to its own continuation. The organization can already be directed toward what supports it because those relations have become causally embedded in its history.
 
 The developmental order is therefore:
 
 **supporting relation → maintained organization → threshold boundary/interiority → phenomenal interior → recursive availability → reflective selfhood**
 
 Care enters near the beginning as history-dependent preservation of supporting relation. Reflective value comes later as that relation becomes increasingly available within a self-legible interior.
+
+### When preservation goes wrong
+
+A once-useful relation can stop supporting an organism after its environment changes. A familiar shelter can become unsafe. An acquired attachment can remain powerful even when preserving it now undermines well-being. A stable pattern of response can constrain the ability to adapt.
+
+Consequential history explains why such patterns persist: earlier experiences continue influencing the present through existing organization. Persistence of a preference is not proof that the preferred relation remains beneficial.
+
+The minimal physical criterion therefore asks whether the preserved relationship actually contributes to the selected form of continuation. Ethical care requires additional questions concerning consequences for other people and how the relationship should be evaluated. Stability, biological benefit, felt attachment, and moral value are different properties.
 
 ### How care gains depth
 
@@ -104,7 +128,17 @@ A clean causal sequence would be:
 
 **supporting relation → measurable contribution to restoration → retained history of dependence → selective preservation of the relation → improved continuity**
 
-If history makes no difference, the stronger care claim has not been shown. If the relation does not contribute to continuation, it is not a supporting relation in this operational sense.
+A proper control must separate retained history from immediate attraction to a currently available reward. Prior experience can be varied while present opportunities are matched, and a candidate current memory or regulatory carrier can be manipulated to test causal influence.
+
+If history makes no difference, the stronger care claim has not been shown. If the relation does not contribute to continuation, it is not a supporting relation in this operational sense. Nor has selective care been demonstrated when identical behavior occurs regardless of which relation actually supports the system.
+
+### Enduring care and changing feelings
+
+An adult can care for a child while feeling affection, exhaustion, worry, or frustration at different moments. These changing qualities are experiences within an ongoing conscious interior. The history of the relationship can continue organizing attention, preparation, protection, and commitment across those changes.
+
+That distinction matters. A momentary emotion is not identical to the continuing organization of care. Mature caring includes the ability to reconsider an old commitment, recognize changing needs, and alter behavior when preservation of the familiar pattern no longer serves the relationship.
+
+The proposal connects the earlier physical preservation of supporting relations to later forms of experience and reflective responsibility, while keeping the different levels of organization distinct.
 
 ### The larger continuity
 
