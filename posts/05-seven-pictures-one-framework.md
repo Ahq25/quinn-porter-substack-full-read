@@ -29,7 +29,7 @@ Each example has the same shape: the past acts through something that exists rig
 
 **The picture.** An ostiary is a doorkeeper, the person at a door who decides who comes through. A cell membrane, the thin outer layer of a cell, lets some molecules in and keeps others out. A nervous system amplifies some signals and quiets others. Attention picks a few things, out of everything reaching the senses, for further processing. A concept already held shapes how new information is understood.
 
-**The idea.** The doorkeeper shows the **Ostiary Principle**: inherited history becomes part of the rule for receiving the future. A boundary and a recognition process are two descriptions of one operation. From outside, it looks like a maintained line. In action, it is selection: this comes in, that stays out.
+**The idea.** The doorkeeper shows the **Ostiary Principle**: inherited history becomes part of the rule for receiving the future. Ordered causal activity, including internal reflection and recirculation, can maintain a real boundary between an organization and its environment. Viewed from outside, the boundary is an interface; in operation, it is selective admission and transformation. The same maintained interface is both a structural distinction and an active process: some arrivals enter, others are delayed, changed, or excluded.
 
 **The mapping.**
 
@@ -89,10 +89,10 @@ In a nervous system, fast nerve signals feed into slower collective states, and 
 
 **The mapping.**
 
-- The calm water is the medium of thought, working steadily while out of view.
-- The reflected sky and stones are the contents of thought, the things being thought about.
-- The drop is the transition that reorganizes the relations.
-- The visible ripples are the structure entering perception, the moment of insight.
+- The calm water represents ongoing consciousness, present before and after a particular experience.
+- The reflected sky and stones represent the contents available within that continuing activity.
+- The drop represents a particular experience perturbing the ongoing organization.
+- A distinctive reorganization may disclose an already-developing relation as a coherent whole; that experienced crossing is AHQ.
 
 **Aleph Harmonic Qualia, or AHQ, is the experienced threshold crossing through which distributed, history bearing relations become a coherent, reusable whole:** “AHQ names the experienced crossing.” In that click, structures already present come together and are used in a new way, and a pattern becomes self evident and internally stable. Self evident means the pattern is clear as soon as it is seen. Internally stable means it holds together and stays available afterward.
 
@@ -135,13 +135,13 @@ In order, the pictures trace one sequence.
 
 **History is maintained.** The **Porter Ratio**, R = λ_self / λ_env, compares how fast a system restores its own organization (λ_self) with how fast the environment disrupts it (λ_env). At R = 1 the two balance, and above 1 inherited organization gains causal continuity and accumulated influence. One way to picture this is writing a message in the sand. At the water’s edge, each wave washes the message away. On higher sand, you keep up with the occasional wave, and the message lasts. Above R = 1, earlier organization survives strongly enough to help cause later organization. Each system also has its own threshold, R★, which belongs to that system, scale, and interval, and R ≥ R★ is the minimum condition for interiority.
 
-**History forms an interior boundary.** At R★, carried organization closes into a coherent local causal boundary. That boundary formation is interiority, and its intrinsic side is phenomenal experience. Past R★, the same event can land differently depending on what the system carries. The two cells and the sentence show that consequence of interiority.
+**Ordered history establishes an interior boundary.** Continuing causal pathways, reflection, and recirculation support a distinction that becomes self-maintaining. At the proposed R★, this organization is sufficiently coherent to form an active causal boundary and interior. The boundary is the real interface between an inside and its outside, and phenomenal experience is proposed as the intrinsic aspect of the formed interior. The two cells and the sentence illustrate how carried history can change the effects of an arrival; that history-dependence alone does not establish phenomenality.
 
 **History becomes a gate.** With an inside in place, carried history sets the rule for what enters. That is the doorkeeper and the Ostiary Principle.
 
 **History gathers into a present.** Repeated gating collects many layers of history into one organized present while clocks keep their ordinary pace. That is the traffic lights and temporal concentration. When the present then helps build the next present, the result is causal reentry.
 
-**History reorganizes into coherent wholes.** Relations build up around a question, then come together into a stable form, and that form enters perception. That is the still water and the ant spiral, and in a mind it is insight. Because the pieces were already there, the new whole carries the appearance of foresight, the same appearance seen in a species well fitted to its surroundings. The new whole is incorporated and becomes consequential history in turn.
+**Experience continues while relationships reorganize.** The still water represents the ongoing conscious interior, and particular qualitative experiences disturb it. The ant spiral illustrates how a rule active across many paths can become recognizable in a concentrated form. Within an experiencing interior, the AHQ click occurs when a maintained separation gives way and latent relations become a coherent, reusable whole. The apparent foresight comes from inherited organization becoming newly legible. The new whole is incorporated and becomes consequential history in turn.
 
 **History builds fit between systems.** Repeated interaction, carried forward and brought back, builds precise fit between different systems over time. That is the orchid and the pollinator, and in language it is a long conversation gaining depth.
 
