@@ -1113,108 +1113,156 @@ Full list of papers: [ORCID](https://orcid.org/0009-0005-0044-401X)
 
 ---
 
-Aleph Harmonic Qualia: The Dynamical Click of Coherence defines AHQ as a dynamical event. The felt click of insight or recognition is the phenomenal form of a rapid transition from distributed relational activity to a reusable collective state. The paper gives that transition a precise, measurable form: effective dimensionality drops, harmonic coordination rises, the Porter Ratio of the new state crosses the coherence threshold, and the new state persists and is reused. Consequential history supplies the temporal content of the event, and a trial by trial test compares the felt click with the measured transition.
+The click of understanding has a recognizable character. A question may remain unresolved while the information needed to answer it is already influencing thought. A familiar word stays on the tip of the tongue. Several facts appear connected without revealing exactly how. Then the relation becomes clear, sometimes at the same moment the question itself becomes fully intelligible. The answer feels new and strangely familiar.
 
-### Measuring the click
+Aleph Harmonic Qualia (AHQ) names that experienced transition. The proposal is that the felt click is the intrinsic character of a physical reorganization in which previously distributed, history-bearing relations become jointly available as a coherent and reusable whole. The newly recognized relationship has a history before the moment of recognition; what changes at the click is its organization and accessibility.
 
-What happens, in measurable dynamical terms, at the moment of the felt click?
+The paper [Aleph Harmonic Qualia: The Dynamical Click of Coherence](https://philarchive.org/rec/PORAHQ-8) gives the proposal a measurable form. Activity should move toward fewer effective degrees of freedom, harmonic coordination should increase, the resulting organization should become sufficiently stable relative to disruption, and the newly formed whole should remain available for later use. Consequential history identifies the earlier physical relations contributing to the event. These features form a joint prediction, not a claim that any one measure establishes insight or consciousness by itself.
 
-The AHQ identity hypothesis identifies the felt click with one dynamical transition in a history bearing system. The event has four transition criteria and one historical contribution measure.
+### Consciousness continues before the click
 
-1. **Effective dimensionality contracts.** Distributed activity gathers into fewer coordinated directions.
-2. **Harmonic coordination rises.** Relations across participating rhythms become more strongly organized.
-3. **Self maintenance crosses the relevant threshold.** The forming whole reaches sufficient stability for continued causal participation.
-4. **The resulting state persists and participates later.** The new whole remains available to memory, prediction, action, recognition, or later state selection.
+A quiet pool of water provides a useful distinction. The water is present before anything falls into it. Its surface is already carrying reflections and responding to its surroundings. When a drop lands, ripples make the water's organization conspicuous. The drop does not create the water.
 
-**Historical contribution** is measured alongside those four transition criteria by estimating how much earlier organization remains causally active in producing the new state.
+In the same analogy, consciousness is an ongoing organized interior. Particular qualitative experiences perturb its activity, alter its relations, and leave consequences for subsequent experience. A click of insight is a distinctive perturbation within that continuing process. AHQ is therefore neither the beginning of consciousness nor a name for every moment of qualia.
 
-The phenomenal event and the dynamical event therefore have one trial level signature. Four transition criteria identify the crossing itself, while the historical contribution measure identifies how much consequential history participates in producing it. The click identifies the crossing as lived within the history bearing process, and the measurements identify the same crossing through observable organization.
+The broader account proposes that ordered causal pathways, internal reflection, and recirculation can sustain a physical distinction between an organization and what encounters it. Their continuing interaction establishes a real, active boundary through which arrivals are admitted, excluded, or transformed. At a system-specific coherence threshold, such a history-bearing boundary is proposed to establish a causal interior. First-person experience is the proposed intrinsic character of that formed interior. Later recursive activity can make increasingly rich parts of the interior available to itself.
 
-### The definition
+AHQ concerns a more local change within that already experiencing interior. A question can maintain a representational separation between relations that are otherwise causally active. At insight, the separation loses its previous organizing role while a new, more integrated relation stabilizes. The continuing interior is not destroyed. A particular boundary within it is reorganized.
 
-In the paper’s words, AHQ is defined as a dynamical event: “the felt click of insight or recognition is the phenomenal form of a rapid transition from distributed relational activity to a reusable collective state.”
+### Latent organization and the arrival of the answer
 
-AHQ is the experienced threshold crossing through which distributed, history bearing relations become a coherent, reusable whole. The click is the crossing, and the paper says so directly: “AHQ names the experienced crossing.”
+Imagine trying to remember a word. Its meaning may be available; its first sound may seem close; familiar associations narrow the possibilities. The word is not yet available as a complete answer, but earlier learning is already constraining the search.
 
-The click has a build up and an endpoint. The developing pre transition organization is the queue. The threshold crossing is the coherence threshold, the moment a developing organization becomes capable of participating as a coherent whole. The resulting state is incorporation into continuity, where the new whole becomes active inheritance: cue, queue, threshold crossing, incorporation, active inheritance.
+Something similar happens with a difficult problem. Prior examples, partial connections, expectations, and failed attempts continue influencing the developing question. Those influences are **consequential history**: past organization that remains physically relevant to the present. A latent relation need not be consciously accessible as a finished idea to be causally active.
 
-### How the click works
+During an insight, previously separate relations begin to constrain one another as one organization. What had been represented through many partially independent elements becomes intelligible through a smaller set of collective relations. The full layer appears to surface from beneath the ongoing activity, although the layer's component relationships were being carried and reshaped before they became recognizable together.
 
-1. **Activity is a trajectory.** Population activity is represented as a trajectory x(t) in a high dimensional state space, with one coordinate for each recorded unit.
-2. **Effective dimensionality is measurable.** The participation ratio quantifies how many independent directions the activity actually uses.
-3. **Harmonic coordination is measurable.** Generalized phase locking relations quantify how rhythms lock into fixed relationships. If r independent regular harmonic constraints are active, local phase manifold dimensionality is reduced by r.
-4. **Persistence is expressed by the Porter Ratio.** R(t) = λ_self(t) / λ_env(t) compares internally sustaining or restorative dynamics with environmentally disruptive dynamics.
-5. **The coherence threshold.** Crossing R(t) ≥ R★ places the emerging organization in a self maintaining regime capable of continued causal participation.
-6. **The AHQ event is a joint signature** of four criteria, each fixed in advance.
-7. **Consequential history supplies the temporal content.** Earlier relations remain causally active through the present organization they helped produce.
-8. **One event, two sides.** The felt click and the measured event are the same event, described from two sides, and a trial by trial test checks this correspondence.
+The question and answer can seem to arrive at the same instant because the new organization changes how the question itself is represented. The old separation no longer maintains the problem in its earlier form. A new whole becomes available for later thought.
 
-### Three things to measure
+AHQ identifies the **experienced crossing**, not an additional sensation generated afterward to announce that reasoning has succeeded.
 
-**Effective dimensionality: the participation ratio**
+### Translating the click into physical measurements
+
+The paper represents the participating neural population by a state trajectory x(t) in a high-dimensional space. Each recorded neural variable contributes a coordinate. A changing pattern of activity traces a path through that space, and its organization can be compared before and after a reported insight.
+
+The first question is how many effectively independent directions the activity uses. A large population may have many recorded variables without varying independently along all of them. If those variables become more tightly constrained by a collective relation, the activity may occupy a smaller effective state space.
+
+The paper uses the participation-ratio dimensionality:
 
 D_PR(t) = (Σ_i λ_i(t))² / Σ_i λ_i(t)²
 
-Here λ_i(t) are the eigenvalues of the windowed population covariance matrix. These λ_i are separate from the λ_self and λ_env of the Porter Ratio. D_PR lies between 1 and N. Equal variance spread across all N directions gives D_PR = N. Activity concentrated into a single direction gives D_PR = 1. In plain terms: a crowd moving in many directions at once needs many numbers to describe it, and a crowd moving together needs few.
+Here λ_i(t) are the eigenvalues of the covariance matrix of population activity in a defined time window. They describe how the observed variation is distributed among independent directions. These eigenvalues are not the restoration and disruption rates used in the Porter Ratio.
 
-**Harmonic coordination: phase locks**
+When variation is spread equally across N independent directions, D_PR = N. When most variation is concentrated along one direction, D_PR approaches 1. The prediction for the click is a measurable pre-to-post contraction:
+
+ΔD = D_PR(before) − D_PR(after) > θ_D
+
+The threshold θ_D is set in advance for the recording method and scale. The claim concerns **effective dimensionality**, not a literal reduction in the number of neurons or the dimensions of physical space.
+
+This translation matters because a concentrated state can be identified without merely asking whether it looks simple. The measured activity must actually depend on fewer effective collective directions than before.
+
+### Harmonic coordination and relational constraint
+
+Dimensional contraction alone does not establish that the new state is meaningful or reusable. Neural activity can lose dimensions because it becomes inactive, rigid, or pathologically synchronized. The AHQ proposal therefore requires a second kind of measurement: the coordination of participating relationships.
+
+When neural components have identifiable oscillatory phases, generalized phase-locking measures how consistently their rhythms maintain relationships to one another. The relevant property is not that every component performs the same action at the same moment. It is that a pattern of relations among components becomes more strongly constrained.
+
+For n phases with r independent regular phase constraints, the local phase description has:
 
 dim(M_phase) = n − r
 
-With n rhythms and r independent locks, the phases need n − r numbers to describe them. Ten rhythms with three locks need seven free phase variables. Each independent phase constraint removes one independent direction from the phase description. AHQ predicts that increasing harmonic constraint will occur alongside a time locked reduction in effective population dimensionality during the click.
+Ten phases linked by three independent constraints need seven free phase coordinates. The number falls because the constraints remove independent ways for those phases to vary.
 
-**Stability: the Porter Ratio**
+This mathematical result concerns the specified phase model. The empirical question is whether increasing harmonic coordination actually accompanies a contraction in measured population dimensionality around insight, and whether their combination distinguishes insight from ordinary neural coordination.
+
+The two measurements therefore describe related but nonidentical features. Dimensionality tells how many collective directions are effectively used. Harmonic coordination tells how the rhythmic relations among participating processes become constrained.
+
+### Why the new whole must remain available
+
+An instant of coordination is not enough to constitute an incorporated insight. A transient pattern may appear and disappear without changing what the system can do next. The recognized relationship must persist sufficiently to influence later activity.
+
+The **Porter Ratio** measures one aspect of that persistence:
 
 R(t) = λ_self(t) / λ_env(t)
 
-λ_self(t) measures internally sustaining or restorative dynamics: how strongly the new state pulls itself back together after a disturbance. λ_env(t) measures environmentally disruptive dynamics. In the full paper, λ_self is estimated from recovery after naturally occurring or controlled perturbations, λ_env from matched disruptive drive, and R★ is fitted on training data and tested on held out data.
+The restoration rate λ_self measures how effectively a declared organization is maintained, reinforced, or recovered after a disturbance. The disruption rate λ_env measures how effectively interacting processes revise or disperse that same organization. Both refer to the same selected variable, scale, and interval.
 
-### Scoring the event
+At R = 1, the effective rates balance. R★ is a separate proposed coherence threshold for the particular organization being tested. Its value is not established by the arithmetic of R = 1; it must be determined and tested for the declared system.
 
-The event is specified by the joint signature:
+Within AHQ, the relevant question is whether the newly coordinated relation crosses a threshold at which it can continue participating as a collective whole. This is a local organizational transition inside an already existing experiencing system. It should not be confused with the earlier establishment of the system's phenomenal interior.
 
-- ΔD > θ_D: effective dimensionality drops by more than a set amount;
-- ΔH > θ_H: harmonic coordination rises by more than a set amount;
-- R(t∗+) ≥ R★: just after the click, the new state’s Porter Ratio is at or above the coherence threshold;
-- τ_res ≥ θ_τ: the new collective state lasts at least a set time.
+A successful insight provides a concrete way to understand persistence. Once a relation becomes intelligible, it can be recalled, applied to another problem, used to make a prediction, or incorporated into a later insight. The result has become a part of the system's causal history.
 
-ΔD is the pre to post reduction in effective dimensionality, ΔH is the increase in harmonic coordination, and τ_res is the persistence time of the resulting collective state. Each threshold θ is chosen in advance for the measurement scale and recording method.
+### The historical depth of a short event
 
-### Tracing a click’s history
+The click can be brief even when the organization producing it has a long history. The new collective state may depend on something learned years earlier, a recent failed attempt, a remembered example, or a relation that was active only seconds before.
 
-Consequential history supplies the temporal content of the transition. Two measures describe it:
+Causal ancestry describes how those earlier influences contribute to the present event. It requires a declared set of historical sources and a defensible method for attributing their effects. Two quantities make the proposal more precise.
 
-- **Causal ancestry depth**, D_CA = Σ_j p_j τ_j, is how far back, on average, the click’s causes reach.
-- **Effective historical multiplicity**, N_CI = exp(−Σ_j p_j ln p_j), is the effective number of distinct sources.
+**Causal ancestry depth** estimates how far back the contributing history reaches:
 
-Here p_j is the normalized causal contribution of historical source j and τ_j is its temporal lag. A click can be compact in the present and deep and many sourced in its history at the same time.
+D_CA = Σ_j p_j τ_j
 
-### The click from two sides
+Here p_j is the normalized contribution of historical source j, and τ_j is how far into the past that source occurred. A larger D_CA means the weighted ancestry extends further back.
+
+**Effective causal multiplicity** estimates how many distinct historical sources contribute appreciably:
+
+N_CI = exp(−Σ_j p_j ln p_j)
+
+A state may occupy a compact set of collective coordinates while depending on numerous earlier sources. Its present organization can therefore be low-dimensional without having a shallow causal ancestry.
+
+That distinction is essential to the hypothesis of temporal concentration. Multiple histories become jointly consequential within a present state whose temporal support is comparatively limited. Their influence is carried by the current organization, rather than requiring each earlier event to occur again.
+
+When the newly incorporated state later changes how incoming activity is received, it becomes **active inheritance**. Earlier organization is still operating through the subsequent physical system. When that state also changes the conditions by which future arrivals are selected or transformed, the mechanism takes on the ostiary character of history-dependent gating.
+
+### Identifying the AHQ event
+
+The full paper proposes a joint event signature, with thresholds selected before evaluating the target trials:
+
+- **ΔD > θ_D:** effective dimensionality decreases beyond a preregistered amount.
+- **ΔH > θ_H:** harmonic coordination increases beyond a preregistered amount.
+- **R(t∗+) ≥ R★:** the new organization reaches the declared self-maintenance threshold just after the candidate click.
+- **τ_res ≥ θ_τ:** the resulting collective state persists for a specified minimum interval.
+
+The historical contribution measures D_CA and N_CI accompany this signature to identify the causal ancestry of the resulting organization. Later reuse provides an additional requirement: the collective state must influence subsequent recognition, memory, prediction, or action.
+
+None of these ingredients alone is AHQ. The proposal concerns their convergence during one event.
+
+The paper uses Q(t∗) for a reported click and E_AHQ(t∗) for the measured joint event. Its identity hypothesis is written as:
 
 Q(t∗) = 1 ⟺ E_AHQ(t∗) = 1
 
-Q marks the reported click. E_AHQ marks the measured dynamical event, the satisfaction of the preregistered AHQ event criteria. The lived click and the measured transition are the same event described from two sides. A trial by trial test checks whether the two coincide.
+This is a **proposed correspondence to test**, not a relationship proved merely by writing the equation. The theory claims that the lived click and the specified dynamical crossing are two descriptions of the same occurrence. Evidence would require that their timings and properties align across trials better than competing explanations predict.
 
-### What experiments can check
+### Cue, queue, click, and incorporation
 
-AHQ predicts that insight is accompanied by:
+An insight typically has an approach. A cue activates a possible relationship. Related memories, concepts, perceptions, and earlier attempts become available as a developing **queue** of participating organization.
 
-1. a rapid, time locked reduction in effective population dimensionality;
-2. an increase in harmonic coordination;
-3. an increase in restorative stability relative to environmental disruption;
-4. subsequent reuse of the newly formed low dimensional collective state.
+The queue is not a line of separate items waiting passively. Its components affect one another as the system searches, revises expectations, and encounters new constraints. The feeling of being close to an answer can arise while enough of the relevant history is active to narrow the possibilities but not yet organized into an intelligible whole.
 
-### How the test runs
+At the click, a separation maintained by the unresolved question gives way and a new relationship stabilizes. The whole becomes recognizable. Incorporation follows when that relationship remains available to guide subsequent activity.
 
-The full paper’s design uses insight problems with trial by trial click reports, high density EEG or MEG with source resolved phase estimates, and intracranial or large scale electrophysiology where available. For each trial, the click time is set from the participant’s report and response timing, dimensionality and harmonic coordination are tracked in sliding windows, λ_self and λ_env are estimated, and later reuse is measured through transfer, recall, prediction, or recurrent reentry of the collective state.
+The causal sequence can be stated plainly: a cue recruits history; developing relations constrain one another; a threshold crossing reorganizes the relation into a coherent whole; that whole persists and becomes active inheritance.
 
-#### Cue, queue, and increasing legibility
+The experience of recognition is identified with the transition itself. The sense that the answer was present all along reflects the actual causal participation of latent structures, while the answer's new intelligibility reflects the organization formed at the crossing.
 
-The click has a developmental approach. A cue activates a possible relation. A queue forms as memories, expectations, concepts, perceptions, and earlier incorporations enter relation with it. Legibility increases as these relations constrain one another and gather into a more coherent organization. The familiar feeling of being close to an insight is the experienced growth of this legibility. The click is the crossing at which the distributed organization becomes jointly available as a reusable whole. Incorporation then carries that new whole forward as consequential history.
+### How the hypothesis can fail
 
-## The bigger picture
+A serious experimental test needs both reports of insight and independent measurements of the proposed dynamics. Trials can use problems on which participants report the moment an answer becomes clear, with response timing used as an additional constraint. High-density EEG, MEG, or neural recordings can estimate changing coordination and effective dimensionality where the methods permit.
 
-This is the fourth step, measured. AHQ is the experienced threshold crossing through which distributed, history bearing relations become a coherent, reusable whole. That whole then becomes consequential history itself and changes what can happen next, which brings the continuity back to the first step. The same causal structure appears in very different systems, from rivers to flowering plants.
+Recovery after perturbation provides a candidate measure of the restorative dynamics. Matched environmental or task-driven disturbances provide a candidate measure of disruption. The threshold R★ should be estimated on training data and then evaluated prospectively on held-out trials. Recall, transfer, prediction, and later neural reentry provide ways to test whether the new collective state was actually reused.
+
+The account would face a serious challenge if reported clicks consistently lacked the proposed joint signature; if the signature regularly appeared during ordinary, unrecognized state changes; or if simpler measures such as task success, attention, arousal, or synchronization predicted the reports equally well.
+
+The distinction between simple coherence and useful insight also matters. An ant death spiral can be tightly organized and low-dimensional while leading the ants into a harmful loop. Stable coordination does not by itself imply understanding. AHQ requires the relevant organized relations to become a recognizable and reusable whole within the history-bearing interior.
+
+### What the click reveals
+
+The click makes one aspect of ongoing consciousness unusually visible. Consciousness continues as an organized, history-bearing interior while particular experiences continually alter its activity. Some encounters leave small consequences. Others gradually build the relations that later support a recognizable insight.
+
+At AHQ, a latent layer of organization becomes jointly available. An old representational separation loses its grip, and a new coherent relation becomes stable enough to participate in the future. The felt revelation and the physical reorganization are proposed as two aspects of one transition.
+
+The insight was not a complete answer waiting unchanged in a hidden compartment. Its contributing relationships were already causally present. Their joint intelligibility appears at the crossing, and the resulting whole joins the consequential history that will shape what becomes possible next.
 
 ---
 
