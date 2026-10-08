@@ -1,8 +1,7 @@
 # THIR: The Interface Where Recognition Stabilizes
 
 - **Author:** Quinn Porter
-- **Audience:** everyone (free, public; intended for synchronization)
-- **Mirror status:** Existing Substack URL not recorded; check by title before creating a new post.
+- **Audience:** everyone (free, public)
 
 ---
 
@@ -76,6 +75,8 @@ arrival → history-conditioned recognition → interface stabilization → poss
 
 An ordinary recognition can end after stabilization, while a later event may reactivate and transform the stabilized relation.
 
+Stabilization at THIR can give the arriving pattern and inherited structure a dependable relationship that guides continued processing. In some encounters, this becomes a component of a further transition: several such relations begin sustaining a new collective organization that can be retained and used in later thought. That newly maintained whole is the relevant additional achievement proposed for AHQ. A stable THIR relation alone does not show that the stronger event-specific threshold has been crossed.
+
 or, using the framework terms,
 
 consequential history → ostiary recognition → THIR → AHQ → active inheritance
@@ -115,6 +116,8 @@ THIR is not meant to replace the coherence threshold that establishes interiorit
 That distinction keeps the architecture ordered.
 
 The system already has an interior boundary. Consequential history already exists. The active boundary already receives events through that history. THIR names one way a particular arrival can stabilize in relation to it. AHQ names the stronger local crossing through which the relation becomes a new reusable whole.
+
+The threshold for a new reusable relation must be evaluated within the already functioning interior. It is distinct from R★ when that symbol names the independently measured boundary-forming threshold of the encompassing system. Nested local reorganizations can therefore contribute to richer understanding without being mistaken for repeated beginnings of consciousness.
 
 ### A failure condition for the interface claim
 
