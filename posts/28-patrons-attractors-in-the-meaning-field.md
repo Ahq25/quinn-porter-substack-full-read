@@ -4,7 +4,7 @@ Meaning does not arrive into an empty present. A word, image, melody, place, or 
 
 These stable symbolic centers are called **patrons**.
 
-A patron is a recurrent, history-bearing attractor in the organization of meaning. It forms when repeated consequential history converges around a pattern strongly enough that later attention, recognition, interpretation, and inquiry are increasingly organized through it.
+A patron is a proposed recurrent, history-bearing attractor in the organization of meaning. It develops when earlier encounters make a pattern increasingly likely to organize later attention, recognition, interpretation, and inquiry. The word *attractor* refers to a tendency of thought to return to a recognizable region of organization; establishing an attractor in a strict dynamical sense requires a defined state space and evidence of return under varying initial conditions.
 
 The term is meant to describe a real causal structure rather than simply a favorite symbol. A patron matters because earlier encounters have built an organization that later encounters can reactivate.
 
@@ -25,6 +25,16 @@ A compact sequence is
 experience → retention → reinforcement → easier return → wider recognition → revised meaning
 
 Each return uses the existing organization and also changes it. The patron is therefore stable without being frozen.
+
+### The return is not just repetition
+
+A familiar symbol may recur because it appears frequently in the environment, because attention has become especially sensitive to it, or because it has become connected to a large body of memory. Those explanations can overlap, but they make different predictions.
+
+Consider a familiar number that seems to appear everywhere. Once it becomes personally significant, its occurrences may be easier to notice and remember. The apparent frequency can increase even if the number appears no more often in the world than before. That attention effect is real, but it does not imply that external events are arranged to deliver a personal message.
+
+A patron requires a stronger claim than noticing repetition. The proposed organization should change subsequent interpretation in a measurable and persistent way. A cue may reactivate associated memories, alter which alternatives seem plausible, or direct attention toward a line of inquiry already made important by earlier encounters.
+
+The relevant structure is therefore not the number, melody, or image considered alone. It is the network of consequences built around it in a particular person's ongoing activity. A recurrent stimulus is only a candidate marker of a patron until its history-conditioned causal effects are demonstrated.
 
 ### The meaning field
 
@@ -49,6 +59,16 @@ As a patron deepens, recognition becomes compressed. Smaller cues can evoke larg
 The cue is small. The history it accesses is large.
 
 That compression is not mysterious if the system has already built the relations that complete the pattern. The present cue does not contain the whole meaning by itself. It enters an organization in which much of that meaning is already causally available.
+
+### What makes an attractor stable
+
+A mathematical attractor describes a region or set toward which trajectories evolve under specified dynamics. A symbolic patron is proposed to have a comparable property within a cognitive state space: different encounters can recruit related associations and return attention to a recognizable pattern of meaning.
+
+A practical measurement could begin by defining that pattern through recurring concepts, emotional associations, recalled scenes, or other observable relations. Repeated observations would then test whether attention returns to the same region despite variation in the immediate cue. The duration of return, the stability of the associated relationships, and the effect of deliberate interruption are different properties to measure.
+
+Stability does not require identical content every time. A scientific question can remain recognizable for years while accumulating new evidence and undergoing major revisions. The persistent organization may be a continuing set of constraints and problems rather than an unchanged image.
+
+An attractor can also become limiting. Strong recurrence may narrow attention, reinforce a mistaken interpretation, or make unrelated events seem connected. The theory should explain these possibilities as well as cases in which recurrence supports insight or creative development.
 
 ### Patrons, identity, and creativity
 
@@ -78,11 +98,17 @@ The process is recursive. Meaning built by earlier encounters shapes a new recog
 
 A patron can be operationalized prospectively rather than identified only after the fact.
 
-A study could first document recurrent symbolic patterns across an earlier observation period. Later encounters with those patterns could then be compared with matched novel patterns. The predictions would be faster recognition, broader recruitment of associated memory, greater stability of interpretation, and a higher probability of returning to the same relational organization later.
+A study could first document recurrent symbolic patterns across an earlier observation period, using preregistered coding rather than selecting only memorable coincidences. Later encounters with those patterns could then be compared with matched novel patterns and equally familiar but less personally meaningful cues. The predictions would be faster recognition, broader recruitment of associated memory, greater stability of interpretation, and a higher probability of returning to the same relational organization later.
 
 History can also be manipulated. Repetition, emotional salience, contextual association, and retrieval practice can be varied independently. Their effects can be measured through recognition latency, associative breadth, return probability, persistence, and transfer to new contexts.
 
-The Porter Ratio can be applied only if the relevant symbolic organization and both rates are defined clearly. λ_self would represent restoration or reactivation of that organization. λ_env would represent competing activity or contextual revision of the same organization. Whether the ratio predicts patron persistence better than simpler measures is an empirical question.
+The Porter Ratio can be applied only if the relevant symbolic organization and both rates are defined clearly. A high rate of return to a symbol is not automatically a high restoration rate for an organizational variable. The measurement would have to distinguish reactivation of retained structure from mere frequent exposure. λ_self would represent restoration or reactivation of that organization. λ_env would represent competing activity or contextual revision of the same organization. Whether the ratio predicts patron persistence better than simpler measures is an empirical question.
+
+### A cue does not contain its entire history
+
+A small present cue can recruit much more organization than the information physically contained in the cue itself. A few notes identify a familiar melody because the remaining pattern is already supported by learned relationships. A photograph can evoke a place, but the remembered place and the emotions attached to it depend on the person's present organization.
+
+This distinction matters for the proposed link to AHQ. A patron may make several contributing relationships accessible without producing the special click of insight. The patron supplies an established route through history; an AHQ event would require a new relationship to become jointly intelligible and remain available afterward. Familiarity and novelty therefore have different roles in the same sequence.
 
 ### The larger continuity
 
