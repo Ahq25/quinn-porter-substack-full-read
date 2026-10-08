@@ -37,6 +37,20 @@ The question and answer can seem to arrive at the same instant because the new o
 
 AHQ identifies the **experienced crossing**, not an additional sensation generated afterward to announce that reasoning has succeeded.
 
+### Darwin, exaptation, and the seeming foresight of insight
+
+Darwin noticed that a useful feature need not have arisen for the job it performs now. In *[On the Origin of Species](https://darwin-online.org.uk/converted/published/1859_Origin_F373/1859_Origin_F373.html)* (1859), he considered the joints, or sutures, between the skull bones of young mammals. They help the skull accommodate birth, yet young birds and reptiles also have skull sutures, even though they hatch from eggs. The structure was not originally formed specifically to help mammals give birth. Something already present could serve a later purpose.
+
+Much later, Stephen Jay Gould and Elisabeth Vrba gave this kind of evolutionary reuse a name: **[exaptation](https://doi.org/10.1017/S0094837300004310)**. In their 1982 account, a feature becomes useful in a role it was not originally selected to perform. It may have had a different function before, or no selected function at all. A new use can develop from what an organism already carries. Evolution does not have to foresee that later use.
+
+The comparison with insight concerns the reuse of existing organization, rather than a claim that thinking is the same process as biological evolution. Experience leaves relationships, skills, partial explanations, and familiar patterns available for later thought. Those pieces may already be influencing a problem without yet forming a recognizable answer. At the click, their relationships become intelligible together. **What is new is the coherent whole and what that whole can now do.**
+
+Then the whole can become a piece of something else. An explanation that first made sense of one problem may later help solve a different problem. A newly learned relationship can be remembered, applied, and joined with other relationships to form a larger understanding. When something organized for one role is recruited into another, it resembles the logic of exaptation. The earlier whole is not erased; it becomes a participating part of a new one.
+
+This also explains the **seeming foresight** of insight. Once an answer becomes clear, the steps leading to it can suddenly look as though they were pointing there all along. The finished whole lets the earlier pieces be understood in light of the result. That retrospective clarity does not mean the earlier pieces knew the answer in advance. Darwin's example makes the same distinction: a feature may look perfectly suited to a later use without having been produced in anticipation of it.
+
+The connection is simple: **carried history supplies usable structure; a new relation turns that structure into a coherent whole; and the whole becomes available as a piece of what comes next.** AHQ names the experienced click in that sequence. Exaptation names a particular process in evolutionary history. Their shared lesson is how something already present can acquire a new role without foresight.
+
 ### Translating the click into physical measurements
 
 The paper represents the participating neural population by a state trajectory x(t) in a high-dimensional space. Each recorded neural variable contributes a coordinate. A changing pattern of activity traces a path through that space, and its organization can be compared before and after a reported insight.
