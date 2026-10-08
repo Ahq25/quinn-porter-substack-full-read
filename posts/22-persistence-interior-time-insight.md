@@ -166,15 +166,15 @@ A nervous system has layers of this kind. The Porter Ratio describes how, where 
 
 [The Combinatorial Repertoire of Consciousness](https://philarchive.org/rec/PORTCR-5) describes the machinery in more detail. A nervous system contains many relatively stable local gates. Whether a gate opens depends on current activity, incoming signals, combinations of signals, the phase of ongoing rhythms, retained history, and the large scale state left by the previous moment. Because each gate takes part in many episodes, a finite set of gates routes activity along an immense number of paths.
 
-A simple 24-gate toy simulation makes the combinatorial point measurable. From 50,000 sampled conditions, the same 24 gates produce 26,683 distinct activation patterns. Changing the retained history while holding the present state fixed, changes which end region the activity settles into for 59.8% of the starting points. In this model, retained history helps decide where the present ends up.
+A simple 24-gate toy simulation makes the combinatorial point measurable. From 50,000 sampled conditions, the same 24 gates produce 26,683 distinct activation patterns. Changing a retained-history variable while holding the measured instantaneous-state grid fixed changes the final basin assignment for 59.8% of the starting points. The complete model states are not identical, because their current history variables differ. That difference is exactly how carried history affects where later activity settles.
 
 #### The present that builds the next present
 
 **Causal reentry** occurs when the larger organized state, produced by many local events, changes the local conditions that produce the next state. A band shows the pattern: each musician’s playing produces the music, and the music taking shape guides what each musician plays in the next bar.
 
-With reentry, history produces the present, and the present takes part in selecting which history continues. Awareness Where Time Concentrates calls this **recursive continuity**. The Porter Ratio states the same relation: a present belongs to a system when its own consequential history helps produce what happens now, and what happens now helps determine which history continues.
+With reentry, history helps produce the present, and the present takes part in selecting which history continues. Awareness Where Time Concentrates calls this **recursive continuity**. The Porter Ratio measures a different, complementary quantity: maintenance relative to disruption for a declared organization. Its value alone does not establish the history-dependent reentry relation.
 
-The Combinatorial Repertoire of Consciousness lists five separately measurable conditions for a conscious regime:
+The Combinatorial Repertoire of Consciousness proposes five separately defined conditions for a recursively self-legible organizational regime within an already formed phenomenal interior:
 
 - **T**, temporal stabilization;
 - **H**, consequential history;
@@ -222,9 +222,9 @@ prior structure → later integration → retrospective revelation of fit
 
 Aleph Harmonic Qualia, or AHQ, is the experienced threshold crossing through which distributed, history bearing relations become a coherent, reusable whole. In the words of Aleph Harmonic Qualia: The Dynamical Click of Coherence, “AHQ names the experienced crossing.” A forming organization gathers relations until many dimensions collapse into one or a few and a new whole begins holding itself together. The click is that crossing, felt from inside.
 
-The crossing reaches well beyond insight. [Aleph Harmonic Qualia: A Unified Structural Account of Coherence, Boundaries, and Emergent Meaning](https://philarchive.org/rec/PORAHQ-5) names every sense: “Vision carries spatial layout. Hearing carries pressure rhythms. Touch carries force and texture. Smell and taste carry chemical information.” Edges settle into objects, notes settle into a melody, and features settle into a familiar face. “AHQ arises whenever the boundary reaches full coherence.” In perception this happens constantly, as structures already present are used in new ways at every moment. At larger thresholds, as learning accumulates, many separate relations become one new whole, and that larger crossing is the click that gets noticed.
+Ordinary perception continuously changes an already experiencing interior. Vision carries spatial layout, hearing carries pressure rhythms, touch carries force and texture, and smell and taste carry chemical information. Each arrival meets history-bearing organization that changes its experiential consequence. The broader [AHQ structural account](https://philarchive.org/rec/PORAHQ-5) relates such activity to coherence, while the more specific AHQ click identifies a distinctive transition: latent, distributed relations become jointly intelligible and form a reusable whole. Ordinary qualia and every episode of sensory processing should not automatically be counted as separate AHQ events.
 
-Experience is the active boundary itself as carried history consolidates strongly enough to form an interior, meets what arrives, and helps determine what continues. The same paper describes the felt tone of coherence this way: “It is the way coherence feels from the inside.” The outward description is a history bearing dynamical boundary crossing into coherence. The inward description is that same boundary forming event as lived. Recursive availability can then make the phenomenal interior increasingly self legible within its own ongoing organization.
+In the physicalist identity proposal, phenomenal experience is the intrinsic aspect of a coherent causal interior generated by ordered causal flow, internal reflection, and sustained boundary dynamics. That experiencing organization continues while particular encounters alter it. The outward description concerns the physical maintenance of the boundary; the intrinsic description concerns what it is like for that organization to exist as an interior. Recursive availability can then make more of the ongoing organization accessible within its own activity.
 
 #### The click, measured
 
@@ -236,9 +236,9 @@ D_PR = (sum of the variances)² / (sum of the squared variances)
 
 If the activity varies equally along 10 directions, D_PR = 10. If nearly all of it runs along one direction, D_PR is close to 1. The prediction is a rapid, time locked fall in D_PR at the moment of insight, like the branching trails tightening into one loop.
 
-**2. Harmonic coordination rises.** Rhythms lock into fixed relationships, such as one rhythm running exactly twice as fast as another. Each independent phase constraint removes one independent direction from the phase description. With n rhythms and r independent locks, the phases need n − r numbers to describe them. Ten rhythms with three locks need seven free phase variables. AHQ predicts that increasing harmonic constraint will occur alongside a time locked reduction in effective population dimensionality during the click.
+**2. Harmonic coordination rises.** The proposal predicts stronger coordination among participating rhythms, possibly through stable relationships between their phases. For n phases subject to r *independent, exact, regular constraints*, the local phase manifold has n − r degrees of freedom. Ten phases with three such constraints have seven. Measured phase-locking strength does not automatically establish how many exact constraints exist, and that phase-space result does not prove a decrease in population covariance dimensionality. AHQ predicts that these distinct measurements change together around the click.
 
-**3. The new state crosses the coherence threshold.** The Porter Ratio of the newly formed state reaches R★. Restoration outpaces disruption for the new whole. This crossing is the coherence threshold: the emerging organization enters a self maintaining regime capable of continued causal participation.
+**3. The new relation crosses a local maintenance threshold.** The proposed Porter Ratio of the reorganized collective state reaches a predeclared threshold associated with retention and later reuse. The relevant organization, restoration process, and disruption process must be specified. This local reorganization takes place *within* an already phenomenal interior; its threshold must not be assumed numerically identical to the boundary-forming threshold for the entire experiencing system.
 
 **4. The new state lasts and is reused.** The collective state persists for at least a set length of time and returns in later thinking. A method that solves one problem gets used on the next.
 
@@ -266,7 +266,7 @@ The Ostiary Principle places AHQ at the point where an arrival becomes consequen
 
 #### Shared causal ancestry
 
-The capacities used to recognize the world were themselves formed through interaction with that world. The Porter Ratio states that the observer is formed by the same world it observes. The physical processes that form an environment also take part in forming the systems that encounter it. Through development, evolution, and learning, some of the world’s regularities become part of the observer’s own organization. Recognition works because the world has already shaped the capacities that recognize it. Consequential History and the Conditions of Persistence makes the same point: observer and observed share a developmental history and inherit consequences from common processes. Observer and observed meet through histories that were already causally linked before the moment of recognition.
+The capacities used to recognize the world were themselves formed through interaction with that world. The broader account of consequential history proposes that the observer is formed through the same physical history as the world it observes. The physical processes that form an environment also take part in forming the systems that encounter it. Through development, evolution, and learning, some of the world’s regularities become part of the observer’s own organization. Recognition works because the world has already shaped the capacities that recognize it. Consequential History and the Conditions of Persistence makes the same point: observer and observed share a developmental history and inherit consequences from common processes. Observer and observed meet through histories that were already causally linked before the moment of recognition.
 
 ### The whole sequence in order
 
@@ -290,7 +290,7 @@ Phenomenal experience begins with the threshold formed interior boundary, and re
 
 Recognition, understanding, and insight are expansions of that access, and each one crosses a threshold as structures already present come together and are used in a new way. Insight is a rapid reorganization in which previously separated relations become jointly available as a stable, reusable whole. Understanding is the persistence of that revealed continuity.
 
-AHQ is the experienced threshold crossing through which distributed relations become a coherent, reusable whole. It happens constantly across the senses, and the click of insight is its most noticeable form. The fit of old structure in a new whole produces the appearance of foresight, the same appearance seen in a species well fitted to its surroundings.
+AHQ is the proposed experienced crossing through which latent, distributed relations become a coherent, reusable whole. Particular sensations continuously change the ongoing conscious interior, whereas an AHQ click is a specific reorganization that makes a formerly unavailable relationship intelligible. Its familiarity follows from earlier causal participation: the contributing structure was already active before the new whole became accessible.
 
 The new whole becomes consequential history and changes what can happen next.
 
