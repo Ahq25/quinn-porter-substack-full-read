@@ -2195,7 +2195,7 @@ The relevant transformation is **point reflection**. In this construction, point
 
 ![ERIO across the four coordinate-plane orientations; Quadrant III is the 180-degree point reflection](assets/period-lattice/erio-quadrants.jpg)
 
-The important part is what happens to the whole word when the interior relation flips. The letters in **erio** undergo a 180-degree point reflection. From the opposite orientation, the PERIOD unit is legible again. The structure has not been rebuilt somewhere else. It is the same structure read through the opposite orientation.
+The point reflection belongs to the specified orientation convention, not to English spelling alone. The important part is what happens to the whole word when the interior relation flips. The letters in **erio** undergo a 180-degree point reflection. From the opposite orientation, the PERIOD unit is legible again. The structure has not been rebuilt somewhere else. It is the same structure read through the opposite orientation.
 
 That changes the identities of the two boundary poles.
 
@@ -2206,6 +2206,8 @@ The **p** and **d** do not physically move. The left endpoint stays at the left 
 **d → p**
 
 The positions stay fixed while the identities switch.
+
+The p/d interchange is a specified transformation of relational labels under a change of frame, not a theorem about printed letter shapes. Physically rotating or moving the carriers would be a different operation.
 
 This is the central move of the Period Lattice: **identity can change without position changing**. The carrier remains where it is. What changes is the relational organization around it, and because the identity of the endpoint depends on that relation, the same fixed position is now read differently.
 
@@ -2322,7 +2324,7 @@ These are exactly row n = 4 of Pascal's triangle:
 
 (p + d)⁴ = p⁴ + 4p³d + 6p²d² + 4pd³ + d⁴
 
-The same local state space can also be described as the Boolean hypercube Q4, with the five balance classes corresponding to its Hamming-weight levels.
+The same local state space can also be described as the Boolean hypercube Q4, with the five count-based balance classes corresponding to its Hamming-weight levels. Those classes are the permutation orbits when all four positions are exchangeable. If fixed geometric adjacency or orientation restricts the allowed symmetries, a single balance class can contain several geometrically distinct arrangements. The count of five does not claim that only five geometrical patterns exist.
 
 That counting result is standard combinatorics. The distinctive Period Lattice question begins after the count: **what relational information disappears when 16 ordered arrangements are compressed into only five composition classes, and does any of that lost information matter to what happens next?**
 
@@ -2392,13 +2394,13 @@ spatial arrangements.
 
 Composition leaves relational identity open.
 
-### Exact coarse graining
+### Exact state counting and conditional coarse graining
 
-The 16 ordered microstates can be collapsed into five balance classes. A field of balance classes can be collapsed further into a histogram. Each compression keeps some variables and erases others.
+Grouping the 16 ordered microstates into five count-based balance classes is exact combinatorial counting. A field of balance classes can be collapsed further into a histogram. Neither reduction is automatically an exact account of how the system evolves. Each compression keeps some variables and erases others.
 
 A coarse description is predictively sufficient only when the distinctions it discards do not matter to what happens next.
 
-In Markov-chain language, the partition must be **lumpable**: every detailed state placed in the same coarse group must have the same total transition probabilities into the next coarse groups.
+In Markov-chain language, **strong lumpability** guarantees a coarse Markov description for every microstate starting condition: every pair of detailed states in one coarse group must have equal total transition probabilities into each possible next coarse group. Weaker forms of lumpability can depend on the initial distribution. Update rules sensitive to orientation, adjacency, or shared-boundary identities need not meet this condition under a count-only grouping.
 
 In plain language:
 
