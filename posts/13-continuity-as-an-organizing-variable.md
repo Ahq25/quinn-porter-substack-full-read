@@ -59,6 +59,8 @@ Controlled changes in recurrence, coupling, or retention can help identify the c
 
 That intervention is more informative than finding a long-lasting correlation alone. It tests whether continued organization is causally maintained by the processes assigned that role.
 
+A disturbance can also change what persists. A system may recover its previous organization, lose the ability to sustain it, or settle into a different organization. The third outcome matters when the new state retains a change brought about by the disturbance and handles later challenges more effectively. Learning can work this way: evidence that does not fit an established expectation can change how subsequent information is interpreted. But a more stable pattern is not necessarily a better one. A mistaken belief or harmful habit can also become entrenched. The test is therefore not just whether the system returns to its earlier state, but whether its changed organization produces a lasting, independently measurable improvement.
+
 ### A comparison beyond biological systems
 
 Continuity can also be investigated in artificial systems without assuming that computational performance establishes experience. A recurrent artificial network may preserve a hidden state between inputs. A system repeatedly initialized without carrying internal state may produce similar answers on individual tasks while having a very different pattern of causal continuation.
