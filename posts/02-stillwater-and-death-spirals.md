@@ -11,7 +11,7 @@
 
 Some ideas are easier to see than to define. Insight is one of them. The click of sudden understanding is a common experience, and two physical pictures make what happens in that moment easier to see.
 
-[Stillwater and Death Spirals](https://philarchive.org/rec/PORSAD-3) approaches the question with two pictures from the physical world: a disturbance on the surface of still water, and the collective behavior of an ant colony. One is a pond and the other is a crowd of insects. In both, the same thing happens. During stable operation, the underlying structure stays implicit, meaning present and working while out of view. Then the system goes through a transition, and that structure enters the regime of perception: the range of things that can be noticed.
+[Stillwater and Death Spirals](https://philarchive.org/rec/PORSAD-3) approaches the question with two pictures from the physical world: a disturbance on the surface of still water, and the collective behavior of an ant colony. One is a pond and the other is a crowd of insects. The pictures show complementary relationships. In still water, a disturbance makes an already-present medium conspicuous. In an ant colony, a rule expressed across many paths can become recognizable when collective movement concentrates into a loop. Neither event creates the activity that was already occurring.
 
 Together, the two pictures form one principle about insight.
 
@@ -35,9 +35,9 @@ So the disturbance trades one kind of seeing for another. A view of the contents
 
 ### What the water has to do with thinking
 
-Most of the time, your thinking works like the calm pond. You think about the homework problem, the conversation, the plan for tomorrow. The contents of thought come through clearly, and the machinery doing the thinking stays out of view.
+Consciousness is the continuing water in this analogy. It is active before any particular disturbance and continues after the ripples pass. Particular qualitative experiences are like drops entering that ongoing medium: each encounter perturbs a history-bearing organization and changes what it carries forward.
 
-Insight is the drop. In the moment of a sudden click, the structure of your own thinking becomes briefly visible. You feel the pieces snap together, and for an instant you are aware of the fit itself, of how your understanding is organized. For a moment, the organization of thought itself becomes noticeable.
+Insight is a distinctive kind of perturbation. Relations already active beneath explicit recognition become available together, often at the instant the question itself becomes fully intelligible. The click discloses a layer of organization that had been forming within the ongoing activity of thought. The click does not begin consciousness; it changes what becomes recognizable within consciousness.
 
 The felt click is called **Aleph Harmonic Qualia**, or AHQ. Qualia is the word philosophers use for the felt qualities of experience, such as the redness of red. AHQ is the experienced threshold crossing through which distributed, history bearing relations become a coherent, reusable whole: pieces already present snap together into one whole and are used in a new way. In that click, a pattern becomes self evident and internally stable. [Aleph Harmonic Qualia: The Dynamical Click of Coherence](https://philarchive.org/rec/PORAHQ-8) describes it as a dynamical event: the felt click is the phenomenal form of a rapid transition from distributed relational activity to a reusable collective state.
 
@@ -79,9 +79,9 @@ That last feature connects the ants to the water. In both cases, structure becom
 
 Put the two pictures side by side.
 
-In the pond, the water is present all along. It enters perception when a disturbance reorganizes its surface into ripples.
+In the pond, the water is present all along. Its surface becomes conspicuous when a drop creates ripples. As an analogy for ongoing consciousness, the pond remains present between individual experiences.
 
-In the colony, the interactions among ants are present all along. They enter perception when they concentrate into a single self reinforcing loop.
+In the colony, trail-following and reinforcement are operating all along. A closed loop makes those rules easier to recognize because the behavior concentrates into one repeating pattern.
 
 The shared principle, as Stillwater and Death Spirals states it: **structure enters the regime of perception at the moment it organizes or concentrates into a stable form.**
 
@@ -99,7 +99,7 @@ Stillwater and Death Spirals uses these pictures to show how three ideas relate.
 
 **Perceptibility** is how available something is to be noticed.
 
-In both pictures, the three change together. As the pattern becomes more coherent, its activity gathers into fewer dimensions, and as it gathers, it becomes easier to perceive. The ant death spiral shows all three changing at once. The pond shows the perceptibility side most vividly.
+The ant spiral illustrates how activity can become more constrained and easier to recognize without becoming more adaptive. The pond illustrates how a disturbance can make an existing medium conspicuous without establishing dimensional contraction. The two analogies illuminate different parts of the proposed transition; neither establishes that coherence, dimensionality, and perceptibility must always change together.
 
 This relationship links to a testable idea in [Aleph Harmonic Qualia: The Dynamical Click of Coherence](https://philarchive.org/rec/PORAHQ-8). That paper predicts that insight should be accompanied by a rapid, time locked drop in the effective dimensionality of brain activity, alongside stronger harmonic coordination among neural rhythms, greater stability relative to disruption, and later reuse of the newly formed state. Effective dimensionality is measured with the participation ratio, which counts how many independent directions the activity actually uses: about 10 if activity spreads evenly over 10 directions, close to 1 if it runs almost entirely along one. The death spiral is the picture behind that first prediction: many independent paths gathering into one organized loop.
 
@@ -115,7 +115,7 @@ Still water shows accessibility: a disturbance makes visible the medium that car
 
 An ant colony shows that a spread out system can concentrate into a low dimensional, self reinforcing form, and that this form reveals the rule the ants were following all along.
 
-Together they describe insight as the moment hidden structure in thinking organizes into a stable pattern and, in doing so, becomes perceptible to the one doing the thinking. That is the click.
+Together they describe how an already-active causal organization can become newly recognizable. Consciousness continues like the water; individual experiences perturb it. In an AHQ event, a previously latent relationship becomes available as a stable and reusable whole. The felt crossing is the click.
 
 ---
 
