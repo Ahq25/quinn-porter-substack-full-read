@@ -1,80 +1,112 @@
 # A Minimal Computational Test of the Coherence Threshold
 
-A framework built around restoration, disruption, and threshold formation should be implementable as an explicit dynamical system. [Deriving the Coherence Threshold](https://philarchive.org/rec/PORDTC) provides a small reproducible model for that purpose.
+The transition from a proposed organizing principle to an explicit computational model is important because a model forces every operation to be specified. A statement that local activity can preserve its organization must become an update rule. A claim that restoration competes with disruption must identify what each operation changes. A threshold requires a measurable outcome that can vary across the chosen parameter range.
 
-The model is intentionally minimal. It does not reproduce a living organism or establish that the Porter Ratio is a universal law. Its job is narrower and more useful: to show that the proposed competition between restoration and disruption can be written as explicit rules, run repeatedly, and produce distinct organizational regimes that can be measured.
+[Deriving the Coherence Threshold](https://philarchive.org/rec/PORDTC) uses a finite lattice of interacting binary sites to investigate these relationships. The purpose of the model is to show how local updates can favor particular junction patterns and how repeated updates can change the organization visible across a field.
 
-### From a static state space to a dynamical field
+The underlying computation is a toy dynamical construction. Its qualitative pictures should not be mistaken for a measured universal Porter Ratio threshold or for evidence of phenomenal experience.
 
-The simulation uses a two-dimensional field of binary states. Local groups of four sites form junctions with the same five balance classes that appear in the Period Lattice. Four binary positions give sixteen ordered microstates, and grouping them by pole count gives five balance classes with multiplicities
+### The states available at one junction
 
-1, 4, 6, 4, 1
+The model uses a square grid whose sites can occupy either of two states, labeled p and d. A junction is defined by four neighboring sites. Each site has two possibilities, so a junction has
 
-That is the static combinatorial part. The computational model adds dynamics.
+**2⁴ = 16 ordered binary states.**
 
-Environmental disruption changes local states stochastically. Internal restoration applies local rules that tend to rebuild the declared organization. Their relative effective rates are summarized by
+Those states can be grouped by the number of p sites. The five possible counts are 0, 1, 2, 3, and 4, with respective multiplicities 1, 4, 6, 4, and 1.
 
-R = λ_self / λ_env
+These numbers are exact combinatorics. They do not depend on the simulation's randomness or on any claim about consciousness.
 
-The model then tracks what happens to local and field-scale organization as these processes act repeatedly.
+The grouping discards arrangement information. Two p sites on adjacent corners and two p sites on diagonally opposite corners belong to the same count-based class even though their geometries differ. A count-based model can therefore measure a simple property without preserving every relational distinction in the full Period Lattice.
 
-### What changes as R changes
+### What the computer actually does
 
-Under the stated toy update rules, disruption-dominated runs can erase or scatter retained structure faster than the restoration rule rebuilds it. That behavior is a property to measure in the constructed model, not a universal consequence of R < 1: different interaction rules can instead spread perturbations through a field.
+The source paper includes a short Python implementation built around a randomly initialized 40 × 40 grid. One operation flips a selected site, changing p to d or d to p.
 
-Under the chosen model rules, increasing restoration relative to disruption can allow local corrections to persist and overlap. Correlations may then extend farther through the field, and carried organization may exert more influence on later states. The ratio is one control coordinate; connectivity, update order, interaction geometry, and retention rules also help determine the result.
+An environmental update draws a random number of flips from a Poisson distribution whose mean is proportional to a specified disruption parameter and the total number of sites. This injects stochastic changes into the field.
 
-The important result is not that one particular numerical value of R has been proven to be a universal threshold. The result is that a change in the balance between restoration and disruption can generate a reproducible transition in the organization of a controlled system.
+The operation called restoration repeatedly chooses a four-site junction. It counts how many of the four sites are p, selects a flip probability based on that count, and sometimes flips one randomly selected site.
 
-That gives the threshold idea a concrete computational meaning.
+The rule favors updates in more imbalanced junctions: configurations with zero or four p sites are assigned a larger flip probability than those with two p sites. Because the flipped site is chosen at random, however, a particular update does not always move its junction closer to the two-p/two-d balance. The term **restoration** refers to the update rule's intended aggregate bias, not a guarantee that each flip corrects a disturbance.
 
-### Why this matters
+Neighboring junctions overlap. Flipping one site can therefore change several local counts at once. This overlap supplies a concrete coupling mechanism through which local updates can influence patterns elsewhere in the grid.
 
-The model establishes three things.
+### The measured coherence variable
 
-First, the restoration-versus-disruption relation can be implemented with explicit update rules and measurable quantities rather than remaining only a verbal analogy.
+The implementation's stated coherence function measures the fraction of four-site junctions containing exactly two p sites and two d sites.
 
-Second, repeated local interactions can generate a change from a disruption-dominated regime to a more extended, restoration-dominated organization.
+**C = N_(2p2d) / N_junctions**
 
-Third, the model is specified as a candidate for reproducible testing. Independent reproduction requires access to the complete update rules, lattice size, initialization, random seeds, parameter choices, coherence measure, and implementation or equivalent executable specification. A reader should be able to alter those assumptions and test whether the reported transition survives. The prose description alone is not a completed independent replication.
+This variable is well defined for the chosen grid. It reports how much of the observed field occupies the selected count-based balance class.
 
-That last point is especially important. A useful toy model should expose the framework to failure, not insulate it from criticism.
+The measure does not identify which exact arrangements occur inside that class. It does not measure all forms of spatial correlation, does not separately quantify historical influence, and does not establish that the field has formed an integrated boundary.
 
-### What the model does not establish
+In particular, a rise in C demonstrates greater prevalence of the chosen local pattern. Any stronger description, such as a coherent wave traveling across the field, requires additional measurements of spatial propagation over successive times, not merely a final grid image.
 
-A computational transition is not evidence by itself that biological systems cross the same threshold, and it does not establish phenomenality.
+### What the low- and high-restoration examples compare
 
-The model is presented as a constructive example of the dynamical architecture: explicit restoration and disruption rules can produce different organizational regimes under suitable coupling and update assumptions. The simulation result depends on those declared rules; a mathematical statement about all possible restoration/disruption systems does not follow. Independent execution is needed to verify the particular run, and empirical support requires separate measurements in physical and biological systems.
+The source code includes two illustrative conditions. Both begin from a randomized grid with a fixed seed and introduce a forced flip followed by an environmental update. The conditions then differ markedly in the number of attempted restoration updates.
 
-Likewise, the phenomenal claim remains a distinct identity claim. In the wider framework, R★ marks the empirical boundary-forming transition for a declared system, and boundary formation is identified with interior formation. Phenomenal experience is proposed as the intrinsic side of that formed interior. A toy simulation can help define and detect the boundary transition. It cannot by itself verify the intrinsic side of that event.
+The lower-restoration example applies five restoration attempts. The stronger condition applies twenty rounds of fifty attempts, or one thousand attempts in total. This is a change in the number of update opportunities under the specified code.
 
-This separation keeps the computational result honest.
+The source paper labels its plotted examples as low R and high R, including the numbers 0.5 and 5. Those labels should **not** be treated as independently measured values of λ_self / λ_env. The code supplies a disruption parameter and a count of restoration attempts, but does not estimate the two effective rates for the same organizational observable and interval and then calculate R from those estimates.
 
-### Relation to the Period Lattice
+The defensible reading of the example is therefore a comparison of **low and high restoration-update effort under a particular stochastic model**. Assigning actual Porter Ratios requires a separate operational rate-calibration procedure.
 
-The Period Lattice describes organizational possibility before the dynamics are added. It distinguishes exact local arrangement from balance class, composition from relational order, and local state from shared-boundary organization.
+This distinction strengthens the research design by identifying the next measurement that the toy model needs.
 
-The simulation takes that local combinatorial structure and asks what happens when restoration and disruption repeatedly move the field through those possibilities.
+### From a restoration bias to a genuine threshold test
 
-This creates a useful bridge. The lattice asks, **what states and relations are available?** The dynamical model asks, **which of those organizations persist, spread, or disappear when restoration competes with disruption?**
+A prospective computational experiment would define the organizational variable to be maintained and measure both the rate at which the restoration rule changes that variable and the rate at which disruption changes the same variable.
 
-The two therefore play different roles. The Period Lattice supplies a state space and relational geometry. The computational model supplies an update process.
+Multiple randomized runs across a range of fixed parameters could then estimate those rates and their variability. The ratio would be calculated only after the two terms have a common measurement basis.
 
-### Relation to consequential history
+The model would also need an outcome defined independently of R. For example, sustained spatial connectivity, recovery after standardized perturbation, reproducible domain formation, or measured propagation of correlations could define a transition of interest.
 
-The model also clarifies why persistence and history belong together. When restoration is weak, previous organization is rapidly overwritten and has little opportunity to constrain later states. As restoration strengthens, more of the earlier arrangement survives long enough to affect subsequent transitions.
+The next question would be whether a particular R★ predicts that transition in runs not used to estimate the threshold. Connectivity, restoration-attempt count, the difference between the rates, and the two rates separately should be tested as alternative predictors.
 
-That is the minimal computational form of consequential history: the past remains active because some consequence of earlier organization still participates in producing what happens next.
+Without this calibration, the model shows that update rules can generate different-looking or differently balanced fields; it does not yet derive a specific boundary-forming threshold from the Porter Ratio.
 
-In a biological experiment, a stronger test would match selected observable present variables while manipulating or measuring additional present carriers of retained history, then ask whether later trajectories diverge. The complete physical state is not held identical when a history carrier is changed. The toy model prepares that causal question without pretending to answer it for living systems.
+### History in a finite lattice
 
-### The larger picture
+A state of the lattice at one time depends on earlier updates because those updates changed the current arrangement. That gives the simulation an ordinary physical and mathematical history.
 
-The computational model belongs near the bottom of the evidential ladder, not at the top. It shows implementability. The bacterial protocol supplies an experimental route. Cross-system measurement would determine whether the Porter Ratio predicts natural transitions better than simpler alternatives.
+A stronger claim of **active inheritance** requires identifying the retained organization that changes how later interactions proceed. In the given implementation, local junction counts influence the probability of subsequent flips. The current pattern therefore conditions the update process that will act on it.
 
-The conceptual sequence remains the same: restoration allows organization to persist; persistence allows consequential history to remain active; a system-specific threshold may mark the formation of a coherent causal boundary; boundary formation is the proposed onset of interiority; phenomenal experience is the intrinsic side of that event; and recursive availability describes deeper self-legibility within the formed interior.
+This history dependence is implemented through the present grid. No earlier state exerts an influence outside the current model variables; the current arrangement is the carrier of earlier changes.
 
-The value of the model is that the first part of that sequence can be run, measured, modified, and challenged directly.
+An experiment can compare matched coarse measurements under different detailed grid configurations. If two fields have the same fraction of balanced junctions but different arrangements, their later evolution may differ because the update rule responds to local patterns. The complete current grids are different, even though the reported scalar coherence scores match.
+
+This is a useful illustration of why a coarse variable can omit consequential structure.
+
+### The relation to the Period Lattice
+
+The Period Lattice starts with an exact space of possible local configurations and their relations. The computational model adds a rule that moves among those configurations over successive steps.
+
+The two contributions should remain distinct. State counting determines what is combinatorially possible at a junction. The update rule determines which configurations become more common, which spatial relationships persist, and whether changes propagate through the field.
+
+The particular balance-based restoration rule is only one possible dynamics over the finite state space. An alternative rule that preserves orientation, favors a different count class, or couples junctions nonlocally could produce very different results.
+
+This is a strength of the modeling approach: the dynamics can be varied while holding the underlying combinatorics fixed, allowing the effect of each chosen physical assumption to be isolated.
+
+### Where a causal interior would enter
+
+The broader theory proposes that ordered causal flow, internal reflection, recirculation, and sustained selective interaction can generate a self-maintaining causal boundary. It associates the formation of that coherent interior with a system-specific threshold R★ and proposes phenomenal experience as its intrinsic aspect.
+
+A two-dimensional grid with biased local flips does not automatically possess this full architecture. Local restoration can occur without a dynamically individuated inside and outside. More structured boundary rules, exchange conditions, retained carriers, and feedback among levels would be needed to examine the proposed formation mechanism directly.
+
+Even if those features were implemented and a sharp organizational transition were measured, an additional identity hypothesis would still connect the external physical transition to phenomenal experience. Simulation of one measurable organizing process is not a direct reading of the intrinsic character of that process.
+
+The model is therefore most useful as an early component of the causal argument, not as its final demonstration.
+
+### A reproducible development path
+
+The source paper supplies example Python code, including random initialization, environmental flips, restoration attempts, and the coherence statistic. A rigorous follow-up would report all parameters, seeds, iteration counts, measurements over time, and outcomes across many repeated runs rather than relying on selected images.
+
+The critical additions are straightforward: calculate the actual effective restoration and disruption rates, report uncertainty, define a spatially meaningful boundary outcome, measure propagation rather than infer it from a snapshot, and compare the proposed ratio against simpler quantities.
+
+That expanded protocol could show whether a genuine organizational transition occurs under the chosen rules, whether a reproducible R★ helps locate it, and how changing local coupling alters its appearance.
+
+The finite lattice is valuable because every assumption is inspectable and every update can be modified. Its current result is a concrete demonstration that local probabilistic rules can favor some organizations over others. The proposed link from that behavior to a measured self-maintaining boundary remains a precise next question for computation and experiment.
 
 ---
 
