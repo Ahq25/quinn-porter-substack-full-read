@@ -4064,6 +4064,8 @@ The Porter Ratio compares effective maintenance and disruption for a declared fe
 
 R = 1 marks equality of the selected rates. The proposed boundary-forming coherence threshold R★ is distinct. Its value and physical relevance must be identified through independent measurements of the system's coupling, maintenance, and boundary-forming transition.
 
+When measured maintenance is genuinely driven by **active inheritance**—earlier organization remaining causally effective through the system's present processes—R > 1 is proposed to indicate that consequential history has become the primary organizing influence on the continuation of the selected organization relative to the specified disruption. That interpretation requires identifying and testing its physical history-bearing carriers; the ratio alone establishes maintenance dominance. Likewise, a local organizational threshold can be crossed inside a continuing interior without forming another independently experiencing interior.
+
 The central identity hypothesis proposes that a sufficiently coherent causal interior is **phenomenal from its intrinsic side**. Boundary formation and the onset of such an interior are one event described by their physical and intrinsic relations. The hypothesis is not a numerical deduction from the rate ratio.
 
 ### Ongoing experience and particular contents
@@ -4118,6 +4120,8 @@ The question and its answer can become fully clear at the same moment because th
 
 **Aleph Harmonic Qualia (AHQ)** identifies the click as the intrinsic aspect of this particular physical transition. The proposal predicts coordinated reorganization into a reusable collective relationship. The click is not a report added after the fact by a second observer hidden inside consciousness.
 
+The newly coordinated relation can become a locally self-maintaining whole within the larger system, able to guide later recognition and inference in ways its separate components could not. The event-specific stability threshold for that new understanding is distinct from the threshold at which the experiencing interior originally formed.
+
 Insight is one event within continuing awareness. Its newly accessible relation becomes consequential history when it changes future interpretation, prediction, or action.
 
 ### What the hypothesis predicts
@@ -4146,13 +4150,10 @@ Before this: [Coevolution and Conversation](https://ahq25.substack.com/p/coevolu
 
 Back to the beginning: [Consequential History](https://ahq25.substack.com/p/consequential-history-the-idea-behind), the overview of the whole continuity.
 
----
-
 ## Post 25: Measuring Interiority
 
 - **Author:** Quinn Porter
-- **Audience:** everyone (free, public; intended for synchronization)
-- **Mirror status:** Existing Substack URL not recorded; check by title before creating a new post.
+- **Audience:** everyone (free, public)
 
 ---
 
@@ -4173,6 +4174,8 @@ The Porter Ratio compares two effective processes acting on the same declared va
 The numerator represents maintenance, restoration, reinforcement, or reliable propagation of the selected organization. The denominator represents revision, disruption, or dispersal of that same organization by specified interactions. Both terms require compatible units and matched intervals.
 
 When R = 1, the two measured terms balance. R > 1 identifies restoration dominance under the chosen decomposition. R < 1 identifies disruption dominance. A separate mathematical model must specify what these rates imply about the later state, especially when multiple variables, feedback pathways, or nonlinear effects participate.
+
+The framework's further proposal is that **where the measured maintenance is genuinely driven by active inheritance, R > 1 marks consequential history becoming the primary organizing influence on the selected organization's continuation relative to the specified disruption**. The inequality does not establish that causal mechanism on its own. An experiment must identify the physical carriers of inherited organization and determine whether changing those carriers changes subsequent maintenance and recovery as predicted.
 
 If the disruption denominator is zero, the ordinary quotient is undefined. A separate convention or a disclosed numerical regularizer may be useful, but cannot be applied silently as though the original ratio were unchanged.
 
@@ -4218,7 +4221,11 @@ An existing bacterium already has an organized cell envelope. Measuring the reco
 
 A stronger test of boundary formation would examine a controlled process in which a previously uncoordinated or insufficiently self-maintaining organization becomes capable of selective, integrated continuation. The transition would be defined by external physical measurements independently of the ratio.
 
+In that transition, previously separate processes would establish a newly self-maintaining causal whole. Its coordinated relationships would help maintain the collective organization, resist specified disturbances, and influence how its components respond next. Self-maintaining does not mean self-sufficient: the new organization may still depend on continuous exchange of energy and matter with its surroundings.
+
 If the experiment instead uses established cells, its claim should be limited to how boundary integrity and historical gating vary across conditions. That remains scientifically useful, but the distinction between boundary maintenance and boundary onset cannot be skipped.
+
+The same distinction applies across nested scales. A local reorganization inside an established interior, and the onset of a new collective boundary, are different physical events even when they overlap in time. The experiment should define which transition it is designed to detect.
 
 This separation also protects the phenomenal identity proposal from being equated with an ordinary stress-recovery result.
 
@@ -4256,7 +4263,7 @@ The physical proposal improves when it becomes possible to specify a clear failu
 
 These failures would not make the question of interiority meaningless. They would show which part of the proposed relationship needs revision.
 
-The strongest result would combine independent rate measurements, an independently defined boundary-forming transition, an identified history carrier, selective causal effects under intervention, and successful held-out prediction. Such an experiment should also compare the boundary's organization before and after the transition: which causal pathways begin reflecting or recirculating, which exchanges become selectively regulated, and whether the new organization maintains its own distinction under a standardized disturbance. Different substrates could then be compared through the same measurement logic without assuming they share identical mechanisms or a universal numerical R★.
+The strongest result would combine independent rate measurements, an independently defined boundary-forming transition, an identified history carrier, selective causal effects under intervention, and successful held-out prediction. A test of historical causal dominance would also examine whether intervening on that carrier specifically weakens the active maintenance associated with R > 1. Such an experiment should also compare the boundary's organization before and after the transition: which causal pathways begin reflecting or recirculating, which exchanges become selectively regulated, and whether the new organization maintains its own distinction under a standardized disturbance. Different substrates could then be compared through the same measurement logic without assuming they share identical mechanisms or a universal numerical R★.
 
 The central scientific aim is to locate the boundary as a physical achievement of organized flow and inherited interaction. The phenomenal claim identifies the intrinsic condition of that achieved interior; the experimental program asks whether the proposed formation mechanism can be specified and predicted with enough precision to support the identity.
 
@@ -4268,8 +4275,7 @@ Full paper on PhilArchive: [The Physical Constitution of Interiority](https://ph
 ## Post 26: Coherence Across Scales
 
 - **Author:** Quinn Porter
-- **Audience:** everyone (free, public; intended for synchronization)
-- **Mirror status:** Existing Substack URL not recorded; check by title before creating a new post.
+- **Audience:** everyone (free, public)
 
 ---
 
@@ -4299,6 +4305,8 @@ Coupling means that changes in one unit influence changes in another. The intera
 
 A larger organization develops when these couplings create collective behavior that can itself be maintained or recovered over time. The relevant new property is not simply that many units happen to be close together. It is that their relationships have acquired a continuing causal organization at the larger scale.
 
+**A genuine organizational transition can bring a new self-maintaining whole into operation.** The components remain active, but the relationships now maintained among them can constrain their next actions, recover after disturbance, and carry a collective history. The whole can have causal capabilities its components, acting separately, did not have together. Self-maintaining means that its organized activity contributes to preserving itself; it does not require independence from supplies of energy or materials.
+
 Such a collective can require a new effective variable. The integrity of one cell membrane and the stability of a coordinated tissue pattern are different observables even when the tissue depends on those cells.
 
 ### Restoration and disruption at each scale
@@ -4310,6 +4318,8 @@ The Porter Ratio can be evaluated at a scale where the organization and its effe
 At one scale, the selected variable might measure restoration of a cell's regulated state. At another it might measure recovery of a coordinated tissue response after perturbation. The relevant physical carriers and observation windows need not be identical.
 
 Equality of the rates gives R = 1. A boundary-forming coherence threshold R★ is a separate proposed transition that must be defined independently from physical indicators of integrated, selectively maintained causal organization.
+
+Where that level's measured maintenance is actually driven by active inheritance, R > 1 is proposed to indicate that consequential history has become the dominant maintaining influence relative to the specified disruption. Establishing that interpretation requires tests of the history-bearing carriers and their causal effects; the quotient by itself describes the maintenance–disruption balance.
 
 The same algebraic expression across two scales does not imply that the numerical thresholds coincide. Nor does a high rate ratio at one level imply that a higher-level interior exists. The higher-level organization must be shown to maintain a real causal distinction through its own coupled dynamics.
 
@@ -4339,6 +4349,14 @@ This allows **nested causal interiors** as a physical possibility, but nesting m
 
 A precise account must identify which organization has independently maintained boundaries and which relations simply participate in the larger boundary. A cell's persistence and a tissue's persistence can both be real without requiring their phenomenal relations to be assumed identical.
 
+### Thresholds within thresholds
+
+Maintained organizations can become parts of still larger maintained organizations. A cell can contribute to the coordinated activity of a tissue, and the tissue to that of an organism. Each level can acquire its own new capabilities when its relationships become sufficiently coherent and self-maintaining. The resulting organization can then influence the processes that sustain it, so a threshold at one scale can change the conditions for a threshold at another.
+
+**Multiple levels can operate and undergo transitions at once.** Their thresholds may be crossed during the same larger event, or in overlapping or successive stages. There is no reason to assume they share one numerical R★ or that crossing every local organizational threshold establishes a separate experiencing interior. The proposed interior-forming threshold must be tied to independently identified, coherent, selectively maintained boundary dynamics at the scale in question.
+
+This is also why layered organization matters for time. Faster local activity can leave consequences that slower collective processes preserve, and those slower processes can condition subsequent faster activity. A single present can therefore carry inherited relationships from several scales and temporal depths at once.
+
 ### Phenomenal onset and recursive depth
 
 The foundational identity proposal locates phenomenal experience at the formation of a sufficiently coherent, self-maintaining causal interior. This proposed threshold is distinct from the development of sophisticated reflective selfhood.
@@ -4359,7 +4377,7 @@ That last test matters for recursive organization. If the collective state chang
 
 A stronger comparison would also disrupt selected links among the cells while leaving their individual restoring capacities as similar as possible. If the collective response loses its stability or selectivity even though the cells still recover individually, coupling is doing identifiable causal work. Tests should then ask whether disrupting a proposed collective boundary changes its selective response to outside perturbations while leaving some local functions intact. That distinguishes a maintained higher-level interface from coordination observed only inside the system. If the same collective outcome can be predicted from independent cellular recovery alone, the proposed larger-scale organization has not yet shown that it adds an explanatory level.
 
-The relevant analysis would compare the predictive value of the larger-scale ratio with the cellular ratios, coupling strength, geometry, and alternative descriptions. A distinct collective R★ would require a separately measured boundary transition rather than being inferred from the appearance of larger correlations.
+The relevant analysis would compare the predictive value of the larger-scale ratio with the cellular ratios, coupling strength, geometry, and alternative descriptions. A distinct collective R★ would require a separately measured boundary transition rather than being inferred from the appearance of larger correlations. Measurements at both local and collective scales should also determine whether their transitions occur separately, overlap, or influence each other's onset. That comparison can reveal a newly maintained collective process rather than merely redescribe its already organized components.
 
 ### What the scaling hypothesis predicts
 
