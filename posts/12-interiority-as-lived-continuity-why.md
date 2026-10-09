@@ -2,7 +2,6 @@
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 12:47 PM ET
-- **URL:** https://ahq25.substack.com/p/interiority-as-lived-continuity-why
 - **Audience:** everyone (free, public)
 
 ---
@@ -121,6 +120,6 @@ The interior does not have to begin again with every passing sensation. It persi
 
 Full paper on PhilArchive: [Interiority as Lived Continuity: Why Experience Feels Like Something](https://philarchive.org/rec/PORIAL)
 
-Before this: [Continuity as an Organizing Variable](https://ahq25.substack.com/p/continuity-as-an-organizing-variable).
+Before this: Continuity as an Organizing Variable.
 
-Next: [Where Time Concentrates: The Traffic Light Analogy](https://ahq25.substack.com/p/where-time-concentrates-the-traffic), a picture of how many histories gather into one present.
+Next: Where Time Concentrates: The Traffic Light Analogy, a picture of how many histories gather into one present.

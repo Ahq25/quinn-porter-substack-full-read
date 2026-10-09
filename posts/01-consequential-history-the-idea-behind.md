@@ -4,7 +4,6 @@
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 9:24 AM ET
-- **URL:** https://ahq25.substack.com/p/consequential-history-the-idea-behind
 - **Audience:** everyone (free, public)
 
 ---
@@ -322,4 +321,4 @@ History persists by becoming structure. Structure changes how the future can ent
 
 Full list of papers: [ORCID](https://orcid.org/0009-0005-0044-401X)
 
-Next: [Persistence, Interior, Time, Insight](https://ahq25.substack.com/p/persistence-interior-time-insight), the same continuity in four steps, with the papers behind each one.
+Next: Persistence, Interior, Time, Insight, the same continuity in four steps, with the papers behind each one.

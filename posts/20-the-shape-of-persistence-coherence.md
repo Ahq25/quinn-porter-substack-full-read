@@ -2,7 +2,6 @@
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 12:48 PM ET
-- **URL:** https://ahq25.substack.com/p/the-shape-of-persistence-coherence
 - **Audience:** everyone (free, public)
 
 ---
@@ -135,6 +134,6 @@ Persistence makes later influence possible. A formed interior provides the ongoi
 
 Full paper on PhilArchive: [The Shape of Persistence: Coherence, Interior Time, and Aleph Harmonic Qualia](https://philarchive.org/rec/PORTSO-18)
 
-Before this: [The Law of Self Maintained Invariance](https://ahq25.substack.com/p/the-law-of-self-maintained-invariance).
+Before this: The Law of Self Maintained Invariance.
 
-Next: [The Ostiary Principle](https://ahq25.substack.com/p/the-ostiary-principle-boundary-recognition), on the boundary where carried history meets each arrival.
+Next: The Ostiary Principle, on the boundary where carried history meets each arrival.

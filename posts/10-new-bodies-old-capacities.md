@@ -4,7 +4,6 @@
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 12:47 PM ET
-- **URL:** https://ahq25.substack.com/p/new-bodies-old-capacities
 - **Audience:** everyone (free, public)
 
 ---
@@ -115,6 +114,6 @@ The cells bring their history into the new body. Their new organization creates 
 
 Full paper on PhilArchive: [New Bodies, Old Capacities:](https://philarchive.org/rec/PORNBO-2) *[Active Inheritance and the Deep Present in Synthetic Morphology](https://philarchive.org/rec/PORNBO-2)*
 
-Before this: [Branching as Active Inheritance](https://ahq25.substack.com/p/branching-as-active-inheritance).
+Before this: Branching as Active Inheritance.
 
-Next: [The Flowering Boundary](https://ahq25.substack.com/p/the-flowering-boundary), the same relation in a flowering plant.
+Next: The Flowering Boundary, the same relation in a flowering plant.

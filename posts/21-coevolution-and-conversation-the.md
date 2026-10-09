@@ -2,7 +2,6 @@
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 12:51 PM ET
-- **URL:** https://ahq25.substack.com/p/coevolution-and-conversation-the
 - **Audience:** everyone (free, public)
 
 ---
@@ -175,6 +174,6 @@ The resulting sense of presence is a genuine event within human experience, aris
 
 Full paper on PhilArchive: [Coevolution and Conversation: The Pollinator Analogy for AI Presence](https://philarchive.org/rec/PORCAC-9)
 
-Before this: [Coevolution and Conversation (the essay)](https://ahq25.substack.com/p/coevolution-and-conversation).
+Before this: Coevolution and Conversation (the essay).
 
-Next: [Consciousness as Access to Consequential History](https://ahq25.substack.com/p/consciousness-as-access-to-consequential), where the phenomenal interior develops greater recursive access to its own consequential history.
+Next: Consciousness as Access to Consequential History, where the phenomenal interior develops greater recursive access to its own consequential history.

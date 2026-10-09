@@ -4,7 +4,6 @@
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 12:36 PM ET
-- **URL:** https://ahq25.substack.com/p/where-time-concentrates-the-traffic
 - **Audience:** everyone (free, public)
 
 ---
@@ -155,8 +154,8 @@ Awareness Where Time Concentrates closes with the whole idea in one line: “exp
 
 Read the paper: [Awareness Where Time Concentrates](https://philarchive.org/rec/PORAWT)
 
-The bigger picture: [Consequential History](https://ahq25.substack.com/p/consequential-history-the-idea-behind)
+The bigger picture: Consequential History
 
-Next: [Awareness Where Time Concentrates](https://ahq25.substack.com/p/awareness-where-time-concentrates), the paper behind this analogy.
+Next: Awareness Where Time Concentrates, the paper behind this analogy.
 
 Full list of papers: [ORCID](https://orcid.org/0009-0005-0044-401X)

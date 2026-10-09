@@ -2,7 +2,6 @@
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 12:48 PM ET
-- **URL:** https://ahq25.substack.com/p/the-porter-ratio-consequential-history
 - **Audience:** everyone (free, public)
 
 ---
@@ -113,6 +112,6 @@ Each step has its own physical question. The rate comparison concerns maintenanc
 
 Full paper on PhilArchive: [The Porter Ratio: Consequential History, Active Inheritance, and the Emergence of Consciousness](https://philarchive.org/rec/PORTPR-5)
 
-Before this: [Seven Pictures, One Continuity](https://ahq25.substack.com/p/seven-pictures-one-framework).
+Before this: Seven Pictures, One Continuity.
 
-Next: [Consequential History and the Conditions of Persistence](https://ahq25.substack.com/p/consequential-history-and-the-conditions), on how the past stays active and how much of it a system can reach.
+Next: Consequential History and the Conditions of Persistence, on how the past stays active and how much of it a system can reach.

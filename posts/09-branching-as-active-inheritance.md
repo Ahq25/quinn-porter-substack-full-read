@@ -4,7 +4,6 @@
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 12:47 PM ET
-- **URL:** https://ahq25.substack.com/p/branching-as-active-inheritance
 - **Audience:** everyone (free, public)
 
 ---
@@ -103,6 +102,6 @@ Branching therefore supplies a concrete physical setting for consequential geome
 
 Full paper on PhilArchive: [Branching as Active Inheritance:](https://philarchive.org/rec/PORBAA) *[A Coherence Threshold Account of History Bearing Organization Across Morphology](https://philarchive.org/rec/PORBAA)*
 
-Before this: [Aleph Harmonic Qualia: The Dynamical Click of Coherence](https://ahq25.substack.com/p/aleph-harmonic-qualia-the-dynamical).
+Before this: Aleph Harmonic Qualia: The Dynamical Click of Coherence.
 
-Next: [New Bodies, Old Capacities](https://ahq25.substack.com/p/new-bodies-old-capacities), the same relation in new synthetic bodies.
+Next: New Bodies, Old Capacities, the same relation in new synthetic bodies.

@@ -2,7 +2,6 @@
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 3:28 PM ET
-- **URL:** https://ahq25.substack.com/p/stillwater-and-death-spirals-coherence
 - **Audience:** everyone (free, public)
 
 ---
@@ -117,6 +116,6 @@ AHQ names the experienced crossing through which that reorganization becomes int
 
 Full paper on PhilArchive: [Stillwater and Death Spirals](https://philarchive.org/rec/PORSAD-3): *[Coherence, Insight, and the Structure of Consciousness](https://philarchive.org/rec/PORSAD-3)*
 
-Before this: [Stillwater and Death Spirals (the essay)](https://ahq25.substack.com/p/stillwater-and-death-spirals).
+Before this: Stillwater and Death Spirals (the essay).
 
-Next: [The Collapse of Separation and the Structure of Insight](https://ahq25.substack.com/p/the-collapse-of-separation-and-the), on insight as a separation that dissolves.
+Next: The Collapse of Separation and the Structure of Insight, on insight as a separation that dissolves.

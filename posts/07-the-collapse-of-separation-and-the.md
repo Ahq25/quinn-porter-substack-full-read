@@ -4,7 +4,6 @@
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 12:47 PM ET
-- **URL:** https://ahq25.substack.com/p/the-collapse-of-separation-and-the
 - **Audience:** everyone (free, public)
 
 ---
@@ -125,6 +124,6 @@ Full paper on PhilArchive: [The Collapse of Separation and the Structure of Insi
 
 Related paper: *Consequential Continuity and the Schrödinger Boundary* — the source of the road-and-bag example and the boundary-of-access argument.
 
-Before this: [Stillwater and Death Spirals (the paper)](https://ahq25.substack.com/p/stillwater-and-death-spirals-coherence).
+Before this: Stillwater and Death Spirals (the paper).
 
-Next: [Aleph Harmonic Qualia: The Dynamical Click of Coherence](https://ahq25.substack.com/p/aleph-harmonic-qualia-the-dynamical), where the click of insight becomes a measurable event.
+Next: Aleph Harmonic Qualia: The Dynamical Click of Coherence, where the click of insight becomes a measurable event.

@@ -4,7 +4,6 @@
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 12:46 PM ET
-- **URL:** https://ahq25.substack.com/p/aleph-harmonic-qualia-the-dynamical
 - **Audience:** everyone (free, public)
 
 ---
@@ -115,6 +114,6 @@ The answer was not waiting complete in the past. The past supplied consequential
 
 Full paper on PhilArchive: [Aleph Harmonic Qualia: The Dynamical Click of Coherence](https://philarchive.org/rec/PORAHQ-8): *[Harmonic Dimensional Contraction, the Porter Ratio, and the Transition from Distributed Relation to Reusable Whole](https://philarchive.org/rec/PORAHQ-8)*
 
-Before this: [The Collapse of Separation and the Structure of Insight](https://ahq25.substack.com/p/the-collapse-of-separation-and-the).
+Before this: The Collapse of Separation and the Structure of Insight.
 
-Next: [Branching as Active Inheritance](https://ahq25.substack.com/p/branching-as-active-inheritance), the same relation in rivers, roots, and blood vessels.
+Next: Branching as Active Inheritance, the same relation in rivers, roots, and blood vessels.

@@ -4,7 +4,6 @@
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 12:47 PM ET
-- **URL:** https://ahq25.substack.com/p/awareness-where-time-concentrates
 - **Audience:** everyone (free, public)
 
 ---
@@ -111,6 +110,6 @@ This is the intended sense of a **deep present**: a currently organized process 
 
 Full paper on PhilArchive: [Awareness Where Time Concentrates](https://philarchive.org/rec/PORAWT): *[Why a Present Can Belong to a System: Consequential History, Active Inheritance, and Recursive Continuity](https://philarchive.org/rec/PORAWT)*
 
-Before this: [Where Time Concentrates: The Traffic Light Analogy](https://ahq25.substack.com/p/where-time-concentrates-the-traffic).
+Before this: Where Time Concentrates: The Traffic Light Analogy.
 
-Next: [The Combinatorial Repertoire of Consciousness](https://ahq25.substack.com/p/the-combinatorial-repertoire-of-consciousness), on how a finite brain supports so many specific contents.
+Next: The Combinatorial Repertoire of Consciousness, on how a finite brain supports so many specific contents.

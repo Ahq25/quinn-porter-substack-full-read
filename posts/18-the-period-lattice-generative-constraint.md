@@ -4,7 +4,6 @@
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 12:48 PM ET
-- **URL:** https://ahq25.substack.com/p/the-period-lattice-generative-constraint
 - **Audience:** everyone (free, public)
 
 ---
@@ -355,6 +354,6 @@ The full structure is recursive. What exists now determines what can happen next
 
 Full paper on PhilArchive: [The Period Lattice: Generative Constraint, Exact Coarse Graining, and Organizational Possibility](https://philarchive.org/rec/PORTPL-2): *[From recursive construction to relational state spaces](https://philarchive.org/rec/PORTPL-2)*
 
-Before this: [The Flowering Boundary](https://ahq25.substack.com/p/the-flowering-boundary).
+Before this: The Flowering Boundary.
 
-Next: [Coevolution and Conversation (the essay)](https://ahq25.substack.com/p/coevolution-and-conversation), the same relation across a conversation.
+Next: Coevolution and Conversation (the essay), the same relation across a conversation.

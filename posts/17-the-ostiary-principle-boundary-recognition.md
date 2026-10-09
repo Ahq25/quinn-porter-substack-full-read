@@ -2,7 +2,6 @@
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 12:48 PM ET
-- **URL:** https://ahq25.substack.com/p/the-ostiary-principle-boundary-recognition
 - **Audience:** everyone (free, public)
 
 ---
@@ -151,6 +150,6 @@ The central mechanism is neither a detached observer looking through a gate nor 
 
 Full paper on PhilArchive: [The Ostiary Principle: Boundary, Recognition, and the Emergence of Consciousness](https://philarchive.org/rec/PORTOP)
 
-Before this: [The Shape of Persistence](https://ahq25.substack.com/p/the-shape-of-persistence-coherence).
+Before this: The Shape of Persistence.
 
-Next: [Continuity as an Organizing Variable](https://ahq25.substack.com/p/continuity-as-an-organizing-variable), on measuring that continuity directly.
+Next: Continuity as an Organizing Variable, on measuring that continuity directly.

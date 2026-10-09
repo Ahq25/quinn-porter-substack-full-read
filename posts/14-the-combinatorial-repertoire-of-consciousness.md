@@ -4,7 +4,6 @@
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 12:48 PM ET
-- **URL:** https://ahq25.substack.com/p/the-combinatorial-repertoire-of-consciousness
 - **Audience:** everyone (free, public)
 
 ---
@@ -141,6 +140,6 @@ This gives the question **“Why red?”** a concrete evolutionary part of its a
 
 Full paper on PhilArchive: [The Combinatorial Repertoire of Consciousness](https://philarchive.org/rec/PORTCR-5): *[Context Dependent Gating, Temporal Basin Compression, and Recursive Access](https://philarchive.org/rec/PORTCR-5)*
 
-Before this: [Awareness Where Time Concentrates](https://ahq25.substack.com/p/awareness-where-time-concentrates).
+Before this: Awareness Where Time Concentrates.
 
-Next: [Stillwater and Death Spirals (the essay)](https://ahq25.substack.com/p/stillwater-and-death-spirals), two pictures of insight.
+Next: Stillwater and Death Spirals (the essay), two pictures of insight.

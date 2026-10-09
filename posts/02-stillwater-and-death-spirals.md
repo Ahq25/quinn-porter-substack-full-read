@@ -4,7 +4,6 @@
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 10:32 AM ET
-- **URL:** https://ahq25.substack.com/p/stillwater-and-death-spirals
 - **Audience:** everyone (free, public)
 
 ---
@@ -121,8 +120,8 @@ Together they describe how an already-active causal organization can become newl
 
 Read the paper: [Stillwater and Death Spirals: Coherence, Insight, and the Structure of Consciousness](https://philarchive.org/rec/PORSAD-3)
 
-The bigger picture: [Consequential History](https://ahq25.substack.com/p/consequential-history-the-idea-behind)
+The bigger picture: Consequential History
 
-Next: [Stillwater and Death Spirals (the paper)](https://ahq25.substack.com/p/stillwater-and-death-spirals-coherence), the premises behind these two pictures.
+Next: Stillwater and Death Spirals (the paper), the premises behind these two pictures.
 
 Full list of papers: [ORCID](https://orcid.org/0009-0005-0044-401X)

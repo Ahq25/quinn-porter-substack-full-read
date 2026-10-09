@@ -2,7 +2,6 @@
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 12:47 PM ET
-- **URL:** https://ahq25.substack.com/p/consequential-history-and-the-conditions
 - **Audience:** everyone (free, public)
 
 ---
@@ -109,6 +108,6 @@ The continuity is physical throughout. What changes between these cases is how t
 
 Full paper on PhilArchive: [Consequential History and the Conditions of Persistence](https://philarchive.org/rec/PORCHA)
 
-Before this: [The Porter Ratio](https://ahq25.substack.com/p/the-porter-ratio-consequential-history).
+Before this: The Porter Ratio.
 
-Next: [The Law of Self Maintained Invariance](https://ahq25.substack.com/p/the-law-of-self-maintained-invariance), where the Porter Ratio is built from four postulates.
+Next: The Law of Self Maintained Invariance, where the Porter Ratio is built from four postulates.

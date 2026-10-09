@@ -2,7 +2,6 @@
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 12:47 PM ET
-- **URL:** https://ahq25.substack.com/p/continuity-as-an-organizing-variable
 - **Audience:** everyone (free, public)
 
 ---
@@ -107,6 +106,6 @@ Continuity becomes scientifically useful when answers to those questions improve
 
 Full paper on PhilArchive: [Continuity as an Organizing Variable: Toward Measurable Signatures of Interior Dynamics](https://philarchive.org/rec/PORCAA-6)
 
-Before this: [The Ostiary Principle](https://ahq25.substack.com/p/the-ostiary-principle-boundary-recognition).
+Before this: The Ostiary Principle.
 
-Next: [Interiority as Lived Continuity](https://ahq25.substack.com/p/interiority-as-lived-continuity-why), on the same continuity as it is lived.
+Next: Interiority as Lived Continuity, on the same continuity as it is lived.

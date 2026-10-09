@@ -4,7 +4,6 @@
 
 - **Author:** Quinn Porter
 - **Published:** October 5, 2026, 1:08 AM ET
-- **URL:** https://ahq25.substack.com/p/consciousness-as-access-to-consequential
 - **Audience:** everyone (free, public)
 
 ---
@@ -119,6 +118,6 @@ Consciousness is the ongoing interior in which those experiences occur. Access t
 
 Full paper on PhilArchive: [Consciousness as Access to Consequential History](https://philarchive.org/rec/PORCAA-8)
 
-Before this: [Coevolution and Conversation](https://ahq25.substack.com/p/coevolution-and-conversation-the).
+Before this: Coevolution and Conversation.
 
-Back to the beginning: [Consequential History](https://ahq25.substack.com/p/consequential-history-the-idea-behind), the overview of the whole continuity.
+Back to the beginning: Consequential History, the overview of the whole continuity.

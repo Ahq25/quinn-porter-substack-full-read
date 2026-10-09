@@ -4,7 +4,6 @@
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 12:36 PM ET
-- **URL:** https://ahq25.substack.com/p/seven-pictures-one-framework
 - **Audience:** everyone (free, public)
 
 ---
@@ -164,8 +163,8 @@ All seven pictures answer one question: **how much of what a system becomes next
 - [The Collapse of Separation and the Structure of Insight](https://philarchive.org/rec/PORTCO-18)
 - [Coevolution and Conversation: The Pollinator Analogy for AI Presence](https://philarchive.org/rec/PORCAC-9)
 
-The bigger picture: [Consequential History](https://ahq25.substack.com/p/consequential-history-the-idea-behind)
+The bigger picture: Consequential History
 
-Next: [The Porter Ratio](https://ahq25.substack.com/p/the-porter-ratio-consequential-history), the whole continuity in one compact statement.
+Next: The Porter Ratio, the whole continuity in one compact statement.
 
 Full list of papers: [ORCID](https://orcid.org/0009-0005-0044-401X)

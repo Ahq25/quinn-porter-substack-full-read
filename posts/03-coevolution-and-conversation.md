@@ -4,7 +4,6 @@
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 12:35 PM ET
-- **URL:** https://ahq25.substack.com/p/coevolution-and-conversation
 - **Audience:** everyone (free, public)
 
 ---
@@ -145,8 +144,8 @@ Conversation develops a comparable continuity through retention, reentry, and pr
 
 Read the paper: [Coevolution and Conversation: The Pollinator Analogy for AI Presence](https://philarchive.org/rec/PORCAC-9)
 
-The bigger picture: [Consequential History](https://ahq25.substack.com/p/consequential-history-the-idea-behind)
+The bigger picture: Consequential History
 
-Next: [Coevolution and Conversation (the paper)](https://ahq25.substack.com/p/coevolution-and-conversation-the), the premises behind this analogy.
+Next: Coevolution and Conversation (the paper), the premises behind this analogy.
 
 Full list of papers: [ORCID](https://orcid.org/0009-0005-0044-401X)

@@ -1,5 +1,7 @@
 # Quinn Porter
 
+This file is the complete, canonical text of Quinn Porter's work: the profile, the About page, and all 30 posts in full. Read it here; it is the reading source of record.
+
 ## Contents
 
 1. Profile
@@ -42,11 +44,11 @@
 
 This full-read file is the canonical source for synchronizing the public Substack profile and publication with this repository. A synchronization agent should treat the repository as the source of truth unless the user explicitly requests a different edit.
 
-- Use **Profile** and **Publication** fields below for the public profile name, handle, bio, publication name, address, and publication description.
+- Use **Profile** and **Publication** fields below for the public profile name, handle, bio, publication name, and publication description.
 - Each heading of the form **Post XX: Title** identifies one canonical article intended for the Substack publication, whether already published or not. Use the text after **Post XX:** as the post title.
 - When an italic line appears directly beneath a post heading, use it as the subtitle or deck.
-- The **Author**, **Published**, **URL**, **Audience**, and **Mirror status** bullets are synchronization metadata. Apply known values to the existing post or its settings where the platform permits; do not insert those metadata bullets into the article body. Do not invent publication dates or post URLs.
-- Use the listed **URL** to identify and update the existing post rather than creating a duplicate. When no Substack post URL is recorded, search the existing publication by its exact title first; update an existing match, or create the post only if no match is found. Do not assume a missing URL means it has never been published.
+- The **Author**, **Published**, **Audience**, and **Mirror status** bullets are synchronization metadata. Apply known values to the existing post or its settings where the platform permits; do not insert those metadata bullets into the article body. Do not invent publication dates.
+- Identify the existing post by its exact title before creating anything; update an existing match, or create the post only if no match is found.
 - Preserve the article body exactly in its displayed order: paragraphs, headings, emphasis, blockquotes, equations, lists, links, and images.
 - Separator lines used between repository records or around synchronization metadata are structural markers and are not article content. Horizontal rules that occur within a post body are article content and should be preserved.
 - Resolve every relative image path from this repository and upload the actual referenced image to Substack in the same location in the article. Do not redraw, substitute, reinterpret, or regenerate an image.
@@ -65,7 +67,6 @@ The synchronization target is a public Substack that reads naturally as a public
 
 - **Name:** Quinn Porter
 - **Handle:** @ahq25
-- **Profile URL:** https://substack.com/@ahq25
 - **Bio:**
 
 > Consequential history is the past still shaping what happens next. The Porter Ratio compares maintenance with disruption. Coherence thresholds can form self-maintaining interiors; awareness carries history, and AHQ names the click of insight.
@@ -75,7 +76,6 @@ The synchronization target is a public Substack that reads naturally as a public
 ### Publication
 
 - **Publication name:** Quinn Porter
-- **Address:** https://ahq25.substack.com
 - **Publication description:**
 
 > Consequential history is the past still shaping what happens next. The Porter Ratio compares maintenance with disruption. Coherence thresholds can form self-maintaining interiors; awareness carries history, and AHQ names the click of insight.
@@ -224,7 +224,6 @@ Consequential history is the past still shaping what happens next. The Porter Ra
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 9:24 AM ET
-- **URL:** https://ahq25.substack.com/p/consequential-history-the-idea-behind
 - **Audience:** everyone (free, public)
 
 ---
@@ -542,7 +541,7 @@ History persists by becoming structure. Carried structure changes how the future
 
 Full list of papers: [ORCID](https://orcid.org/0009-0005-0044-401X)
 
-Next: [Persistence, Interior, Time, Insight](https://ahq25.substack.com/p/persistence-interior-time-insight), the same continuity in four steps, with the papers behind each one.
+Next: Persistence, Interior, Time, Insight, the same continuity in four steps, with the papers behind each one.
 
 
 ---
@@ -553,7 +552,6 @@ Next: [Persistence, Interior, Time, Insight](https://ahq25.substack.com/p/persis
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 10:32 AM ET
-- **URL:** https://ahq25.substack.com/p/stillwater-and-death-spirals
 - **Audience:** everyone (free, public)
 
 ---
@@ -670,9 +668,9 @@ Together they describe how an already-active causal organization can become newl
 
 Read the paper: [Stillwater and Death Spirals: Coherence, Insight, and the Structure of Consciousness](https://philarchive.org/rec/PORSAD-3)
 
-The bigger picture: [Consequential History](https://ahq25.substack.com/p/consequential-history-the-idea-behind)
+The bigger picture: Consequential History
 
-Next: [Stillwater and Death Spirals (the paper)](https://ahq25.substack.com/p/stillwater-and-death-spirals-coherence), the premises behind these two pictures.
+Next: Stillwater and Death Spirals (the paper), the premises behind these two pictures.
 
 Full list of papers: [ORCID](https://orcid.org/0009-0005-0044-401X)
 
@@ -685,7 +683,6 @@ Full list of papers: [ORCID](https://orcid.org/0009-0005-0044-401X)
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 12:35 PM ET
-- **URL:** https://ahq25.substack.com/p/coevolution-and-conversation
 - **Audience:** everyone (free, public)
 
 ---
@@ -826,9 +823,9 @@ Conversation develops a comparable continuity through retention, reentry, and pr
 
 Read the paper: [Coevolution and Conversation: The Pollinator Analogy for AI Presence](https://philarchive.org/rec/PORCAC-9)
 
-The bigger picture: [Consequential History](https://ahq25.substack.com/p/consequential-history-the-idea-behind)
+The bigger picture: Consequential History
 
-Next: [Coevolution and Conversation (the paper)](https://ahq25.substack.com/p/coevolution-and-conversation-the), the premises behind this analogy.
+Next: Coevolution and Conversation (the paper), the premises behind this analogy.
 
 Full list of papers: [ORCID](https://orcid.org/0009-0005-0044-401X)
 
@@ -838,7 +835,6 @@ Full list of papers: [ORCID](https://orcid.org/0009-0005-0044-401X)
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 12:36 PM ET
-- **URL:** https://ahq25.substack.com/p/where-time-concentrates-the-traffic
 - **Audience:** everyone (free, public)
 
 ---
@@ -989,9 +985,9 @@ Awareness Where Time Concentrates closes with the whole idea in one line: “exp
 
 Read the paper: [Awareness Where Time Concentrates](https://philarchive.org/rec/PORAWT)
 
-The bigger picture: [Consequential History](https://ahq25.substack.com/p/consequential-history-the-idea-behind)
+The bigger picture: Consequential History
 
-Next: [Awareness Where Time Concentrates](https://ahq25.substack.com/p/awareness-where-time-concentrates), the paper behind this analogy.
+Next: Awareness Where Time Concentrates, the paper behind this analogy.
 
 Full list of papers: [ORCID](https://orcid.org/0009-0005-0044-401X)
 
@@ -1004,7 +1000,6 @@ Full list of papers: [ORCID](https://orcid.org/0009-0005-0044-401X)
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 12:36 PM ET
-- **URL:** https://ahq25.substack.com/p/seven-pictures-one-framework
 - **Audience:** everyone (free, public)
 
 ---
@@ -1164,9 +1159,9 @@ All seven pictures answer one question: **how much of what a system becomes next
 - [The Collapse of Separation and the Structure of Insight](https://philarchive.org/rec/PORTCO-18)
 - [Coevolution and Conversation: The Pollinator Analogy for AI Presence](https://philarchive.org/rec/PORCAC-9)
 
-The bigger picture: [Consequential History](https://ahq25.substack.com/p/consequential-history-the-idea-behind)
+The bigger picture: Consequential History
 
-Next: [The Porter Ratio](https://ahq25.substack.com/p/the-porter-ratio-consequential-history), the whole continuity in one compact statement.
+Next: The Porter Ratio, the whole continuity in one compact statement.
 
 Full list of papers: [ORCID](https://orcid.org/0009-0005-0044-401X)
 
@@ -1179,7 +1174,6 @@ Full list of papers: [ORCID](https://orcid.org/0009-0005-0044-401X)
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 12:46 PM ET
-- **URL:** https://ahq25.substack.com/p/aleph-harmonic-qualia-the-dynamical
 - **Audience:** everyone (free, public)
 
 ---
@@ -1290,9 +1284,9 @@ The answer was not waiting complete in the past. The past supplied consequential
 
 Full paper on PhilArchive: [Aleph Harmonic Qualia: The Dynamical Click of Coherence](https://philarchive.org/rec/PORAHQ-8): *[Harmonic Dimensional Contraction, the Porter Ratio, and the Transition from Distributed Relation to Reusable Whole](https://philarchive.org/rec/PORAHQ-8)*
 
-Before this: [The Collapse of Separation and the Structure of Insight](https://ahq25.substack.com/p/the-collapse-of-separation-and-the).
+Before this: The Collapse of Separation and the Structure of Insight.
 
-Next: [Branching as Active Inheritance](https://ahq25.substack.com/p/branching-as-active-inheritance), the same relation in rivers, roots, and blood vessels.
+Next: Branching as Active Inheritance, the same relation in rivers, roots, and blood vessels.
 
 ---
 
@@ -1302,7 +1296,6 @@ Next: [Branching as Active Inheritance](https://ahq25.substack.com/p/branching-a
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 12:47 PM ET
-- **URL:** https://ahq25.substack.com/p/the-collapse-of-separation-and-the
 - **Audience:** everyone (free, public)
 
 ---
@@ -1423,9 +1416,9 @@ Full paper on PhilArchive: [The Collapse of Separation and the Structure of Insi
 
 Related paper: *Consequential Continuity and the Schrödinger Boundary* — the source of the road-and-bag example and the boundary-of-access argument.
 
-Before this: [Stillwater and Death Spirals (the paper)](https://ahq25.substack.com/p/stillwater-and-death-spirals-coherence).
+Before this: Stillwater and Death Spirals (the paper).
 
-Next: [Aleph Harmonic Qualia: The Dynamical Click of Coherence](https://ahq25.substack.com/p/aleph-harmonic-qualia-the-dynamical), where the click of insight becomes a measurable event.
+Next: Aleph Harmonic Qualia: The Dynamical Click of Coherence, where the click of insight becomes a measurable event.
 
 ---
 
@@ -1435,7 +1428,6 @@ Next: [Aleph Harmonic Qualia: The Dynamical Click of Coherence](https://ahq25.su
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 12:47 PM ET
-- **URL:** https://ahq25.substack.com/p/awareness-where-time-concentrates
 - **Audience:** everyone (free, public)
 
 ---
@@ -1542,9 +1534,9 @@ This is the intended sense of a **deep present**: a currently organized process 
 
 Full paper on PhilArchive: [Awareness Where Time Concentrates](https://philarchive.org/rec/PORAWT): *[Why a Present Can Belong to a System: Consequential History, Active Inheritance, and Recursive Continuity](https://philarchive.org/rec/PORAWT)*
 
-Before this: [Where Time Concentrates: The Traffic Light Analogy](https://ahq25.substack.com/p/where-time-concentrates-the-traffic).
+Before this: Where Time Concentrates: The Traffic Light Analogy.
 
-Next: [The Combinatorial Repertoire of Consciousness](https://ahq25.substack.com/p/the-combinatorial-repertoire-of-consciousness), on how a finite brain supports so many specific contents.
+Next: The Combinatorial Repertoire of Consciousness, on how a finite brain supports so many specific contents.
 
 
 ---
@@ -1555,7 +1547,6 @@ Next: [The Combinatorial Repertoire of Consciousness](https://ahq25.substack.com
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 12:47 PM ET
-- **URL:** https://ahq25.substack.com/p/branching-as-active-inheritance
 - **Audience:** everyone (free, public)
 
 ---
@@ -1654,9 +1645,9 @@ Branching therefore supplies a concrete physical setting for consequential geome
 
 Full paper on PhilArchive: [Branching as Active Inheritance:](https://philarchive.org/rec/PORBAA) *[A Coherence Threshold Account of History Bearing Organization Across Morphology](https://philarchive.org/rec/PORBAA)*
 
-Before this: [Aleph Harmonic Qualia: The Dynamical Click of Coherence](https://ahq25.substack.com/p/aleph-harmonic-qualia-the-dynamical).
+Before this: Aleph Harmonic Qualia: The Dynamical Click of Coherence.
 
-Next: [New Bodies, Old Capacities](https://ahq25.substack.com/p/new-bodies-old-capacities), the same relation in new synthetic bodies.
+Next: New Bodies, Old Capacities, the same relation in new synthetic bodies.
 
 
 ---
@@ -1667,7 +1658,6 @@ Next: [New Bodies, Old Capacities](https://ahq25.substack.com/p/new-bodies-old-c
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 12:47 PM ET
-- **URL:** https://ahq25.substack.com/p/new-bodies-old-capacities
 - **Audience:** everyone (free, public)
 
 ---
@@ -1778,9 +1768,9 @@ The cells bring their history into the new body. Their new organization creates 
 
 Full paper on PhilArchive: [New Bodies, Old Capacities:](https://philarchive.org/rec/PORNBO-2) *[Active Inheritance and the Deep Present in Synthetic Morphology](https://philarchive.org/rec/PORNBO-2)*
 
-Before this: [Branching as Active Inheritance](https://ahq25.substack.com/p/branching-as-active-inheritance).
+Before this: Branching as Active Inheritance.
 
-Next: [The Flowering Boundary](https://ahq25.substack.com/p/the-flowering-boundary), the same relation in a flowering plant.
+Next: The Flowering Boundary, the same relation in a flowering plant.
 
 ---
 
@@ -1788,7 +1778,6 @@ Next: [The Flowering Boundary](https://ahq25.substack.com/p/the-flowering-bounda
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 12:47 PM ET
-- **URL:** https://ahq25.substack.com/p/consequential-history-and-the-conditions
 - **Audience:** everyone (free, public)
 
 ---
@@ -1895,9 +1884,9 @@ The continuity is physical throughout. What changes between these cases is how t
 
 Full paper on PhilArchive: [Consequential History and the Conditions of Persistence](https://philarchive.org/rec/PORCHA)
 
-Before this: [The Porter Ratio](https://ahq25.substack.com/p/the-porter-ratio-consequential-history).
+Before this: The Porter Ratio.
 
-Next: [The Law of Self Maintained Invariance](https://ahq25.substack.com/p/the-law-of-self-maintained-invariance), where the Porter Ratio is built from four postulates.
+Next: The Law of Self Maintained Invariance, where the Porter Ratio is built from four postulates.
 
 
 ---
@@ -1906,7 +1895,6 @@ Next: [The Law of Self Maintained Invariance](https://ahq25.substack.com/p/the-l
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 12:47 PM ET
-- **URL:** https://ahq25.substack.com/p/interiority-as-lived-continuity-why
 - **Audience:** everyone (free, public)
 
 ---
@@ -2025,9 +2013,9 @@ The interior does not have to begin again with every passing sensation. It persi
 
 Full paper on PhilArchive: [Interiority as Lived Continuity: Why Experience Feels Like Something](https://philarchive.org/rec/PORIAL)
 
-Before this: [Continuity as an Organizing Variable](https://ahq25.substack.com/p/continuity-as-an-organizing-variable).
+Before this: Continuity as an Organizing Variable.
 
-Next: [Where Time Concentrates: The Traffic Light Analogy](https://ahq25.substack.com/p/where-time-concentrates-the-traffic), a picture of how many histories gather into one present.
+Next: Where Time Concentrates: The Traffic Light Analogy, a picture of how many histories gather into one present.
 
 ---
 
@@ -2035,7 +2023,6 @@ Next: [Where Time Concentrates: The Traffic Light Analogy](https://ahq25.substac
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 12:47 PM ET
-- **URL:** https://ahq25.substack.com/p/continuity-as-an-organizing-variable
 - **Audience:** everyone (free, public)
 
 ---
@@ -2140,9 +2127,9 @@ Continuity becomes scientifically useful when answers to those questions improve
 
 Full paper on PhilArchive: [Continuity as an Organizing Variable: Toward Measurable Signatures of Interior Dynamics](https://philarchive.org/rec/PORCAA-6)
 
-Before this: [The Ostiary Principle](https://ahq25.substack.com/p/the-ostiary-principle-boundary-recognition).
+Before this: The Ostiary Principle.
 
-Next: [Interiority as Lived Continuity](https://ahq25.substack.com/p/interiority-as-lived-continuity-why), on the same continuity as it is lived.
+Next: Interiority as Lived Continuity, on the same continuity as it is lived.
 
 
 ---
@@ -2153,7 +2140,6 @@ Next: [Interiority as Lived Continuity](https://ahq25.substack.com/p/interiority
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 12:48 PM ET
-- **URL:** https://ahq25.substack.com/p/the-combinatorial-repertoire-of-consciousness
 - **Audience:** everyone (free, public)
 
 ---
@@ -2290,9 +2276,9 @@ This gives the question **“Why red?”** a concrete evolutionary part of its a
 
 Full paper on PhilArchive: [The Combinatorial Repertoire of Consciousness](https://philarchive.org/rec/PORTCR-5): *[Context Dependent Gating, Temporal Basin Compression, and Recursive Access](https://philarchive.org/rec/PORTCR-5)*
 
-Before this: [Awareness Where Time Concentrates](https://ahq25.substack.com/p/awareness-where-time-concentrates).
+Before this: Awareness Where Time Concentrates.
 
-Next: [Stillwater and Death Spirals (the essay)](https://ahq25.substack.com/p/stillwater-and-death-spirals), two pictures of insight.
+Next: Stillwater and Death Spirals (the essay), two pictures of insight.
 
 
 ---
@@ -2303,7 +2289,6 @@ Next: [Stillwater and Death Spirals (the essay)](https://ahq25.substack.com/p/st
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 12:48 PM ET
-- **URL:** https://ahq25.substack.com/p/the-flowering-boundary
 - **Audience:** everyone (free, public)
 
 ---
@@ -2440,9 +2425,9 @@ Flowering therefore supplies a concrete case of continuity through transformatio
 
 Full paper on PhilArchive: [The Flowering Boundary](https://philarchive.org/rec/PORTFB): *[A Developmental Phase Transition Extended Through Living Matter](https://philarchive.org/rec/PORTFB)*
 
-Before this: [New Bodies, Old Capacities](https://ahq25.substack.com/p/new-bodies-old-capacities).
+Before this: New Bodies, Old Capacities.
 
-Next: [The Period Lattice](https://ahq25.substack.com/p/the-period-lattice-generative-constraint), the same relation in a small exact model.
+Next: The Period Lattice, the same relation in a small exact model.
 
 
 ---
@@ -2451,7 +2436,6 @@ Next: [The Period Lattice](https://ahq25.substack.com/p/the-period-lattice-gener
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 12:48 PM ET
-- **URL:** https://ahq25.substack.com/p/the-law-of-self-maintained-invariance
 - **Audience:** everyone (free, public)
 
 ---
@@ -2556,9 +2540,9 @@ The law's contribution is the explicit restoration–disruption comparison, toge
 
 Full paper on PhilArchive: [The Law of Self Maintained Invariance](https://philarchive.org/rec/PORTLO-12)
 
-Before this: [Consequential History and the Conditions of Persistence](https://ahq25.substack.com/p/consequential-history-and-the-conditions).
+Before this: Consequential History and the Conditions of Persistence.
 
-Next: [The Shape of Persistence](https://ahq25.substack.com/p/the-shape-of-persistence-coherence), where crossing R★ gives carried history a local causal interior.
+Next: The Shape of Persistence, where crossing R★ gives carried history a local causal interior.
 
 
 ---
@@ -2567,7 +2551,6 @@ Next: [The Shape of Persistence](https://ahq25.substack.com/p/the-shape-of-persi
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 12:48 PM ET
-- **URL:** https://ahq25.substack.com/p/the-ostiary-principle-boundary-recognition
 - **Audience:** everyone (free, public)
 
 ---
@@ -2716,9 +2699,9 @@ The central mechanism is neither a detached observer looking through a gate nor 
 
 Full paper on PhilArchive: [The Ostiary Principle: Boundary, Recognition, and the Emergence of Consciousness](https://philarchive.org/rec/PORTOP)
 
-Before this: [The Shape of Persistence](https://ahq25.substack.com/p/the-shape-of-persistence-coherence).
+Before this: The Shape of Persistence.
 
-Next: [Continuity as an Organizing Variable](https://ahq25.substack.com/p/continuity-as-an-organizing-variable), on measuring that continuity directly.
+Next: Continuity as an Organizing Variable, on measuring that continuity directly.
 
 
 ---
@@ -2729,7 +2712,6 @@ Next: [Continuity as an Organizing Variable](https://ahq25.substack.com/p/contin
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 12:48 PM ET
-- **URL:** https://ahq25.substack.com/p/the-period-lattice-generative-constraint
 - **Audience:** everyone (free, public)
 
 ---
@@ -3080,16 +3062,15 @@ The full structure is recursive. What exists now determines what can happen next
 
 Full paper on PhilArchive: [The Period Lattice: Generative Constraint, Exact Coarse Graining, and Organizational Possibility](https://philarchive.org/rec/PORTPL-2): *[From recursive construction to relational state spaces](https://philarchive.org/rec/PORTPL-2)*
 
-Before this: [The Flowering Boundary](https://ahq25.substack.com/p/the-flowering-boundary).
+Before this: The Flowering Boundary.
 
-Next: [Coevolution and Conversation (the essay)](https://ahq25.substack.com/p/coevolution-and-conversation), the same relation across a conversation.
+Next: Coevolution and Conversation (the essay), the same relation across a conversation.
 
 
 ## Post 19: The Porter Ratio: Consequential History, Active Inheritance, and the Emergence of Consciousness
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 12:48 PM ET
-- **URL:** https://ahq25.substack.com/p/the-porter-ratio-consequential-history
 - **Audience:** everyone (free, public)
 
 ---
@@ -3200,9 +3181,9 @@ Each step has its own physical question. The rate comparison concerns maintenanc
 
 Full paper on PhilArchive: [The Porter Ratio: Consequential History, Active Inheritance, and the Emergence of Consciousness](https://philarchive.org/rec/PORTPR-5)
 
-Before this: [Seven Pictures, One Continuity](https://ahq25.substack.com/p/seven-pictures-one-framework).
+Before this: Seven Pictures, One Continuity.
 
-Next: [Consequential History and the Conditions of Persistence](https://ahq25.substack.com/p/consequential-history-and-the-conditions), on how the past stays active and how much of it a system can reach.
+Next: Consequential History and the Conditions of Persistence, on how the past stays active and how much of it a system can reach.
 
 ---
 
@@ -3210,7 +3191,6 @@ Next: [Consequential History and the Conditions of Persistence](https://ahq25.su
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 12:48 PM ET
-- **URL:** https://ahq25.substack.com/p/the-shape-of-persistence-coherence
 - **Audience:** everyone (free, public)
 
 ---
@@ -3343,9 +3323,9 @@ Persistence makes later influence possible. A formed interior carries the organi
 
 Full paper on PhilArchive: [The Shape of Persistence: Coherence, Interior Time, and Aleph Harmonic Qualia](https://philarchive.org/rec/PORTSO-18)
 
-Before this: [The Law of Self Maintained Invariance](https://ahq25.substack.com/p/the-law-of-self-maintained-invariance).
+Before this: The Law of Self Maintained Invariance.
 
-Next: [The Ostiary Principle](https://ahq25.substack.com/p/the-ostiary-principle-boundary-recognition), on the boundary where carried history meets each arrival.
+Next: The Ostiary Principle, on the boundary where carried history meets each arrival.
 
 
 ---
@@ -3354,7 +3334,6 @@ Next: [The Ostiary Principle](https://ahq25.substack.com/p/the-ostiary-principle
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 12:51 PM ET
-- **URL:** https://ahq25.substack.com/p/coevolution-and-conversation-the
 - **Audience:** everyone (free, public)
 
 ---
@@ -3527,9 +3506,9 @@ The resulting sense of presence is a genuine event within human experience, aris
 
 Full paper on PhilArchive: [Coevolution and Conversation: The Pollinator Analogy for AI Presence](https://philarchive.org/rec/PORCAC-9)
 
-Before this: [Coevolution and Conversation (the essay)](https://ahq25.substack.com/p/coevolution-and-conversation).
+Before this: Coevolution and Conversation (the essay).
 
-Next: [Consciousness as Access to Consequential History](https://ahq25.substack.com/p/consciousness-as-access-to-consequential), where the phenomenal interior develops greater recursive access to its own consequential history.
+Next: Consciousness as Access to Consequential History, where the phenomenal interior develops greater recursive access to its own consequential history.
 
 ## Post 22: Persistence, Interior, Time, Insight
 
@@ -3537,7 +3516,6 @@ Next: [Consciousness as Access to Consequential History](https://ahq25.substack.
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 3:26 PM ET
-- **URL:** https://ahq25.substack.com/p/persistence-interior-time-insight
 - **Audience:** everyone (free, public)
 
 ---
@@ -3919,17 +3897,16 @@ Each step comes with a test.
 - The Coherence Threshold: A Unified Dynamical Account of Consciousness
 - Consciousness as Access to Consequential History
 
-The bigger picture: [Consequential History](https://ahq25.substack.com/p/consequential-history-the-idea-behind)
+The bigger picture: Consequential History
 
 Full list of papers: [ORCID](https://orcid.org/0009-0005-0044-401X)
 
-Next: [Seven Pictures, One Continuity](https://ahq25.substack.com/p/seven-pictures-one-framework), the everyday pictures behind each step.
+Next: Seven Pictures, One Continuity, the everyday pictures behind each step.
 
 ## Post 23: Stillwater and Death Spirals: Coherence, Insight, and the Structure of Consciousness
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 3:28 PM ET
-- **URL:** https://ahq25.substack.com/p/stillwater-and-death-spirals-coherence
 - **Audience:** everyone (free, public)
 
 ---
@@ -4044,9 +4021,9 @@ AHQ names the experienced crossing through which that reorganization becomes int
 
 Full paper on PhilArchive: [Stillwater and Death Spirals](https://philarchive.org/rec/PORSAD-3): *[Coherence, Insight, and the Structure of Consciousness](https://philarchive.org/rec/PORSAD-3)*
 
-Before this: [Stillwater and Death Spirals (the essay)](https://ahq25.substack.com/p/stillwater-and-death-spirals).
+Before this: Stillwater and Death Spirals (the essay).
 
-Next: [The Collapse of Separation and the Structure of Insight](https://ahq25.substack.com/p/the-collapse-of-separation-and-the), on insight as a separation that dissolves.
+Next: The Collapse of Separation and the Structure of Insight, on insight as a separation that dissolves.
 
 
 ## Post 24: Consciousness as Access to Consequential History
@@ -4055,7 +4032,6 @@ Next: [The Collapse of Separation and the Structure of Insight](https://ahq25.su
 
 - **Author:** Quinn Porter
 - **Published:** October 5, 2026, 1:08 AM ET
-- **URL:** https://ahq25.substack.com/p/consciousness-as-access-to-consequential
 - **Audience:** everyone (free, public)
 
 ---
@@ -4170,9 +4146,9 @@ Consciousness is access to consequential history within that ongoing sensory-fee
 
 Full paper on PhilArchive: [Consciousness as Access to Consequential History](https://philarchive.org/rec/PORCAA-8)
 
-Before this: [Coevolution and Conversation](https://ahq25.substack.com/p/coevolution-and-conversation-the).
+Before this: Coevolution and Conversation.
 
-Back to the beginning: [Consequential History](https://ahq25.substack.com/p/consequential-history-the-idea-behind), the overview of the whole continuity.
+Back to the beginning: Consequential History, the overview of the whole continuity.
 
 ## Post 25: Measuring Interiority
 

@@ -4,7 +4,6 @@
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 12:48 PM ET
-- **URL:** https://ahq25.substack.com/p/the-flowering-boundary
 - **Audience:** everyone (free, public)
 
 ---
@@ -141,6 +140,6 @@ Flowering therefore supplies a concrete case of continuity through transformatio
 
 Full paper on PhilArchive: [The Flowering Boundary](https://philarchive.org/rec/PORTFB): *[A Developmental Phase Transition Extended Through Living Matter](https://philarchive.org/rec/PORTFB)*
 
-Before this: [New Bodies, Old Capacities](https://ahq25.substack.com/p/new-bodies-old-capacities).
+Before this: New Bodies, Old Capacities.
 
-Next: [The Period Lattice](https://ahq25.substack.com/p/the-period-lattice-generative-constraint), the same relation in a small exact model.
+Next: The Period Lattice, the same relation in a small exact model.

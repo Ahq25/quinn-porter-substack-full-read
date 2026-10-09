@@ -2,7 +2,6 @@
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 12:48 PM ET
-- **URL:** https://ahq25.substack.com/p/the-law-of-self-maintained-invariance
 - **Audience:** everyone (free, public)
 
 ---
@@ -107,6 +106,6 @@ The law's contribution is the explicit restoration–disruption comparison, toge
 
 Full paper on PhilArchive: [The Law of Self Maintained Invariance](https://philarchive.org/rec/PORTLO-12)
 
-Before this: [Consequential History and the Conditions of Persistence](https://ahq25.substack.com/p/consequential-history-and-the-conditions).
+Before this: Consequential History and the Conditions of Persistence.
 
-Next: [The Shape of Persistence](https://ahq25.substack.com/p/the-shape-of-persistence-coherence), where crossing R★ gives carried history a local causal interior.
+Next: The Shape of Persistence, where crossing R★ gives carried history a local causal interior.

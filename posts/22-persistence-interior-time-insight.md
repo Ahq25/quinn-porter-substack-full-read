@@ -4,7 +4,6 @@
 
 - **Author:** Quinn Porter
 - **Published:** October 2, 2026, 3:26 PM ET
-- **URL:** https://ahq25.substack.com/p/persistence-interior-time-insight
 - **Audience:** everyone (free, public)
 
 ---
@@ -386,8 +385,8 @@ Each step comes with a test.
 - The Coherence Threshold: A Unified Dynamical Account of Consciousness
 - Consciousness as Access to Consequential History
 
-The bigger picture: [Consequential History](https://ahq25.substack.com/p/consequential-history-the-idea-behind)
+The bigger picture: Consequential History
 
 Full list of papers: [ORCID](https://orcid.org/0009-0005-0044-401X)
 
-Next: [Seven Pictures, One Continuity](https://ahq25.substack.com/p/seven-pictures-one-framework), the everyday pictures behind each step.
+Next: Seven Pictures, One Continuity, the everyday pictures behind each step.
