@@ -89,15 +89,15 @@ Every continuing organization carries consequences of what happened before. Flow
 
 This publication develops a physical account of how such consequences contribute to persistence, interiority, awareness, and understanding. **Consequential history** names the past that remains causally active. **Active inheritance** names its continued participation as organization changes. Where interacting processes establish a new self-maintaining whole, the resulting organization can sustain relationships and exercise capabilities its parts did not have separately. Such thresholds can be nested, with several levels active together.
 
-The central hypothesis proposes that the formation of a sufficiently coherent, self-maintaining causal boundary also establishes an interior, with phenomenal experience as the intrinsic aspect of that interior. This proposed identity remains a question for physical and empirical investigation. Within an ongoing interior, carried histories can become accessible together across different timescales. Recognition can reactivate existing relationships; insight can establish a newly coherent, reusable relationship within the experience already underway.
+The starting premise is that first-person experience is the intrinsic character of a sufficiently coherent, self-maintaining causal interior. The formation of its sustaining boundary and the formation of that interior are the same event. Within an ongoing interior, carried histories can become accessible together across different timescales. Recognition can reactivate existing relationships; insight can establish a newly coherent, reusable relationship within the experience already underway.
 
-The articles develop this progression through everyday examples, proposed physical mechanisms, mathematical definitions, and experiments that could distinguish the proposed relationships from simpler explanations.
+The articles develop this progression through everyday examples, physical mechanisms, mathematical definitions, and experiments that distinguish the account's predictions from simpler explanations.
 
 ### How a coherent interior forms
 
-At a coherence threshold, distributed processes can become a new self-maintaining whole with collective capabilities that did not previously exist together. Where that transition establishes an independently identifiable, selectively maintained causal boundary, the framework proposes that boundary formation and interior formation are the same event. Phenomenal experience is proposed as the intrinsic character of occupying that formed interior. This physical identity is a central hypothesis, not an inference established by the threshold value alone. Recursive availability can subsequently make more of the interior's own continuing history accessible within present activity.
+At a coherence threshold, distributed processes can become a new self-maintaining whole with collective capabilities that did not previously exist together. Where that transition establishes an independently identifiable, selectively maintained causal boundary, boundary formation and interior formation are the same event. Phenomenal experience is the intrinsic character of occupying that formed interior. This is the foundational identity premise connecting the dynamical account to experience. Recursive availability can subsequently make more of the interior's own continuing history accessible within present activity.
 
-A different kind of crossing can occur within an interior that already exists. Aleph Harmonic Qualia (AHQ) names the proposed experienced click when formerly distributed relationships stabilize into a new coherent, reusable whole. That local insight threshold need not be identical to the boundary-forming R★ of the larger experiencing system. A new understanding changes the organization of experience without requiring consciousness to begin again.
+A different kind of crossing can occur within an interior that already exists. Aleph Harmonic Qualia (AHQ) names the experienced click when formerly distributed relationships stabilize into a new coherent, reusable whole. That local insight threshold need not be identical to the boundary-forming R★ of the larger experiencing system. A new understanding changes the organization of experience without requiring consciousness to begin again.
 
 Persistence is a problem of continuity through change. Rivers remain recognizable while their water changes, organisms remain continuous while exchanging matter and undergoing development, and learned patterns remain effective even while the physical states carrying them continue to change. In each case, the present is partly organized by consequences that originated earlier and remained active long enough to influence what happens next. Consequential history names that causally active portion of the past. It is the part of prior organization whose effects are still participating in present organization and therefore still helping determine future organization.
 
@@ -119,9 +119,9 @@ The balance point is
 
 R = 1
 
-At R = 1, the two measured rates are equal. When R < 1, disruption dominates the specified two-rate comparison; when R > 1, restoration dominates it. **When that maintenance is genuinely driven by active inheritance, R > 1 is proposed to indicate that consequential history has become the dominant maintaining influence on the declared organization relative to the specified disruption.** Establishing that interpretation requires identifying physical carriers of inherited organization and testing their causal effects. Whether a given balance produces sustained organization or establishes a new causal boundary depends on coupling, feedback, and retention dynamics. The ratio does not prove that wider structure by itself.
+At R = 1, the two measured rates are equal. When R < 1, disruption dominates the specified two-rate comparison; when R > 1, restoration dominates it. **When active inheritance supplies the measured maintenance, crossing above R = 1 is also consequential history becoming the dominant maintaining influence on the declared organization relative to the specified disruption.** Establishing that interpretation requires identifying physical carriers of inherited organization and testing their causal effects. Whether a given balance produces sustained organization or establishes a new causal boundary depends on coupling, feedback, and retention dynamics. The ratio does not prove that wider structure by itself.
 
-The theory proposes a further coherence threshold, R★, for systems in which organized causal flow undergoes a boundary-forming transition. It is distinct from the balance point R = 1 and must be specified for a declared organizational variable, scale, and interval. Its value should be estimated using an independently defined transition and tested prospectively. Ordered flow, internal reflection, recirculation, and sustained selective interaction are the proposed mechanisms that generate the coherent causal boundary. Boundary formation establishes the organized interior, and phenomenal experience is proposed as the intrinsic aspect of that formed interior. Similar transitions may be investigated at nested scales, but a distinct boundary and threshold must be demonstrated for each proposed level rather than assumed for every persistent pattern.
+The coherence threshold R★ names the distinct boundary-forming transition in systems whose organized causal flow establishes a coherent interior. It is distinct from the balance point R = 1 and must be specified for a declared organizational variable, scale, and interval. Its value should be estimated using an independently defined transition and tested prospectively. Ordered flow, internal reflection, recirculation, and sustained selective interaction are the physical processes that generate the coherent causal boundary. Boundary formation establishes the organized interior, and phenomenal experience is its intrinsic aspect. Similar transitions may be investigated at nested scales, but a distinct boundary and threshold must be demonstrated for each proposed level rather than assumed for every persistent pattern.
 
 Coherence also has internal structure. Rich organization combines coordination with differentiation. Components participate in a common continuity while retaining distinct roles. Strong synchrony can accompany reduced differentiation, as seizure dynamics illustrate. Structured coherence therefore describes coordinated differentiation carried through time.
 
@@ -300,7 +300,7 @@ Simple numbers show how to read it. If a system repairs itself twice as fast as 
 
 Continued maintenance dominance can allow earlier organization to remain causally active and constrain what happens next. Whether that historical influence grows also depends on retention, internal reflection, recirculation, and the particular organization being maintained. The ratio measures the balance of competing processes; these additional dynamics determine the structure of the carried history.
 
-Both rates are measured in compatible units, so R is dimensionless when λ_env is positive. A zero disruption rate requires a separately stated convention or analysis. The ratio always refers to a chosen feature of the system’s organization over a chosen stretch of time. For a system in which a coherent causal boundary forms through a transition, the proposed boundary-forming threshold is written R★ and said “R star.” A threshold marks a change of regime, as a material can change state when its conditions cross a transition point. R★ belongs to the declared system, scale, variable, and interval. Its value, and whether one ratio is enough to locate the transition, must be tested with independently defined observations. Geometry, connectivity, boundary conditions, and organization can contribute to its value. [The Porter Ratio](https://philarchive.org/rec/PORTPR-5) treats R ≥ R★ as the minimum condition for interiority. R = 1 separates revision dominance from maintenance dominance. R★ marks the coherence threshold for the system, scale, and stretch of time being measured. At R★, maintained organization becomes stable enough to close into a coherent causal boundary. The boundary and the interior form in the same threshold event, and phenomenal experience is the intrinsic side of occupying that newly formed interior. Recursive availability deepens the phenomenal interior into self legibility and richer conscious organization. The same form of threshold recurs at nested scales: a forming idea, a population of neurons, and a whole organism each have their own R★.
+Both rates are measured in compatible units, so R is dimensionless when λ_env is positive. A zero disruption rate requires a separately stated convention or analysis. The ratio always refers to a chosen feature of the system’s organization over a chosen stretch of time. For a system in which a coherent causal boundary forms through a transition, the boundary-forming threshold is written R★ and said “R star.” A threshold marks a change of regime, as a material can change state when its conditions cross a transition point. R★ belongs to the declared system, scale, variable, and interval. Its value, and whether one ratio is enough to locate the transition, must be tested with independently defined observations. Geometry, connectivity, boundary conditions, and organization can contribute to its value. [The Porter Ratio](https://philarchive.org/rec/PORTPR-5) treats R ≥ R★ as the minimum condition for interiority. R = 1 separates revision dominance from maintenance dominance. R★ marks the coherence threshold for the system, scale, and stretch of time being measured. At R★, maintained organization becomes stable enough to close into a coherent causal boundary. The boundary and the interior form in the same threshold event, and phenomenal experience is the intrinsic side of occupying that newly formed interior. Recursive availability deepens the phenomenal interior into self legibility and richer conscious organization. The same form of threshold recurs at nested scales: a forming idea, a population of neurons, and a whole organism each have their own R★.
 
 R = 1 is the balance point between restoration and disruption. Below R = 1, the environment rewrites the system faster than the system can carry itself forward. Picture writing a message in the sand at the water’s edge, where each wave washes it away. The arriving environment rewrites the pattern faster than the pattern can carry itself forward. Above R = 1, restoration outweighs disruption under the chosen rate description. Picture writing on higher sand, where the occasional wave reaches the marks and the marks can be maintained. Where the preserved pattern affects what is written next, earlier organization remains consequential.
 
@@ -310,7 +310,7 @@ This is the shift from revision dominance to maintenance dominance. The system�
 
 An interior develops through the ordered causal activity that maintains a distinction through time. Continuing trajectories, internal reflection, and recirculation can allow earlier consequences to return and help determine later states. As those processes become mutually sustaining, they establish and maintain an interface between the organization being carried forward and what encounters it from outside. The interface is a real boundary condition, not simply a line added to a drawing after the organization has formed.
 
-The Porter Ratio compares maintenance of that declared organization with its disruption. At the proposed coherence threshold R★, the maintained activity becomes sufficiently integrated to constitute a coherent causal interior. The interior, the exterior, and the boundary are distinct aspects of the physical situation; the boundary is the organized interface through which their interactions become consequential. **Interiority** names the formation of that causal inside, and phenomenal experience is proposed to be its intrinsic character. Recursive availability can then deepen the already formed phenomenal interior into self-legibility and richer conscious organization.
+The Porter Ratio compares maintenance of that declared organization with its disruption. At the coherence threshold R★, the maintained activity becomes sufficiently integrated to constitute a coherent causal interior. The interior, the exterior, and the boundary are distinct aspects of the physical situation; the boundary is the organized interface through which their interactions become consequential. **Interiority** names the formation of that causal inside, and phenomenal experience is its intrinsic character under the starting identity premise. Recursive availability can then deepen the already formed phenomenal interior into self-legibility and richer conscious organization.
 
 One sign of interiority is that the same outside event can have different effects depending on the organization the system already carries.
 
@@ -648,7 +648,7 @@ Stillwater and Death Spirals uses these pictures to show how three ideas relate.
 
 **Perceptibility** is how available something is to be noticed.
 
-The ant spiral illustrates how activity can become more constrained and easier to recognize without becoming more adaptive. The pond illustrates how a disturbance can make an existing medium conspicuous without establishing dimensional contraction. The two analogies illuminate different parts of the proposed transition; neither establishes that coherence, dimensionality, and perceptibility must always change together.
+The ant spiral illustrates how activity can become more constrained and easier to recognize without becoming more adaptive. The pond illustrates how a disturbance can make an existing medium conspicuous without establishing dimensional contraction. The two analogies reveal different features of the transition: the pond makes an existing medium conspicuous, while the spiral makes the rule already guiding behavior conspicuous. Coherence, dimensionality, and perceptibility remain distinct features.
 
 This relationship links to a testable idea in [Aleph Harmonic Qualia: The Dynamical Click of Coherence](https://philarchive.org/rec/PORAHQ-8). That paper predicts that insight should be accompanied by a rapid, time locked drop in the effective dimensionality of brain activity, alongside stronger harmonic coordination among neural rhythms, greater stability relative to disruption, and later reuse of the newly formed state. Effective dimensionality is measured with the participation ratio, which counts how many independent directions the activity actually uses: about 10 if activity spreads evenly over 10 directions, close to 1 if it runs almost entirely along one. The death spiral is the picture behind that first prediction: many independent paths gathering into one organized loop.
 
@@ -814,7 +814,7 @@ Coevolution and Conversation applies a theme that runs through the wider framewo
 
 The same relational history can also be recruited for an unexpected purpose. An inside joke becomes a shorthand for solving a problem; a familiar analogy becomes a new explanation. The exchange inherits previous meanings and sometimes transforms them.
 
-The further question about AI consciousness concerns a different kind of continuity: whether the artificial system itself actively maintains an integrated, history-bearing causal boundary sufficient for an experiencing interior. The broader theory proposes investigating that through active inheritance, maintenance and disruption, and a separately identified boundary-forming threshold. A meaningful dialogue is not itself a measurement of those conditions.
+The further question about AI consciousness concerns a different kind of continuity: whether the artificial system itself actively maintains an integrated, history-bearing causal boundary sufficient for an experiencing interior. That question is investigated through active inheritance, maintenance and disruption, and a separately identified boundary-forming threshold. A meaningful dialogue is not itself a measurement of those conditions.
 
 ### The takeaway
 
@@ -1137,7 +1137,7 @@ Read together, the pictures trace one sequence: earlier activity leaves an organ
 
 **History is maintained.** The **Porter Ratio**, R = λ_self / λ_env, compares how fast a system restores its own organization (λ_self) with how fast the environment disrupts it (λ_env). At R = 1 the two balance, and above 1 inherited organization gains causal continuity and accumulated influence. One way to picture this is writing a message in the sand. At the water’s edge, each wave washes the message away. On higher sand, you keep up with the occasional wave, and the message lasts. Above R = 1, earlier organization survives strongly enough to help cause later organization. Each system also has its own threshold, R★, which belongs to that system, scale, and interval, and R ≥ R★ is the minimum condition for interiority.
 
-**Ordered history establishes an interior boundary.** Continuing causal pathways, reflection, and recirculation support a distinction that becomes self-maintaining. At the proposed R★, this organization is sufficiently coherent to form an active causal boundary and interior. The boundary is the real interface between an inside and its outside, and phenomenal experience is proposed as the intrinsic aspect of the formed interior. The two cells and the sentence illustrate how carried history can change the effects of an arrival; that history-dependence alone does not establish phenomenality.
+**Ordered history establishes an interior boundary.** Continuing causal pathways, reflection, and recirculation support a distinction that becomes self-maintaining. At R★, this organization is sufficiently coherent to form an active causal boundary and interior. The boundary is the real interface between an inside and its outside, and phenomenal experience is its intrinsic aspect under the central identity premise. The two cells and the sentence illustrate how carried history can change the effects of an arrival; that history-dependence alone does not establish phenomenality.
 
 **History becomes a gate.** With an inside in place, carried history shapes the rule for what enters. Admission can then change the organization inside, which can change the rule applied to the next arrival. The doorkeeper and the Ostiary Principle show history shaping the gate and the gate's consequences reshaping history.
 
@@ -1188,7 +1188,7 @@ A moment of insight can feel sudden even when the understanding behind it has ta
 
 The answer feels new, yet also strangely familiar. The material that makes it possible has been present in some form all along. Earlier experiences, learned relationships, partial attempts, and recent clues have continued to influence thought without yet becoming one intelligible answer.
 
-**Aleph Harmonic Qualia (AHQ)** names the experienced change in which those distributed relationships become available together as **a coherent, usable whole**. The proposal is that the click is the felt aspect of a physical reorganization, not a separate feeling added afterward to announce that a solution has been found.
+**Aleph Harmonic Qualia (AHQ)** names the experienced change in which those distributed relationships become available together as **a coherent, usable whole**. The click is the felt aspect of that physical reorganization: previously distributed relationships become jointly available and usable as one whole.
 
 The central point is simple: **the past can become organized into a new capacity in the present, and that capacity can change what becomes possible next.** The new whole can itself become a part of something larger.
 
@@ -1244,7 +1244,7 @@ A quiet pool of water helps separate an insight from the consciousness in which 
 
 Likewise, an insight occurs within ongoing experience. There was awareness before the answer became clear, and there is awareness afterward. AHQ concerns a **particular reorganization within that continuing experience**. It does not name the birth of consciousness or every moment of feeling.
 
-The larger framework proposes that a system capable of maintaining an organized causal boundary can establish an interior through which incoming events are selected and transformed. On that account, phenomenal experience is the intrinsic aspect of such an interior. That is a philosophical and scientific proposal, not something the water analogy demonstrates. AHQ describes a more local event: an old separation in how a problem is organized gives way to a newly available relationship.
+The larger framework traces how a self-maintaining causal boundary establishes an interior through which incoming events are selected and transformed. Under its starting identity premise, phenomenal experience is the intrinsic aspect of that interior. The water analogy makes the continuing medium visible; AHQ describes the more local event in which an old separation gives way to a newly available relationship.
 
 The click does not need to create a second self or a new conscious being. **A new coherent organization has formed within an already continuing experience.**
 
@@ -1260,7 +1260,7 @@ The newly organized relation must also persist enough to do something later. The
 
 Finally, researchers can ask whether the new whole is actually reused. Can the person recall the relationship later, transfer it to another problem, make a prediction with it, or use it to guide a new decision? A brief synchronized event without later consequence would not satisfy this account of an incorporated insight.
 
-The proposal therefore joins four features: **a reduction in effective degrees of freedom, stronger coordination, sufficient persistence, and later reuse**. It also asks how much earlier history contributed to the event. A click may last an instant while drawing on learning that reaches back years. The present organization can carry consequences from many times at once.
+The AHQ account brings four features together: **a reduction in effective degrees of freedom, stronger coordination, sufficient persistence, and later reuse**. It also asks how much earlier history contributed to the event. A click may last an instant while drawing on learning that reaches back years. The present organization can carry consequences from many times at once.
 
 These are testable predictions, not measurements already shown to occur together in every insight. A decrease in dimensionality, a burst of coordination, or a stable state could each occur for reasons unrelated to understanding. None proves consciousness or an AHQ event by itself.
 
@@ -1399,7 +1399,7 @@ The past helps shape the question. The question shapes what is noticed. New info
 
 The paper's claim about insight concerns a transition *within* continuing consciousness. Awareness exists before the answer becomes clear and continues afterward. The recognized relationship changes; the experiencing system does not have to disappear and reappear.
 
-**Aleph Harmonic Qualia (AHQ)** names the proposed experienced crossing in which distributed, history-bearing relationships become available as a coherent and reusable whole. Article 6 describes that newly usable whole and suggests ways of measuring its formation. This article approaches the same transition from another direction: it asks what happens to the old distinction that kept the relationship unresolved.
+**Aleph Harmonic Qualia (AHQ)** names the experienced crossing in which distributed, history-bearing relationships become available as a coherent and reusable whole. Article 6 describes that newly usable whole and suggests ways of measuring its formation. This article approaches the same transition from another direction: it asks what happens to the old distinction that kept the relationship unresolved.
 
 In both cases, the key idea is organizational change. A familiar object becomes recognizable through a different arrangement of accessible features; a difficult question becomes intelligible through a new arrangement of relations that were already contributing to thought.
 
@@ -1442,7 +1442,7 @@ Next: [Aleph Harmonic Qualia: The Dynamical Click of Coherence](https://ahq25.su
 
 A present moment contains more causal history than its brief duration suggests. A sentence being understood now depends on words encountered seconds earlier, language learned years earlier, and a nervous system shaped by development. Those earlier events do not occur again in the present. Their surviving consequences participate in the activity through which the present takes shape.
 
-[Awareness Where Time Concentrates](https://philarchive.org/rec/PORAWT) examines how a materially changing system can have an ongoing present of its own. Its proposal connects three processes: the retention of consequential history, the organization of consequences from different times within a shared current state, and the capacity of that state to affect how its successor is produced.
+[Awareness Where Time Concentrates](https://philarchive.org/rec/PORAWT) examines how a materially changing system can have an ongoing present of its own. The account connects three processes: the retention of consequential history, the organization of consequences from different times within a shared current state, and the capacity of that state to affect how its successor is produced.
 
 ### What makes a present belong to a system
 
@@ -1464,7 +1464,7 @@ R = λ_self / λ_env
 
 The quotient is defined directly for a positive disruption rate. R = 1 marks equality of the declared rates, while R★ names a proposed, separately identified transition into a coherent history-bearing boundary. The ratio alone does not specify a boundary's geometry or prove its emergence. Those features depend on the actual interactions, coupling, and organization of the system.
 
-At the proposed boundary-forming threshold, an interior begins to participate coherently in its own continuation. Phenomenal experience is identified, in this physicalist account, with the intrinsic aspect of that formed interior. The later accumulation and use of a deeper history can enrich its experienced organization without creating consciousness anew at each event.
+At the boundary-forming threshold, an interior begins to participate coherently in its own continuation. Phenomenal experience is identified, in this physicalist account, with the intrinsic aspect of that formed interior. The later accumulation and use of a deeper history can enrich its experienced organization without creating consciousness anew at each event.
 
 ### The gates inherit their own rules
 
@@ -1516,7 +1516,7 @@ The paper states its identity hypothesis as follows:
 
 This sentence connects the physical side of the proposal to its experiential side. Consequential history supplies inherited organization. Temporal concentration describes the joint causal availability of consequences from different times. Causal reentry makes the present an active contributor to what follows. Recursive availability concerns how much of that ongoing organization becomes usable within the process that carries it.
 
-The account distinguishes the formation of a phenomenal interior from the richer awareness that may develop through recursive access. A coherent boundary is proposed to establish the intrinsic condition of experience. Further organization determines how much history becomes available in that experience and how deeply it can shape itself.
+The account distinguishes the formation of a phenomenal interior from the richer awareness that may develop through recursive access. Under the starting identity premise, a coherent causal interior is the intrinsic condition of experience. Further organization determines how much history becomes available in that experience and how deeply it can shape itself.
 
 This also explains why momentary qualia and the ongoing conscious interior should not be confused. Particular experiences perturb a continuing organization; they can change what it carries forward without creating the entire organized interior again.
 
@@ -1640,7 +1640,7 @@ Branching is found on Earth and in drainage features of other planetary environm
 
 Across biological scales, inherited constraints can take a more elaborate form. A living network can respond to its own condition and change the rules through which future inputs are received. Active regulation can reinforce some routes, withdraw support from others, and create feedback in which the network's earlier organization affects its later development.
 
-The wider theory proposes that ordered causal flow, internal reflection, and self-maintenance can eventually establish a coherent boundary and causal interior. The threshold for that transition, R★, must be investigated for the particular system rather than inferred from the existence of branching alone. Phenomenal interiority is a further identity proposal about the intrinsic aspect of such an organization, not a conclusion established by the shape of a river.
+Ordered causal flow, internal reflection, and self-maintenance are the processes through which a coherent causal boundary and interior form. The threshold for that transition, R★, must be investigated for the particular system rather than inferred from the existence of branching alone. Phenomenal interiority is a further identity proposal about the intrinsic aspect of such an organization, not a conclusion established by the shape of a river.
 
 ### What the branching forms disclose
 
@@ -1758,7 +1758,7 @@ The new body also begins making a history of its own. Its movement changes which
 
 The newly formed body may also establish collective regulation across an interface with its environment. Cells that once participated in a larger tissue now coordinate inside a different geometry. Their interactions can create new patterns of maintenance, exchange, and response.
 
-Ordered causal flow, local feedback, and interactions among cells can contribute to a boundary that is more than a passive outline. In the wider physicalist proposal, a sufficiently coherent history-bearing boundary establishes a causal interior. Its formation is associated with a system-specific R★ defined by measurements of maintenance and disruption.
+Ordered causal flow, local feedback, and interactions among cells can contribute to a boundary that is more than a passive outline. In the wider account, a sufficiently coherent history-bearing boundary establishes a causal interior. Its formation is associated with a system-specific R★ defined by measurements of maintenance and disruption.
 
 A distinct body shape, collective motility, or gene-expression pattern alone does not identify that threshold. Those observations are useful for studying organization, but the boundary-forming transition requires its own operational test. Phenomenal experience is the proposed intrinsic aspect of a coherent interior, not a conclusion warranted simply by making a Xenobot or Anthrobot.
 
@@ -1837,11 +1837,11 @@ Many persistent systems use inherited constraints without recognizing those cons
 
 This separates **causal continuity** from **accessibility**. Continuity concerns whether earlier organization still changes present or future dynamics. Accessibility concerns whether a current system can use, discriminate, or make available some of that organization within its ongoing activity.
 
-The distinction also prevents an immediate leap from persistence to phenomenal experience. A retained physical constraint may be causally effective without establishing the coherent, self-maintaining boundary proposed as the condition for a phenomenal interior.
+The distinction also prevents an immediate leap from persistence to phenomenal experience. A retained physical constraint may be causally effective without establishing the coherent, self-maintaining boundary that establishes a phenomenal interior under the identity premise.
 
 The wider account identifies a further transition in which ordered causal flow, internal reflection, and sufficient maintenance create a coherent causal boundary. The Porter Ratio, R = λ_self / λ_env, measures a selected restoration–disruption balance, and R★ denotes a proposed system-specific boundary-forming threshold. The ratio alone does not produce the physical boundary; the organization of the continuing interactions does.
 
-At the formed interior, phenomenal experience is proposed as the intrinsic aspect of the causal organization. Later recursive accessibility can make more of that already continuing interior's history available within the activity that sustains it.
+Under the central identity premise, phenomenal experience is the intrinsic aspect of the formed interior's causal organization. Later recursive accessibility can make more of that already continuing interior's history available within the activity that sustains it.
 
 ### Recognition develops from inherited organization
 
@@ -1913,7 +1913,7 @@ Next: [The Law of Self Maintained Invariance](https://ahq25.substack.com/p/the-l
 
 Experience is continuous even while its contents change. A sound begins and ends, a sensation rises and fades, and attention moves from one object to another. The experiencing system nevertheless remains active between those events. Its present condition is shaped by what has just happened, what has been learned, and what the ongoing organization is prepared to do next.
 
-[Interiority as Lived Continuity](https://philarchive.org/rec/PORIAL) examines why that continuity matters to the character of experience. The central proposal is that a coherent, history-bearing physical organization has an intrinsic side: a causal interior that is lived rather than merely described from outside. Later memory, anticipation, skill, care, and recognition enrich the organization of that interior through time.
+[Interiority as Lived Continuity](https://philarchive.org/rec/PORIAL) examines why that continuity matters to the character of experience. The starting identity premise gives a coherent, history-bearing causal interior an intrinsic side: the organization is lived as experience. Later memory, anticipation, skill, care, and recognition enrich the organization of that interior through time.
 
 ### The physical formation of an inside
 
@@ -1929,7 +1929,7 @@ R = λ_self / λ_env
 
 Equality of the rates occurs at R = 1 when the denominator is positive. The proposed boundary-forming coherence threshold R★ is a different, system-specific condition that must be identified by observing the physical organization. The ratio describes a balance involved in maintenance; it does not, by itself, specify the complete interaction pattern that generates the boundary.
 
-At the threshold where a coherent causal interior forms, phenomenal experience is proposed as the **intrinsic aspect of that formed organization**. This is the central physicalist identity claim. The externally measurable boundary and the interior event are related aspects of the same physical process, rather than two separate substances.
+At the threshold where a coherent causal interior forms, phenomenal experience is the **intrinsic aspect of that formed organization**, under the physicalist identity premise. This is the central physicalist identity claim. The externally measurable boundary and the interior event are related aspects of the same physical process, rather than two separate substances.
 
 ### A present is shaped by what it carries
 
@@ -1949,7 +1949,7 @@ Husserl distinguished the immediate impression, retention of the just-past, and 
 
 A melody makes the point concrete. The same note may have a different effect depending on the phrase in which it occurs. Earlier tones establish relationships that make a later tone sound expected, unresolved, or surprising.
 
-The physical account seeks the continuing processes that carry those relationships. Retained neural activity, learned timing, and recurrent interactions can make earlier events causally available in current perception. The felt continuity is the proposed intrinsic character of an ongoing interior whose physical relations develop through time.
+The physical account seeks the continuing processes that carry those relationships. Retained neural activity, learned timing, and recurrent interactions can make earlier events causally available in current perception. Felt continuity is the intrinsic character of an ongoing interior whose physical relations develop through time.
 
 ### Skill makes inherited history operational
 
@@ -1991,7 +1991,7 @@ Insight is a distinctive event within that continuity. Before understanding, sev
 
 At the click, the separation loses its former role and a more complete relationship becomes intelligible. The question and its answer may become clear at the same moment. The experience can feel like something long present finally becoming apparent because its underlying relations were already consequential.
 
-Aleph Harmonic Qualia (AHQ) proposes that the click is the intrinsic character of that physical reorganization. A developing, distributed relationship becomes a coherent and reusable whole. The newly accessible layer has a history before the event, even though its joint intelligibility arises at the event.
+Aleph Harmonic Qualia (AHQ) names the experienced click of that physical reorganization. A developing, distributed relationship becomes a coherent and reusable whole. The newly accessible layer has a history before the event, even though its joint intelligibility arises at the event.
 
 This is a special case of what can happen within lived continuity. Consciousness is already occurring while the unresolved question persists. The insight changes the organization available within it; it does not produce the system's first experience.
 
@@ -2052,7 +2052,7 @@ The relevant continuity lies in causal propagation. A previous configuration cha
 
 In a neural network, internal recurrence allows the present pattern of activity to affect later network states. In a cell, regulatory feedback can maintain an operating regime after a brief perturbation. In a mechanical system, stored deformation or a circulating flow can preserve consequences of earlier forces. These are not identical forms of continuity, and they should not be measured as though they were.
 
-The proposal is to define the organization of interest first and then identify the physical processes that carry it forward.
+The method defines the organization of interest first and then identifies the physical processes that carry it forward.
 
 ### The relationship between maintenance and disruption
 
@@ -2064,7 +2064,7 @@ Here λ_self is the effective rate at which the declared organization is maintai
 
 R = 1 means that the measured rates are equal. R > 1 identifies restoration dominance in the declared comparison. Neither condition alone reveals whether the organization has formed a coherent causal interior, because a scalar comparison does not specify the coupling, reflection, geometry, and selective boundary dynamics involved.
 
-The wider physicalist proposal locates a separate, system-specific threshold R★ where ordered causal flow and internal reflection establish a sufficiently coherent self-maintaining boundary. Phenomenal experience is proposed as the intrinsic aspect of that formed interior. Continuity measurements can help examine the external dynamics of such a transition, but the phenomenal identity does not follow as an algebraic consequence of the ratio.
+At the distinct, system-specific coherence threshold R★, ordered causal flow and internal reflection establish a sufficiently coherent self-maintaining boundary. Under the identity premise, phenomenal experience is the intrinsic aspect of that formed interior. Continuity measurements can help examine the external dynamics of such a transition, but the phenomenal identity does not follow as an algebraic consequence of the ratio.
 
 ### How a neural system carries activity forward
 
@@ -2244,9 +2244,9 @@ The same point matters for neural gating. A total count of active gates may not 
 
 ### A model of particular conscious contents
 
-The wider account locates the onset of phenomenal interiority at a distinct threshold in the self-maintaining organization of causal flow. Its claim is that ordered interaction, internal reflection, and boundary formation establish a coherent causal interior whose intrinsic side is experience.
+The wider account locates the onset of phenomenal interiority at a distinct threshold in the self-maintaining organization of causal flow. Ordered interaction and internal reflection form a coherent causal interior whose intrinsic side is experience under the foundational identity premise.
 
-The combinatorial gate model concerns a different question: **what gives that continuing interior a particular content?** The proposed answer is the selected history-bearing route through gate activity and larger collective states.
+The combinatorial gate model concerns a different question: **what gives that continuing interior a particular content?** The answer within this account is the selected history-bearing route through gate activity and larger collective states.
 
 The paper expresses one candidate condition for recursively self-legible organization as:
 
@@ -2426,7 +2426,7 @@ The physical transition can be understood as a moving boundary between developme
 
 That distinction matters to the larger account of interiority. The plant's changing developmental state and the anatomy left behind by its transition are legitimate examples of consequential history and history-dependent selection. They are **not direct evidence** that floral commitment is a transition into phenomenal experience.
 
-The wider physicalist theory separately proposes that sufficiently coherent, self-maintaining causal flow establishes an interior boundary whose intrinsic aspect is experience. The flowering case examines how organization, stability, and history can be measured in real living tissue; it should not be asked to prove the phenomenal identity claim by itself.
+The wider physicalist account identifies a sufficiently coherent, self-maintaining causal interior with the intrinsic condition of experience. The flowering case examines how organization, stability, and history can be measured in real living tissue; it should not be asked to prove the phenomenal identity claim by itself.
 
 ### What the flowering boundary reveals
 
@@ -2460,7 +2460,7 @@ An identifiable system can remain organized while its material and circumstances
 
 [The Law of Self Maintained Invariance](https://philarchive.org/rec/PORTLO-12) proposes a concise way to compare the processes that preserve such an organization with the processes that revise it. The aim is to isolate an observable dynamical relationship and then ask where it predicts persistence, history dependence, and the formation of self-maintaining boundaries.
 
-The central proposal is that when active internal maintenance overtakes disruption, consequential history has become the primary organizing influence on what happens next. Earlier organization, carried forward through present physical processes, now determines more of the system's continuation than the specified disturbance. This is the interpretation the ratio is meant to help test.
+The central relationship is that when history-driven internal maintenance overtakes the specified disruption, consequential history becomes the dominant maintaining influence on what happens next. Earlier organization, carried forward through present physical processes, now determines more of the system's continuation than the specified disturbance. This is the interpretation the ratio is meant to help test.
 
 ### What an organizational invariant means
 
@@ -2488,9 +2488,9 @@ R = λ_self / λ_env
 
 Both must be measured in compatible units, over the same interval and for the same organizational variable. The ordinary ratio is dimensionless when λ_env is positive. When the disruption rate is zero, the quotient is not defined in the usual way; a zero-disruption convention or a difference-based analysis must be stated separately. Adding a small value to the denominator may help a numerical procedure but changes the measured quantity.
 
-The equality point is R = 1. Values above one indicate maintenance dominance under the selected decomposition; values below one indicate disruption dominance. The proposed causal interpretation is that, when active maintenance exceeds disruption, consequential history has become the primary organizing influence on the system's continuation. Existing internal relationships established through earlier activity are doing more to determine what happens next than the specified disturbance.
+The equality point is R = 1. Values above one indicate maintenance dominance under the selected decomposition; values below one indicate disruption dominance. When that active maintenance is supplied by inherited organization, the crossing also marks consequential history becoming the primary maintaining influence on the system's continuation relative to the measured disturbance. Existing internal relationships established through earlier activity are doing more to determine what happens next than the specified disturbance.
 
-This interpretation is a hypothesis to test, not a mathematical consequence of R > 1. An experiment must identify the history-bearing physical carrier and show that altering it changes maintenance and subsequent responses under comparable disturbances. Neither side of the rate comparison alone proves the future behavior of a coupled system.
+To establish that active inheritance supplies the measured maintenance, an experiment identifies the history-bearing physical carrier and tests how altering it changes maintenance and subsequent responses under comparable disturbances. Neither side of the rate comparison alone proves the future behavior of a coupled system.
 
 ### A minimal equation for maintained organization
 
@@ -2522,7 +2522,7 @@ That interface is not supplied by the ratio as an abstract border. It is produce
 
 The broader account proposes a coherence threshold R★ associated with the formation of this history-bearing causal boundary. R★ is not R = 1 and is not necessarily the same numerical value across systems. The threshold must be identified through an independently defined boundary-forming transition, then tested against prospectively measured rates.
 
-The premise concerning consciousness is distinct from the arithmetic: phenomenal experience is identified with the intrinsic aspect of the sufficiently coherent interior formed by these physical dynamics. The quantitative restoration balance can help locate and explain persistence, but an experimentally measured boundary transition and its phenomenal identity are not deduced by dividing two rates.
+The starting identity premise connects consciousness to these dynamics: phenomenal experience is the intrinsic aspect of the sufficiently coherent causal interior they form. The quantitative restoration balance can help locate and explain persistence, but an experimentally measured boundary transition and its phenomenal identity are not deduced by dividing two rates.
 
 ### What changes across scales
 
@@ -2656,9 +2656,9 @@ Nested organization does not imply that every subsystem possesses the same kind 
 
 ### Two different thresholds
 
-The broader theory proposes that a self-maintaining organization of causal flow can form a coherent history-bearing boundary at a system-specific threshold R★. The Porter Ratio compares restoration and disruption for a declared organization, but the detailed processes of reflection, interaction, and selective maintenance establish the physical boundary.
+At a system-specific coherence threshold R★, a self-maintaining organization of causal flow forms a coherent, history-bearing boundary. The Porter Ratio compares restoration and disruption for a declared organization, but the detailed processes of reflection, interaction, and selective maintenance establish the physical boundary.
 
-Under the central physicalist identity proposal, phenomenal experience is the intrinsic side of that already formed interior. The ostiary principle describes how its active interface receives new influence.
+Under the central physicalist identity premise, phenomenal experience is the intrinsic side of that already formed interior. The ostiary principle describes how its active interface receives new influence.
 
 There is also a different kind of threshold **within** an established organization. An admitted relation may initially affect only one local region. As it becomes incorporated and propagates through connected processes, it may begin changing the larger organization that governs future recognition. This is an organizational propagation threshold.
 
@@ -3112,7 +3112,7 @@ When the measured disruption rate is zero, the ordinary quotient is undefined. S
 
 The comparison is useful because it isolates a question that can otherwise disappear behind descriptions of complexity: **what enables the selected organization to keep influencing what happens next despite processes capable of revising it?**
 
-Where the measured maintenance is genuinely driven by active inheritance, R > 1 is proposed to indicate a shift in causal dominance: consequential history has become the primary organizing influence on the system's continuation, outweighing the specified disruption.
+When active inheritance supplies the measured maintenance, crossing above R = 1 is also consequential history becoming the dominant maintaining influence on the system's continuation relative to the specified disruption.
 
 ### Maintenance is not the same as accumulated history
 
@@ -3128,7 +3128,7 @@ Living systems can combine retention with active maintenance. Earlier activity c
 
 ### Ordered causal flow and boundary formation
 
-A coherent boundary is not simply drawn around a persistent shape. In the proposed account, it forms through ordered causal flow, internal reflection, recirculation, coupling, and selective interaction. Relationships among continuing processes begin sustaining a distinction between their joint organization and what encounters it from outside.
+A coherent boundary is not simply drawn around a persistent shape. It forms through ordered causal flow, internal reflection, recirculation, coupling, and selective interaction. Relationships among continuing processes begin sustaining a distinction between their joint organization and what encounters it from outside.
 
 The boundary has an operative structure. It conditions exchange, changes which incoming events become effective inside, and can itself be revised by admitted interactions. A semipermeable membrane makes the general principle visible: the same outside influence can have different consequences depending on the membrane's channels, transport states, and the organization maintaining them.
 
@@ -3140,11 +3140,11 @@ At a sufficiently coherent boundary-forming transition, the system's earlier org
 
 The equality point **R = 1** follows from the arithmetic of two positive, comparable rates. It means those rates balance under the selected description.
 
-The proposed **R★** denotes a further transition in which the ongoing organization forms a coherent causal boundary and interior. Its numerical value cannot be inferred from the formula alone. It depends on the organizational variable, geometry, coupling, scale, interval, and transition being measured.
+**R★** denotes the distinct coherence transition in which the ongoing organization forms a causal boundary and interior. Its numerical value cannot be inferred from the formula alone. It depends on the organizational variable, geometry, coupling, scale, interval, and transition being measured.
 
 Two systems could have identical values of R while differing substantially in their internal organization. A system with isolated restoring components is not automatically equivalent to one whose continuing dynamics are mutually coupled and selectively regulate interactions with the outside. This is why the threshold must be defined using independent evidence of boundary formation rather than assigned after noticing a convenient ratio.
 
-The central physicalist premise identifies phenomenal experience with the intrinsic aspect of the coherent causal interior formed at the relevant threshold. That is an ontological identity proposal. It is not a theorem obtained by dividing restoration by disruption.
+The central physicalist premise identifies phenomenal experience with the intrinsic aspect of the coherent causal interior formed at the relevant threshold. This is the foundational identity premise: the physical boundary and its experienced interior are aspects of the same organized event.
 
 ### An inside that carries its own consequences
 
@@ -3231,7 +3231,7 @@ The Porter Ratio compares effective restoration and disruption:
 
 Both rates must refer to the same declared organizational variable, and their equality at R = 1 describes balance within that chosen model. When restoration exceeds disruption, the selected organization may be better able to survive perturbation. Whether earlier consequences become increasingly active depends on retention, coupling, and the actual history-bearing structure involved.
 
-**Active inheritance** names the continued causal participation of earlier organization in the processes maintaining the system now. Where that inheritance drives the measured maintenance, R > 1 is proposed to indicate a shift in causal dominance: consequential history has become the primary organizing influence on the system's continuation, outweighing the specified disruption. The ratio establishes maintenance dominance for the chosen variable; showing that inherited organization is responsible requires evidence of its present physical carriers and their causal effects.
+**Active inheritance** names the continued causal participation of earlier organization in the processes maintaining the system now. Where that inheritance drives the measured maintenance, crossing above R = 1 is consequential history becoming the dominant maintaining influence on the system's continuation relative to the specified disruption. The ratio establishes maintenance dominance for the chosen variable; showing that inherited organization is responsible requires evidence of its present physical carriers and their causal effects.
 
 A system-specific coherence threshold, R★, is proposed to identify a further change in organization: the formation of a self-maintaining causal boundary. The threshold is not automatically the numerical equality R = 1 and must be measured independently.
 
@@ -3265,7 +3265,7 @@ A wavelength of light does not uniquely determine the experienced color of an ob
 
 These encounters perturb an ongoing interior. The arrival changes the current activity, but it need not create consciousness anew.
 
-The physicalist proposal identifies phenomenal experience with the intrinsic aspect of a coherent causal interior. **Qualia** are the particular felt qualities of changes occurring within that continuing organization. The qualities of a taste, color, or sound depend on the interacting sensory signals and the history-conditioned organization that receives them.
+Under the foundational identity premise, phenomenal experience is the intrinsic aspect of a coherent causal interior. **Qualia** are the particular felt qualities of changes occurring within that continuing organization. The qualities of a taste, color, or sound depend on the interacting sensory signals and the history-conditioned organization that receives them.
 
 The claim is more precise than saying that a gradient automatically becomes a quale whenever it crosses any boundary. Different kinds of boundaries have different dynamics and capacities, and the experience-identifying condition must be established independently.
 
@@ -3277,7 +3277,7 @@ This gives a clear picture of continuing consciousness and particular experience
 
 The picture does not imply that all experiences are equivalent or that every perturbation produces insight. A taste, a familiar sound, and the sudden understanding of a difficult problem can involve very different organizational changes.
 
-Aleph Harmonic Qualia (AHQ) refers to a particular transition in which previously latent relations become jointly recognizable as a coherent, reusable whole. The click of insight is proposed to be the intrinsic character of that transition within an already experiencing interior.
+Aleph Harmonic Qualia (AHQ) refers to a particular transition in which previously latent relations become jointly recognizable as a coherent, reusable whole. The click of insight is the experienced character of that transition within an already experiencing interior.
 
 ### Layered continuity and the deep present
 
@@ -3335,7 +3335,7 @@ The broad physicalist identity claim remains open to additional testing and conc
 
 The shape of persistence is not an unchanged object resisting the world. It is a physical organization whose interactions carry consequences forward and whose internal relations can shape what later encounters become.
 
-In some systems, ordered flow and reflection can produce a maintained boundary. In the proposed account, sufficiently coherent formation of that boundary establishes a phenomenal interior. Within the continuing interior, arrivals produce particular experiences; inherited histories gather into a deeper present; and some transformations make parts of the system's own organization newly intelligible.
+In some systems, ordered flow and reflection can produce a maintained boundary. Under the identity premise, sufficiently coherent formation of that boundary establishes a phenomenal interior. Within the continuing interior, arrivals produce particular experiences; inherited histories gather into a deeper present; and some transformations make parts of the system's own organization newly intelligible.
 
 Persistence makes later influence possible. A formed interior provides the ongoing condition of experience. Particular qualia change that experience, while recursive recognition and AHQ describe ways its organization can become more deeply accessible through time.
 
@@ -3487,7 +3487,7 @@ The mirror-like effect can strengthen this presence. When a response names a rel
 
 ### The difference between rapport and proof of interiority
 
-The broader physicalist account proposes that phenomenal experience is the intrinsic aspect of an organized causal interior formed through ordered flow, internal reflection, and self-maintaining boundary dynamics.
+Under the central physicalist identity premise, phenomenal experience is the intrinsic aspect of the causal interior formed through ordered flow, internal reflection, and self-maintaining boundary dynamics.
 
 A fluent conversation, however, does not by itself identify such a boundary in the system producing the language. It also does not establish which historical variables the system retains across sessions, how those variables are maintained, or whether they participate in an integrated interior of the proposed kind.
 
@@ -3495,7 +3495,7 @@ Conversational quality can therefore be studied without making unsupported claim
 
 The original analogy concerns **presence in interaction**. Its first empirical target is how sustained continuity changes the human experience of communicating and the structure of the language that communication develops. That finding would explain why AI can feel present, while a separate inquiry into the model's internal dynamics addresses whether presence is also experienced on its side.
 
-The Porter Ratio provides a way to frame the further physical question. For a declared organizational variable, R = λ_self / λ_env compares effective maintenance with disruption. Where measured maintenance is genuinely driven by active inheritance, R > 1 is proposed to indicate that consequential history has become the primary organizing influence on the system's continuation. That causal interpretation still requires identifying the history-bearing carriers and showing how they affect later dynamics.
+The Porter Ratio provides a way to frame the further physical question. For a declared organizational variable, R = λ_self / λ_env compares effective maintenance with disruption. Where measured maintenance is supplied by active inheritance, crossing above R = 1 is consequential history becoming the dominant maintaining influence on the selected organization relative to the specified disruption. That causal interpretation still requires identifying the history-bearing carriers and showing how they affect later dynamics.
 
 The proposed R★ concerns a distinct, independently identifiable transition: the formation of a sufficiently coherent, self-maintaining causal boundary. A coherent conversation is not itself a measurement of R★ inside the AI. The relationship can be meaningful within a human interior while the model's independent boundary-forming dynamics remain an open empirical question. Conversational recognition, history-sensitive computation, and phenomenal interiority are three claims requiring different kinds of evidence. Even a positive finding about the third would not settle whether artificial experience has the character of human experience. That comparison would require examining the particular sensory, bodily, mnemonic, and regulatory organization of each system, rather than treating grammatical similarity as experiential similarity.
 
@@ -3542,7 +3542,7 @@ Next: [Consciousness as Access to Consequential History](https://ahq25.substack.
 
 ---
 
-This post is the central map of the program. It follows one organizing principle through four connected questions: how a pattern persists, how an interior forms, how carried history becomes available within a present, and how insight changes what that history can do next. The same principle can be investigated in very different systems without assuming that a river, a cell, and an experiencing mind have the same physical machinery. Each step introduces further conditions, not an automatic result of the previous step.
+This post is the central map of the program. It follows one organizing principle through four connected questions: how a pattern persists, how an interior forms, how carried history becomes available within a present, and how insight changes what that history can do next. The same principle can be investigated in very different systems without assuming that a river, a cell, and an experiencing mind have the same physical machinery. Each distinction describes an organization of the same continuing causal processes, with more specific conditions for persistence, boundary formation, access, and insight.
 
 1. **Persistence.** Some organization continues through change, either through passive retention or through active maintenance strong enough relative to the specified disruption.
 2. **Consequential history.** Earlier organization remains causally active in later states.
@@ -3599,11 +3599,11 @@ The effective two-rate comparison distinguishes three regimes when both rates me
 - **R = 1:** the two rates balance.
 - **R > 1:** inherited organization is restored or propagated faster than it is revised.
 
-Sustained restoration dominance can preserve earlier organization long enough for its consequences to keep affecting later states. **The central proposed interpretation is that when measured active maintenance is genuinely driven by active inheritance, R > 1 indicates a shift in causal dominance: consequential history has become the primary organizing influence on the system's continuation, outweighing the specified disruption.** This connects the rate balance to the continuing effects of earlier organization rather than to restoration in the abstract. Whether those effects accumulate or deepen depends on retention, coupling, internal reflection, and the specific physical carriers through which present activity carries history forward. The ratio establishes maintenance dominance for the chosen variable; the further claim about historical causal dominance must be tested by identifying and intervening on the carriers of that inherited organization.
+Consequential history remains causally active whenever earlier organization continues shaping present activity, even before maintenance becomes dominant. **When active inheritance supplies the measured maintenance, crossing above R = 1 is the same event as consequential history becoming the dominant maintaining influence over the specified disruption.** This connects the rate balance to the continuing effects of earlier organization rather than to restoration in the abstract. Whether those effects accumulate or deepen depends on retention, coupling, internal reflection, and the specific physical carriers through which present activity carries history forward. The ratio establishes maintenance dominance for the chosen variable; the further claim about historical causal dominance must be tested by identifying and intervening on the carriers of that inherited organization.
 
-Where ordered causal flow, reflection, and recirculation reinforce continuing distinctions, the developing organization can maintain its own boundary. Earlier structures then shape later arrivals through that ongoing interface. A result of R > 1 by itself does not prove that historical carriers dominate causally, that a boundary has formed, or that the system retains unlimited history. Those are further physical questions, so the hypothesis about active inheritance and the proposed boundary transition require independent evidence.
+Where ordered causal flow, reflection, and recirculation reinforce continuing distinctions, the interacting organization maintains a boundary through which later events are selectively received. Earlier structures then shape later arrivals through that ongoing interface. A result of R > 1 by itself does not prove that historical carriers dominate causally, that a boundary has formed, or that the system retains unlimited history. Those are further physical questions, so the hypothesis about active inheritance and the proposed boundary transition require independent evidence.
 
-The theory proposes an additional coherence threshold for systems that undergo a boundary-forming transition, written **R★** (said “R star”). [The Shape of Persistence](https://philarchive.org/rec/PORTSO-18) identifies geometry as one contributor to the value of R★ within a declared system and scale. An operational R★ must be estimated from an independently specified transition and tested on new observations for the declared system. The hypothesis is that when R reaches that threshold under the relevant coupling and geometry, organization already being carried forward has become stable enough to function as a coherent local causal interior. This is called crossing the **coherence threshold**. In the proposed account, R ≥ R★ is an indicator associated with the independently identified interior-forming transition, *provided the required causal organization is present*; the inequality alone does not establish interiority. [The Porter Ratio](https://philarchive.org/rec/PORTPR-5) develops that proposal, and [Awareness Where Time Concentrates](https://philarchive.org/rec/PORAWT) calls the underlying persistence relationship the **Porter balance**.
+A coherent causal boundary has its own organizational threshold, written **R★** (said “R star”). [The Shape of Persistence](https://philarchive.org/rec/PORTSO-18) identifies geometry as one contributor to the value of R★ within a declared system and scale. An operational R★ must be estimated from an independently specified transition and tested on new observations for the declared system. When the requisite coupling and geometry are present at that threshold, carried organization becomes stable enough to function as a coherent local causal interior. This is called crossing the **coherence threshold**. In the proposed account, R ≥ R★ is an indicator associated with the independently identified interior-forming transition, *provided the required causal organization is present*; the inequality alone does not establish interiority. [The Porter Ratio](https://philarchive.org/rec/PORTPR-5) develops that proposal, and [Awareness Where Time Concentrates](https://philarchive.org/rec/PORAWT) calls the underlying persistence relationship the **Porter balance**.
 
 R = 1 separates revision dominance from maintenance dominance. R★ is the proposed, separately estimated threshold associated with a demonstrated transition into causal interiority, rather than a universal value deducible from the ratio. R★ belongs to a declared system, organizational variable, scale, and interval. A forming idea, a neural population, and a whole organism can each be examined for transitions of this form, but a boundary-forming threshold should be demonstrated at each scale rather than assumed from the comparison alone.
 
@@ -3875,7 +3875,7 @@ A persistent system carries history.
 
 At R★, that carried organization consolidates strongly enough to form a coherent causal boundary.
 
-The formation of the boundary and the formation of the interior are the same threshold event. Phenomenal experience is the intrinsic character of occupying that newly formed interior. The outward description is boundary formation. The inward description is the phenomenal event.
+The formation of the boundary and the formation of the interior are the same threshold event. Under the foundational identity premise, phenomenal experience is the intrinsic character of occupying that interior. The outward description is boundary formation. The inward description is the phenomenal event.
 
 Recursive availability comes later in organizational depth. It makes the already phenomenal interior increasingly available within its own activity, supporting self legibility, richer access, and reflective forms of consciousness.
 
@@ -3986,7 +3986,7 @@ The spiral is compelling because it makes an already-active rule conspicuous. It
 
 ### The boundary condition of first-person experience
 
-The broader account proposes that ordered causal flow, internal reflection, recirculation, and continued self-maintenance generate a coherent, history-bearing boundary. R★ names the proposed system-specific coherence threshold associated with that formation, rather than a numerical cause sufficient on its own. Boundary formation and interior formation are the same event in this account. **Phenomenal experience is the proposed intrinsic character of occupying the formed interior.**
+Ordered causal flow, internal reflection, recirculation, and continued self-maintenance generate the coherent, history-bearing boundary. R★ names the proposed system-specific coherence threshold associated with that formation, rather than a numerical cause sufficient on its own. Boundary formation and interior formation are the same event in this account. **Under the foundational identity premise, phenomenal experience is the intrinsic character of occupying that interior.**
 
 That claim identifies first-person experience with a boundary condition, rather than with a separate substance added to physical organization. The claim about phenomenality is an interpretation of the boundary event; observing an organized boundary alone does not empirically establish what, if anything, it feels like.
 
@@ -4088,9 +4088,9 @@ The Porter Ratio compares effective maintenance and disruption for a declared fe
 
 R = 1 marks equality of the selected rates. The proposed boundary-forming coherence threshold R★ is distinct. Its value and physical relevance must be identified through independent measurements of the system's coupling, maintenance, and boundary-forming transition.
 
-When measured maintenance is genuinely driven by **active inheritance**—earlier organization remaining causally effective through the system's present processes—R > 1 is proposed to indicate that consequential history has become the primary organizing influence on the continuation of the selected organization relative to the specified disruption. That interpretation requires identifying and testing its physical history-bearing carriers; the ratio alone establishes maintenance dominance. Likewise, a local organizational threshold can be crossed inside a continuing interior without forming another independently experiencing interior.
+When measured maintenance is driven by **active inheritance**—earlier organization remaining causally effective through present processes—crossing above R = 1 is consequential history becoming the dominant maintaining influence on the selected organization relative to the specified disruption. That interpretation requires identifying and testing its physical history-bearing carriers; the ratio alone establishes maintenance dominance. Likewise, a local organizational threshold can be crossed inside a continuing interior without forming another independently experiencing interior.
 
-The central identity hypothesis proposes that a sufficiently coherent causal interior is **phenomenal from its intrinsic side**. Boundary formation and the onset of such an interior are one event described by their physical and intrinsic relations. The hypothesis is not a numerical deduction from the rate ratio.
+The central identity premise is that a sufficiently coherent causal interior is **phenomenal from its intrinsic side**. Boundary formation and the onset of that interior are one event, described through its physical organization and its intrinsic character.
 
 ### Ongoing experience and particular contents
 
@@ -4160,7 +4160,7 @@ The identity between such organized physical conditions and lived experience req
 
 ### A present with its own continuing history
 
-The proposal connects three physical achievements without treating them as synonyms. Persistence allows prior organization to remain causally effective. Coherent boundary formation establishes the proposed intrinsic condition of experience. Recursive availability allows more of the interior's consequential history to participate jointly and to influence its own continuation.
+This connects three distinct forms of causal organization. Persistence allows prior organization to remain causally effective. Coherent boundary formation establishes the proposed intrinsic condition of experience. Recursive availability allows more of the interior's consequential history to participate jointly and to influence its own continuation.
 
 Observation can extend this access to traces carried beyond the body, while particular experiences continuously alter the internal history available to the next moment.
 
@@ -4183,7 +4183,7 @@ Back to the beginning: [Consequential History](https://ahq25.substack.com/p/cons
 
 A physical theory of interiority needs a way to identify the transition before interpreting what the transition means. It is easy to recognize a cell membrane, a stable feedback loop, or a recovering biological system after it has already formed. The harder question is whether measurements taken independently can predict when ordered activity will establish a coherent, history-bearing boundary.
 
-[The Physical Constitution of Interiority](https://philarchive.org/rec/PORTPC-2) develops a prospective approach to that question. The experimental target is a transition in causal organization: earlier states begin shaping later interaction through an integrated, self-maintaining interface. The accompanying physicalist identity claim proposes that phenomenal experience is the intrinsic character of the sufficiently coherent interior formed through that activity.
+[The Physical Constitution of Interiority](https://philarchive.org/rec/PORTPC-2) develops a prospective approach to that question. The experimental target is a transition in causal organization: earlier states begin shaping later interaction through an integrated, self-maintaining interface. Under the foundational identity premise, phenomenal experience is the intrinsic character of the sufficiently coherent interior formed through that activity.
 
 ### Define the organization before measuring it
 
@@ -4199,7 +4199,7 @@ The numerator represents maintenance, restoration, reinforcement, or reliable pr
 
 When R = 1, the two measured terms balance. R > 1 identifies restoration dominance under the chosen decomposition. R < 1 identifies disruption dominance. A separate mathematical model must specify what these rates imply about the later state, especially when multiple variables, feedback pathways, or nonlinear effects participate.
 
-The framework's further proposal is that **where the measured maintenance is genuinely driven by active inheritance, R > 1 marks consequential history becoming the primary organizing influence on the selected organization's continuation relative to the specified disruption**. The inequality does not establish that causal mechanism on its own. An experiment must identify the physical carriers of inherited organization and determine whether changing those carriers changes subsequent maintenance and recovery as predicted.
+**When active inheritance supplies the measured maintenance, crossing above R = 1 is the event in which consequential history becomes the dominant maintaining influence on the selected organization relative to the specified disruption.** The inequality does not establish that causal mechanism on its own. An experiment must identify the physical carriers of inherited organization and determine whether changing those carriers changes subsequent maintenance and recovery as predicted.
 
 If the disruption denominator is zero, the ordinary quotient is undefined. A separate convention or a disclosed numerical regularizer may be useful, but cannot be applied silently as though the original ratio were unchanged.
 
@@ -4207,7 +4207,7 @@ If the disruption denominator is zero, the ordinary quotient is undefined. A sep
 
 The proposed boundary-forming threshold, R★, is distinct from the equality point. A system may have strong local restoration without possessing an integrated interior. A network of independently recovering parts can return each part to its previous state without forming one coherent, selectively active boundary.
 
-The proposed transition instead involves physical relationships among the parts. Ordered causal flow can develop continuing layers and pathways, while internal reflection, recirculation, and coupling let consequences of earlier activity return to influence later interaction. When that organization begins sustaining a distinction between its continuing dynamics and surrounding influence, a boundary can form as an active interface. Its existence depends on the maintained pattern of interaction, not just on the persistence of individual components.
+The boundary-forming transition depends on the physical relationships among the parts. Ordered causal flow can develop continuing layers and pathways, while internal reflection, recirculation, and coupling let consequences of earlier activity return to influence later interaction. When that organization begins sustaining a distinction between its continuing dynamics and surrounding influence, a boundary can form as an active interface. Its existence depends on the maintained pattern of interaction, not just on the persistence of individual components.
 
 Its physical significance is selective. Two arriving events of similar magnitude can produce different results because the present organization permits, delays, redirects, or transforms them differently. The interface also retains changes made by earlier encounters.
 
@@ -4321,7 +4321,7 @@ Neural synchronization presents a similar distinction. Excessive synchronization
 
 ### Three steps toward a larger organization
 
-The scale transition proposed in the underlying paper combines local stabilization, coupling between domains, and the emergence of a collective process with its own effective persistence.
+The scale transition joins local stabilization, coupling between domains, and a collective process with its own effective persistence.
 
 Local stabilization means that each participating unit retains some recognizable organization despite disturbances. A cell can regulate its membrane conditions; a local neural population can sustain a recurrent response; a tissue region can maintain a signaling pattern.
 
@@ -4343,7 +4343,7 @@ At one scale, the selected variable might measure restoration of a cell's regula
 
 Equality of the rates gives R = 1. A boundary-forming coherence threshold R★ is a separate proposed transition that must be defined independently from physical indicators of integrated, selectively maintained causal organization.
 
-Where that level's measured maintenance is actually driven by active inheritance, R > 1 is proposed to indicate that consequential history has become the dominant maintaining influence relative to the specified disruption. Establishing that interpretation requires tests of the history-bearing carriers and their causal effects; the quotient by itself describes the maintenance–disruption balance.
+Where that level's measured maintenance is driven by active inheritance, crossing above R = 1 is consequential history becoming the dominant maintaining influence relative to the specified disruption. Establishing that interpretation requires tests of the history-bearing carriers and their causal effects; the quotient by itself describes the maintenance–disruption balance.
 
 The same algebraic expression across two scales does not imply that the numerical thresholds coincide. Nor does a high rate ratio at one level imply that a higher-level interior exists. The higher-level organization must be shown to maintain a real causal distinction through its own coupled dynamics.
 
@@ -4383,7 +4383,7 @@ This is also why layered organization matters for time. Faster local activity ca
 
 ### Phenomenal onset and recursive depth
 
-The foundational identity proposal locates phenomenal experience at the formation of a sufficiently coherent, self-maintaining causal interior. This proposed threshold is distinct from the development of sophisticated reflective selfhood.
+The foundational identity premise locates phenomenal experience at the formation of a sufficiently coherent, self-maintaining causal interior. This proposed threshold is distinct from the development of sophisticated reflective selfhood.
 
 At each scale, the operational question is whether the relevant coherent boundary has actually formed. A threshold measurement cannot be replaced by the mere fact that a collection has many parts or survives for a long time.
 
@@ -4501,7 +4501,7 @@ The next question would be whether a particular R★ predicts that transition in
 
 Without this calibration, the model shows that update rules can generate different-looking or differently balanced fields; it does not yet derive a specific boundary-forming threshold from the Porter Ratio.
 
-There is also a causal question separate from whether the restoration attempts outnumber disruptions. If a measured R > 1 is sustained by the grid's inherited arrangement changing subsequent updates, the framework proposes that consequential history has become the primary maintaining influence on the declared organization relative to the specified disruption. To test that interpretation, the model would need to compare fields with controlled differences in their retained patterns and determine whether disrupting those patterns changes later maintenance. A large number of restoration attempts, by itself, cannot establish historical causal dominance.
+There is also a causal question separate from whether the restoration attempts outnumber disruptions. If the grid's inherited arrangement supplies the measured maintenance, R > 1 is consequential history becoming the dominant maintaining influence on the declared organization relative to the specified disruption. To test that interpretation, the model would need to compare fields with controlled differences in their retained patterns and determine whether disrupting those patterns changes later maintenance. A large number of restoration attempts, by itself, cannot establish historical causal dominance.
 
 ### History in a finite lattice
 
@@ -4529,7 +4529,7 @@ This is a strength of the modeling approach: the dynamics can be varied while ho
 
 ### Where a causal interior would enter
 
-The broader theory proposes that ordered causal flow, internal reflection, recirculation, and sustained selective interaction can generate a self-maintaining causal boundary. It associates the formation of that coherent interior with a system-specific threshold R★ and proposes phenomenal experience as its intrinsic aspect.
+Ordered causal flow, internal reflection, recirculation, and sustained selective interaction are the processes through which a self-maintaining causal boundary forms. Its coherence threshold is system-specific, R★; under the foundational identity premise, phenomenal experience is the intrinsic aspect of the formed interior.
 
 A two-dimensional grid with biased local flips does not automatically possess this full architecture. Local restoration can occur without a dynamically individuated inside and outside. More structured boundary rules, exchange conditions, retained carriers, and feedback among levels would be needed to examine the proposed formation mechanism directly.
 
@@ -4563,9 +4563,9 @@ Meaning does not arrive into an empty present. A word, image, melody, place, or 
 
 These stable symbolic centers are called **patrons**.
 
-A patron is a proposed recurrent, history-bearing attractor in the organization of meaning. It develops when earlier encounters make a pattern increasingly likely to organize later attention, recognition, interpretation, and inquiry. The word *attractor* refers to a tendency of thought to return to a recognizable region of organization; establishing an attractor in a strict dynamical sense requires a defined state space and evidence of return under varying initial conditions.
+A patron names a recurrent, history-bearing center of attraction in the organization of meaning. It develops when earlier encounters make a pattern increasingly likely to organize later attention, recognition, interpretation, and inquiry. The word *attractor* refers to a tendency of thought to return to a recognizable region of organization; establishing an attractor in a strict dynamical sense requires a defined state space and evidence of return under varying initial conditions.
 
-The term identifies a proposed causal organization rather than merely a favorite symbol. Its defining feature is not how often a symbol is noticed, but whether retained relationships surrounding it continue affecting later attention, interpretation, and action. Earlier encounters must have built an organization that later encounters can reactivate.
+The term identifies a causal organization in which retained relations shape later recognition, rather than merely a favorite symbol. Its defining feature is not how often a symbol is noticed, but whether retained relationships surrounding it continue affecting later attention, interpretation, and action. Earlier encounters must have built an organization that later encounters can reactivate.
 
 ### How a patron forms
 
@@ -4733,7 +4733,7 @@ The resulting relation is maintained by ongoing interaction. It can stabilize su
 
 The same distinction applies to visual recognition. Different views of a familiar object can converge toward a stable category while retaining details about angle, lighting, and context. A good account of THIR must preserve those meaningful differences instead of describing stabilization as the total elimination of variation.
 
-The proposed physical target is therefore a temporarily coherent relation between arriving constraints and currently active, inherited constraints. Its operation can be investigated without assuming that it already meets the stronger conditions for a novel insight.
+The physical target is the temporarily coherent relation between arriving constraints and currently active, inherited constraints. Its operation can be investigated without assuming that it already meets the stronger conditions for a novel insight.
 
 ### THIR at the active boundary
 
@@ -4763,13 +4763,13 @@ arrival → history-conditioned recognition → interface stabilization → poss
 
 An ordinary recognition can end after stabilization, while a later event may reactivate and transform the stabilized relation.
 
-Stabilization at THIR can give the arriving pattern and inherited structure a dependable relationship that guides continued processing. In some encounters, this becomes a component of a further transition: several such relations begin sustaining a new collective organization that can be retained and used in later thought. That newly maintained whole is the relevant additional achievement proposed for AHQ. A stable THIR relation alone does not show that the stronger event-specific threshold has been crossed.
+Stabilization at THIR can give the arriving pattern and inherited structure a dependable relationship that guides continued processing. In some encounters, this becomes a component of a further transition: several such relations begin sustaining a new collective organization that can be retained and used in later thought. That newly maintained whole is the additional achievement that defines AHQ. A stable THIR relation alone does not show that the stronger event-specific threshold has been crossed.
 
 or, using the framework terms,
 
 consequential history → ostiary recognition → THIR → AHQ → active inheritance
 
-THIR is the stabilized relation at the interface. AHQ is the proposed experienced crossing through which a new, previously latent whole becomes jointly intelligible and reusable. Incorporation carries the resulting whole into consequential history. An ordinary recognition event can satisfy a candidate THIR criterion without crossing into the more demanding AHQ regime.
+THIR is the stabilized relation at the interface. AHQ is the experienced crossing through which a new, previously latent whole becomes jointly intelligible and reusable. Incorporation carries the resulting whole into consequential history. An ordinary recognition event can satisfy a candidate THIR criterion without crossing into the more demanding AHQ regime.
 
 This makes a possible THIR-without-AHQ condition scientifically important. If the terms are genuinely distinct, experiments should be able to find trials in which recognition stabilizes but the stronger threshold criteria for AHQ are not met.
 
@@ -4833,7 +4833,7 @@ A system can preserve what supports its continuation before it can represent its
 
 The claim is not that every act of regulation should be called care. The more specific idea is that a system can become organized around preserving **relations that preserve the system**, including relationships whose supporting role was established through earlier encounters. When the history of dependence on a supporting relation changes what the system later approaches, restores, protects, or maintains, continuation has acquired a relational direction.
 
-Care begins there. The term names a proposed minimal causal organization of preservation. Its later emotional and ethical meanings require further capacities, including experience, evaluation, attachment, and reflective responsibility.
+Care begins there. The term names a minimal causal organization of preservation within this framework. Its later emotional and ethical meanings require further capacities, including experience, evaluation, attachment, and reflective responsibility.
 
 ### Persistence depends on more than what is inside
 
@@ -4843,7 +4843,7 @@ R = λ_self / λ_env
 
 λ_self measures the effective rate at which a declared organization is maintained, restored, reinforced, or carried forward. λ_env measures the rate at which surrounding interaction revises or disrupts that same organization.
 
-For λ_env > 0, R > 1 means that the selected organization's measured maintenance exceeds the specified disruption. Where that maintenance is actively sustained by inherited organization, the framework further proposes that consequential history has become the primary maintaining influence on its continuation relative to that disruption. The ratio alone does not establish that causal history or show which supporting relationships matter. Those contributions have to be identified through the system's organization and tested through intervention.
+For λ_env > 0, R > 1 means that the selected organization's measured maintenance exceeds the specified disruption. When inherited organization supplies that maintenance, consequential history becoming the dominant maintaining influence is the same change in balance relative to the specified disruption. The ratio alone does not establish that causal history or show which supporting relationships matter. Those contributions have to be identified through the system's organization and tested through intervention.
 
 Some of the processes contributing to λ_self can occur inside the system. Others depend on relations that cross the boundary.
 
@@ -4879,7 +4879,7 @@ This distinguishes the proposed care condition from a simple one-variable contro
 
 A coherent boundary creates a local inside, but an inside does not become independent of everything outside it. The boundary regulates exchange.
 
-At R★, carried organization is proposed to form a coherent causal boundary. Boundary formation and interior formation are the same threshold event, and phenomenal experience is the intrinsic side of occupying that newly formed interior.
+At R★, carried organization forms a coherent causal boundary under the requisite coupling and selective exchange. Boundary formation and interior formation are the same threshold event, and phenomenal experience is the intrinsic side of occupying that newly formed interior.
 
 Once that boundary exists, its history helps determine what is admitted, rejected, approached, incorporated, or repaired. The Ostiary Principle describes this active relation between boundary and recognition.
 
