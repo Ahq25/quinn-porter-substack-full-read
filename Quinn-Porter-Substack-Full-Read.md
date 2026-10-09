@@ -2460,7 +2460,7 @@ An identifiable system can remain organized while its material and circumstances
 
 [The Law of Self Maintained Invariance](https://philarchive.org/rec/PORTLO-12) proposes a concise way to compare the processes that preserve such an organization with the processes that revise it. The aim is to isolate an observable dynamical relationship and then ask where it predicts persistence, history dependence, and the formation of self-maintaining boundaries.
 
-The central relationship is that when history-driven internal maintenance overtakes the specified disruption, consequential history becomes the dominant maintaining influence on what happens next. Earlier organization, carried forward through present physical processes, now determines more of the system's continuation than the specified disturbance. This is the interpretation the ratio is meant to help test.
+The central relationship is that when history-driven internal maintenance overtakes the specified disruption, consequential history becomes the dominant maintaining influence on what happens next. Earlier organization, carried forward through present physical processes, now determines more of the system's continuation than the specified disturbance. **Internal stability outrunning disruption and consequential history becoming dominant are two descriptions of the same crossing, when inherited organization is doing the maintaining work.**
 
 ### What an organizational invariant means
 
@@ -2490,7 +2490,7 @@ Both must be measured in compatible units, over the same interval and for the sa
 
 The equality point is R = 1. Values above one indicate maintenance dominance under the selected decomposition; values below one indicate disruption dominance. When that active maintenance is supplied by inherited organization, the crossing also marks consequential history becoming the primary maintaining influence on the system's continuation relative to the measured disturbance. Existing internal relationships established through earlier activity are doing more to determine what happens next than the specified disturbance.
 
-To establish that active inheritance supplies the measured maintenance, an experiment identifies the history-bearing physical carrier and tests how altering it changes maintenance and subsequent responses under comparable disturbances. Neither side of the rate comparison alone proves the future behavior of a coupled system.
+Active inheritance is identified through the physical organization carrying the history: altering its carrier changes maintenance and subsequent responses under comparable disturbances. The rate balance describes that contribution for the declared variable, while the coupling and feedback of the system describe how its organization continues.
 
 ### A minimal equation for maintained organization
 
@@ -2522,11 +2522,11 @@ That interface is not supplied by the ratio as an abstract border. It is produce
 
 The broader account proposes a coherence threshold R★ associated with the formation of this history-bearing causal boundary. R★ is not R = 1 and is not necessarily the same numerical value across systems. The threshold must be identified through an independently defined boundary-forming transition, then tested against prospectively measured rates.
 
-The starting identity premise connects consciousness to these dynamics: phenomenal experience is the intrinsic aspect of the sufficiently coherent causal interior they form. The quantitative restoration balance can help locate and explain persistence, but an experimentally measured boundary transition and its phenomenal identity are not deduced by dividing two rates.
+The causal sequence follows the organization being maintained. Earlier activity leaves consequences that keep shaping later activity. When those consequences actively maintain the declared organization faster than the specified disruption revises it, consequential history becomes its dominant maintaining influence. As that same history-bearing activity sustains an integrated, selectively maintained boundary at its coherence threshold R★, **the boundary forms an interior**. The interior consists of the organization the system carries forward, so its nature follows the actual processes being maintained. In a cell, these include chemical exchange and regulation; in an experiencing nervous system, they include sensation, bodily feedback, perception, memory, and the returning informational activity that shapes the next moment. **Consciousness is access to consequential history within that experiencing organization. Phenomenal experience is the lived character of its sensory and informational activity.** The ratio describes the maintaining balance; the carried organization determines the nature of the interior.
 
 ### What changes across scales
 
-The same form of comparison can be used for a chemical assembly, cell, organism, neural population, or engineered system if a meaningful maintaining process, disrupting process, and organizational variable can be declared. This is a claim about the applicability of a method, not an assertion that all such systems contain the same kind of interior.
+The same form of comparison can be used for a chemical assembly, cell, organism, neural population, or engineered system wherever meaningful maintaining and disrupting processes can be declared for one organizational variable. Each interior takes its character from the kind of organization maintained at that scale: chemical, regulatory, mechanical, sensory, informational, or some combination of these.
 
 Different scales may involve different carriers and timescales. A membrane potential may be actively regulated over short intervals while a developmental pattern is maintained across days. A larger organization formed through coupling of smaller units may possess a new effective boundary and its own restoration dynamics.
 
@@ -2548,9 +2548,9 @@ Self-maintained invariance concerns the continued operation of identifiable stru
 
 The next questions concern what the maintained structure actually does. Does earlier organization alter later interaction? Can feedback and reflection sustain a selective interface? Does a distinct, history-bearing boundary form? Can its organization become accessible to the processes that continue it?
 
-Those questions connect persistence to consequential history, active inheritance, the Ostiary Principle, and the proposed onset of a phenomenal interior. The connection is physical throughout, but the answers require the appropriate variables and evidence at each step.
+Those questions connect persistence to consequential history, active inheritance, and the Ostiary Principle. When maintained historical organization forms a coherent boundary, it forms an interior. What that interior is consists of what its organization carries forward; where those processes are lived sensory and informational feedback, conscious access to their consequential history is phenomenal experience. The continuity is physical throughout, with each system's own dynamics supplying the content of its interior.
 
-The law's contribution is the explicit restoration–disruption comparison, together with a procedure for testing its relevance. It makes a proposed condition of persistence measurable without treating the ratio as a substitute for the organized causal dynamics that persistence allows to continue.
+The law's contribution is the explicit restoration–disruption comparison, together with a procedure for testing its relevance. It measures the balance through which inherited organization continues, while the coupled, history-bearing dynamics explain the boundary that forms and the character of the interior sustained by that boundary.
 
 ---
 
