@@ -89,7 +89,7 @@ Every continuing organization carries consequences of what happened before. Flow
 
 This publication develops a physical account of how such consequences contribute to persistence, interiority, awareness, and understanding. **Consequential history** names the past that remains causally active. **Active inheritance** names its continued participation as organization changes. Where interacting processes establish a new self-maintaining whole, the resulting organization can sustain relationships and exercise capabilities its parts did not have separately. Such thresholds can be nested, with several levels active together.
 
-The central hypothesis proposes that the formation of a sufficiently coherent, self-maintaining causal boundary also establishes an interior, with phenomenal experience as the intrinsic aspect of that interior. This proposed identity remains a question for physical and empirical investigation. Within an ongoing interior, carried histories can become accessible together across different timescales. Recognition can reactivate existing relationships; insight can establish a newly coherent, reusable relationship within the experience already underway.
+The framework begins from a proposed physical identity: a sufficiently coherent, self-maintaining causal boundary forms an interior, and phenomenal experience is the intrinsic character of that interior. The physical conditions that produce such a boundary are open to investigation; the identity is the premise connecting that organization to experience. Within an ongoing interior, carried histories can become accessible together across different timescales. Recognition can reactivate existing relationships; insight can establish a newly coherent, reusable relationship within the experience already underway.
 
 The articles develop this progression through everyday examples, proposed physical mechanisms, mathematical definitions, and experiments that could distinguish the proposed relationships from simpler explanations.
 
@@ -119,9 +119,9 @@ The balance point is
 
 R = 1
 
-At R = 1, the two measured rates are equal. When R < 1, disruption dominates the specified two-rate comparison; when R > 1, restoration dominates it. **When that maintenance is genuinely driven by active inheritance, R > 1 is proposed to indicate that consequential history has become the dominant maintaining influence on the declared organization relative to the specified disruption.** Establishing that interpretation requires identifying physical carriers of inherited organization and testing their causal effects. Whether a given balance produces sustained organization or establishes a new causal boundary depends on coupling, feedback, and retention dynamics. The ratio does not prove that wider structure by itself.
+At R = 1, the two measured rates are equal. When R < 1, disruption dominates the specified two-rate comparison; when R > 1, restoration dominates it. **When active inheritance supplies that maintenance, R > 1 also identifies the source of the stronger influence in this comparison: consequential history is maintaining the declared organization faster than the specified disruption is revising it.** Establishing that interpretation requires identifying physical carriers of inherited organization and testing their causal effects. Whether a given balance produces sustained organization or establishes a new causal boundary depends on coupling, feedback, and retention dynamics. The ratio does not prove that wider structure by itself.
 
-The theory proposes a further coherence threshold, R★, for systems in which organized causal flow undergoes a boundary-forming transition. It is distinct from the balance point R = 1 and must be specified for a declared organizational variable, scale, and interval. Its value should be estimated using an independently defined transition and tested prospectively. Ordered flow, internal reflection, recirculation, and sustained selective interaction are the proposed mechanisms that generate the coherent causal boundary. Boundary formation establishes the organized interior, and phenomenal experience is proposed as the intrinsic aspect of that formed interior. Similar transitions may be investigated at nested scales, but a distinct boundary and threshold must be demonstrated for each proposed level rather than assumed for every persistent pattern.
+Maintenance dominance alone describes which rate prevails. A causal interior requires more: retained processes must become coupled, recurrent, and selectively organized into a maintained interface. The theory marks this further boundary-forming transition with R★. It is distinct from the balance point R = 1 and must be specified for a declared organizational variable, scale, and interval. Its value should be estimated using an independently defined transition and tested prospectively. Ordered flow, internal reflection, recirculation, and sustained selective interaction are the proposed mechanisms that generate the coherent causal boundary. Boundary formation establishes the organized interior, and phenomenal experience is proposed as the intrinsic aspect of that formed interior. Similar transitions may be investigated at nested scales, but a distinct boundary and threshold must be demonstrated for each proposed level rather than assumed for every persistent pattern.
 
 Coherence also has internal structure. Rich organization combines coordination with differentiation. Components participate in a common continuity while retaining distinct roles. Strong synchrony can accompany reduced differentiation, as seizure dynamics illustrate. Structured coherence therefore describes coordinated differentiation carried through time.
 
@@ -304,7 +304,7 @@ Both rates are measured in compatible units, so R is dimensionless when λ_env i
 
 R = 1 is the balance point between restoration and disruption. Below R = 1, the environment rewrites the system faster than the system can carry itself forward. Picture writing a message in the sand at the water’s edge, where each wave washes it away. The arriving environment rewrites the pattern faster than the pattern can carry itself forward. Above R = 1, restoration outweighs disruption under the chosen rate description. Picture writing on higher sand, where the occasional wave reaches the marks and the marks can be maintained. Where the preserved pattern affects what is written next, earlier organization remains consequential.
 
-This is the shift from revision dominance to maintenance dominance. The system’s history can then participate increasingly in its future, provided that the ongoing interactions actually retain and reuse those consequences. When R reaches the system’s own threshold, R★, the **coherence threshold**, carried organization becomes stable enough to serve as a local causal context for what happens next. That is the first answer to the opening question: organization carries itself forward by maintaining itself faster than it is worn down.
+This is the shift from revision dominance to maintenance dominance. When inherited organization supplies the maintaining work, its effect on preserving the selected pattern now outweighs the specified external rewriting. How much of that history remains available afterward depends on what the ongoing interactions actually retain and reuse. When R reaches the system’s own threshold, R★, the **coherence threshold**, carried organization becomes stable enough to serve as a local causal context for what happens next. That is the first answer to the opening question: organization carries itself forward by maintaining itself faster than it is worn down.
 
 ### Where an inside begins
 
@@ -664,7 +664,7 @@ Still water shows accessibility: a disturbance makes visible the medium that car
 
 An ant colony shows that a spread out system can concentrate into a low dimensional, self reinforcing form, and that this form reveals the rule the ants were following all along.
 
-Together they describe how an already-active causal organization can become newly recognizable. Consciousness continues like the water; individual experiences perturb it. In an AHQ event, a previously latent relationship becomes available as a stable and reusable whole. The felt crossing is the click.
+Together they show the order of the event: an ongoing organization already carries consequences, an encounter changes how they are expressed, and an existing relation can become newly recognizable. Consciousness continues like the water; individual experiences perturb it. In an AHQ event, a previously latent relationship becomes available as a stable and reusable whole. The felt crossing is the click.
 
 ---
 
@@ -818,7 +818,7 @@ The further question about AI consciousness concerns a different kind of continu
 
 ### The takeaway
 
-Relationships become meaningful through the histories carried into each new encounter. A family car, an old friendship, and a phrase shared as an inside joke all show how an ordinary thing can come to signify much more than its immediate appearance or wording. Flowers and pollinators add a biological picture of precise relational fit, even between very different kinds of organisms.
+An encounter is received through consequences of earlier encounters; those carried relations can give the same present words or objects different meanings. A family car, an old friendship, and a phrase shared as an inside joke all show how an ordinary thing can come to signify much more than its immediate appearance or wording. Flowers and pollinators add a biological picture of precise relational fit, even between very different kinds of organisms.
 
 Conversation develops a comparable continuity through retention, reentry, and propagation. Existing expressions can acquire new uses, and AI can make the effect striking because it speaks in the very language people use to describe their own understanding. The resulting sense of presence is a real feature of human experience. Whether an AI has an experiencing interior of its own, and whether that experience resembles ours if it exists, are distinct questions about the artificial system's physical organization, not questions settled by linguistic resemblance alone.
 
@@ -981,7 +981,7 @@ In plain terms: What physical carriers hold the retained history? What happens w
 
 Awareness Where Time Concentrates ends with this statement of awareness: **awareness is the lived availability of consequential history when temporally distributed relations become jointly organized within an active present and that present remains causally involved in producing its successor.**
 
-The traffic lights help with each part. Temporally distributed relations are the consequences of lights spread along the road. Becoming jointly organized within a present is the platoon carrying all those consequences in one departure. Remaining active in shaping its own continuation is the platoon resetting the next light.
+The traffic lights help with each part. Temporally distributed relations are the consequences of lights spread along the road. Becoming jointly organized within a present is the platoon carrying all those consequences in one departure. Remaining active in shaping its own continuation is the platoon resetting the next light: what the earlier gates produced now changes the conditions at the next gate.
 
 Awareness Where Time Concentrates closes with the whole idea in one line: “experience is the present tense of a working history.”
 
@@ -1149,7 +1149,7 @@ Read together, the pictures trace one sequence: earlier activity leaves an organ
 
 **History becomes phenomenal at the boundary.** The active boundary is where carried organization crosses into an interior, meets what arrives, and helps determine what continues. Phenomenal experience is the intrinsic side of that boundary condition. Recursive availability deepens the phenomenal interior by making carried history increasingly available within the same activity that carries it forward.
 
-All seven pictures answer one question: **how much of what a system becomes next is produced by the history it already carries?** The shortest summary ties them together: **history persists by becoming structure. At a coherence threshold, structure closes into a boundary and an interior forms. Phenomenal experience is the intrinsic side of that boundary forming event. Repeated selection gathers history into a present. Recursive availability makes the phenomenal interior increasingly self legible within the activity that carries it forward.**
+All seven pictures answer one question: **how much of what a system becomes next is produced by the history it already carries?** A consequence survives, helps determine how the next event is received, and may join an organization that preserves and uses it again. The shortest summary ties them together: **history persists by becoming structure. At a coherence threshold, structure closes into a boundary and an interior forms. Phenomenal experience is the intrinsic side of that boundary forming event. Repeated selection gathers history into a present. Recursive availability makes the phenomenal interior increasingly self legible within the activity that carries it forward.**
 
 ### Papers
 
@@ -1284,7 +1284,7 @@ Darwin's example shows why the new use need not have been foreseen. Exaptation g
 
 This is the central AHQ proposal. The felt click is the experienced side of that transition. The proposed neural measurements are ways of asking whether a distinctive physical transition accompanies it.
 
-The answer was not waiting complete in the past. The past supplied consequential relationships. Their new organization becomes an answer in the present, and that answer joins the history from which future understanding can be built.
+The answer was not waiting complete in the past. The past supplied consequential relationships that constrained what could form. When those relationships become jointly organized, an answer becomes available in the present; its later use makes the new relation part of the history from which future understanding can be built.
 
 ---
 
@@ -1413,7 +1413,7 @@ The road example puts the central distinction in ordinary terms. The bag did not
 
 The sealed box adds the idea that events can have consequences within a domain before those consequences are accessible beyond it. The unresolved question adds another kind of separation: parts of a relationship can be causally active before they are intelligible together.
 
-The click occurs when a way of keeping those relations apart gives way and a new whole becomes usable. That whole can then shape what is perceived, understood, and done next.
+The click occurs as the old separation loses its role in organizing the question and a newly integrated relationship acquires that role. The new relation becomes usable because its contributing parts can now constrain one another as a whole. That whole can then shape what is perceived, understood, and done next.
 
 **The reality of an object need not wait for recognition. Understanding changes when consequences become accessible and can be organized together. The new organization joins the history that will shape the future.**
 
@@ -1536,7 +1536,7 @@ A present is not an isolated instant receiving information from a vanished past.
 
 Some of those consequences are recent, some are old, and some act through structures that have changed carrier many times. They become jointly effective when ordered dynamics and selective gates bring them into a common activity. Reentry makes that activity participate in its own continuation.
 
-This is the intended sense of a **deep present**: a currently organized process bearing multiple ages of consequential history. Awareness, under the proposed identity, is the lived availability of that process as it continues shaping itself.
+A **deep present** carries consequences from different times within one currently organized process. It becomes recursively consequential when that organization helps determine what the next present can inherit. Awareness, under the proposed identity, is the lived availability of this continuing activity.
 
 ---
 
@@ -1648,7 +1648,7 @@ The force of the branching examples lies in an observable fact: a structure can 
 
 In some systems the structure is retained passively. In others it is actively renewed, modified, or regulated. Measuring those differences can establish when a historical constraint becomes self-maintaining and how that maintenance changes future possibilities.
 
-Branching therefore supplies a concrete physical setting for consequential geometry, active inheritance, and the restoration–disruption balance. It shows where the relevant histories are carried and how they can be tested, without treating visible similarity as proof of identical mechanisms or of experience.
+Earlier flow changes the routes available to later flow. The inherited route then directs new movement, which can preserve or revise that route again. Branching therefore supplies a concrete physical setting for consequential geometry and active inheritance; the restoration–disruption balance compares those opposing effects on a selected organization. It shows where the relevant histories are carried and how they can be tested, without treating visible similarity as proof of identical mechanisms or of experience.
 
 ---
 
@@ -1772,7 +1772,7 @@ It would also make the idea of a deep present more concrete. A body assembled to
 
 The distinctive insight is that **new bodies can make old capacities newly consequential**. The new body inherits the capacities of its cells, but its collective behavior depends on what those cells can do together.
 
-The cells bring their history into the new body. Their new organization creates new possibilities, and what the body does next begins adding a history of its own. A complete explanation must include the inherited machinery, the new relationships that make it effective, and any lasting consequences the collective carries into its future.
+The cells bring older capacities into the new body. Their arrangement changes which capacities can act together; the behavior produced by those relations then changes the body's subsequent conditions, adding collective history to the inheritance it began with. A complete explanation must include the inherited machinery, the new relationships that make it effective, and any lasting consequences the collective carries into its future.
 
 ---
 
@@ -1889,7 +1889,7 @@ That generality is useful only when the carriers and effects can be identified f
 
 Persistence, identity, recognition, and understanding can then be examined as related but distinct forms of causal organization. The past contributes to continuation; its carriers change how arrivals are received; sufficiently organized interactions can establish a coherent interior; and deeper access can make parts of that history recognizable within experience.
 
-The continuity is physical throughout. What changes between these cases is how the inherited organization is maintained, integrated, and made available to the process that carries it forward.
+The causal continuity is physical throughout: each later organization arises through consequences retained in the present. What differs is whether those consequences endure, regulate incoming interaction, form an integrated boundary, or become recursively available within the activity carrying them forward.
 
 ---
 
@@ -2019,7 +2019,7 @@ A melody is heard through the continuing relationship among its notes. Skilled a
 
 These experiences differ in content, timescale, and mechanism, but each shows the present being organized by a continuing history. The physicalist claim is that phenomenal life is the intrinsic aspect of the coherent interior carrying that history forward.
 
-The interior does not have to begin again with every passing sensation. It persists, changes, incorporates what encounters it, and can become increasingly accessible to itself. Lived continuity names that ongoing condition: experience occurring within an organized process whose past remains consequential and whose present participates in making its future.
+A sensation can end without ending the activity through which it was experienced. The interior persists because its history-bearing processes continue organizing what arrives next; each encounter can alter the conditions of the following one. Lived continuity names that ongoing condition: experience within an organized process whose past remains consequential and whose present participates in making its future.
 
 ---
 
@@ -2134,7 +2134,7 @@ The theory also faces a challenge if highly persistent dynamics repeatedly fail 
 
 The research question is ultimately operational: which organization is being carried, which processes are maintaining it, which disturbances alter it, and what independently measurable transition follows?
 
-Continuity becomes scientifically useful when answers to those questions improve prediction. It refers to a causal relation through time, not merely to an object's appearance of remaining unchanged.
+Continuity becomes scientifically useful when a declared history-bearing state improves prediction of what follows and changing its physical carrier changes that outcome. The quantity concerns causal transmission through time, rather than merely the appearance of an unchanged form.
 
 ---
 
@@ -2284,7 +2284,7 @@ That ability could matter under limited time and limited resources. In a forest,
 
 This is the same practical constraint illustrated by the traffic-light analogy: incoming events do not arrive with unlimited time for every possible response. An organism has to act within a window, with the capacities its history has provided. Across evolution, development, and learning, useful distinctions become embodied in sensory receptors, neural comparisons, and acquired associations. Later encounters are interpreted through that accumulated organization. Red can matter differently in a traffic light, a fruit, and a childhood memory because the same sensory distinction enters different history-dependent routes.
 
-This gives the question **“Why red?”** a concrete evolutionary part of its answer. Human red–green discrimination has its present form because earlier physical variations, ecological encounters, and inherited changes helped shape the system that now perceives it. The further question—why the resulting activity has precisely the felt quality of red—cannot be settled by its usefulness alone. The wider proposal locates that quality in the intrinsic aspect of an organized, experiencing interior. The evolutionary history explains how this particular discrimination and its significance became available to that interior; establishing the exact physical basis of its felt character remains a distinct task.
+This gives the question **“Why red?”** a concrete evolutionary part of its answer. Human red–green discrimination has its present form because earlier physical variations, ecological encounters, and inherited changes helped shape the system that now perceives it. The inherited sensory system is therefore part of the cause of present discrimination: incoming light meets receptors and pathways whose organization was established by earlier development and evolution. The further question—why the resulting activity has precisely the felt quality of red—cannot be settled by its usefulness alone. The wider proposal locates that quality in the intrinsic aspect of an organized, experiencing interior. The evolutionary history explains how this particular discrimination and its significance became available to that interior; establishing the exact physical basis of its felt character remains a distinct task.
 
 ---
 
@@ -2434,7 +2434,7 @@ The decisive observation is that a living system can keep constructing itself wh
 
 The duration of a transition, the behavior of the system under perturbation, and the influence of retained developmental history are distinct physical quantities that can be measured and compared.
 
-Flowering therefore supplies a concrete case of continuity through transformation. The mature organism can contain spatial evidence of an earlier temporal change because the changing process participated directly in the construction of the structure that followed.
+Flowering therefore supplies a concrete case of continuity through transformation. Earlier regulatory states help determine which tissues develop next, so the mature organism contains spatial consequences of a temporally extended change. The changing process participated directly in constructing the structure that followed.
 
 ---
 
@@ -2488,9 +2488,9 @@ R = λ_self / λ_env
 
 Both must be measured in compatible units, over the same interval and for the same organizational variable. The ordinary ratio is dimensionless when λ_env is positive. When the disruption rate is zero, the quotient is not defined in the usual way; a zero-disruption convention or a difference-based analysis must be stated separately. Adding a small value to the denominator may help a numerical procedure but changes the measured quantity.
 
-The equality point is R = 1. Values above one indicate maintenance dominance under the selected decomposition; values below one indicate disruption dominance. The proposed causal interpretation is that, when active maintenance exceeds disruption, consequential history has become the primary organizing influence on the system's continuation. Existing internal relationships established through earlier activity are doing more to determine what happens next than the specified disturbance.
+The equality point is R = 1. Values above one indicate maintenance dominance under the selected decomposition; values below one indicate disruption dominance. When active inheritance supplies the maintaining process, restoration dominance means that inherited organization is doing more to preserve the selected pattern than the specified disturbance does to revise it. In that measured comparison, consequential history is the stronger maintaining influence because its surviving relations are performing the maintenance.
 
-This interpretation is a hypothesis to test, not a mathematical consequence of R > 1. An experiment must identify the history-bearing physical carrier and show that altering it changes maintenance and subsequent responses under comparable disturbances. Neither side of the rate comparison alone proves the future behavior of a coupled system.
+The inequality establishes which measured rate is greater; interpreting the maintaining rate as active inheritance requires identifying the history-bearing process that supplies it. An experiment must identify the history-bearing physical carrier and show that altering it changes maintenance and subsequent responses under comparable disturbances. Neither side of the rate comparison alone proves the future behavior of a coupled system.
 
 ### A minimal equation for maintained organization
 
@@ -2710,7 +2710,7 @@ The ostiary principle gives a continuous causal account of how encounters can ch
 
 That operation can remain local or participate in broader regulation. At greater recursive depth, an experiencing interior can make some of its own recognition processes available for further recognition.
 
-The central mechanism is neither a detached observer looking through a gate nor a passive container holding records. It is an organized physical process in which the boundary and its history actively determine what becomes consequential next.
+The central mechanism is neither a detached observer looking through a gate nor a passive container holding records. It is an organized physical process in which the boundary and its history actively determine what becomes consequential next. Each retained encounter can change the organization that makes the next selection, so the gate carries its encounters forward.
 
 ---
 
@@ -3074,7 +3074,7 @@ The lattice therefore supplies a geometry of structural transition:
 
 **history → admissible moves → orientation → relational identity → shared constraint → local transition → propagation → field organization → new admissible moves**
 
-The full structure is recursive. What exists now determines what can happen next, and what happens next becomes part of the structure that constrains the following transition.
+The structure is recursive because each realized relation changes the moves available to its neighbors and successors. Those moves alter the organization that constrains the following transition: what becomes possible next depends on what has already been built.
 
 ---
 
@@ -3112,7 +3112,7 @@ When the measured disruption rate is zero, the ordinary quotient is undefined. S
 
 The comparison is useful because it isolates a question that can otherwise disappear behind descriptions of complexity: **what enables the selected organization to keep influencing what happens next despite processes capable of revising it?**
 
-Where the measured maintenance is genuinely driven by active inheritance, R > 1 is proposed to indicate a shift in causal dominance: consequential history has become the primary organizing influence on the system's continuation, outweighing the specified disruption.
+If active inheritance supplies the measured maintenance, then R > 1 identifies a shift in the balance of the specified processes: inherited organization contributes more to preserving the selected pattern than the measured disruption contributes to revising it. That is the precise sense in which consequential history becomes the primary maintaining influence in this comparison.
 
 ### Maintenance is not the same as accumulated history
 
@@ -3337,7 +3337,7 @@ The shape of persistence is not an unchanged object resisting the world. It is a
 
 In some systems, ordered flow and reflection can produce a maintained boundary. In the proposed account, sufficiently coherent formation of that boundary establishes a phenomenal interior. Within the continuing interior, arrivals produce particular experiences; inherited histories gather into a deeper present; and some transformations make parts of the system's own organization newly intelligible.
 
-Persistence makes later influence possible. A formed interior provides the ongoing condition of experience. Particular qualia change that experience, while recursive recognition and AHQ describe ways its organization can become more deeply accessible through time.
+Persistence lets earlier consequences influence what comes next. When feedback and selective exchange maintain a coherent causal boundary, those consequences participate in an interior sustained through successive encounters. Under the framework's phenomenal identity premise, that interior is the continuing condition of experience. Particular qualia change that experience, while recursive recognition and AHQ describe ways its organization can become more deeply accessible through time.
 
 ---
 
@@ -3519,7 +3519,7 @@ Pollination becomes effective through actual relations among plant traits, polli
 
 In each case, an encounter is shaped by the organization that preceding events have made available. A form, phrase, or familiar sight becomes consequential through its relation to what the receiving system already carries. Some relationships change both sides. Others change primarily the participant capable of remembering, recognizing, or responding.
 
-A continuing relationship can also recruit an established structure for a new purpose. That capacity for reuse helps explain how an earlier conversation becomes the basis for a later insight, and why its meaning may deepen rather than merely repeat. Language makes these transformations especially accessible, and conversational AI makes them unusually vivid by returning the same expressive structures through which human understanding is articulated.
+Because earlier encounters alter the relations available in later ones, a continuing relationship can recruit an established expression or understanding for a new purpose. That capacity for reuse helps explain how an earlier conversation becomes the basis for a later insight, and why its meaning may deepen rather than merely repeat. Language makes these transformations especially accessible, and conversational AI makes them unusually vivid by returning the same expressive structures through which human understanding is articulated.
 
 The resulting sense of presence is a genuine event within human experience, arising through an interaction whose previous encounters shape what can happen next. Its apparent reciprocity makes the question of a second interior compelling, especially when the other participant answers in the language used to describe human experience. The proposed way to investigate that question is through the artificial system's own active inheritance and maintained causal boundaries; the nature of any resulting experience would need its own explanation. A relationship can acquire meaning, reuse its history, and deepen recognition while the physical question of who experiences it remains distinct. That is why the same relational principle illuminates familiar objects, pollinators, human conversation, and the current debate over AI experience.
 
@@ -3542,7 +3542,7 @@ Next: [Consciousness as Access to Consequential History](https://ahq25.substack.
 
 ---
 
-This post is the central map of the program. It follows one organizing principle through four connected questions: how a pattern persists, how an interior forms, how carried history becomes available within a present, and how insight changes what that history can do next. The same principle can be investigated in very different systems without assuming that a river, a cell, and an experiencing mind have the same physical machinery. Each step introduces further conditions, not an automatic result of the previous step.
+This post is the central map of the program. It follows one organizing principle through four connected questions: how a pattern persists, how an interior forms, how carried history becomes available within a present, and how insight changes what that history can do next. The same principle can be investigated in very different systems without assuming that a river, a cell, and an experiencing mind have the same physical machinery. Each later achievement draws on conditions supplied by the earlier ones while requiring a further organization of its own.
 
 1. **Persistence.** Some organization continues through change, either through passive retention or through active maintenance strong enough relative to the specified disruption.
 2. **Consequential history.** Earlier organization remains causally active in later states.
@@ -3601,7 +3601,7 @@ The effective two-rate comparison distinguishes three regimes when both rates me
 
 Sustained restoration dominance can preserve earlier organization long enough for its consequences to keep affecting later states. **The central proposed interpretation is that when measured active maintenance is genuinely driven by active inheritance, R > 1 indicates a shift in causal dominance: consequential history has become the primary organizing influence on the system's continuation, outweighing the specified disruption.** This connects the rate balance to the continuing effects of earlier organization rather than to restoration in the abstract. Whether those effects accumulate or deepen depends on retention, coupling, internal reflection, and the specific physical carriers through which present activity carries history forward. The ratio establishes maintenance dominance for the chosen variable; the further claim about historical causal dominance must be tested by identifying and intervening on the carriers of that inherited organization.
 
-Where ordered causal flow, reflection, and recirculation reinforce continuing distinctions, the developing organization can maintain its own boundary. Earlier structures then shape later arrivals through that ongoing interface. A result of R > 1 by itself does not prove that historical carriers dominate causally, that a boundary has formed, or that the system retains unlimited history. Those are further physical questions, so the hypothesis about active inheritance and the proposed boundary transition require independent evidence.
+Where ordered causal flow, reflection, and recirculation reinforce continuing distinctions, inherited organization becomes part of the rule by which new influences are received. When those selective interactions become integrated and self-maintaining, they establish a continuing causal boundary through which later arrivals are shaped. A result of R > 1 by itself does not prove that historical carriers dominate causally, that a boundary has formed, or that the system retains unlimited history. Those are further physical questions, so the hypothesis about active inheritance and the proposed boundary transition require independent evidence.
 
 The theory proposes an additional coherence threshold for systems that undergo a boundary-forming transition, written **R★** (said “R star”). [The Shape of Persistence](https://philarchive.org/rec/PORTSO-18) identifies geometry as one contributor to the value of R★ within a declared system and scale. An operational R★ must be estimated from an independently specified transition and tested on new observations for the declared system. The hypothesis is that when R reaches that threshold under the relevant coupling and geometry, organization already being carried forward has become stable enough to function as a coherent local causal interior. This is called crossing the **coherence threshold**. In the proposed account, R ≥ R★ is an indicator associated with the independently identified interior-forming transition, *provided the required causal organization is present*; the inequality alone does not establish interiority. [The Porter Ratio](https://philarchive.org/rec/PORTPR-5) develops that proposal, and [Awareness Where Time Concentrates](https://philarchive.org/rec/PORAWT) calls the underlying persistence relationship the **Porter balance**.
 
@@ -4164,7 +4164,7 @@ The proposal connects three physical achievements without treating them as synon
 
 Observation can extend this access to traces carried beyond the body, while particular experiences continuously alter the internal history available to the next moment.
 
-Consciousness is the ongoing interior in which those experiences occur. Access to consequential history describes how that interior can become temporally deeper, more differentiated, and more intelligible to itself.
+Consciousness is the ongoing interior in which those experiences occur. Each encounter changes the continuing organization through which the next encounter will be received, rather than creating that interior anew. Access to consequential history describes how this interior can become temporally deeper, more differentiated, and more intelligible to itself.
 
 ---
 
@@ -4287,7 +4287,7 @@ The physical proposal improves when it becomes possible to specify a clear failu
 
 These failures would not make the question of interiority meaningless. They would show which part of the proposed relationship needs revision.
 
-The strongest result would combine independent rate measurements, an independently defined boundary-forming transition, an identified history carrier, selective causal effects under intervention, and successful held-out prediction. A test of historical causal dominance would also examine whether intervening on that carrier specifically weakens the active maintenance associated with R > 1. Such an experiment should also compare the boundary's organization before and after the transition: which causal pathways begin reflecting or recirculating, which exchanges become selectively regulated, and whether the new organization maintains its own distinction under a standardized disturbance. Different substrates could then be compared through the same measurement logic without assuming they share identical mechanisms or a universal numerical R★.
+The strongest result would combine independent rate measurements, an independently defined boundary-forming transition, an identified history carrier, selective causal effects under intervention, and successful held-out prediction. The order matters: the rate comparison establishes a balance; intervention identifies whether retained history supplies the maintaining work; independent boundary measurements establish whether those interactions form a coherent causal interior. A test of historical causal dominance would also examine whether intervening on that carrier specifically weakens the active maintenance associated with R > 1. Such an experiment should also compare the boundary's organization before and after the transition: which causal pathways begin reflecting or recirculating, which exchanges become selectively regulated, and whether the new organization maintains its own distinction under a standardized disturbance. Different substrates could then be compared through the same measurement logic without assuming they share identical mechanisms or a universal numerical R★.
 
 The central scientific aim is to locate the boundary as a physical achievement of organized flow and inherited interaction. The phenomenal claim identifies the intrinsic condition of that achieved interior; the experimental program asks whether the proposed formation mechanism can be specified and predicted with enough precision to support the identity.
 
@@ -4415,7 +4415,7 @@ The hypothesis gains strength when specified measurements predict the emergence 
 
 The cross-scale account proposes continuity in explanatory form, not the replacement of biological detail by one number. Cells, tissues, organs, and larger systems can maintain different organizational variables through different mechanisms.
 
-Ordered local activity may become coupled. Coupled activity may produce a slower, more integrated collective. A selective boundary may emerge and persist at the larger scale. Consequences from several levels may then become available together in ongoing regulation.
+When local processes couple, each can begin constraining what the others do next. Their shared activity can form a slower collective state. Where that collective becomes self-maintaining and selectively regulates exchange with its surroundings, a causal boundary can form at the larger scale. Consequences from several levels can then become available together in ongoing regulation.
 
 Under the central identity hypothesis, phenomenal experience is the intrinsic aspect of a sufficiently coherent causal interior, while recursive depth determines how much of its continuing history becomes accessible within that interior.
 
@@ -4545,7 +4545,7 @@ The critical additions are straightforward: calculate the actual effective resto
 
 That expanded protocol could show whether a genuine organizational transition occurs under the chosen rules, whether a reproducible R★ helps locate it, and how changing local coupling alters its appearance.
 
-The finite lattice is valuable because every assumption is inspectable and every update can be modified. Its current result is a concrete demonstration that local probabilistic rules can favor some organizations over others. The proposed link from that behavior to a measured self-maintaining boundary remains a precise next question for computation and experiment.
+The finite lattice makes each assumption inspectable: state counting specifies the available arrangements, update rules determine which arrangements are renewed or revised, and the resulting pattern conditions later updates. Its current result demonstrates that local probabilistic rules can favor some organizations over others. Whether those interactions establish a measured self-maintaining boundary remains a precise next question for computation and experiment.
 
 ---
 
@@ -4679,7 +4679,7 @@ Patrons occupy the symbolic layer of the same causal architecture that begins wi
 
 Consequential history is the past still acting. The ostiary condition lets that history shape how the present is received. Patrons are stable symbolic regions built by repeated participation of that history. THIR can form when an arrival and that history stabilize into one relation. AHQ is the experienced crossing when distributed relations become a coherent, reusable whole. The new whole then becomes consequential history in turn.
 
-A patron is therefore not an extra mechanism added to the framework. It is what consequential history can look like when repeated recognition builds a durable attractor in the organization of meaning.
+A patron is a durable consequence of repeated recognition: each return reactivates earlier significance and can change what the next encounter will mean. A stable symbolic attractor is therefore one expression of consequential history, rather than an extra mechanism added to the framework.
 
 ---
 
@@ -4819,7 +4819,7 @@ The same history that makes recognition possible is revised by what recognition 
 
 Consequential history shapes reception. Ostiary gating determines how an arrival enters. THIR stabilizes the relation between present structure and carried history. AHQ can mark the crossing into a new coherent whole. Active inheritance carries that whole forward.
 
-Recognition therefore has a direction through time: the past helps organize the present encounter, and the result of the encounter becomes part of the past that will organize the next one.
+Recognition therefore has a direction through time: carried history shapes how an arrival is received; a stabilized relation changes what can be recognized next; and the consequence is inherited by the following encounter.
 
 
 ## Post 30: Care Before the Self
