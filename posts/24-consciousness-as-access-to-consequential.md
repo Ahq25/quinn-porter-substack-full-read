@@ -80,7 +80,7 @@ The Ostiary Principle describes how inherited organization contributes to this s
 
 At greater depth, information about the current act of recognition can become available to further recognition. This is **self-legibility**. A system already having experiences becomes more capable of using relationships within those experiences to regulate and understand its ongoing activity.
 
-The account therefore does not require sophisticated self-reflection to create the first phenomenal interior. Reflection deepens the availability of a history that is already being carried within that interior.
+Self-reflection develops within an already continuing experiencing interior. It introduces a further capacity: the organization through which experience occurs becomes increasingly available to its own subsequent activity.
 
 ### Why recognition can feel immediate
 
