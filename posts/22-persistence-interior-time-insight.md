@@ -39,41 +39,9 @@ What stays the same is organization: the pattern of causes and effects a thing c
 
 In a self maintaining open system, keeping inherited organization active requires continuing organization preserving activity. Living things repair, regulate, replace, and rebuild themselves all the time, while their surroundings push on them from every side.
 
-[The Law of Self Maintained Invariance](https://philarchive.org/rec/PORTLO-12) builds this into four postulates:
+Sustained restoration dominance can preserve earlier organization long enough for its consequences to keep affecting later states. Whether those effects accumulate or deepen depends on retention, coupling, internal reflection, and the specific physical carriers through which present activity carries history forward.
 
-1. An identifiable system persists as a distinct entity as long as at least one organizational invariant, a feature of its organization that stays the same, remains stable.
-2. Open systems interact with their environments constantly, and those interactions can alter, disperse, or erase that invariant.
-3. When the invariant persists through interactions capable of altering it, organization preserving processes must counteract that alteration over the relevant interval.
-4. At the effective level, the net change in the invariant comes from the competition between internal restoration and environmental disruption.
-
-Two rates describe the competition. A rate is how fast something happens.
-
-- **λ_self** is the rate at which the selected organization is maintained, restored, reinforced, or reliably carried forward.
-- **λ_env** is the rate at which that same organization is revised, dispersed, overwritten, or disrupted through surrounding interaction.
-
-Their ratio is the **Porter Ratio**:
-
-R = λ_self / λ_env, for λ_env > 0
-
-For example, a system that repairs itself three times as fast as it is damaged has R = 3. Repair and damage at the same speed give R = 1. Damage twice as fast as repair gives R = 1/2. Both quantities must measure comparable effects on the same declared organizational feature, over a compatible interval and in the same rate units. Their ratio is dimensionless, so consistently changing the time unit does not change R. A zero disruption rate requires separate treatment because the ordinary quotient is then undefined.
-
-R always refers to a particular feature of organization over a particular stretch of time. [Branching as Active Inheritance](https://philarchive.org/rec/PORBAA) states this exactly: sustained R > 1 defines maintenance dominance for the selected organizational variable and interval. A river network can be scored on whether its channels keep their routes, which the paper calls path persistence and route reuse. [The Flowering Boundary](https://philarchive.org/rec/PORTFB) measures R for a plant’s developmental state under a specified kind of perturbation.
-
-The effective two-rate comparison distinguishes three regimes when both rates measure the same selected organization:
-
-- **R < 1:** revision outruns continuation.
-- **R = 1:** the two rates balance.
-- **R > 1:** inherited organization is restored or propagated faster than it is revised.
-
-Sustained restoration dominance can preserve earlier organization long enough for its consequences to keep affecting later states. **The central proposed interpretation is that when measured active maintenance is genuinely driven by active inheritance, R > 1 indicates a shift in causal dominance: consequential history has become the primary organizing influence on the system's continuation, outweighing the specified disruption.** This connects the rate balance to the continuing effects of earlier organization rather than to restoration in the abstract. Whether those effects accumulate or deepen depends on retention, coupling, internal reflection, and the specific physical carriers through which present activity carries history forward. The ratio establishes maintenance dominance for the chosen variable; the further claim about historical causal dominance must be tested by identifying and intervening on the carriers of that inherited organization.
-
-Where ordered causal flow, reflection, and recirculation reinforce continuing distinctions, the developing organization can maintain its own boundary. Earlier structures then shape later arrivals through that ongoing interface. A result of R > 1 by itself does not prove that historical carriers dominate causally, that a boundary has formed, or that the system retains unlimited history. Those are further physical questions, so the hypothesis about active inheritance and the proposed boundary transition require independent evidence.
-
-The theory proposes an additional coherence threshold for systems that undergo a boundary-forming transition, written **R★** (said “R star”). [The Shape of Persistence](https://philarchive.org/rec/PORTSO-18) identifies geometry as one contributor to the value of R★ within a declared system and scale. An operational R★ must be estimated from an independently specified transition and tested on new observations for the declared system. The hypothesis is that when R reaches that threshold under the relevant coupling and geometry, organization already being carried forward has become stable enough to function as a coherent local causal interior. This is called crossing the **coherence threshold**. In the proposed account, R ≥ R★ is an indicator associated with the independently identified interior-forming transition, *provided the required causal organization is present*; the inequality alone does not establish interiority. [The Porter Ratio](https://philarchive.org/rec/PORTPR-5) develops that proposal, and [Awareness Where Time Concentrates](https://philarchive.org/rec/PORAWT) calls the underlying persistence relationship the **Porter balance**.
-
-R = 1 separates revision dominance from maintenance dominance. R★ is the proposed, separately estimated threshold associated with a demonstrated transition into causal interiority, rather than a universal value deducible from the ratio. R★ belongs to a declared system, organizational variable, scale, and interval. A forming idea, a neural population, and a whole organism can each be examined for transitions of this form, but a boundary-forming threshold should be demonstrated at each scale rather than assumed from the comparison alone.
-
-The comparison holds for any material. Wherever the same organization preserving and organization revising rates can be identified, the same balance can be asked. The Law of Self Maintained Invariance calls this substrate independence.
+Where ordered causal flow, reflection, and recirculation reinforce continuing distinctions, the developing organization can maintain its own boundary. Earlier structures then shape later arrivals through that ongoing interface.
 
 #### An example: branching
 
@@ -239,37 +207,9 @@ In the physicalist identity proposal, phenomenal experience is the intrinsic asp
 
 #### The click, measured
 
-[Aleph Harmonic Qualia: The Dynamical Click of Coherence](https://philarchive.org/rec/PORAHQ-8) defines AHQ as a dynamical event: “the felt click of insight or recognition is the phenomenal form of a rapid transition from distributed relational activity to a reusable collective state.” The paper names four transition criteria for that crossing.
-
-**1. Effective dimensionality drops.** Brain activity across many cells can be described as a point moving through a space with one direction per recorded cell. The participation ratio, D_PR, counts how many directions the activity actually uses. It is computed from how much the activity varies along each direction:
-
-D_PR = (sum of the variances)² / (sum of the squared variances)
-
-If the activity varies equally along 10 directions, D_PR = 10. If nearly all of it runs along one direction, D_PR is close to 1. The prediction is a rapid, time locked fall in D_PR at the moment of insight, like the branching trails tightening into one loop.
-
-**2. Harmonic coordination rises.** The proposal predicts stronger coordination among participating rhythms, possibly through stable relationships between their phases. For n phases subject to r *independent, exact, regular constraints*, the local phase manifold has n − r degrees of freedom. Ten phases with three such constraints have seven. Measured phase-locking strength does not automatically establish how many exact constraints exist, and that phase-space result does not prove a decrease in population covariance dimensionality. AHQ predicts that these distinct measurements change together around the click.
-
-**3. The new relation crosses a local maintenance threshold.** The proposed Porter Ratio of the reorganized collective state reaches a predeclared, event-specific threshold, here distinguished as **R★(insight)**, associated with retention and later reuse. The relevant organization, restoration process, and disruption process must be specified. This local reorganization takes place *within* an already phenomenal interior. R★(insight) is not the boundary-forming R★ for the entire experiencing system, and neither value is supplied by the ratio's algebra.
-
-**4. The new state lasts and is reused.** The collective state persists for at least a set length of time and returns in later thinking. A method that solves one problem gets used on the next.
-
-The four parts are scored together on each trial. A drop in dimensionality and a rise in coordination must each pass a threshold fixed in advance; the relevant local R must reach the prespecified R★(insight); and the new relationship must persist and prove reusable under a declared test. Meeting all four defines a candidate AHQ event under this operational proposal, which can then be compared with independently collected reports of insight.
-
 Read together, the two insight papers describe two sides of one event. The organization that kept the question separate loses coherence and dissolves. The new organization that joins the pieces gains coherence and crosses the threshold.
 
 Consequential history supplies the temporal content of the click. Earlier relations remain causally active through the organization they helped produce, and the click makes them available together.
-
-The paper proposes two measures for that history, once an experimental method has estimated each earlier source's causal contribution and lag. Each source j is assigned a normalized nonnegative share p_j of the estimated causal contribution, and a lag τ_j indicating how long ago it acted. **Causal ancestry depth** is the contribution weighted average lag, how far back the click’s causes reach:
-
-D_CA = Σ p_j τ_j
-
-**Effective historical multiplicity** is the effective number of distinct sources:
-
-N_CI = exp(−Σ p_j ln p_j)
-
-Four sources contributing equally give N_CI = 4. One source doing nearly all the work gives N_CI close to 1. A click can therefore have a compact present state and a deep, many source history at the same time, which is temporal concentration in measurable form.
-
-The last piece is the link to experience. A trial level test compares the reported click with the measured dynamical transition. The empirical claim gains support when the reported moment and the independently measured event align across trials using thresholds fixed in advance.
 
 #### Insight becomes history
 
@@ -346,18 +286,6 @@ The formation of the boundary and the formation of the interior are the same thr
 Recursive availability comes later in organizational depth. It makes the already phenomenal interior increasingly available within its own activity, supporting self legibility, richer access, and reflective forms of consciousness.
 
 This identity claim becomes empirically structured because boundary formation, historical contribution, accessibility, integration, causal reentry, and recursive availability can be measured separately. The phenomenal claim concerns the threshold formed interior itself, while the later measures describe how deeply that interior organizes and accesses its own carried history.
-
-### What the papers measure
-
-Each step comes with a test.
-
-- **Persistence:** measure λ_self and λ_env separately and check whether R predicts recovery, route reuse, and dependence on prior state (Branching as Active Inheritance).
-- **Interior and phenomenal boundary:** check whether retained history improves prediction beyond present state and environment, whether a coherent local boundary forms at the declared threshold, and whether continuity of retained propagation tracks the resulting interior organization.
-- **Awareness and time:** control a system’s prehistory, identify the physical carrier of retained history, and test whether the present state feeds back into the next one (Awareness Where Time Concentrates, [New Bodies, Old Capacities](https://philarchive.org/rec/PORNBO-2)).
-- **Structure and possibility:** count what each description of the Period Lattice keeps, and find the smallest description that still predicts the next change (The Period Lattice).
-- **Insight:** look for a time-locked drop in effective dimensionality, a rise in harmonic coordination, the local R reaching the independently set R★(insight), and later reuse of the new state; compare those measurements with the person's report of a click. This event-specific threshold must not be confused with R★ for the original formation of a phenomenal interior (Aleph Harmonic Qualia).
-- **Patrons:** track recurrent symbolic patterns across time and test whether prior recurrence predicts faster recognition, broader associative recruitment, and more stable return of the same organized meaning.
-- **THIR:** measure the stabilization of relational fit between structured input and carried history through increasing recognition stability, reduced uncertainty, and later reuse of the resulting organization.
 
 ---
 
