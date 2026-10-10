@@ -107,6 +107,18 @@ The system already has an interior boundary. Consequential history already exist
 
 The threshold for a new reusable relation must be evaluated within the already functioning interior. It is distinct from R★ when that symbol names the independently measured boundary-forming threshold of the encompassing system. Nested local reorganizations can therefore contribute to richer understanding without being mistaken for repeated beginnings of consciousness.
 
+### Distinguishing the interface in an experiment
+
+THIR proposes that the relationship between an arriving pattern and retained history becomes stable enough to guide what happens next. To examine that process, the arriving input can be kept comparable while the history of the receiving system changes.
+
+Consider the same spoken word presented after different kinds of learning. One history makes it familiar in a particular context; another establishes a different expectation. The sound can remain the same while earlier learning changes which interpretation becomes available and how quickly it stabilizes. Recognition time, consistency, accuracy, confidence, and later use can then be examined separately.
+
+The crucial variable is the fit between the arrival and the organization already carried. That fit must be specified independently of the recognition result. A learned relationship established before a test can provide a reason to predict faster or more stable recognition. Defining compatibility only after recognition succeeds would make the explanation circular. Strong expectations can also produce mistaken recognition, so stability and correctness must be evaluated separately.
+
+A further comparison separates THIR from AHQ. A familiar pattern may become recognizable smoothly, without a reported click. Another encounter may produce a sudden understanding that establishes a new relationship for later use. If these are distinct transitions, some trials should show stable recognition without the stronger pattern proposed for AHQ. Trials involving a reported click could examine whether a further reorganization occurs after the interface has begun stabilizing.
+
+There must also be an outcome that could challenge the proposed interface. If changes in retained history fail to change the predicted stability of recognition, or if THIR adds nothing measurable beyond ordinary categorization, the mechanism has not been distinguished. If the independently defined input–history relationship reliably changes when recognition stabilizes and how it affects later activity, the proposal acquires a concrete causal role. This result would concern a local interface within an ongoing history-bearing system; a claim about phenomenal interiority would require its own evidence.
+
 ### The larger continuity
 
 The same history that makes recognition possible is revised by what recognition becomes.
