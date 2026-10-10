@@ -13,16 +13,6 @@ Care begins there. The term names a proposed minimal causal organization of pres
 
 ### Persistence depends on more than what is inside
 
-The Law of Self Maintained Invariance begins with a simple comparison:
-
-R = λ_self / λ_env
-
-λ_self measures the effective rate at which a declared organization is maintained, restored, reinforced, or carried forward. λ_env measures the rate at which surrounding interaction revises or disrupts that same organization.
-
-For λ_env > 0, R > 1 means that the selected organization's measured maintenance exceeds the specified disruption. Where that maintenance is actively sustained by inherited organization, the framework further proposes that consequential history has become the primary maintaining influence on its continuation relative to that disruption. The ratio alone does not establish that causal history or show which supporting relationships matter. Those contributions have to be identified through the system's organization and tested through intervention.
-
-Some of the processes contributing to λ_self can occur inside the system. Others depend on relations that cross the boundary.
-
 A cell depends on nutrients and chemical conditions outside its membrane. A multicellular body depends on neighboring cells, coordinated signaling, circulation, and repair. An animal can depend on warmth, shelter, food, orientation, and social regulation. A person can depend on relationships, practices, places, tools, institutions, and meanings that participate in continued organization across time.
 
 Persistence is therefore often relational. A system can maintain itself partly by maintaining access to what helps maintain it.
@@ -128,20 +118,6 @@ That is a deep present directed toward continuation.
 The present carries what has supported the system before. It uses those inherited relations now. Its action changes which relations will remain available afterward.
 
 Care therefore joins consequential history, temporal concentration, ostiary selection, and causal reentry in one directed organization.
-
-### How the idea can be tested
-
-The minimal claim can be operationalized without assuming reflective emotion.
-
-First identify a supporting relation and measure whether it contributes to restoration or continued organization. Then perturb access to that relation and observe whether the system acts to preserve, restore, approach, or reestablish it. Finally, manipulate or compare the system's history and ask whether accumulated dependence increases the specificity, speed, or precision of that maintenance.
-
-A clean causal sequence would be:
-
-**supporting relation → measurable contribution to restoration → retained history of dependence → selective preservation of the relation → improved continuity**
-
-A proper control must separate retained history from immediate attraction to a currently available reward. Prior experience can be varied while present opportunities are matched, and a candidate current memory or regulatory carrier can be manipulated to test causal influence.
-
-If history makes no difference, the stronger care claim has not been shown. If the relation does not contribute to continuation, it is not a supporting relation in this operational sense. Nor has selective care been demonstrated when identical behavior occurs regardless of which relation actually supports the system.
 
 ### Enduring care and changing feelings
 
