@@ -93,26 +93,6 @@ Recursive availability is a later or additional property: history already carrie
 
 A system could maintain a stable local boundary yet have little recursive access to its own internal activity. Another could integrate several levels of retained history in ways that alter future interpretation or behavior. The degree and character of that accessibility should be measured independently from the maintenance ratio.
 
-### A cross-scale experiment
-
-A useful comparison might begin with individually measured cellular recovery, then examine how coupling among those cells affects a collective tissue-level response. The cellular variables would be held as comparable as possible while the strength or arrangement of coupling is manipulated.
-
-Measurements should identify whether the resulting tissue has a response that persists beyond the individual components' immediate changes and whether perturbing one region changes recovery across the collective. An additional test can determine whether a retained tissue-level state alters the later response of its constituent cells.
-
-That last test matters for recursive organization. If the collective state changes local processing, the relationship is not merely upward aggregation from parts to whole. Feedback from the collective becomes a physically realized condition of the next local transition.
-
-A stronger comparison would also disrupt selected links among the cells while leaving their individual restoring capacities as similar as possible. If the collective response loses its stability or selectivity even though the cells still recover individually, coupling is doing identifiable causal work. Tests should then ask whether disrupting a proposed collective boundary changes its selective response to outside perturbations while leaving some local functions intact. That distinguishes a maintained higher-level interface from coordination observed only inside the system. If the same collective outcome can be predicted from independent cellular recovery alone, the proposed larger-scale organization has not yet shown that it adds an explanatory level.
-
-The relevant analysis would compare the predictive value of the larger-scale ratio with the cellular ratios, coupling strength, geometry, and alternative descriptions. A distinct collective R★ would require a separately measured boundary transition rather than being inferred from the appearance of larger correlations. Measurements at both local and collective scales should also determine whether their transitions occur separately, overlap, or influence each other's onset. That comparison can reveal a newly maintained collective process rather than merely redescribe its already organized components.
-
-### What the scaling hypothesis predicts
-
-The proposal anticipates that some increases in organized coupling will be accompanied by longer-lived collective states and more extensive causal integration. It further predicts that retained collective activity can begin conditioning local interactions when recursive feedback becomes effective.
-
-Those predictions are not guaranteed for every coupled network. Strong coupling can also produce instability, excessive uniformity, or destructive feedback. Critical slowing, growing correlation length, or expanding temporal integration may occur near some dynamical transitions but need not accompany every possible R★.
-
-The hypothesis gains strength when specified measurements predict the emergence of a coherent collective organization in new data, rather than merely giving familiar names to a system's already observed behavior.
-
 ### One form, distinct physical achievements
 
 The cross-scale account proposes continuity in explanatory form, not the replacement of biological detail by one number. Cells, tissues, organs, and larger systems can maintain different organizational variables through different mechanisms.
