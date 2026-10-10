@@ -93,6 +93,26 @@ Recursive availability is a later or additional property: history already carrie
 
 A system could maintain a stable local boundary yet have little recursive access to its own internal activity. Another could integrate several levels of retained history in ways that alter future interpretation or behavior. The degree and character of that accessibility should be measured independently from the maintenance ratio.
 
+### A test from cells to tissue
+
+The formation of a larger organization can be investigated by beginning with cells that already maintain their individual condition and then asking what changes when those cells form a coupled collective.
+
+First, individual cells' recovery after a standard disturbance would be measured. Next, comparable cells would be arranged so that their ability to influence one another varies. The resulting collective response would be observed while the separate restoring capacities of the cells remain as comparable as possible. A tissue may coordinate recovery across an entire region even while each cell responds locally. That coordinated recovery is a candidate achievement of the larger organization.
+
+The next experiment would interfere with selected connections between the cells while preserving their individual functions as much as possible. If the collective response loses its stability or selectivity while the cells still recover individually, their coupling is doing identifiable causal work. A separate disturbance at the proposed tissue interface could reveal whether the collective regulates encounters with its surroundings through a maintained boundary.
+
+There is also a direction of influence back toward the parts. A collective state formed earlier may alter what a cell does when it later receives a stimulus. Changing a retained tissue-level condition and examining the next local response would test whether the collective has become part of the conditions governing its components. The whole would then be maintained through its parts while also influencing what its parts do next.
+
+These comparisons would distinguish a maintained collective process from a collection of cells that merely happen to respond together. The larger interface would have to be identified through its own continuing, selective interactions.
+
+### What the larger organization should predict
+
+A new organizational scale should have consequences measurable at that scale: a collective response that persists, recovery after a disturbance, history retained in the collective arrangement, and feedback through which that history changes later local activity. Its maintaining and disrupting processes would be measured for the collective organization itself. Individual cellular measurements cannot simply be added to produce a collective maintenance ratio.
+
+The key comparison is predictive. Does measuring the tissue's retained collective state improve predictions beyond individual cell states, coupling strength, and geometry? Does disrupting the coupling remove that advantage? Can the boundary-forming transition be identified in one set of observations and then predicted in another?
+
+The answer may differ across tissues and conditions. Strong coupling can produce effective integration, unstable oscillations, or an inflexible response. The framework concerns maintained organization with selective causal effects, a more demanding condition than simply moving together. A measured collective transition would establish an additional level of physical organization; its identification with phenomenal experience remains a further theoretical question.
+
 ### One form, distinct physical achievements
 
 The cross-scale account proposes continuity in explanatory form, not the replacement of biological detail by one number. Cells, tissues, organs, and larger systems can maintain different organizational variables through different mechanisms.
