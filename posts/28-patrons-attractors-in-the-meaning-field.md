@@ -103,16 +103,6 @@ The patron's return and the formation of a new whole are different transitions. 
 
 The process is recursive. Meaning built by earlier encounters shapes a new recognition, and the new recognition changes the meaning available to future encounters.
 
-### Can patrons be tested?
-
-A patron can be operationalized prospectively rather than identified only after the fact.
-
-A study could first document recurrent symbolic patterns across an earlier observation period, using preregistered coding rather than selecting only memorable coincidences. Later encounters with those patterns could then be compared with matched novel patterns and equally familiar but less personally meaningful cues. The predictions would be faster recognition, broader recruitment of associated memory, greater stability of interpretation, and a higher probability of returning to the same relational organization later.
-
-History can also be manipulated. Repetition, emotional salience, contextual association, and retrieval practice can be varied independently. Their effects can be measured through recognition latency, associative breadth, return probability, persistence, and transfer to new contexts.
-
-The Porter Ratio can be applied only if the relevant symbolic organization and both rates are defined clearly. A high rate of return to a symbol is not automatically a high restoration rate for an organizational variable. The measurement would have to distinguish reactivation of retained structure from mere frequent exposure. λ_self would represent restoration or reactivation of that organization. λ_env would represent competing activity or contextual revision of the same organization. Whether the ratio predicts patron persistence better than simpler measures is an empirical question.
-
 ### A cue does not contain its entire history
 
 A small present cue can recruit much more organization than the information physically contained in the cue itself. A few notes identify a familiar melody because the remaining pattern is already supported by learned relationships. A photograph can evoke a place, but the remembered place and the emotions attached to it depend on the person's present organization.
