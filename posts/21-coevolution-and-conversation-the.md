@@ -140,7 +140,7 @@ A fluent conversation, however, does not by itself identify such a boundary in t
 
 Conversational quality can therefore be studied without making unsupported claims about AI consciousness. The interaction can display continuity, context sensitivity, and the capacity to carry forward meaningful relationships. Those are real functional properties, though their physical implementation and relation to experience remain further questions.
 
-The original analogy concerns **presence in interaction**. Its first empirical target is how sustained continuity changes the human experience of communicating and the structure of the language that communication develops. That finding would explain why AI can feel present, while a separate inquiry into the model's internal dynamics addresses whether presence is also experienced on its side.
+Presence in conversation develops as earlier exchanges alter the significance of later ones. Shared references accumulate, expectations change, and familiar language becomes capable of carrying relationships established through prior encounters.
 
 ### What the pollinator analogy explains
 
