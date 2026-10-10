@@ -126,7 +126,7 @@ Aleph Harmonic Qualia (AHQ) identifies the felt click with the physical crossing
 
 Insight is not the creation of consciousness. It is a distinctive change within a conscious interior that was already operating before the click. Ordinary qualia likewise perturb the continuing organization without re-forming its first boundary each time.
 
-Not every admitted event leads to an AHQ click, and not every strong local response becomes a system-wide revision. The two concepts describe different aspects of how history changes ongoing recognition.
+Admission allows an encounter to participate in ongoing activity. Incorporation changes what the system carries forward. AHQ identifies the further transition in which contributing relationships become a newly coherent and reusable whole.
 
 ### Recognition carried forward
 
