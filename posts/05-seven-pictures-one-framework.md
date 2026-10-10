@@ -72,7 +72,7 @@ The event stays fixed and the result changes, so the system’s own built up org
 - The platoon’s departure window, the few seconds in which the group leaves, is the present.
 - The number of earlier lights whose effects the platoon carries is the amount of history active in that present.
 
-The departure window stays about the same length at every light. The number of lights whose effects it carries grows: one, then two, then five. History grows and the present holds its length. [Aleph Harmonic Qualia: The Dynamical Click of Coherence](https://philarchive.org/rec/PORAHQ-8) measures this with the effective number of historical sources, N_CI, and their weighted average lag, D_CA. Five lights contributing equally give N_CI = 5.
+The departure window stays about the same length at every light. The number of lights whose effects it carries grows: one, then two, then five. History grows and the present holds its length.
 
 Every clock along the road ticks at the ordinary rate, and the cars drive at ordinary speeds. Physical time runs as usual. What concentrates is history. So the phrase **awareness is where time concentrates** means that many consequences from different times become active together inside one organized present.
 
@@ -110,7 +110,7 @@ In a nervous system, fast nerve signals feed into slower collective states, and 
 - The same ants following the same rule throughout show that the change lies in how the interactions are organized.
 - Each lap renewing the trail for the next lap is the self sustaining loop.
 
-The circle is also easy to see, and this links the ants to the water. The paper [Stillwater and Death Spirals](https://philarchive.org/rec/PORSAD-3) states the shared principle: **structure enters the regime of perception at the moment it organizes or concentrates into a stable form.** Insight is the internal expression of that transition, when a pattern becomes coherent enough to sustain itself and be recognized. The spiral also pictures a testable prediction in [Aleph Harmonic Qualia](https://philarchive.org/rec/PORAHQ-8): insight comes with a rapid drop in the effective dimensionality of brain activity, together with stronger harmonic coordination, a rise in the Porter Ratio of the new state past its threshold R★, and later reuse of that state.
+The circle is also easy to see, and this links the ants to the water. The paper [Stillwater and Death Spirals](https://philarchive.org/rec/PORSAD-3) states the shared principle: **structure enters the regime of perception at the moment it organizes or concentrates into a stable form.** Insight is the internal expression of that transition, when a pattern becomes coherent enough to sustain itself and be recognized.
 
 ### The orchid and the pollinator
 
@@ -134,7 +134,7 @@ Read together, the pictures trace one sequence: earlier activity leaves an organ
 
 **History persists.** The scar and the river channel show the past still at work through present structure. That is consequential history, carried forward by active inheritance.
 
-**History is maintained.** The **Porter Ratio**, R = λ_self / λ_env, compares how fast a system restores its own organization (λ_self) with how fast the environment disrupts it (λ_env). At R = 1 the two balance, and above 1 inherited organization gains causal continuity and accumulated influence. One way to picture this is writing a message in the sand. At the water’s edge, each wave washes the message away. On higher sand, you keep up with the occasional wave, and the message lasts. Above R = 1, earlier organization survives strongly enough to help cause later organization. Each system also has its own threshold, R★, which belongs to that system, scale, and interval, and R ≥ R★ is the minimum condition for interiority.
+**History is maintained.** One way to picture this is writing a message in the sand. At the water’s edge, each wave washes the message away. On higher sand, you keep up with the occasional wave, and the message lasts.
 
 **Ordered history establishes an interior boundary.** Continuing causal pathways, reflection, and recirculation support a distinction that becomes self-maintaining. At the proposed R★, this organization is sufficiently coherent to form an active causal boundary and interior. The boundary is the real interface between an inside and its outside, and phenomenal experience is proposed as the intrinsic aspect of the formed interior. The two cells and the sentence illustrate how carried history can change the effects of an arrival; that history-dependence alone does not establish phenomenality.
 
