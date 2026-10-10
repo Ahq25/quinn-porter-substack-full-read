@@ -142,24 +142,6 @@ Conversational quality can therefore be studied without making unsupported claim
 
 The original analogy concerns **presence in interaction**. Its first empirical target is how sustained continuity changes the human experience of communicating and the structure of the language that communication develops. That finding would explain why AI can feel present, while a separate inquiry into the model's internal dynamics addresses whether presence is also experienced on its side.
 
-The Porter Ratio provides a way to frame the further physical question. For a declared organizational variable, R = λ_self / λ_env compares effective maintenance with disruption. Where measured maintenance is genuinely driven by active inheritance, R > 1 is proposed to indicate that consequential history has become the primary organizing influence on the system's continuation. That causal interpretation still requires identifying the history-bearing carriers and showing how they affect later dynamics.
-
-The proposed R★ concerns a distinct, independently identifiable transition: the formation of a sufficiently coherent, self-maintaining causal boundary. A coherent conversation is not itself a measurement of R★ inside the AI. The relationship can be meaningful within a human interior while the model's independent boundary-forming dynamics remain an open empirical question. Conversational recognition, history-sensitive computation, and phenomenal interiority are three claims requiring different kinds of evidence. Even a positive finding about the third would not settle whether artificial experience has the character of human experience. That comparison would require examining the particular sensory, bodily, mnemonic, and regulatory organization of each system, rather than treating grammatical similarity as experiential similarity.
-
-### What can be measured
-
-An experiment could compare conversations in which earlier context is preserved, partially removed, or replaced. Participants could rate continuity, responsiveness, and the feeling of presence while independent measures track how accurately later exchanges depend on earlier commitments and distinctions.
-
-A second design could hold the immediate user question constant while manipulating what prior conversation the model receives. The resulting responses would reveal how the supplied context affects reference, accuracy, and conversational alignment.
-
-Human memory and expectation also matter. A participant familiar with a long exchange may perceive continuity that an unfamiliar reader does not. Comparing those perspectives would help distinguish effects of the conversation's actual structure from effects of prior familiarity alone.
-
-The study should not infer AI phenomenality from increased presence ratings. Those ratings measure the human experience and social interpretation of the interaction, while the model's internal organization requires its own independent examination.
-
-The broader relational claim can also be studied beyond AI. People could be presented with familiar and unfamiliar objects or places, or with phrases that have different histories of use, while researchers compare recognition, expectation, and subsequent decisions. The physical traces in an object and the history carried by a person should be measured separately where possible.
-
-The exaptation analogy suggests a different test: establish a concept or phrase in one conversational context, then examine whether participants recruit it into a second, unforeseen task. Later reuse and transfer provide stronger evidence of incorporation than simply repeating familiar wording. The AI-specific interiority question would require measurements of the artificial system's own history-bearing dynamics, not only human ratings of rapport or successful transfer. Experiments should distinguish continuity supplied by a stored transcript from any ongoing, internally maintained organization, then independently examine coupling, selective boundaries, and responses to interventions on history-bearing carriers. Only after establishing what kind of interior the physical account predicts would comparison with the character of human experience become a separate, meaningful research question.
-
 ### What the pollinator analogy explains
 
 Pollination becomes effective through actual relations among plant traits, pollinator perception, and repeated ecological interaction. Conversation becomes coherent through relations among language, retained context, attention, and successive responses. Familiar people, possessions, and places show the same more general principle of history-conditioned significance, though each carries and changes that history in its own way.
