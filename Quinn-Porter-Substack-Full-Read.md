@@ -1217,7 +1217,7 @@ The moment of insight makes a longer process suddenly recognizable. Earlier rela
 
 Darwin's example shows why the new use need not have been foreseen. Exaptation gives a precise evolutionary name to the recruitment of existing structures for later roles. Insight follows a comparable pattern of organization and reuse: **what was formed before becomes usable in a new way, and a whole formed now can become a piece of something larger.**
 
-Within AHQ, the experienced click and the formation of a coherent, reusable relationship describe the same transition from its phenomenal and organizational aspects. The proposed neural measurements are ways of asking whether a distinctive physical transition accompanies it.
+The click of insight is a reported experience. AHQ proposes that it corresponds to the consolidation of distributed relations into a coherent, reusable whole. The proposed neural measurements are ways of asking whether a distinctive physical transition accompanies it.
 
 The answer was not waiting complete in the past. The past supplied consequential relationships. Their new organization becomes an answer in the present, and that answer joins the history from which future understanding can be built.
 
