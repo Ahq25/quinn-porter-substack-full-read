@@ -76,7 +76,7 @@ The decisive event is more than adding the word “bag” to an unchanged questi
 
 This is the **collapse of separation** described by the paper. A maintained interpretation or unresolved relation loses the organization that allowed it to stand apart. A different, more comprehensive relation becomes accessible.
 
-Two changes belong together, but they are not identical. **The old separation loses its hold; the new relationship becomes coherent enough to use.** An interpretation can fail without a better one appearing immediately. And a new explanation can become available gradually rather than in one dramatic instant. The striking click occurs when the change is experienced as one recognizable crossing.
+A completed insight joins two organizational changes: the previously maintained separation loses its role, and a newly integrated relationship becomes available for use. An interpretation can fail without a better one appearing immediately. And a new explanation can become available gradually rather than in one dramatic instant. The striking click occurs when the change is experienced as one recognizable crossing.
 
 The road example also shows why a click can feel like both surprise and recognition. The physical object and many of its features were already present; the new organization of what was seen makes those features intelligible together. What feels sudden is the change in the available whole.
 
