@@ -103,6 +103,18 @@ The patron's return and the formation of a new whole are different transitions. 
 
 The process is recursive. Meaning built by earlier encounters shapes a new recognition, and the new recognition changes the meaning available to future encounters.
 
+### How to tell whether a patron has formed
+
+A recurring song, number, image, or phrase becomes a candidate patron when earlier encounters have begun to change the consequences of later ones. The important distinction is between a meaningful history that continues to act and simple familiarity from repeated exposure.
+
+An investigation could begin by recording which symbolic patterns recur during an initial period, before examining what happens at later encounters. Those patterns could then be presented alongside new cues and equally familiar cues with fewer personal associations. The comparisons would examine how quickly each is recognized, how many related memories it recruits, which interpretations follow, and whether the same organized meaning returns in a new setting.
+
+A second comparison could change the earlier history deliberately. A phrase might become associated with a particular experience, practiced in several contexts, or linked to an emotionally significant event. Researchers could then determine whether later attention, interpretation, and recall change accordingly. The immediate cue might remain the same while the relationships available to receive it become different.
+
+The stronger test would identify a specific retained association that carries the effect. If changing that association alters later recognition, the earlier history is contributing causally to the present response. This makes the patron more than a label for something noticed repeatedly.
+
+The distinction from insight can also be investigated. A patron may provide an established route for familiar meaning to return. An insight may recruit that route into a new relationship. Repeated recognition and the formation of a newly reusable whole are related developments with different observable outcomes.
+
 ### A cue does not contain its entire history
 
 A small present cue can recruit much more organization than the information physically contained in the cue itself. A few notes identify a familiar melody because the remaining pattern is already supported by learned relationships. A photograph can evoke a place, but the remembered place and the emotions attached to it depend on the person's present organization.
