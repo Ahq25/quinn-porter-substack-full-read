@@ -88,16 +88,6 @@ The account distinguishes the formation of a phenomenal interior from the richer
 
 This also explains why momentary qualia and the ongoing conscious interior should not be confused. Particular experiences perturb a continuing organization; they can change what it carries forward without creating the entire organized interior again.
 
-### What could be measured
-
-The physical parts of the proposal are testable separately. A controlled prehistory can be imposed before an event, and current carriers of its effects can be identified. A putative gate can then be challenged with matched input to determine whether its response depends on those carriers.
-
-The strongest history claim is causal rather than merely correlational: changing a retained carrier should change a later outcome in the predicted direction. Matching selected current observables while manipulating a history carrier does not imply that the complete physical states are identical. The carrier is part of the current state.
-
-Trajectory convergence can be measured by determining whether different starting conditions enter the same later region. Temporal concentration requires a declared method for attributing historical contributions and an independent definition of the temporal window being studied. Reentry can be tested by altering a larger state and checking whether that intervention changes the subsequent local transition rules.
-
-The identity between these processes and lived awareness remains a further physicalist hypothesis; it is not an equation derived solely from measurements of retention. The physical tests determine whether the proposed causal architecture exists and how it changes with the experiential condition being investigated.
-
 ### A continuing present
 
 A present is not an isolated instant receiving information from a vanished past. It is an event in a continuing system, formed by physical consequences already present and able to alter the conditions of what comes next.
