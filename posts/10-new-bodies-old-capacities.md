@@ -56,18 +56,6 @@ These observations provide evidence of cellular reorganization and new collectiv
 
 Nor does a change toward expression of an evolutionarily older biological program mean that a cell has literally moved backward in evolutionary time. A gene's ancestry and its current activity are distinct. Old machinery can be recruited into a newly organized context.
 
-### A history-by-configuration experiment
-
-The proposed test treats **cellular prehistory** and **collective configuration** as two factors whose effects can be measured separately.
-
-Prehistory refers to conditions established before assembly, such as exposure to a controlled mechanical stimulus that changes cytoskeletal orientation. Configuration refers to the arrangement, geometry, and coupling of the cells after they form the new body.
-
-A valid experiment would create at least two controlled prehistories and then examine each under multiple body configurations. The outcome should be measured with the same stimulus and procedure for all groups. Repeated preparations would help distinguish a reproducible effect from differences arising during assembly.
-
-The crucial prediction is an interaction. A particular retained prehistory may alter body-level behavior strongly in one configuration but hardly at all in another. That result would show that the older state matters through the way the new body organizes it.
-
-The experiment becomes stronger if the retained carrier is identified and intervened upon directly. Measuring a structural change in the cytoskeleton is a start. Disrupting or restoring that state, while monitoring the collective response, can establish whether it contributes causally rather than merely accompanying the outcome.
-
 ### The acoustic-response case
 
 The reported acoustic responsiveness of basal Xenobots supplies a concrete candidate behavior for such a test. Suppose a group of cells receives directional mechanical conditioning before being assembled into new bodies. That conditioning may leave a persistent difference in cytoskeletal arrangement or mechanosensory responsiveness.
