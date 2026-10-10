@@ -128,16 +128,6 @@ Insight is not the creation of consciousness. It is a distinctive change within 
 
 Not every admitted event leads to an AHQ click, and not every strong local response becomes a system-wide revision. The two concepts describe different aspects of how history changes ongoing recognition.
 
-### What could be tested
-
-The ostiary account suggests comparing matched inputs delivered after different controlled histories. The experiment should identify the present carrier of the historical difference and measure how that carrier changes admission, processing, or later response.
-
-A further test could manipulate the extent of propagation. Does an encounter that changes several connected regulatory regions produce a more durable change in later recognition than an encounter confined to one local pathway? The answer depends on the actual network and should be measured rather than assumed.
-
-For neural systems, one can separately examine local sensory gating, recurrent response, later recall, and the degree to which a recognized relation becomes available for further recognition. A proposed AHQ event would require the independent joint measurements specified by the insight hypothesis, not simply a large behavioral change.
-
-The physicalist identity between coherent causal interiority and phenomenal experience remains the wider premise. These experiments address the boundary's selective operations and the growth of recursive access, providing possible ways to test the causal structures involved.
-
 ### Recognition carried forward
 
 The ostiary principle gives a continuous causal account of how encounters can change the conditions of future encounters. Ordered dynamics generate a boundary, inherited organization governs selective admission, and incorporation can revise the organization that later receives new input.
