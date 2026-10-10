@@ -24,11 +24,7 @@ Awareness Where Time Concentrates uses four ideas that recur across these papers
 
 **Active inheritance** is the continued causal participation of earlier organization within later organization. The carrier can change while the consequence continues. A history can pass from a chemical signal to a gene to a protein to a tissue, and the chain of causes holds the whole way.
 
-The **Porter balance** is the persistence condition. It compares how fast a system restores its own organization (λ_self) with how fast the environment disrupts it (λ_env), written
-
-R = λ_self / λ_env
-
-At R = 1 the two rates balance. When R reaches each system’s own threshold, R★, maintained organization becomes stable enough to take part coherently in what follows.
+The **Porter balance** is the persistence condition. It compares how fast a system restores its own organization with how fast the environment disrupts it.
 
 The **ostiary condition** holds when inherited organization becomes part of the rule by which new events are selectively admitted, transformed, and incorporated. An ostiary is a doorkeeper. Under this condition, carried history becomes the gate on new arrivals.
 
@@ -91,20 +87,6 @@ The present, in the analogy, is the departure window of a platoon: the few secon
 Meanwhile, the number of earlier lights whose consequences that window carries keeps growing. One light at the first intersection. Two at the second. Five at the fifth.
 
 So the amount of distinct history active in the present grows, and the length of the present stays roughly fixed.
-
-[Aleph Harmonic Qualia: The Dynamical Click of Coherence](https://philarchive.org/rec/PORAHQ-8) gives two measures that fit this picture. Give each earlier source a share p of the effect and a lag τ, how long ago it acted. **Effective historical multiplicity** is the effective number of distinct sources:
-
-N_CI = exp(−Σ p ln p)
-
-**Causal ancestry depth** is the share weighted average lag:
-
-D_CA = Σ p τ
-
-Suppose the five lights are one minute apart and each one contributes equally to the platoon’s timing. Then N_CI = 5, and
-
-D_CA = (1 + 2 + 3 + 4 + 5) / 5 = 3 minutes
-
-The departure window still lasts a few seconds. Both numbers grow as the platoon passes more lights.
 
 ### What stays the same: physical time
 
