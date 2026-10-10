@@ -6,4 +6,4 @@ Read that file for the full work. It contains the profile, the About page, and a
 
 ## About
 
-The framework rests on one premise: experience is the interior of the same process physics describes from outside. Everything downstream — the Porter Ratio, consequential history, the coherence threshold — follows deductively from that premise. The premise itself is stipulated, not derived; it is the frame within which the framework operates, not a conclusion the framework proves.
+The work begins with a single premise: **experience is the interior of the same physical process that physics describes from outside.** Direct experience provides the starting point, particularly the moment when previously separate relationships become intelligible as one coherent whole. From this premise, the framework develops a connected account of consequential history, active inheritance, the Porter Ratio, coherence thresholds, and the formation of self-maintaining interiors. Each follows within the larger argument through the causal relationships established along the way.
