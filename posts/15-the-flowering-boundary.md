@@ -78,7 +78,7 @@ The tissue may have moved away from the active meristem. The regulatory conditio
 
 This is a physical instance of consequential history. Earlier developmental organization remains effective through the arrangement and state of material that was produced under its influence.
 
-The record is not perfect. Later growth can modify earlier structures, and similar final forms may arise by different developmental routes. The hypothesis gains value when the spatial anatomy can be compared with independent time-resolved measurements, rather than treated as an unambiguous transcript of the past.
+Anatomy carries a history of development that later growth can modify. Similar final forms may arise by different developmental routes. Recovering the timing of that history therefore requires the spatial record to be related to independent observations of developmental change.
 
 ### Commitment, restoration, and hysteresis
 
