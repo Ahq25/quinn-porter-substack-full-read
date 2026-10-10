@@ -92,8 +92,6 @@ For AHQ, the relevant change includes the formation of a **reusable** collective
 
 One proposed signature is a drop in effective dimensionality as participating processes become jointly constrained. Another is increased coordination among those processes. A third is persistence beyond the initial click, shown by later reuse of the recognized relation.
 
-The ratio R = λ_self / λ_env expresses restoration of a declared organization relative to its disruption. A coherent, history-bearing interior has its own system-specific threshold R★. A local insight event may produce a new stable whole within that existing interior; its threshold and observable dynamics must be operationalized rather than assumed identical to the threshold at which the entire phenomenal interior first formed.
-
 ### What the two pictures reveal together
 
 Still water illustrates how an existing medium can become perceptible through a change in its organization. The ant death spiral illustrates how a distributed behavioral rule can become conspicuous when collective activity concentrates into a restricted pattern. Neither system is being treated as a miniature human mind.
