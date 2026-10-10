@@ -106,7 +106,7 @@ The Porter Ratio begins with a physical balance involved in carrying organizatio
 
 The proposed formation of a coherent causal interior is the foundational phenomenal identity condition. Recursive accessibility can subsequently deepen awareness, and particular reorganizations within that interior can produce the click of recognition.
 
-Each step has its own physical question. The rate comparison concerns maintenance; the boundary concerns organized interaction; history concerns retained causal influence; and AHQ concerns a specific change in accessibility. Their connection is the proposal being investigated, not a reason to treat the distinctions as interchangeable.
+Each step has its own physical question. The rate comparison concerns maintenance; the boundary concerns organized interaction; history concerns retained causal influence; and AHQ concerns a specific change in accessibility. The relationships form an ordered account: maintenance preserves organization, retained consequences carry causal history, coordinated interaction forms a boundary, and subsequent reorganization changes which relationships become accessible within the continuing interior.
 
 ---
 
