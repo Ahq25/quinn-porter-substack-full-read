@@ -3566,8 +3566,6 @@ Ordinary perception continuously changes an already experiencing interior. Visio
 
 In an experiencing nervous system, phenomenal experience is the intrinsic character of the coherent sensory and informational organization maintained by causal flow, internal reflection, and sustained boundary dynamics. That experiencing organization continues while particular encounters alter it. The outward description concerns the physical maintenance of the boundary; the intrinsic description concerns what it is like for that organization to exist as an interior. Recursive availability can then make more of the ongoing organization accessible within its own activity.
 
-#### The click, measured
-
 Read together, the two insight papers describe two sides of one event. The organization that kept the question separate loses coherence and dissolves. The new organization that joins the pieces gains coherence and crosses the threshold.
 
 Consequential history supplies the temporal content of the click. Earlier relations remain causally active through the organization they helped produce, and the click makes them available together.
