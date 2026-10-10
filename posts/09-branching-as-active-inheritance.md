@@ -50,6 +50,18 @@ The shape seen from outside and the network's internal connectivity are therefor
 
 Changing dimension does not remove consequential history. It changes the paths along which earlier structure can influence later activity. The central causal question survives the change of geometry, but the quantities needed to describe the actual organization may change.
 
+### Measuring what a branching network keeps
+
+A branching pattern gives the past a visible shape. To determine how actively that shape is maintained, one feature must first be selected: a particular channel route, the connections between branches, or the ability of a network to recover after a disturbance. The measurement concerns the continued organization of that chosen feature, rather than the general resemblance between branching pictures.
+
+Two processes can then be compared. One preserves or restores the selected arrangement; the other changes, disperses, or disrupts it. The Porter Ratio expresses the relative strength of those processes over the same stretch of time. Where restoration is stronger, the selected organization has a greater capacity to survive the specified disturbance. Whether earlier structure actually guides later activity is a further physical question.
+
+Consider a root network after a period of disturbed soil conditions. Earlier growth has established connections. New growth may reinforce those routes, recover some, or take different paths. Observing what was maintained, how quickly a lost route returned, and which older structures guided its return would distinguish continued organization from a newly similar shape.
+
+A river poses the same question through a different mechanism. An old channel can guide later water because its banks and slope remain. That inherited constraint can have consequences without involving an internal repair process. The distinction between passive retention and active maintenance must therefore be established in each kind of network.
+
+A useful comparison would measure maintaining and disrupting influences before scoring which branches survive or return. It would compare their relative balance with simpler explanations such as channel width, existing geometry, or either influence considered alone. A predictive advantage in new observations would give the ratio significance beyond a descriptive label. A further claim about an active causal boundary would require evidence of integrated, selective interactions sustaining that boundary, in addition to the rate comparison.
+
 ### A controlled change of history
 
 One particularly revealing test would compare networks with similar current coarse geometry but different past perturbations. Earlier stress might have changed the internal capacities of individual paths, local growth tendencies, or conditions at particular junctions. Those differences can exist even when a simplified map looks nearly identical.
