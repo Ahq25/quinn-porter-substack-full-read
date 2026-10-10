@@ -72,22 +72,6 @@ The larger framework proposes that a system capable of maintaining an organized 
 
 The click does not need to create a second self or a new conscious being. **A new coherent organization has formed within an already continuing experience.**
 
-### What a physical click might look like
-
-The accompanying research paper, *[Aleph Harmonic Qualia: The Dynamical Click of Coherence](https://philarchive.org/rec/PORAHQ-8)*, proposes ways to test whether the felt change corresponds to a specific kind of reorganization in neural activity. The measurements are technical, but their purposes are straightforward.
-
-Before insight, the relevant activity may be spread across many partially independent patterns. At the click, those patterns may become more tightly constrained by a smaller number of collective relationships. Researchers can ask whether the activity shows **lower effective dimensionality** after a reported insight: fewer independent ways for the participating population to vary, not fewer neurons or fewer dimensions of physical space.
-
-They can also ask whether the relationships among participating rhythms become more coordinated. This is the **harmonic coordination** part of AHQ. Coordination means a more consistent relationship among activities, not that everything fires identically or simultaneously. Greater coordination does not mathematically guarantee lower effective dimensionality; they are distinct measurements whose convergence is proposed for testing.
-
-The newly organized relation must also persist enough to do something later. The **Porter Ratio** compares a declared organization's effective restoration or maintenance with the processes that disrupt it. In the AHQ proposal, the new whole is expected to reach a system-specific, testable stability threshold rather than disappear immediately. That threshold cannot be inferred simply by naming it. Its value and predictive usefulness must be established for the system being measured.
-
-Finally, researchers can ask whether the new whole is actually reused. Can the person recall the relationship later, transfer it to another problem, make a prediction with it, or use it to guide a new decision? A brief synchronized event without later consequence would not satisfy this account of an incorporated insight.
-
-The proposal therefore joins four features: **a reduction in effective degrees of freedom, stronger coordination, sufficient persistence, and later reuse**. It also asks how much earlier history contributed to the event. A click may last an instant while drawing on learning that reaches back years. The present organization can carry consequences from many times at once.
-
-These are testable predictions, not measurements already shown to occur together in every insight. A decrease in dimensionality, a burst of coordination, or a stable state could each occur for reasons unrelated to understanding. None proves consciousness or an AHQ event by itself.
-
 ### The approach, the click, and what follows
 
 An insight often begins with a cue: a question, an observation, or a mismatch that calls for explanation. Relevant memories and relations are recruited. They constrain one another as the problem develops. This is an active process, not a passive queue of finished answers.
