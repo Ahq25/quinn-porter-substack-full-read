@@ -94,14 +94,6 @@ One proposed signature is a drop in effective dimensionality as participating pr
 
 The ratio R = λ_self / λ_env expresses restoration of a declared organization relative to its disruption. A coherent, history-bearing interior has its own system-specific threshold R★. A local insight event may produce a new stable whole within that existing interior; its threshold and observable dynamics must be operationalized rather than assumed identical to the threshold at which the entire phenomenal interior first formed.
 
-### Testing the analogy rather than merely repeating it
-
-The analogies motivate measurable questions. Experiments can compare neural or cognitive dynamics immediately before, during, and after independently identified insight events. Effective dimensionality, cross-process coordination, stability of the resulting pattern, and subsequent reuse can be measured alongside behavior and reported experience.
-
-A strong test would ask whether the combination predicts insight better than simpler measures such as task accuracy, activity level, or synchronization alone. It would also look for counterexamples: dimensional contraction without insight, and insight without the predicted contraction.
-
-Those cases matter because the central proposal concerns a particular organizational transition. The theory becomes clearer when its expected signature can fail.
-
 ### What the two pictures reveal together
 
 Still water illustrates how an existing medium can become perceptible through a change in its organization. The ant death spiral illustrates how a distributed behavioral rule can become conspicuous when collective activity concentrates into a restricted pattern. Neither system is being treated as a miniature human mind.
