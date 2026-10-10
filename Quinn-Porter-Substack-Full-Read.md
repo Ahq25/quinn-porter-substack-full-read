@@ -85,6 +85,8 @@ The synchronization target is a public Substack that reads naturally as a public
 
 ## About
 
+The work begins with a single premise: **experience is the interior of the same physical process that physics describes from outside.** Direct experience provides the starting point, particularly the moment when previously separate relationships become intelligible as one coherent whole. From this premise, the framework develops a connected account of consequential history, active inheritance, the Porter Ratio, coherence thresholds, and the formation of self-maintaining interiors. Each follows within the larger argument through the causal relationships established along the way.
+
 Every continuing organization carries consequences of what happened before. Flowing water leaves a channel that guides later flows. Living tissue repairs and regulates itself through processes shaped by earlier activity. A familiar face becomes recognizable because past encounters still influence present perception. In each case, history matters through the organization that carries its consequences forward.
 
 This publication develops a physical account of how such consequences contribute to persistence, interiority, awareness, and understanding. **Consequential history** names the past that remains causally active. **Active inheritance** names its continued participation as organization changes. Where interacting processes establish a new self-maintaining whole, the resulting organization can sustain relationships and exercise capabilities its parts did not have separately. Such thresholds can be nested, with several levels active together.
