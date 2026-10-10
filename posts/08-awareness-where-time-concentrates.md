@@ -82,7 +82,7 @@ The paper states its identity hypothesis as follows:
 
 **Awareness is the lived availability of consequential history when temporally distributed relations become jointly organized within an active present and that present remains causally involved in producing its successor.**
 
-This sentence connects the physical side of the proposal to its experiential side. Consequential history supplies inherited organization. Temporal concentration describes the joint causal availability of consequences from different times. Causal reentry makes the present an active contributor to what follows. Recursive availability concerns how much of that ongoing organization becomes usable within the process that carries it.
+The causal progression follows in stages: retained organization supplies consequential history; temporal concentration makes consequences from different times jointly effective; causal reentry allows the present organization to influence its own continuation. Recursive availability concerns how much of that ongoing organization becomes usable within the process that carries it.
 
 The account distinguishes the formation of a phenomenal interior from the richer awareness that may develop through recursive access. A coherent boundary is proposed to establish the intrinsic condition of experience. Further organization determines how much history becomes available in that experience and how deeply it can shape itself.
 
