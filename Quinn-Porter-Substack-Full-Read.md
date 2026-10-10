@@ -1211,6 +1211,18 @@ The research proposal makes a definite experimental prediction: reported insight
 
 Coherence by itself is not the same as a useful discovery. An ant death spiral can be tightly organized while trapping the ants in a destructive loop. A recognizable insight must also be evaluated by what it reveals and whether it can be used. The claim concerns the experienced formation of a reusable relationship, not a guarantee that every compelling realization is true.
 
+### What the physical click would have to show
+
+The click of insight is a recognizable experience that can be reported while a problem is being solved. AHQ offers a further physical hypothesis: near that moment, relationships that had been active separately become organized into a collective pattern that can endure and be used again. The proposed difference concerns how participating activity changes before, during, and after the click.
+
+Before an answer becomes available, several partly independent patterns may be contributing: an earlier attempt, a remembered clue, an unfinished comparison, or an expectation about what could fit. The proposed change gathers this activity into fewer effectively independent patterns. Neural recordings could test how many independent ways participating activity varies before and after a reported insight. This is a change in collective organization rather than a change in the number of physical dimensions or cells.
+
+A second question concerns coordination. Participating processes may develop more consistent timing relationships without becoming identical. Increased coordination and reduced independent variation are separate observations; the AHQ hypothesis predicts that they will appear together around insight more consistently than around ordinary shifts in attention.
+
+A third question concerns what survives the moment. A passing episode of coordination and an understanding that can be recalled tomorrow have different consequences. The proposed new relation must persist enough to change later thought. It can be examined through recall, use on another problem, or recognition of the relationship in a new setting. This is how a new whole becomes part of consequential history.
+
+The decisive test would follow problem-solving attempts through the period before the click, its reported arrival, and later use. The same measurements would accompany gradual solutions, mistaken answers that feel convincing, and moments of strong coordination without insight. If the combination of reduced independent variation, stronger coordination, persistence, and later reuse distinguishes the click more reliably than simpler measurements, it would support the proposed explanation. Clear insights without that combination, or that combination regularly occurring without insight, would challenge it. The reported experience and the proposed physical signature remain distinct kinds of evidence.
+
 ### What the click reveals
 
 The moment of insight makes a longer process suddenly recognizable. Earlier relationships have been shaping the present, but their combined meaning was not yet available. At the click, they form a coherent whole that can now participate in later thought.
@@ -1524,6 +1536,18 @@ The shape seen from outside and the network's internal connectivity are therefor
 
 Changing dimension does not remove consequential history. It changes the paths along which earlier structure can influence later activity. The central causal question survives the change of geometry, but the quantities needed to describe the actual organization may change.
 
+### Measuring what a branching network keeps
+
+A branching pattern gives the past a visible shape. To determine how actively that shape is maintained, one feature must first be selected: a particular channel route, the connections between branches, or the ability of a network to recover after a disturbance. The measurement concerns the continued organization of that chosen feature, rather than the general resemblance between branching pictures.
+
+Two processes can then be compared. One preserves or restores the selected arrangement; the other changes, disperses, or disrupts it. The Porter Ratio expresses the relative strength of those processes over the same stretch of time. Where restoration is stronger, the selected organization has a greater capacity to survive the specified disturbance. Whether earlier structure actually guides later activity is a further physical question.
+
+Consider a root network after a period of disturbed soil conditions. Earlier growth has established connections. New growth may reinforce those routes, recover some, or take different paths. Observing what was maintained, how quickly a lost route returned, and which older structures guided its return would distinguish continued organization from a newly similar shape.
+
+A river poses the same question through a different mechanism. An old channel can guide later water because its banks and slope remain. That inherited constraint can have consequences without involving an internal repair process. The distinction between passive retention and active maintenance must therefore be established in each kind of network.
+
+A useful comparison would measure maintaining and disrupting influences before scoring which branches survive or return. It would compare their relative balance with simpler explanations such as channel width, existing geometry, or either influence considered alone. A predictive advantage in new observations would give the ratio significance beyond a descriptive label. A further claim about an active causal boundary would require evidence of integrated, selective interactions sustaining that boundary, in addition to the rate comparison.
+
 ### A controlled change of history
 
 One particularly revealing test would compare networks with similar current coarse geometry but different past perturbations. Earlier stress might have changed the internal capacities of individual paths, local growth tendencies, or conditions at particular junctions. Those differences can exist even when a simplified map looks nearly identical.
@@ -1626,6 +1650,18 @@ Bodies with a configuration that preserves and couples the directionally conditi
 A clear result would separate several possibilities. If conditioning has no surviving effect after assembly, the proposed carrier was not retained under those conditions. If conditioning changes the response regardless of body shape, the history matters but may not interact strongly with geometry. If conditioning changes movement only in configurations that preserve a particular relation among cells, the experiment supports the proposed history-by-configuration interaction.
 
 In every case the important issue is causal interpretation. The experiment is a proposed design, not an already demonstrated effect of preconditioning on Xenobot acoustics.
+
+### Separating inherited capacity from collective arrangement
+
+The acoustic-response case raises a question that can be investigated directly: how much of a new body's behavior comes from conditions carried by its cells, and how much depends on the way those cells have been assembled?
+
+One group of cells could receive a controlled mechanical preparation before assembly, while another receives a different preparation. Cells from each group would then be assembled into more than one carefully specified arrangement. Each new body would receive the same test stimulus, and its movement or other response would be measured by the same procedure. Repeated preparations would make it possible to distinguish systematic effects from variation during assembly.
+
+The revealing result would be an interaction between the earlier cellular condition and the later body shape. Suppose the preparation changes collective movement strongly in one arrangement but has little effect in another. That would indicate that an inherited condition becomes effective through a particular new configuration. If the response follows body arrangement regardless of preparation, the effect would lie mainly in the collective organization. If the response follows preparation across arrangements, the earlier cellular condition would have a different, more direct influence.
+
+The carrier of that history could also be investigated. Cytoskeletal orientation, gene regulation, membrane condition, and cell-to-cell coupling offer different possibilities. Identifying a retained change and deliberately altering it after assembly could determine whether it is causally involved in the later response.
+
+This is a proposed experimental design. Existing work on Xenobots and Anthrobots motivates the comparison; the particular effect of controlled cellular preparation would have to be demonstrated by the experiment itself.
 
 ### The deep present of a newly formed organism
 
