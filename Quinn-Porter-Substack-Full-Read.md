@@ -1217,7 +1217,7 @@ The moment of insight makes a longer process suddenly recognizable. Earlier rela
 
 Darwin's example shows why the new use need not have been foreseen. Exaptation gives a precise evolutionary name to the recruitment of existing structures for later roles. Insight follows a comparable pattern of organization and reuse: **what was formed before becomes usable in a new way, and a whole formed now can become a piece of something larger.**
 
-This is the central AHQ proposal. The felt click is the experienced side of that transition. The proposed neural measurements are ways of asking whether a distinctive physical transition accompanies it.
+Within AHQ, the experienced click and the formation of a coherent, reusable relationship describe the same transition from its phenomenal and organizational aspects. The proposed neural measurements are ways of asking whether a distinctive physical transition accompanies it.
 
 The answer was not waiting complete in the past. The past supplied consequential relationships. Their new organization becomes an answer in the present, and that answer joins the history from which future understanding can be built.
 
@@ -1309,7 +1309,7 @@ The decisive event is more than adding the word “bag” to an unchanged questi
 
 This is the **collapse of separation** described by the paper. A maintained interpretation or unresolved relation loses the organization that allowed it to stand apart. A different, more comprehensive relation becomes accessible.
 
-Two changes belong together, but they are not identical. **The old separation loses its hold; the new relationship becomes coherent enough to use.** An interpretation can fail without a better one appearing immediately. And a new explanation can become available gradually rather than in one dramatic instant. The striking click occurs when the change is experienced as one recognizable crossing.
+A completed insight joins two organizational changes: the previously maintained separation loses its role, and a newly integrated relationship becomes available for use. An interpretation can fail without a better one appearing immediately. And a new explanation can become available gradually rather than in one dramatic instant. The striking click occurs when the change is experienced as one recognizable crossing.
 
 The road example also shows why a click can feel like both surprise and recognition. The physical object and many of its features were already present; the new organization of what was seen makes those features intelligible together. What feels sudden is the change in the available whole.
 
@@ -1447,7 +1447,7 @@ The relationship between experience, carried history, and the continuing present
 
 **Awareness is the lived availability of consequential history when temporally distributed relations become jointly organized within an active present and that present remains causally involved in producing its successor.**
 
-This sentence connects the physical side of the proposal to its experiential side. Consequential history supplies inherited organization. Temporal concentration describes the joint causal availability of consequences from different times. Causal reentry makes the present an active contributor to what follows. Recursive availability concerns how much of that ongoing organization becomes usable within the process that carries it.
+The causal progression follows in stages: retained organization supplies consequential history; temporal concentration makes consequences from different times jointly effective; causal reentry allows the present organization to influence its own continuation. Recursive availability concerns how much of that ongoing organization becomes usable within the process that carries it.
 
 The account follows a coherent causal interior as it develops richer access to the history it carries. An interior consists of its continuing organization; the intrinsic character of an experiencing sensory-feedback interior is phenomenal. Further recurrence and integration determine how much consequential history becomes available within that experience and how deeply the activity can shape its own continuation.
 
@@ -1767,9 +1767,9 @@ This reveals a limit that belongs to the wider argument. **Causal continuity doe
 
 ### The scope of the principle
 
-Consequential history is a candidate general condition of persistence because a continuing organized system depends on causal connections between its successive states. The form of continuity is broad. It can appear as a retained channel, a regulated state, a developing tissue, or a learned relationship.
+A continuing organization depends on causal connections between successive states. The consequences carried through those connections constitute its consequential history. The form of continuity is broad. It can appear as a retained channel, a regulated state, a developing tissue, or a learned relationship.
 
-That generality is useful only when the carriers and effects can be identified for the case at hand. Consequential history should not be treated as a substitute for explaining an actual mechanism. It directs attention to the physical question that needs answering: **which earlier organization is still changing what happens now, and through what current structure does it act?**
+Consequential history is physically identified by the present structure carrying an earlier consequence and by the effect that structure has on what happens next. It directs attention to the physical question that needs answering: **which earlier organization is still changing what happens now, and through what current structure does it act?**
 
 Persistence, identity, recognition, and understanding can then be examined as related but distinct forms of causal organization. The past contributes to continuation; its carriers change how arrivals are received; sufficiently organized interactions can establish a coherent interior; and deeper access can make parts of that history recognizable within experience.
 
@@ -1996,7 +1996,7 @@ Second, some transitions may show increasing sensitivity, fluctuation, or longer
 
 Third, a reported moment of recognition may be preceded by an interval in which distributed relationships become increasingly constrained or stabilized. The experience of a sudden click can occur after earlier organization has already been developing. That is a prediction about time-resolved dynamics, not a claim that all recognition events must share one measurable precursor.
 
-These expectations allow continuity to be investigated rather than simply praised as a universal virtue. Evidence can show that it helps explain some transitions, fails in others, or requires a more precise operational definition.
+Continuity becomes an operational variable when the causal contribution of earlier organization can be measured separately from complexity, memory capacity, and duration. Evidence can show that it helps explain some transitions, fails in others, or requires a more precise operational definition.
 
 ### Continuity, accessibility, and the interior
 
@@ -2059,7 +2059,7 @@ The repertoire becomes larger still when the order of gate activations matters a
 
 Adaptive immunity demonstrates how finite biological machinery can produce a large repertoire of possible recognitions. Immune cells assemble receptor variants through combinatorial genetic processes, and encounters with particular targets can select and expand specific cell populations. Later responses can depend on what earlier encounters changed.
 
-This is a precedent for combinatorial generation, selective recruitment, and historical adaptation. It is not evidence that immunity and conscious perception share the same mechanism or that immune recognition is phenomenal.
+Immune recognition establishes a biological example of a finite repertoire supporting extensive selective combination. The comparison with conscious perception concerns that organizational principle; its neural realization is a separate question.
 
 Olfaction provides a different example within sensory processing. Odors can activate combinations of receptor types, and downstream activity can distinguish many conditions through the distributed pattern rather than the response of one dedicated detector. A finite collection of response channels supports a large space of discriminable combinations.
 
@@ -2085,7 +2085,7 @@ Each candidate gate receives a score based on these conditions. One portion of t
 
 The resulting gate vector participates in selecting the next collective state. That collective state, together with the updated history, helps determine which gates become active on the following step.
 
-The exact implementation matters because it creates a loop: local responses contribute to a larger organization, and that larger organization subsequently changes local responsiveness. This is **macrostate causal reentry**. It is a concrete feedback term in the model, rather than a claim that an abstract description causes events independently of its physical realization.
+Macrostate causal reentry is physically implemented feedback: local activity contributes to a collective state, and that collective state alters the conditions governing later local activity.
 
 The architecture therefore gives retained history two roles. History influences the present selection, and the present selection changes what history will be carried forward.
 
@@ -2258,7 +2258,7 @@ The tissue may have moved away from the active meristem. The regulatory conditio
 
 This is a physical instance of consequential history. Earlier developmental organization remains effective through the arrangement and state of material that was produced under its influence.
 
-The record is not perfect. Later growth can modify earlier structures, and similar final forms may arise by different developmental routes. The hypothesis gains value when the spatial anatomy can be compared with independent time-resolved measurements, rather than treated as an unambiguous transcript of the past.
+Anatomy carries a history of development that later growth can modify. Similar final forms may arise by different developmental routes. Recovering the timing of that history therefore requires the spatial record to be related to independent observations of developmental change.
 
 ### Commitment, restoration, and hysteresis
 
@@ -2570,7 +2570,7 @@ Aleph Harmonic Qualia (AHQ) identifies the felt click with the physical crossing
 
 Insight is not the creation of consciousness. It is a distinctive change within a conscious interior that was already operating before the click. Ordinary qualia likewise perturb the continuing organization without re-forming its first boundary each time.
 
-Not every admitted event leads to an AHQ click, and not every strong local response becomes a system-wide revision. The two concepts describe different aspects of how history changes ongoing recognition.
+Admission allows an encounter to participate in ongoing activity. Incorporation changes what the system carries forward. AHQ identifies the further transition in which contributing relationships become a newly coherent and reusable whole.
 
 ### Recognition carried forward
 
@@ -3060,7 +3060,7 @@ The Porter Ratio begins with a physical balance involved in carrying organizatio
 
 The coherent boundary forms an interior whose character follows what it carries. In an experiencing nervous system, sensory and informational continuity is phenomenal; recursive accessibility can deepen awareness within it, and particular reorganizations can produce the click of recognition.
 
-Each step has its own physical question. The rate comparison concerns maintenance; the boundary concerns organized interaction; history concerns retained causal influence; and AHQ concerns a specific change in accessibility. Their connection is the proposal being investigated, not a reason to treat the distinctions as interchangeable.
+Each step has its own physical question. The rate comparison concerns maintenance; the boundary concerns organized interaction; history concerns retained causal influence; and AHQ concerns a specific change in accessibility. The relationships form an ordered account: maintenance preserves organization, retained consequences carry causal history, coordinated interaction forms a boundary, and subsequent reorganization changes which relationships become accessible within the continuing interior.
 
 ---
 
@@ -3082,7 +3082,7 @@ Next: Consequential History and the Conditions of Persistence, on how the past s
 
 Matter can preserve structure, living systems can regulate their own activity, and a conscious organism can experience a succession of events as belonging to one continuing present. These cases have different requirements, but they share a basic physical problem: organization must remain consequential through change.
 
-[The Shape of Persistence](https://philarchive.org/rec/PORTSO-18) develops a progression from physical persistence to history-bearing interiority, lived time, and particular moments of experience. The claim is not that an electron, a membrane, and a human mind have identical causal architectures. It is that the relationships making persistence possible can become more deeply organized, selective, and recursively available in some physical systems.
+[The Shape of Persistence](https://philarchive.org/rec/PORTSO-18) develops a progression from physical persistence to history-bearing interiority, lived time, and particular moments of experience. Persistence has a general causal form that can be realized through different physical architectures. Those architectures differ in the ways they retain history, regulate interaction, and organize recursive access.
 
 ### Persistence creates conditions for further organization
 
@@ -3170,7 +3170,7 @@ These processes can overlap and affect one another. New recognition changes the 
 
 ### Matter, light, and time in their proper roles
 
-The theory aims to connect physical persistence with the organization of lived experience. It need not imply that matter begins to exist only when a system restores itself, that light is a universal ingredient of all qualia, or that physical time is generated by a biological boundary.
+Matter supplies the physical carriers, light supplies one source of sensory information, and time orders the processes through which earlier events acquire present consequences. The framework concerns how those existing physical processes become organized into sustained, history-bearing interiors.
 
 Material interactions provide the processes and structures through which organization can persist. Light is one carrier of environmental information relevant to vision; sound, chemicals, and mechanical forces provide other forms of input. Physical time orders those interactions, while organized retention makes the consequences of earlier events available in later states.
 
@@ -3339,7 +3339,7 @@ A fluent conversation shows history carried in the interaction. To identify an i
 
 Conversational quality can therefore be studied without making unsupported claims about AI consciousness. The interaction can display continuity, context sensitivity, and the capacity to carry forward meaningful relationships. Those are real functional properties, though their physical implementation and relation to experience remain further questions.
 
-The original analogy concerns **presence in interaction**. Its first empirical target is how sustained continuity changes the human experience of communicating and the structure of the language that communication develops. That finding would explain why AI can feel present, while a separate inquiry into the model's internal dynamics addresses whether presence is also experienced on its side.
+Presence in conversation develops as earlier exchanges alter the significance of later ones. Shared references accumulate, expectations change, and familiar language becomes capable of carrying relationships established through prior encounters.
 
 ### What the pollinator analogy explains
 
@@ -3732,7 +3732,7 @@ Within the spiral, movement becomes increasingly confined to one repeating cours
 
 That is the proposed relevance of **dimensional contraction** to insight. Relations that had varied across separate processes may become constrained by one higher-order organization. The resulting whole can have fewer effective degrees of freedom than the distributed activity from which it formed.
 
-This is a dynamical claim, not a claim that physical space literally loses dimensions. Effective dimensionality concerns the independent variations needed to describe the activity. It has to be measured, and a dimensional reduction should not be assumed every time a recognizable pattern appears.
+Effective dimensionality measures the number of independent variations participating in the system's activity. As movement concentrates into the ant spiral, fewer independent patterns of collective movement are required to describe its continuing organization. It has to be measured, and a dimensional reduction should not be assumed every time a recognizable pattern appears.
 
 The spiral is compelling because it makes an already-active rule conspicuous. It shows a rule through the collective pattern the rule produces.
 
@@ -3766,7 +3766,7 @@ Insight therefore has both an ending and a beginning: an old separation ceases t
 
 ### AHQ and the click of coherence
 
-AHQ names the phenomenal crossing between those organizational regimes. The proposal is not that every synchronization event produces understanding. Coordination alone can be shallow, repetitive, or pathological, as the ant spiral makes especially clear.
+AHQ concerns the formation of an integrated relationship that remains available for subsequent recognition and use. Synchronization may participate in that event, while the defining organizational achievement is the newly reusable whole.
 
 For AHQ, the relevant change includes the formation of a **reusable** collective relation. Previously distributed activity becomes organized strongly enough for the resulting whole to participate in future recognition, prediction, thought, or action.
 
@@ -3873,7 +3873,7 @@ The Ostiary Principle describes how inherited organization contributes to this s
 
 At greater depth, information about the current act of recognition can become available to further recognition. This is **self-legibility**. A system already having experiences becomes more capable of using relationships within those experiences to regulate and understand its ongoing activity.
 
-The account therefore does not require sophisticated self-reflection to create the first phenomenal interior. Reflection deepens the availability of a history that is already being carried within that interior.
+Self-reflection develops within an already continuing experiencing interior. It introduces a further capacity: the organization through which experience occurs becomes increasingly available to its own subsequent activity.
 
 ### Why recognition can feel immediate
 
@@ -4302,7 +4302,7 @@ A familiar symbol may recur because it appears frequently in the environment, be
 
 Consider a familiar number that seems to appear everywhere. Once it becomes personally significant, its occurrences may be easier to notice and remember. The apparent frequency can increase even if the number appears no more often in the world than before. That attention effect is real, but it does not imply that external events are arranged to deliver a personal message.
 
-A patron requires a stronger claim than noticing repetition. The proposed organization should change subsequent interpretation in a measurable and persistent way. A cue may reactivate associated memories, alter which alternatives seem plausible, or direct attention toward a line of inquiry already made important by earlier encounters.
+A patron is identified by its continuing causal influence: retained relationships surrounding a recurring pattern change how later encounters are noticed, interpreted, and used. A cue may reactivate associated memories, alter which alternatives seem plausible, or direct attention toward a line of inquiry already made important by earlier encounters.
 
 The relevant structure is therefore not the number, melody, or image considered alone. It is the network of consequences built around it in a particular person's ongoing activity. A recurrent stimulus is only a candidate marker of a patron until its history-conditioned causal effects are demonstrated.
 
@@ -4422,7 +4422,7 @@ Resonance here describes a candidate process in which continued interaction rein
 
 A rhythm becomes easier to follow as expectation locks to its timing. A familiar face becomes easier to recognize as present features repeatedly recruit the same relational organization. A concept becomes clearer as incoming information continues to fit and refine a structure already carried in memory.
 
-This does not require literal acoustic resonance in every case. The claim is organizational: present input and retained history enter a mutually reinforcing relation whose stability can increase over time.
+Resonance here names the developing compatibility between arriving structure and retained organization. Their interaction progressively constrains which interpretations remain available, allowing recognition to stabilize.
 
 The word **harmonic** refers to structured compatibility among participating relations. The empirical burden is to specify what counts as that compatibility in a given domain rather than assuming the metaphor is sufficient by itself.
 
@@ -4514,7 +4514,7 @@ Recognition therefore has a direction through time: the past helps organize the 
 
 A system can preserve what supports its continuation before it can represent itself as a self. That is the starting point of **Care Before the Self**.
 
-The claim is not that every act of regulation should be called care. The more specific idea is that a system can become organized around preserving **relations that preserve the system**, including relationships whose supporting role was established through earlier encounters. When the history of dependence on a supporting relation changes what the system later approaches, restores, protects, or maintains, continuation has acquired a relational direction.
+Care has a minimal causal form when a history-bearing system selectively preserves relationships that contribute to its own continuation. Earlier dependence makes those relationships consequential to present regulation and later action. When the history of dependence on a supporting relation changes what the system later approaches, restores, protects, or maintains, continuation has acquired a relational direction.
 
 Care begins there. The term names a minimal causal organization of preservation within this framework. Its later emotional and ethical meanings require further capacities, including experience, evaluation, attachment, and reflective responsibility.
 
@@ -4602,7 +4602,7 @@ The physical relation has not disappeared when richer forms emerge. It has becom
 
 Those layers can also become new self-maintaining wholes. Cells may preserve exchanges that sustain coordinated tissue activity, while the tissue's continuing organization changes what its cells need and how their activity is regulated. At another scale, an organism can preserve relationships with its surroundings that help maintain the larger whole. Each genuine organizational threshold can establish new collective capacities and new dependencies worth preserving. Several levels may remain active or undergo related transitions in overlapping periods, without requiring their distinct thresholds to occur at precisely the same instant.
 
-An infant's regulatory dependence, an animal's learned return to a safe place, and an adult's reflective commitment are not identical phenomena. The framework does not collapse them into one thing. It treats them as increasingly deep organizations built on the same general causal form: history teaches the system which relations participate in its continuity, and that history changes how later activity is directed.
+Infant regulation, learned animal behavior, and reflective human commitment express different levels of organization. Their common causal form is the preservation of relationships whose earlier consequences continue influencing present activity.
 
 ### Care, patrons, and meaning
 
