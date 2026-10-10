@@ -28,7 +28,7 @@ The repertoire becomes larger still when the order of gate activations matters a
 
 Adaptive immunity demonstrates how finite biological machinery can produce a large repertoire of possible recognitions. Immune cells assemble receptor variants through combinatorial genetic processes, and encounters with particular targets can select and expand specific cell populations. Later responses can depend on what earlier encounters changed.
 
-This is a precedent for combinatorial generation, selective recruitment, and historical adaptation. It is not evidence that immunity and conscious perception share the same mechanism or that immune recognition is phenomenal.
+Immune recognition establishes a biological example of a finite repertoire supporting extensive selective combination. The comparison with conscious perception concerns that organizational principle; its neural realization is a separate question.
 
 Olfaction provides a different example within sensory processing. Odors can activate combinations of receptor types, and downstream activity can distinguish many conditions through the distributed pattern rather than the response of one dedicated detector. A finite collection of response channels supports a large space of discriminable combinations.
 
@@ -54,7 +54,7 @@ Each candidate gate receives a score based on these conditions. One portion of t
 
 The resulting gate vector participates in selecting the next collective state. That collective state, together with the updated history, helps determine which gates become active on the following step.
 
-The exact implementation matters because it creates a loop: local responses contribute to a larger organization, and that larger organization subsequently changes local responsiveness. This is **macrostate causal reentry**. It is a concrete feedback term in the model, rather than a claim that an abstract description causes events independently of its physical realization.
+Macrostate causal reentry is physically implemented feedback: local activity contributes to a collective state, and that collective state alters the conditions governing later local activity.
 
 The architecture therefore gives retained history two roles. History influences the present selection, and the present selection changes what history will be carried forward.
 
