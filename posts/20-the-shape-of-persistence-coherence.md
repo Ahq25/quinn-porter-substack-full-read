@@ -16,15 +16,7 @@ A pattern can influence later events only if some of its organization remains ef
 
 Persistence is not identical to an absence of change. A regulated process can preserve an organizational relationship while the components carrying it move or are replaced.
 
-The Porter Ratio compares effective restoration and disruption:
-
-**R = λ_self / λ_env**, for λ_env > 0.
-
-Both rates must refer to the same declared organizational variable, and their equality at R = 1 describes balance within that chosen model. When restoration exceeds disruption, the selected organization may be better able to survive perturbation. Whether earlier consequences become increasingly active depends on retention, coupling, and the actual history-bearing structure involved.
-
-**Active inheritance** names the continued causal participation of earlier organization in the processes maintaining the system now. Where that inheritance drives the measured maintenance, R > 1 is proposed to indicate a shift in causal dominance: consequential history has become the primary organizing influence on the system's continuation, outweighing the specified disruption. The ratio establishes maintenance dominance for the chosen variable; showing that inherited organization is responsible requires evidence of its present physical carriers and their causal effects.
-
-A system-specific coherence threshold, R★, is proposed to identify a further change in organization: the formation of a self-maintaining causal boundary. The threshold is not automatically the numerical equality R = 1 and must be measured independently.
+**Active inheritance** names the continued causal participation of earlier organization in the processes maintaining the system now.
 
 ### The shape of an interior comes from its dynamics
 
@@ -111,16 +103,6 @@ Material interactions provide the processes and structures through which organiz
 **Interior time** refers to that retained, selectively accessible causal sequence as it belongs to a continuing organization. Phenomenal experience is the theory's proposed intrinsic aspect of an interior established by sufficiently coherent self-maintaining dynamics.
 
 The distinction allows the central claim to remain substantive without assigning an unsupported mathematical identity between persistence and the existence of matter or time.
-
-### How the shape of persistence can be tested
-
-Different levels of the proposal require different measurements. Restoration and disruption must be estimated for a declared organizational variable. History-bearing structure requires identifying the present carriers of past influence. To test whether active inheritance drives maintenance dominance, a study can intervene on an identified history-bearing carrier and measure whether maintenance or subsequent response changes under comparable disruption. Boundary formation requires observing coherent interaction, selectivity, and continuing organization.
-
-R★ can be estimated only after a boundary-forming transition has been independently defined. Its value should then be tested prospectively. An apparent shift in subjective clarity may be compared with changes in neural coordination and history dependence, but greater coherence alone is not a guaranteed increase in understanding or accuracy.
-
-Temporal concentration can be examined by determining which earlier events continue contributing causally to current states. Recursive access can be examined by perturbing the processes that make a system's existing activity available to later regulation or recognition.
-
-The broad physicalist identity claim remains open to additional testing and conceptual development. The purpose of the distinctions is to identify which physical parts of the proposed continuity can actually be investigated.
 
 ### A continuing organization with an inside
 
