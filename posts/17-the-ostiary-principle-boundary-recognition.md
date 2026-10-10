@@ -8,7 +8,7 @@
 
 Every encounter changes a system according to the organization already present when the encounter occurs. A cell receives a molecule through an existing membrane and regulatory condition. A learned signal reaches a nervous system whose earlier history changes how it is processed. A familiar expression can activate relationships that would not be available without previous experience.
 
-[The Ostiary Principle](https://philarchive.org/rec/PORTOP) names the selective process through which an ongoing organization receives what approaches it. An ostiary is a doorkeeper, or porter. The essential feature is not merely that something crosses a boundary. It is that the boundary's inherited organization determines the conditions of admission and the consequences of entry.
+[The Ostiary Principle](https://philarchive.org/rec/PORTOP) names the selective process through which an ongoing organization receives what approaches it. The word *ostiary* comes from Latin *ostiarius*, rooted in *ostium*, meaning a door or entrance. It names the person who keeps that doorway—a doorkeeper, or porter. The essential feature is not merely that something crosses a boundary. It is that the boundary's inherited organization determines the conditions of admission and the consequences of entry.
 
 ### The boundary has a causal history
 
