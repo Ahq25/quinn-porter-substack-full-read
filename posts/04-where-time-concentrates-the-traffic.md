@@ -136,12 +136,6 @@ Stretch the road one last time. Picture a platoon arriving at a light and trippi
 
 That is the shape of reentry. The result is what Awareness Where Time Concentrates calls **recursive continuity**: history produces the present, and the present participates in selecting which history continues.
 
-### What Awareness Where Time Concentrates sets out to test
-
-These ideas yield experimentally accessible questions. Awareness Where Time Concentrates lists them in terms of retained carriers, controlled prehistory, history dependent gating, trajectory convergence, temporal depth, and recursive state dependence.
-
-In plain terms: What physical carriers hold the retained history? What happens when a system’s prehistory is set deliberately? Do the system’s gates respond differently depending on what came before? Do different starting histories converge into the same later states? How many temporal depths are active in a present? And does the present state feed back into what produces the next one?
-
 ### Awareness
 
 Awareness Where Time Concentrates ends with this statement of awareness: **awareness is the lived availability of consequential history when temporally distributed relations become jointly organized within an active present and that present remains causally involved in producing its successor.**
