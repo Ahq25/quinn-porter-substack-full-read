@@ -33,7 +33,7 @@ Resonance here describes a candidate process in which continued interaction rein
 
 A rhythm becomes easier to follow as expectation locks to its timing. A familiar face becomes easier to recognize as present features repeatedly recruit the same relational organization. A concept becomes clearer as incoming information continues to fit and refine a structure already carried in memory.
 
-This does not require literal acoustic resonance in every case. The claim is organizational: present input and retained history enter a mutually reinforcing relation whose stability can increase over time.
+Resonance here names the developing compatibility between arriving structure and retained organization. Their interaction progressively constrains which interpretations remain available, allowing recognition to stabilize.
 
 The word **harmonic** refers to structured compatibility among participating relations. The empirical burden is to specify what counts as that compatibility in a given domain rather than assuming the metaphor is sufficient by itself.
 
