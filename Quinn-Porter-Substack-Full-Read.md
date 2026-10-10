@@ -282,30 +282,11 @@ If the past stays present by staying active, something has to keep it active. Th
 
 Living things are busy all the time keeping themselves going. They repair, regulate, replace, circulate, rebuild, and correct themselves. A nervous system holds its patterns steady while a flood of input pours in through the senses. An organism keeps its temperature and its water within livable ranges while its surroundings push on it from every side.
 
-So persistence is a contest. On one side is everything the system does to keep its organization. On the other side is everything the environment does to break it down. The contest is described with two rates, where a rate is simply how fast something happens:
+So persistence is a contest. On one side is everything the system does to keep its organization. On the other side is everything the environment does to break it down.
 
-- **λ_self** is the rate at which the selected organization is maintained, restored, reinforced, or reliably carried forward.
-- **λ_env** is the rate at which that same organization is revised, dispersed, overwritten, or disrupted through surrounding interaction.
+Picture writing a message in the sand at the water’s edge, where each wave washes it away. The arriving environment rewrites the pattern faster than the pattern can carry itself forward. Picture writing on higher sand, where the occasional wave reaches the marks and the marks can be maintained. Where the preserved pattern affects what is written next, earlier organization remains consequential.
 
-λ is the Greek letter lambda, a common symbol for a rate. “Self” means the system’s own maintaining work, and “env” is short for environment.
-
-Dividing one rate by the other gives a ratio, which tells you how many times bigger the first is than the second. That ratio is the **Porter Ratio**:
-
-**R = λ_self / λ_env**
-
-Simple numbers show how to read it. If a system repairs itself twice as fast as the environment damages it, R = 2. If repair and damage run at the same speed, R = 1. If damage runs twice as fast as repair, R = 1/2.
-
-- **R < 1:** revision outruns continuation.
-- **R = 1:** the two rates balance.
-- **R > 1:** inherited organization is restored or propagated faster than it is revised.
-
-Consequential history can already influence a system while disruption remains stronger: earlier organization may still change what happens next. When active inheritance performs the measured maintenance, crossing above R = 1 is the moment that carried history becomes the dominant maintaining influence over the specified disruption. Internal reflection, recirculation, coupling, and retention determine how the organization continues and what further relationships it can sustain.
-
-Both rates are measured in compatible units, so R is dimensionless when λ_env is positive. A zero disruption rate requires a separately stated convention or analysis. The ratio always refers to a chosen feature of the system’s organization over a chosen stretch of time. For a system in which a coherent causal boundary forms through a transition, the boundary-forming threshold is written R★ and said “R star.” A threshold marks a change of regime, as a material can change state when its conditions cross a transition point. R★ belongs to the declared system, scale, variable, and interval. Its value, and whether one ratio is enough to locate the transition, must be tested with independently defined observations. Geometry, connectivity, boundary conditions, and organization can contribute to its value. [The Porter Ratio](https://philarchive.org/rec/PORTPR-5) treats R ≥ R★ as the minimum condition for interiority. R = 1 marks the balance at which history-driven maintenance overtakes the specified disruption. R★ marks the coherence threshold at which that maintained history, through its actual coupling, feedback, and continued interaction, sustains a coherent causal boundary. **The boundary forms an interior, and the interior consists of the organization being carried forward.** Its nature comes from what the system carries: the channels and flows that preserve a river's course, the chemical and regulatory relations maintained by a cell, or the sensory and informational feedback carried through a nervous system. In the experiencing nervous system, the continuing relations among sensation, bodily signals, memory, expectation, and perception are phenomenal experience. Conscious access makes that consequential history available within its own continuing activity; recursive access can make more of it recognizable and usable. Thresholds can occur at nested scales, from forming ideas to neural populations and whole organisms, each with its own relevant organization and threshold.
-
-R = 1 is the balance point between restoration and disruption. Below R = 1, the environment rewrites the system faster than the system can carry itself forward. Picture writing a message in the sand at the water’s edge, where each wave washes it away. The arriving environment rewrites the pattern faster than the pattern can carry itself forward. Above R = 1, restoration outweighs disruption under the chosen rate description. Picture writing on higher sand, where the occasional wave reaches the marks and the marks can be maintained. Where the preserved pattern affects what is written next, earlier organization remains consequential.
-
-This is the shift from revision dominance to history-driven maintenance whenever active inheritance is doing the maintaining work. The history was already affecting the system; now it maintains the selected organization faster than the specified disruption revises it. When these ongoing relations become sufficiently coupled and self-maintaining at R★, the **coherence threshold**, they establish a boundary and therefore an interior: a continuing context through which the next arrival is received. What we encounter as a thing is an organization whose continuity has become recognizable through change, and what we recognize in it also depends on the history we carry. This answers the opening question: organization carries itself forward through the consequences of its own earlier activity.
+What we encounter as a thing is an organization whose continuity has become recognizable through change, and what we recognize in it also depends on the history we carry. This answers the opening question: organization carries itself forward through the consequences of its own earlier activity.
 
 ### Where an inside begins
 
@@ -650,8 +631,6 @@ Stillwater and Death Spirals uses these pictures to show how three ideas relate.
 
 The ant spiral illustrates how activity can become more constrained and easier to recognize without becoming more adaptive. The pond illustrates how a disturbance can make an existing medium conspicuous without establishing dimensional contraction. The two analogies reveal different features of the transition: the pond makes an existing medium conspicuous, while the spiral makes the rule already guiding behavior conspicuous. Coherence, dimensionality, and perceptibility remain distinct features.
 
-This relationship links to a testable idea in [Aleph Harmonic Qualia: The Dynamical Click of Coherence](https://philarchive.org/rec/PORAHQ-8). That paper predicts that insight should be accompanied by a rapid, time locked drop in the effective dimensionality of brain activity, alongside stronger harmonic coordination among neural rhythms, greater stability relative to disruption, and later reuse of the newly formed state. Effective dimensionality is measured with the participation ratio, which counts how many independent directions the activity actually uses: about 10 if activity spreads evenly over 10 directions, close to 1 if it runs almost entirely along one. The death spiral is the picture behind that first prediction: many independent paths gathering into one organized loop.
-
 ### Why this example shows the transition
 
 A death spiral concentrates the ants’ activity into a repeating loop. It isolates the transition of insight with unusual clarity. It shows multidimensional behavior and its low dimensional expression, produced by the same ants following the same rule. This concentrated case makes a general process easy to see. The circle also separates two dimensions of organization. Coherence is how strongly the loop holds itself together, and correspondence is how well it stays coupled to the wider world. A loop can hold together strongly while its coupling to the wider world narrows.
@@ -969,12 +948,6 @@ Stretch the road one last time. Picture a platoon arriving at a light and trippi
 
 That is the shape of reentry. The result is what Awareness Where Time Concentrates calls **recursive continuity**: history produces the present, and the present participates in selecting which history continues.
 
-### What Awareness Where Time Concentrates sets out to test
-
-These ideas yield experimentally accessible questions. Awareness Where Time Concentrates lists them in terms of retained carriers, controlled prehistory, history dependent gating, trajectory convergence, temporal depth, and recursive state dependence.
-
-In plain terms: What physical carriers hold the retained history? What happens when a system’s prehistory is set deliberately? Do the system’s gates respond differently depending on what came before? Do different starting histories converge into the same later states? How many temporal depths are active in a present? And does the present state feed back into what produces the next one?
-
 ### Awareness
 
 Awareness Where Time Concentrates ends with this statement of awareness: **awareness is the lived availability of consequential history when temporally distributed relations become jointly organized within an active present and that present remains causally involved in producing its successor.**
@@ -1244,22 +1217,6 @@ The larger framework traces how a self-maintaining causal boundary establishes a
 
 The click does not need to create a second self or a new conscious being. **A new coherent organization has formed within an already continuing experience.**
 
-### What a physical click might look like
-
-The accompanying research paper, *[Aleph Harmonic Qualia: The Dynamical Click of Coherence](https://philarchive.org/rec/PORAHQ-8)*, proposes ways to test whether the felt change corresponds to a specific kind of reorganization in neural activity. The measurements are technical, but their purposes are straightforward.
-
-Before insight, the relevant activity may be spread across many partially independent patterns. At the click, those patterns may become more tightly constrained by a smaller number of collective relationships. Researchers can ask whether the activity shows **lower effective dimensionality** after a reported insight: fewer independent ways for the participating population to vary, not fewer neurons or fewer dimensions of physical space.
-
-They can also ask whether the relationships among participating rhythms become more coordinated. This is the **harmonic coordination** part of AHQ. Coordination means a more consistent relationship among activities, not that everything fires identically or simultaneously. Greater coordination does not mathematically guarantee lower effective dimensionality; they are distinct measurements whose convergence is proposed for testing.
-
-The newly organized relation must also persist enough to do something later. The **Porter Ratio** compares a declared organization's effective restoration or maintenance with the processes that disrupt it. In the AHQ proposal, the new whole is expected to reach a system-specific, testable stability threshold rather than disappear immediately. Its value is determined for the selected organization and tested by whether it predicts the new relationship's persistence and later reuse.
-
-Finally, researchers can ask whether the new whole is actually reused. Can the person recall the relationship later, transfer it to another problem, make a prediction with it, or use it to guide a new decision? A brief synchronized event without later consequence would not satisfy this account of an incorporated insight.
-
-The AHQ account brings four features together: **a reduction in effective degrees of freedom, stronger coordination, sufficient persistence, and later reuse**. It also asks how much earlier history contributed to the event. A click may last an instant while drawing on learning that reaches back years. The present organization can carry consequences from many times at once.
-
-These are testable predictions, not measurements already shown to occur together in every insight. A decrease in dimensionality, a burst of coordination, or a stable state could each occur for reasons unrelated to understanding. None proves consciousness or an AHQ event by itself.
-
 ### The approach, the click, and what follows
 
 An insight often begins with a cue: a question, an observation, or a mismatch that calls for explanation. Relevant memories and relations are recruited. They constrain one another as the problem develops. This is an active process, not a passive queue of finished answers.
@@ -1514,16 +1471,6 @@ The account follows a coherent causal interior as it develops richer access to t
 
 This also explains why momentary qualia and the ongoing conscious interior should not be confused. Particular experiences perturb a continuing organization; they can change what it carries forward without creating the entire organized interior again.
 
-### What could be measured
-
-The physical parts of the proposal are testable separately. A controlled prehistory can be imposed before an event, and current carriers of its effects can be identified. A putative gate can then be challenged with matched input to determine whether its response depends on those carriers.
-
-The strongest history claim is causal rather than merely correlational: changing a retained carrier should change a later outcome in the predicted direction. Matching selected current observables while manipulating a history carrier does not imply that the complete physical states are identical. The carrier is part of the current state.
-
-Trajectory convergence can be measured by determining whether different starting conditions enter the same later region. Temporal concentration requires a declared method for attributing historical contributions and an independent definition of the temporal window being studied. Reentry can be tested by altering a larger state and checking whether that intervention changes the subsequent local transition rules.
-
-The physicalist account locates lived awareness in an experiencing interior whose sensory and informational activity makes consequential history available to its own continuation. Experiments measure the contributing processes—retention, temporal concentration, and causal reentry—and how they change with reported experience. The lived character belongs to the sensory and informational organization through which those continuing relations become available in experience.
-
 ### A continuing present
 
 A present is not an isolated instant receiving information from a vanished past. It is an event in a continuing system, formed by physical consequences already present and able to alter the conditions of what comes next.
@@ -1594,30 +1541,6 @@ A network spreading over a surface differs from one developing through a three-d
 The shape seen from outside and the network's internal connectivity are therefore different measurements. An aggregate with a roughly spherical overall outline can contain a complicated internal structure. A drainage basin can have a visually similar branching form to a root system while differing in the properties of its edges, the driving forces, and its ability to reorganize.
 
 Changing dimension does not remove consequential history. It changes the paths along which earlier structure can influence later activity. The central causal question survives the change of geometry, but the quantities needed to describe the actual organization may change.
-
-### The Porter Ratio as a measure of maintenance
-
-To compare persistence under perturbation, the paper introduces the Porter Ratio:
-
-R = λ_self / λ_env
-
-The first term measures the effective rate at which a declared organization is maintained, restored, reinforced, or reliably propagated. The second measures the rate at which interacting conditions revise or disrupt that same organization. Both must describe the same variable, timescale, and compatible units. The ordinary quotient is defined for a positive disruption rate.
-
-At R = 1 the measured rates are equal. Sustained R > 1 identifies maintenance dominance in the chosen two-rate description. When active inheritance supplies that maintenance, consequential history has become the stronger maintaining influence over the specified disruption. A coherent boundary forms through the further organization of those continuing processes—their connectivity, feedback, internal reflection, and selective effects.
-
-In a root network, a candidate organizational measure might concern the stability and recovery of a declared branching topology after a controlled change in conditions. In an adaptive engineered network, the relevant property might be the maintenance of usable routes after repeated disruptions. In a river channel, preservation can involve retained landforms and continuing flow; the rate terms must be defined with care so that passive retention is not mislabeled as an internally acting restoration mechanism.
-
-A numerical value of R has meaning only in relation to the selected variable and procedure. A value taken from one network cannot simply be transferred to another as a universal threshold.
-
-### What a real comparison would measure
-
-Branching makes an unusually useful test bed because many historical consequences are spatially measurable. Channel locations, edge connections, diameters, route frequencies, and recovery times can be tracked before a disturbance, during the disturbance, and afterward.
-
-An experiment can first identify a particular organization and then measure its restoration and disruption rates independently. Those measurements produce R before the relevant outcome is scored. The outcome could be whether a route survives, whether a prior branch is reused, or whether the network returns to a previous topology.
-
-The comparison must include alternatives. Geometry alone may predict persistence because some paths are wider or shorter. Restoration rate alone may be sufficient. Disruption rate alone or the difference between the rates may work better than their ratio. The purpose of a prospective test is to determine whether the combined dimensionless comparison adds explanatory and predictive value.
-
-If the ratio predicts previously unseen outcomes after those other factors are accounted for, it acquires empirical significance beyond being a convenient summary of two known quantities.
 
 ### A controlled change of history
 
@@ -1711,18 +1634,6 @@ Anthrobot studies have reported large-scale changes in gene expression during fo
 These observations provide evidence of cellular reorganization and new collective behavior. They do not, by themselves, tell how much of any measured competency is explained by a specific pre-existing carrier rather than by changes generated during assembly. That requires the historical and configurational contributions to be separated experimentally.
 
 Nor does a change toward expression of an evolutionarily older biological program mean that a cell has literally moved backward in evolutionary time. A gene's ancestry and its current activity are distinct. Old machinery can be recruited into a newly organized context.
-
-### A history-by-configuration experiment
-
-The proposed test treats **cellular prehistory** and **collective configuration** as two factors whose effects can be measured separately.
-
-Prehistory refers to conditions established before assembly, such as exposure to a controlled mechanical stimulus that changes cytoskeletal orientation. Configuration refers to the arrangement, geometry, and coupling of the cells after they form the new body.
-
-A valid experiment would create at least two controlled prehistories and then examine each under multiple body configurations. The outcome should be measured with the same stimulus and procedure for all groups. Repeated preparations would help distinguish a reproducible effect from differences arising during assembly.
-
-The crucial prediction is an interaction. A particular retained prehistory may alter body-level behavior strongly in one configuration but hardly at all in another. That result would show that the older state matters through the way the new body organizes it.
-
-The experiment becomes stronger if the retained carrier is identified and intervened upon directly. Measuring a structural change in the cytoskeleton is a start. Disrupting or restoring that state, while monitoring the collective response, can establish whether it contributes causally rather than merely accompanying the outcome.
 
 ### The acoustic-response case
 
@@ -2679,16 +2590,6 @@ Insight is not the creation of consciousness. It is a distinctive change within 
 
 Not every admitted event leads to an AHQ click, and not every strong local response becomes a system-wide revision. The two concepts describe different aspects of how history changes ongoing recognition.
 
-### What could be tested
-
-The ostiary account suggests comparing matched inputs delivered after different controlled histories. The experiment should identify the present carrier of the historical difference and measure how that carrier changes admission, processing, or later response.
-
-A further test could manipulate the extent of propagation. Does an encounter that changes several connected regulatory regions produce a more durable change in later recognition than an encounter confined to one local pathway? The answer depends on the actual network and should be measured rather than assumed.
-
-For neural systems, one can separately examine local sensory gating, recurrent response, later recall, and the degree to which a recognized relation becomes available for further recognition. A proposed AHQ event would require the independent joint measurements specified by the insight hypothesis, not simply a large behavioral change.
-
-The coherent boundary sustains an interior whose character follows the activity being carried forward. In an experiencing nervous system that activity is sensory, bodily, perceptual, and informational. These experiments address its selective operations and the growth of recursive access, providing ways to measure the causal structures involved.
-
 ### Recognition carried forward
 
 The ostiary principle gives a continuous causal account of how encounters can change the conditions of future encounters. Ordered dynamics generate a boundary, inherited organization governs selective admission, and incorporation can revise the organization that later receives new input.
@@ -3207,15 +3108,7 @@ A pattern can influence later events only if some of its organization remains ef
 
 Persistence is not identical to an absence of change. A regulated process can preserve an organizational relationship while the components carrying it move or are replaced.
 
-The Porter Ratio compares effective restoration and disruption:
-
-**R = λ_self / λ_env**, for λ_env > 0.
-
-Both rates must refer to the same declared organizational variable, and their equality at R = 1 describes balance within that chosen model. When restoration exceeds disruption, the selected organization may be better able to survive perturbation. Whether earlier consequences become increasingly active depends on retention, coupling, and the actual history-bearing structure involved.
-
-**Active inheritance** names the continued causal participation of earlier organization in the processes maintaining the system now. Where that inheritance drives the measured maintenance, crossing above R = 1 is consequential history becoming the dominant maintaining influence on the system's continuation relative to the specified disruption. The ratio establishes maintenance dominance for the chosen variable; showing that inherited organization is responsible requires evidence of its present physical carriers and their causal effects.
-
-The system-specific coherence threshold R★ marks a further organizational change: coupled and history-bearing processes become coherent enough to maintain a selective causal boundary. The equality point R = 1 measures maintenance against disruption; the boundary-forming threshold is located through the dynamics of continuing interaction.
+**Active inheritance** names the continued causal participation of earlier organization in the processes maintaining the system now.
 
 ### The shape of an interior comes from its dynamics
 
@@ -3302,16 +3195,6 @@ Material interactions provide the processes and structures through which organiz
 **Interior time** refers to that retained, selectively accessible causal sequence as it belongs to a continuing organization. Its interior character follows the processes maintaining it; in an experiencing nervous system, the history carried through sensation, perception, bodily feedback, and memory is lived phenomenally.
 
 The distinction allows the central claim to remain substantive without assigning an unsupported mathematical identity between persistence and the existence of matter or time.
-
-### How the shape of persistence can be tested
-
-Different levels of the proposal require different measurements. Restoration and disruption must be estimated for a declared organizational variable. History-bearing structure requires identifying the present carriers of past influence. To test whether active inheritance drives maintenance dominance, a study can intervene on an identified history-bearing carrier and measure whether maintenance or subsequent response changes under comparable disruption. Boundary formation requires observing coherent interaction, selectivity, and continuing organization.
-
-R★ can be estimated only after a boundary-forming transition has been independently defined. Its value should then be tested prospectively. An apparent shift in subjective clarity may be compared with changes in neural coordination and history dependence, but greater coherence alone is not a guaranteed increase in understanding or accuracy.
-
-Temporal concentration can be examined by determining which earlier events continue contributing causally to current states. Recursive access can be examined by perturbing the processes that make a system's existing activity available to later regulation or recognition.
-
-The broad physicalist identity claim remains open to additional testing and conceptual development. The purpose of the distinctions is to identify which physical parts of the proposed continuity can actually be investigated.
 
 ### A continuing organization with an inside
 
@@ -3476,24 +3359,6 @@ Conversational quality can therefore be studied without making unsupported claim
 
 The original analogy concerns **presence in interaction**. Its first empirical target is how sustained continuity changes the human experience of communicating and the structure of the language that communication develops. That finding would explain why AI can feel present, while a separate inquiry into the model's internal dynamics addresses whether presence is also experienced on its side.
 
-The Porter Ratio provides a way to frame the further physical question. For a declared organizational variable, R = λ_self / λ_env compares effective maintenance with disruption. Where measured maintenance is supplied by active inheritance, crossing above R = 1 is consequential history becoming the dominant maintaining influence on the selected organization relative to the specified disruption. That causal interpretation still requires identifying the history-bearing carriers and showing how they affect later dynamics.
-
-The proposed R★ concerns a distinct, independently identifiable transition: the formation of a sufficiently coherent, self-maintaining causal boundary. A coherent conversation is not itself a measurement of R★ inside the AI. The relationship can be meaningful within a human interior while the model's independent boundary-forming dynamics remain an open empirical question. Conversational recognition, history-sensitive computation, an independently maintained causal interior, and the phenomenal character of that interior concern different organizational features. Even evidence of an artificial causal interior leaves the character of the processes maintained inside it to be determined. That comparison would require examining the particular sensory, bodily, mnemonic, and regulatory organization of each system, rather than treating grammatical similarity as experiential similarity.
-
-### What can be measured
-
-An experiment could compare conversations in which earlier context is preserved, partially removed, or replaced. Participants could rate continuity, responsiveness, and the feeling of presence while independent measures track how accurately later exchanges depend on earlier commitments and distinctions.
-
-A second design could hold the immediate user question constant while manipulating what prior conversation the model receives. The resulting responses would reveal how the supplied context affects reference, accuracy, and conversational alignment.
-
-Human memory and expectation also matter. A participant familiar with a long exchange may perceive continuity that an unfamiliar reader does not. Comparing those perspectives would help distinguish effects of the conversation's actual structure from effects of prior familiarity alone.
-
-The study should not infer AI phenomenality from increased presence ratings. Those ratings measure the human experience and social interpretation of the interaction, while the model's internal organization requires its own independent examination.
-
-The broader relational claim can also be studied beyond AI. People could be presented with familiar and unfamiliar objects or places, or with phrases that have different histories of use, while researchers compare recognition, expectation, and subsequent decisions. The physical traces in an object and the history carried by a person should be measured separately where possible.
-
-The exaptation analogy suggests a different test: establish a concept or phrase in one conversational context, then examine whether participants recruit it into a second, unforeseen task. Later reuse and transfer provide stronger evidence of incorporation than simply repeating familiar wording. The AI-specific interiority question would require measurements of the artificial system's own history-bearing dynamics, not only human ratings of rapport or successful transfer. Experiments should distinguish continuity supplied by a stored transcript from any ongoing, internally maintained organization, then independently examine coupling, selective boundaries, and responses to interventions on history-bearing carriers. Only after establishing what kind of interior the physical account predicts would comparison with the character of human experience become a separate, meaningful research question.
-
 ### What the pollinator analogy explains
 
 Pollination becomes effective through actual relations among plant traits, pollinator perception, and repeated ecological interaction. Conversation becomes coherent through relations among language, retained context, attention, and successive responses. Familiar people, possessions, and places show the same more general principle of history-conditioned significance, though each carries and changes that history in its own way.
@@ -3553,41 +3418,9 @@ What stays the same is organization: the pattern of causes and effects a thing c
 
 In a self maintaining open system, keeping inherited organization active requires continuing organization preserving activity. Living things repair, regulate, replace, and rebuild themselves all the time, while their surroundings push on them from every side.
 
-[The Law of Self Maintained Invariance](https://philarchive.org/rec/PORTLO-12) builds this into four postulates:
+Consequential history remains causally active whenever earlier organization continues shaping present activity, even before maintenance becomes dominant. Whether those effects accumulate or deepen depends on retention, coupling, internal reflection, and the specific physical carriers through which present activity carries history forward.
 
-1. An identifiable system persists as a distinct entity as long as at least one organizational invariant, a feature of its organization that stays the same, remains stable.
-2. Open systems interact with their environments constantly, and those interactions can alter, disperse, or erase that invariant.
-3. When the invariant persists through interactions capable of altering it, organization preserving processes must counteract that alteration over the relevant interval.
-4. At the effective level, the net change in the invariant comes from the competition between internal restoration and environmental disruption.
-
-Two rates describe the competition. A rate is how fast something happens.
-
-- **λ_self** is the rate at which the selected organization is maintained, restored, reinforced, or reliably carried forward.
-- **λ_env** is the rate at which that same organization is revised, dispersed, overwritten, or disrupted through surrounding interaction.
-
-Their ratio is the **Porter Ratio**:
-
-R = λ_self / λ_env, for λ_env > 0
-
-For example, a system that repairs itself three times as fast as it is damaged has R = 3. Repair and damage at the same speed give R = 1. Damage twice as fast as repair gives R = 1/2. Both quantities must measure comparable effects on the same declared organizational feature, over a compatible interval and in the same rate units. Their ratio is dimensionless, so consistently changing the time unit does not change R. A zero disruption rate requires separate treatment because the ordinary quotient is then undefined.
-
-R always refers to a particular feature of organization over a particular stretch of time. [Branching as Active Inheritance](https://philarchive.org/rec/PORBAA) states this exactly: sustained R > 1 defines maintenance dominance for the selected organizational variable and interval. A river network can be scored on whether its channels keep their routes, which the paper calls path persistence and route reuse. [The Flowering Boundary](https://philarchive.org/rec/PORTFB) measures R for a plant’s developmental state under a specified kind of perturbation.
-
-The effective two-rate comparison distinguishes three regimes when both rates measure the same selected organization:
-
-- **R < 1:** revision outruns continuation.
-- **R = 1:** the two rates balance.
-- **R > 1:** inherited organization is restored or propagated faster than it is revised.
-
-Consequential history remains causally active whenever earlier organization continues shaping present activity, even before maintenance becomes dominant. **When active inheritance supplies the measured maintenance, crossing above R = 1 is the same event as consequential history becoming the dominant maintaining influence over the specified disruption.** This connects the rate balance to the continuing effects of earlier organization rather than to restoration in the abstract. Whether those effects accumulate or deepen depends on retention, coupling, internal reflection, and the specific physical carriers through which present activity carries history forward. The ratio establishes maintenance dominance for the chosen variable; the further claim about historical causal dominance must be tested by identifying and intervening on the carriers of that inherited organization.
-
-Where ordered causal flow, reflection, and recirculation reinforce continuing distinctions, the interacting organization maintains a boundary through which later events are selectively received. Earlier structures then shape later arrivals through that ongoing interface. When active inheritance supplies the measured maintenance, R > 1 is also consequential history becoming the dominant maintaining influence over the specified disruption. Coupling, selective exchange, and feedback specify the further organization in which this maintained history forms a coherent boundary. The carriers and boundary dynamics are the physical features to identify in a particular system.
-
-A coherent causal boundary has its own organizational threshold, written **R★** (said “R star”). [The Shape of Persistence](https://philarchive.org/rec/PORTSO-18) identifies geometry as one contributor to the value of R★ within a declared system and scale. An operational R★ must be estimated from an independently specified transition and tested on new observations for the declared system. When the requisite coupling and geometry are present at that threshold, carried organization becomes stable enough to function as a coherent local causal interior. This is called crossing the **coherence threshold**. In the proposed account, R ≥ R★ identifies the boundary-forming regime **when the declared coherence, coupling, and selective-maintenance conditions are present**. The numerical threshold is calibrated for the specified organization and tested against its independently measured transition. [The Porter Ratio](https://philarchive.org/rec/PORTPR-5) develops that proposal, and [Awareness Where Time Concentrates](https://philarchive.org/rec/PORAWT) calls the underlying persistence relationship the **Porter balance**.
-
-R = 1 separates revision dominance from maintenance dominance. R★ is the proposed, separately estimated threshold associated with a demonstrated transition into causal interiority, rather than a universal value deducible from the ratio. R★ belongs to a declared system, organizational variable, scale, and interval. A forming idea, a neural population, and a whole organism can each be examined for transitions of this form, but a boundary-forming threshold should be demonstrated at each scale rather than assumed from the comparison alone.
-
-The comparison holds for any material. Wherever the same organization preserving and organization revising rates can be identified, the same balance can be asked. The Law of Self Maintained Invariance calls this substrate independence.
+Where ordered causal flow, reflection, and recirculation reinforce continuing distinctions, the interacting organization maintains a boundary through which later events are selectively received. Earlier structures then shape later arrivals through that ongoing interface.
 
 #### An example: branching
 
@@ -3753,37 +3586,9 @@ In an experiencing nervous system, phenomenal experience is the intrinsic charac
 
 #### The click, measured
 
-[Aleph Harmonic Qualia: The Dynamical Click of Coherence](https://philarchive.org/rec/PORAHQ-8) defines AHQ as a dynamical event: “the felt click of insight or recognition is the phenomenal form of a rapid transition from distributed relational activity to a reusable collective state.” The paper names four transition criteria for that crossing.
-
-**1. Effective dimensionality drops.** Brain activity across many cells can be described as a point moving through a space with one direction per recorded cell. The participation ratio, D_PR, counts how many directions the activity actually uses. It is computed from how much the activity varies along each direction:
-
-D_PR = (sum of the variances)² / (sum of the squared variances)
-
-If the activity varies equally along 10 directions, D_PR = 10. If nearly all of it runs along one direction, D_PR is close to 1. The prediction is a rapid, time locked fall in D_PR at the moment of insight, like the branching trails tightening into one loop.
-
-**2. Harmonic coordination rises.** The proposal predicts stronger coordination among participating rhythms, possibly through stable relationships between their phases. For n phases subject to r *independent, exact, regular constraints*, the local phase manifold has n − r degrees of freedom. Ten phases with three such constraints have seven. Measured phase-locking strength does not automatically establish how many exact constraints exist, and that phase-space result does not prove a decrease in population covariance dimensionality. AHQ predicts that these distinct measurements change together around the click.
-
-**3. The new relation crosses a local maintenance threshold.** The proposed Porter Ratio of the reorganized collective state reaches a predeclared, event-specific threshold, here distinguished as **R★(insight)**, associated with retention and later reuse. The relevant organization, restoration process, and disruption process must be specified. This local reorganization takes place *within* an already phenomenal interior. R★(insight) is not the boundary-forming R★ for the entire experiencing system, and neither value is supplied by the ratio's algebra.
-
-**4. The new state lasts and is reused.** The collective state persists for at least a set length of time and returns in later thinking. A method that solves one problem gets used on the next.
-
-The four parts are scored together on each trial. A drop in dimensionality and a rise in coordination must each pass a threshold fixed in advance; the relevant local R must reach the prespecified R★(insight); and the new relationship must persist and prove reusable under a declared test. Meeting all four defines a candidate AHQ event under this operational proposal, which can then be compared with independently collected reports of insight.
-
 Read together, the two insight papers describe two sides of one event. The organization that kept the question separate loses coherence and dissolves. The new organization that joins the pieces gains coherence and crosses the threshold.
 
 Consequential history supplies the temporal content of the click. Earlier relations remain causally active through the organization they helped produce, and the click makes them available together.
-
-The paper proposes two measures for that history, once an experimental method has estimated each earlier source's causal contribution and lag. Each source j is assigned a normalized nonnegative share p_j of the estimated causal contribution, and a lag τ_j indicating how long ago it acted. **Causal ancestry depth** is the contribution weighted average lag, how far back the click’s causes reach:
-
-D_CA = Σ p_j τ_j
-
-**Effective historical multiplicity** is the effective number of distinct sources:
-
-N_CI = exp(−Σ p_j ln p_j)
-
-Four sources contributing equally give N_CI = 4. One source doing nearly all the work gives N_CI close to 1. A click can therefore have a compact present state and a deep, many source history at the same time, which is temporal concentration in measurable form.
-
-The last piece is the link to experience. A trial level test compares the reported click with the measured dynamical transition. The empirical claim gains support when the reported moment and the independently measured event align across trials using thresholds fixed in advance.
 
 #### Insight becomes history
 
@@ -3860,18 +3665,6 @@ The formation of the boundary and the formation of the interior are the same thr
 Recursive availability comes later in organizational depth. It makes the already phenomenal interior increasingly available within its own activity, supporting self legibility, richer access, and reflective forms of consciousness.
 
 This identity claim becomes empirically structured because boundary formation, historical contribution, accessibility, integration, causal reentry, and recursive availability can be measured separately. In an experiencing sensory-feedback system, the phenomenal character belongs to the continuing organization sustained through its boundary, while the later measures describe how deeply that interior organizes and accesses its own carried history.
-
-### What the papers measure
-
-Each step comes with a test.
-
-- **Persistence:** measure λ_self and λ_env separately and check whether R predicts recovery, route reuse, and dependence on prior state (Branching as Active Inheritance).
-- **Interior and coherent boundary:** check whether retained history improves prediction beyond present state and environment, whether a coherent local boundary forms at the declared threshold, and whether continuity of retained propagation tracks the resulting interior organization.
-- **Awareness and time:** control a system’s prehistory, identify the physical carrier of retained history, and test whether the present state feeds back into the next one (Awareness Where Time Concentrates, [New Bodies, Old Capacities](https://philarchive.org/rec/PORNBO-2)).
-- **Structure and possibility:** count what each description of the Period Lattice keeps, and find the smallest description that still predicts the next change (The Period Lattice).
-- **Insight:** look for a time-locked drop in effective dimensionality, a rise in harmonic coordination, the local R reaching the independently set R★(insight), and later reuse of the new state; compare those measurements with the person's report of a click. This event-specific threshold belongs to a reorganization within ongoing experience; the larger system's R★ concerns the formation of its causal boundary and interior (Aleph Harmonic Qualia).
-- **Patrons:** track recurrent symbolic patterns across time and test whether prior recurrence predicts faster recognition, broader associative recruitment, and more stable return of the same organized meaning.
-- **THIR:** measure the stabilization of relational fit between structured input and carried history through increasing recognition stability, reduced uncertainty, and later reuse of the resulting organization.
 
 ---
 
@@ -4001,14 +3794,6 @@ One proposed signature is a drop in effective dimensionality as participating pr
 
 The ratio R = λ_self / λ_env expresses restoration of a declared organization relative to its disruption. A coherent, history-bearing interior has its own system-specific threshold R★. A local insight event may produce a new stable whole within that existing interior; its threshold and observable dynamics must be operationalized rather than assumed identical to the threshold at which the entire phenomenal interior first formed.
 
-### Testing the analogy rather than merely repeating it
-
-The analogies motivate measurable questions. Experiments can compare neural or cognitive dynamics immediately before, during, and after independently identified insight events. Effective dimensionality, cross-process coordination, stability of the resulting pattern, and subsequent reuse can be measured alongside behavior and reported experience.
-
-A strong test would ask whether the combination predicts insight better than simpler measures such as task accuracy, activity level, or synchronization alone. It would also look for counterexamples: dimensional contraction without insight, and insight without the predicted contraction.
-
-Those cases matter because the central proposal concerns a particular organizational transition. The theory becomes clearer when its expected signature can fail.
-
 ### What the two pictures reveal together
 
 Still water illustrates how an existing medium can become perceptible through a change in its organization. The ant death spiral illustrates how a distributed behavioral rule can become conspicuous when collective activity concentrates into a restricted pattern. Neither system is being treated as a miniature human mind.
@@ -4125,16 +3910,6 @@ The question and its answer can become fully clear at the same moment because th
 The newly coordinated relation can become a locally self-maintaining whole within the larger system, able to guide later recognition and inference in ways its separate components could not. The event-specific stability threshold for that new understanding is distinct from the threshold at which the experiencing interior originally formed.
 
 Insight is one event within continuing awareness. Its newly accessible relation becomes consequential history when it changes future interpretation, prediction, or action.
-
-### What the hypothesis predicts
-
-The physical components of the account can be examined using controlled histories, identified physical carriers, matched sensory conditions, and interventions on retained states.
-
-If an earlier experience is causally consequential, changing the present carrier of that experience should alter later outcomes in a predicted way. When two conditions have the same measured present variables but different retained carriers, their complete physical states are different. The additional carrier is part of the causal explanation.
-
-Temporal depth can be estimated by attributing portions of current activity to sources at different earlier times. Integration can be investigated by asking whether these contributions jointly constrain one collective state. Recursive availability can be tested by perturbing the process through which a current representation affects later regulation or recognition.
-
-The physicalist identity connects lived experience with the continuing sensory and informational organization of an experiencing interior. Reports of experience guide the measurements of history-bearing activity, integrated boundaries, and recursive access. Tests of historical dependence identify the specific carriers and processes through which that organization continues.
 
 ### A present with its own continuing history
 
@@ -4368,26 +4143,6 @@ At each scale, the operational question is whether the relevant coherent boundar
 Recursive availability is a later or additional property: history already carried by the organization becomes accessible within processes that affect how the organization continues. Greater depth can involve more temporal ranges, more differentiated constraints, and more possibilities for self-regulation.
 
 A system could maintain a stable local boundary yet have little recursive access to its own internal activity. Another could integrate several levels of retained history in ways that alter future interpretation or behavior. The degree and character of that accessibility should be measured independently from the maintenance ratio.
-
-### A cross-scale experiment
-
-A useful comparison might begin with individually measured cellular recovery, then examine how coupling among those cells affects a collective tissue-level response. The cellular variables would be held as comparable as possible while the strength or arrangement of coupling is manipulated.
-
-Measurements should identify whether the resulting tissue has a response that persists beyond the individual components' immediate changes and whether perturbing one region changes recovery across the collective. An additional test can determine whether a retained tissue-level state alters the later response of its constituent cells.
-
-That last test matters for recursive organization. If the collective state changes local processing, the relationship is not merely upward aggregation from parts to whole. Feedback from the collective becomes a physically realized condition of the next local transition.
-
-A stronger comparison would also disrupt selected links among the cells while leaving their individual restoring capacities as similar as possible. If the collective response loses its stability or selectivity even though the cells still recover individually, coupling is doing identifiable causal work. Tests should then ask whether disrupting a proposed collective boundary changes its selective response to outside perturbations while leaving some local functions intact. That distinguishes a maintained higher-level interface from coordination observed only inside the system. If the same collective outcome can be predicted from independent cellular recovery alone, the proposed larger-scale organization has not yet shown that it adds an explanatory level.
-
-The relevant analysis would compare the predictive value of the larger-scale ratio with the cellular ratios, coupling strength, geometry, and alternative descriptions. A distinct collective R★ would require a separately measured boundary transition rather than being inferred from the appearance of larger correlations. Measurements at both local and collective scales should also determine whether their transitions occur separately, overlap, or influence each other's onset. That comparison can reveal a newly maintained collective process rather than merely redescribe its already organized components.
-
-### What the scaling hypothesis predicts
-
-The proposal anticipates that some increases in organized coupling will be accompanied by longer-lived collective states and more extensive causal integration. It further predicts that retained collective activity can begin conditioning local interactions when recursive feedback becomes effective.
-
-Those predictions are not guaranteed for every coupled network. Strong coupling can also produce instability, excessive uniformity, or destructive feedback. Critical slowing, growing correlation length, or expanding temporal integration may occur near some dynamical transitions but need not accompany every possible R★.
-
-The hypothesis gains strength when specified measurements predict the emergence of a coherent collective organization in new data, rather than merely giving familiar names to a system's already observed behavior.
 
 ### One form, distinct physical achievements
 
@@ -4635,16 +4390,6 @@ The patron's return and the formation of a new whole are different transitions. 
 
 The process is recursive. Meaning built by earlier encounters shapes a new recognition, and the new recognition changes the meaning available to future encounters.
 
-### Can patrons be tested?
-
-A patron can be operationalized prospectively rather than identified only after the fact.
-
-A study could first document recurrent symbolic patterns across an earlier observation period, using preregistered coding rather than selecting only memorable coincidences. Later encounters with those patterns could then be compared with matched novel patterns and equally familiar but less personally meaningful cues. The predictions would be faster recognition, broader recruitment of associated memory, greater stability of interpretation, and a higher probability of returning to the same relational organization later.
-
-History can also be manipulated. Repetition, emotional salience, contextual association, and retrieval practice can be varied independently. Their effects can be measured through recognition latency, associative breadth, return probability, persistence, and transfer to new contexts.
-
-The Porter Ratio can be applied only if the relevant symbolic organization and both rates are defined clearly. A high rate of return to a symbol is not automatically a high restoration rate for an organizational variable. The measurement would have to distinguish reactivation of retained structure from mere frequent exposure. λ_self would represent restoration or reactivation of that organization. λ_env would represent competing activity or contextual revision of the same organization. Whether the ratio predicts patron persistence better than simpler measures is an empirical question.
-
 ### A cue does not contain its entire history
 
 A small present cue can recruit much more organization than the information physically contained in the cue itself. A few notes identify a familiar melody because the remaining pattern is already supported by learned relationships. A photograph can evoke a place, but the remembered place and the emotions attached to it depend on the person's present organization.
@@ -4763,18 +4508,6 @@ This also explains why two people can receive the same event very differently. T
 
 Recognition is therefore never only a property of the stimulus. It is a property of the encounter between stimulus and carried organization.
 
-### How THIR could be measured
-
-A clean experiment holds present input as closely matched as possible while varying the history carried by the receiving system.
-
-Familiarity, prior learning, rhythmic expectation, contextual priming, or patron strength can alter the receiving organization before the same structured input arrives. The forming interface can then be tracked through recognition latency, confidence, trajectory convergence in state space, reduction in uncertainty, cross-process coordination, and persistence of the recognized configuration.
-
-The central prediction is that better-measured compatibility between present structure and relevant carried history will predict faster or more stable interface formation under comparable conditions. Compatibility should be defined independently of the recognition result, for example by a trained model of prior feature relations or a controlled learned association. Otherwise the observation that recognition stabilized would simply be used to redefine the input as compatible, making the proposal circular. Very strong expectations can also produce premature or mistaken recognition, so stability and correctness should be measured independently.
-
-A second measurement asks what happens afterward. If the stabilized relation is reused, affects later recognition, or changes subsequent choices, it has entered consequential history.
-
-A third measurement compares this stabilization with AHQ. The crucial control is a trial where a familiar pattern becomes recognizable smoothly without a reported click. If THIR and AHQ are distinct mechanisms, some such trials should show stable recognition without the joint dimensional, coordinative, and retained-reuse signature proposed for AHQ. Where a reported click is relevant, trial-level timing can test whether the experienced crossing occurs when the relation passes from stable interface to jointly available reusable whole.
-
 ### Where THIR fits within continuing interiority
 
 THIR describes a local stabilization of recognition within a continuing history-bearing system. The coherence threshold R★ concerns the formation of the coherent causal boundary that sustains the larger interior; in an experiencing nervous system, that interior carries lived sensory and informational activity. THIR occurs **within** its operation when an arriving pattern and retained organization stabilize into a local interface.
@@ -4784,12 +4517,6 @@ That distinction keeps the architecture ordered.
 The system already has an interior boundary. Consequential history already exists. The active boundary already receives events through that history. THIR names one way a particular arrival can stabilize in relation to it. AHQ names the stronger local crossing through which the relation becomes a new reusable whole.
 
 The threshold for a new reusable relation must be evaluated within the already functioning interior. It is distinct from R★ when that symbol names the independently measured boundary-forming threshold of the encompassing system. Nested local reorganizations can therefore contribute to richer understanding without being mistaken for repeated beginnings of consciousness.
-
-### A failure condition for the interface claim
-
-An operational THIR model should identify when the input–history relation begins to stabilize, how strongly it resists perturbation, and how much of its organization is retained afterward. If trials labeled THIR show no reproducible stabilization beyond ordinary perceptual categorization, then the term has not yet added a measurable mechanism.
-
-Conversely, if the same stabilization pattern predicts later processing under changes of context and prehistory, the interface has a concrete explanatory role. The finding still would not establish a new phenomenal boundary. It would show how a local relation becomes maintained within an already functioning history-bearing system.
 
 ### The larger continuity
 
@@ -4814,16 +4541,6 @@ The claim is not that every act of regulation should be called care. The more sp
 Care begins there. The term names a minimal causal organization of preservation within this framework. Its later emotional and ethical meanings require further capacities, including experience, evaluation, attachment, and reflective responsibility.
 
 ### Persistence depends on more than what is inside
-
-The Law of Self Maintained Invariance begins with a simple comparison:
-
-R = λ_self / λ_env
-
-λ_self measures the effective rate at which a declared organization is maintained, restored, reinforced, or carried forward. λ_env measures the rate at which surrounding interaction revises or disrupts that same organization.
-
-For λ_env > 0, R > 1 means that the selected organization's measured maintenance exceeds the specified disruption. When inherited organization supplies that maintenance, consequential history becoming the dominant maintaining influence is the same change in balance relative to the specified disruption. The ratio expresses the change in relative strength. The system's carried organization identifies the history doing the maintaining, while the supporting relations it preserves can be traced through their effects on continued regulation, recovery, and later behavior.
-
-Some of the processes contributing to λ_self can occur inside the system. Others depend on relations that cross the boundary.
 
 A cell depends on nutrients and chemical conditions outside its membrane. A multicellular body depends on neighboring cells, coordinated signaling, circulation, and repair. An animal can depend on warmth, shelter, food, orientation, and social regulation. A person can depend on relationships, practices, places, tools, institutions, and meanings that participate in continued organization across time.
 
@@ -4930,20 +4647,6 @@ That is a deep present directed toward continuation.
 The present carries what has supported the system before. It uses those inherited relations now. Its action changes which relations will remain available afterward.
 
 Care therefore joins consequential history, temporal concentration, ostiary selection, and causal reentry in one directed organization.
-
-### How the idea can be tested
-
-The minimal claim can be operationalized without assuming reflective emotion.
-
-First identify a supporting relation and measure whether it contributes to restoration or continued organization. Then perturb access to that relation and observe whether the system acts to preserve, restore, approach, or reestablish it. Finally, manipulate or compare the system's history and ask whether accumulated dependence increases the specificity, speed, or precision of that maintenance.
-
-A clean causal sequence would be:
-
-**supporting relation → measurable contribution to restoration → retained history of dependence → selective preservation of the relation → improved continuity**
-
-A proper control must separate retained history from immediate attraction to a currently available reward. Prior experience can be varied while present opportunities are matched, and a candidate current memory or regulatory carrier can be manipulated to test causal influence.
-
-If history makes no difference, the stronger care claim has not been shown. If the relation does not contribute to continuation, it is not a supporting relation in this operational sense. Nor has selective care been demonstrated when identical behavior occurs regardless of which relation actually supports the system.
 
 ### Enduring care and changing feelings
 
