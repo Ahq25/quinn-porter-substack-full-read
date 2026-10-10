@@ -80,7 +80,7 @@ Second, some transitions may show increasing sensitivity, fluctuation, or longer
 
 Third, a reported moment of recognition may be preceded by an interval in which distributed relationships become increasingly constrained or stabilized. The experience of a sudden click can occur after earlier organization has already been developing. That is a prediction about time-resolved dynamics, not a claim that all recognition events must share one measurable precursor.
 
-These expectations allow continuity to be investigated rather than simply praised as a universal virtue. Evidence can show that it helps explain some transitions, fails in others, or requires a more precise operational definition.
+Continuity becomes an operational variable when the causal contribution of earlier organization can be measured separately from complexity, memory capacity, and duration. Evidence can show that it helps explain some transitions, fails in others, or requires a more precise operational definition.
 
 ### Continuity, accessibility, and the interior
 
