@@ -836,11 +836,7 @@ Awareness Where Time Concentrates uses four ideas that recur across these papers
 
 **Active inheritance** is the continued causal participation of earlier organization within later organization. The carrier can change while the consequence continues. A history can pass from a chemical signal to a gene to a protein to a tissue, and the chain of causes holds the whole way.
 
-The **Porter balance** is the persistence condition. It compares how fast a system restores its own organization (λ_self) with how fast the environment disrupts it (λ_env), written
-
-R = λ_self / λ_env
-
-At R = 1 the two rates balance. Where active inheritance supplies maintenance above that balance, consequential history is the stronger maintaining influence over the specified disruption. At the further system-specific coherence threshold R★, coupled and selectively maintained activity establishes a continuing causal boundary through which later events are received.
+The **Porter balance** is the persistence condition. It compares how fast a system restores its own organization with how fast the environment disrupts it.
 
 The **ostiary condition** holds when inherited organization becomes part of the rule by which new events are selectively admitted, transformed, and incorporated. An ostiary is a doorkeeper. Under this condition, carried history becomes the gate on new arrivals.
 
@@ -903,20 +899,6 @@ The present, in the analogy, is the departure window of a platoon: the few secon
 Meanwhile, the number of earlier lights whose consequences that window carries keeps growing. One light at the first intersection. Two at the second. Five at the fifth.
 
 So the amount of distinct history active in the present grows, and the length of the present stays roughly fixed.
-
-[Aleph Harmonic Qualia: The Dynamical Click of Coherence](https://philarchive.org/rec/PORAHQ-8) gives two measures that fit this picture. Give each earlier source a share p of the effect and a lag τ, how long ago it acted. **Effective historical multiplicity** is the effective number of distinct sources:
-
-N_CI = exp(−Σ p ln p)
-
-**Causal ancestry depth** is the share weighted average lag:
-
-D_CA = Σ p τ
-
-Suppose the five lights are one minute apart and each one contributes equally to the platoon’s timing. Then N_CI = 5, and
-
-D_CA = (1 + 2 + 3 + 4 + 5) / 5 = 3 minutes
-
-The departure window still lasts a few seconds. Both numbers grow as the platoon passes more lights.
 
 ### What stays the same: physical time
 
@@ -1043,7 +1025,7 @@ The event stays fixed and the result changes, so the system’s own built up org
 - The platoon’s departure window, the few seconds in which the group leaves, is the present.
 - The number of earlier lights whose effects the platoon carries is the amount of history active in that present.
 
-The departure window stays about the same length at every light. The number of lights whose effects it carries grows: one, then two, then five. History grows and the present holds its length. [Aleph Harmonic Qualia: The Dynamical Click of Coherence](https://philarchive.org/rec/PORAHQ-8) measures this with the effective number of historical sources, N_CI, and their weighted average lag, D_CA. Five lights contributing equally give N_CI = 5.
+The departure window stays about the same length at every light. The number of lights whose effects it carries grows: one, then two, then five. History grows and the present holds its length.
 
 Every clock along the road ticks at the ordinary rate, and the cars drive at ordinary speeds. Physical time runs as usual. What concentrates is history. So the phrase **awareness is where time concentrates** means that many consequences from different times become active together inside one organized present.
 
@@ -1081,7 +1063,7 @@ In a nervous system, fast nerve signals feed into slower collective states, and 
 - The same ants following the same rule throughout show that the change lies in how the interactions are organized.
 - Each lap renewing the trail for the next lap is the self sustaining loop.
 
-The circle is also easy to see, and this links the ants to the water. The paper [Stillwater and Death Spirals](https://philarchive.org/rec/PORSAD-3) states the shared principle: **structure enters the regime of perception at the moment it organizes or concentrates into a stable form.** Insight is the internal expression of that transition, when a pattern becomes coherent enough to sustain itself and be recognized. The spiral also pictures a testable prediction in [Aleph Harmonic Qualia](https://philarchive.org/rec/PORAHQ-8): insight comes with a rapid drop in the effective dimensionality of brain activity, together with stronger harmonic coordination, a rise in the Porter Ratio of the new state past its threshold R★, and later reuse of that state.
+The circle is also easy to see, and this links the ants to the water. The paper [Stillwater and Death Spirals](https://philarchive.org/rec/PORSAD-3) states the shared principle: **structure enters the regime of perception at the moment it organizes or concentrates into a stable form.** Insight is the internal expression of that transition, when a pattern becomes coherent enough to sustain itself and be recognized.
 
 ### The orchid and the pollinator
 
@@ -1105,7 +1087,7 @@ Read together, the pictures trace one sequence: earlier activity leaves an organ
 
 **History persists.** The scar and the river channel show the past still at work through present structure. That is consequential history, carried forward by active inheritance.
 
-**History is maintained.** The **Porter Ratio**, R = λ_self / λ_env, compares how fast a system restores its own organization (λ_self) with how fast the environment disrupts it (λ_env). At R = 1 the two balance; where inherited organization provides the maintenance, crossing above 1 means consequential history is the stronger maintaining influence over the specified disruption. One way to picture this is writing a message in the sand. At the water’s edge, each wave washes the message away. On higher sand, you keep up with the occasional wave, and the message lasts. Above R = 1, earlier organization survives strongly enough to help cause later organization. The further coherence threshold R★ belongs to the declared system, scale, and interval: when sustained coupling and selective interaction form a real causal boundary, they establish an interior whose nature follows the organization carried forward.
+**History is maintained.** One way to picture this is writing a message in the sand. At the water’s edge, each wave washes the message away. On higher sand, you keep up with the occasional wave, and the message lasts.
 
 **Ordered history establishes an interior boundary.** Continuing causal pathways, reflection, and recirculation support a distinction that becomes self-maintaining. At R★, this organization is sufficiently coherent to form an active causal boundary and interior. The boundary is the real interface between an inside and its outside. The interior consists of the organization carried through that interface: regulatory and chemical activity in a cell, or sensation, bodily feedback, memory, and perception in an experiencing nervous system. The two cells and the sentence show how an arrival takes on its particular consequence through the history of the organization receiving it.
 
@@ -3791,8 +3773,6 @@ AHQ names the phenomenal crossing between those organizational regimes. The prop
 For AHQ, the relevant change includes the formation of a **reusable** collective relation. Previously distributed activity becomes organized strongly enough for the resulting whole to participate in future recognition, prediction, thought, or action.
 
 One proposed signature is a drop in effective dimensionality as participating processes become jointly constrained. Another is increased coordination among those processes. A third is persistence beyond the initial click, shown by later reuse of the recognized relation.
-
-The ratio R = λ_self / λ_env expresses restoration of a declared organization relative to its disruption. A coherent, history-bearing interior has its own system-specific threshold R★. A local insight event may produce a new stable whole within that existing interior; its threshold and observable dynamics must be operationalized rather than assumed identical to the threshold at which the entire phenomenal interior first formed.
 
 ### What the two pictures reveal together
 
