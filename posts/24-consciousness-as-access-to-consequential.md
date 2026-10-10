@@ -96,16 +96,6 @@ The newly coordinated relation can become a locally self-maintaining whole withi
 
 Insight is one event within continuing awareness. Its newly accessible relation becomes consequential history when it changes future interpretation, prediction, or action.
 
-### What the hypothesis predicts
-
-The physical components of the account can be examined using controlled histories, identified physical carriers, matched sensory conditions, and interventions on retained states.
-
-If an earlier experience is causally consequential, changing the present carrier of that experience should alter later outcomes in a predicted way. When two conditions have the same measured present variables but different retained carriers, their complete physical states are different. The additional carrier is part of the causal explanation.
-
-Temporal depth can be estimated by attributing portions of current activity to sources at different earlier times. Integration can be investigated by asking whether these contributions jointly constrain one collective state. Recursive availability can be tested by perturbing the process through which a current representation affects later regulation or recognition.
-
-The identity between such organized physical conditions and lived experience requires further investigation beyond these operational tests. A reported experience can guide measurement, but the existence of history dependence alone does not demonstrate phenomenal interiority.
-
 ### A present with its own continuing history
 
 The proposal connects three physical achievements without treating them as synonyms. Persistence allows prior organization to remain causally effective. Coherent boundary formation establishes the proposed intrinsic condition of experience. Recursive availability allows more of the interior's consequential history to participate jointly and to influence its own continuation.
