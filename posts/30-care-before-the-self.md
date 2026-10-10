@@ -7,7 +7,7 @@
 
 A system can preserve what supports its continuation before it can represent itself as a self. That is the starting point of **Care Before the Self**.
 
-The claim is not that every act of regulation should be called care. The more specific idea is that a system can become organized around preserving **relations that preserve the system**, including relationships whose supporting role was established through earlier encounters. When the history of dependence on a supporting relation changes what the system later approaches, restores, protects, or maintains, continuation has acquired a relational direction.
+Care has a minimal causal form when a history-bearing system selectively preserves relationships that contribute to its own continuation. Earlier dependence makes those relationships consequential to present regulation and later action. When the history of dependence on a supporting relation changes what the system later approaches, restores, protects, or maintains, continuation has acquired a relational direction.
 
 Care begins there. The term names a proposed minimal causal organization of preservation. Its later emotional and ethical meanings require further capacities, including experience, evaluation, attachment, and reflective responsibility.
 
@@ -95,7 +95,7 @@ The physical relation has not disappeared when richer forms emerge. It has becom
 
 Those layers can also become new self-maintaining wholes. Cells may preserve exchanges that sustain coordinated tissue activity, while the tissue's continuing organization changes what its cells need and how their activity is regulated. At another scale, an organism can preserve relationships with its surroundings that help maintain the larger whole. Each genuine organizational threshold can establish new collective capacities and new dependencies worth preserving. Several levels may remain active or undergo related transitions in overlapping periods, without requiring their distinct thresholds to occur at precisely the same instant.
 
-An infant's regulatory dependence, an animal's learned return to a safe place, and an adult's reflective commitment are not identical phenomena. The framework does not collapse them into one thing. It treats them as increasingly deep organizations built on the same general causal form: history teaches the system which relations participate in its continuity, and that history changes how later activity is directed.
+Infant regulation, learned animal behavior, and reflective human commitment express different levels of organization. Their common causal form is the preservation of relationships whose earlier consequences continue influencing present activity.
 
 ### Care, patrons, and meaning
 
