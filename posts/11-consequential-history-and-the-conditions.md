@@ -96,9 +96,9 @@ This reveals a limit that belongs to the wider argument. **Causal continuity doe
 
 ### The scope of the principle
 
-Consequential history is a candidate general condition of persistence because a continuing organized system depends on causal connections between its successive states. The form of continuity is broad. It can appear as a retained channel, a regulated state, a developing tissue, or a learned relationship.
+A continuing organization depends on causal connections between successive states. The consequences carried through those connections constitute its consequential history. The form of continuity is broad. It can appear as a retained channel, a regulated state, a developing tissue, or a learned relationship.
 
-That generality is useful only when the carriers and effects can be identified for the case at hand. Consequential history should not be treated as a substitute for explaining an actual mechanism. It directs attention to the physical question that needs answering: **which earlier organization is still changing what happens now, and through what current structure does it act?**
+Consequential history is physically identified by the present structure carrying an earlier consequence and by the effect that structure has on what happens next. It directs attention to the physical question that needs answering: **which earlier organization is still changing what happens now, and through what current structure does it act?**
 
 Persistence, identity, recognition, and understanding can then be examined as related but distinct forms of causal organization. The past contributes to continuation; its carriers change how arrivals are received; sufficiently organized interactions can establish a coherent interior; and deeper access can make parts of that history recognizable within experience.
 
