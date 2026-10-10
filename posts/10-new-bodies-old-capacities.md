@@ -66,6 +66,18 @@ A clear result would separate several possibilities. If conditioning has no surv
 
 In every case the important issue is causal interpretation. The experiment is a proposed design, not an already demonstrated effect of preconditioning on Xenobot acoustics.
 
+### Separating inherited capacity from collective arrangement
+
+The acoustic-response case raises a question that can be investigated directly: how much of a new body's behavior comes from conditions carried by its cells, and how much depends on the way those cells have been assembled?
+
+One group of cells could receive a controlled mechanical preparation before assembly, while another receives a different preparation. Cells from each group would then be assembled into more than one carefully specified arrangement. Each new body would receive the same test stimulus, and its movement or other response would be measured by the same procedure. Repeated preparations would make it possible to distinguish systematic effects from variation during assembly.
+
+The revealing result would be an interaction between the earlier cellular condition and the later body shape. Suppose the preparation changes collective movement strongly in one arrangement but has little effect in another. That would indicate that an inherited condition becomes effective through a particular new configuration. If the response follows body arrangement regardless of preparation, the effect would lie mainly in the collective organization. If the response follows preparation across arrangements, the earlier cellular condition would have a different, more direct influence.
+
+The carrier of that history could also be investigated. Cytoskeletal orientation, gene regulation, membrane condition, and cell-to-cell coupling offer different possibilities. Identifying a retained change and deliberately altering it after assembly could determine whether it is causally involved in the later response.
+
+This is a proposed experimental design. Existing work on Xenobots and Anthrobots motivates the comparison; the particular effect of controlled cellular preparation would have to be demonstrated by the experiment itself.
+
 ### The deep present of a newly formed organism
 
 A newly assembled body has an age measured from its assembly, but the causal history of its components is much older. Its immediate physiological state depends on recent encounters, its cells carry developmental histories, and the mechanisms those cells use have evolutionary ancestry.
