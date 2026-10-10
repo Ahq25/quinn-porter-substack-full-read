@@ -52,7 +52,7 @@ Within the spiral, movement becomes increasingly confined to one repeating cours
 
 That is the proposed relevance of **dimensional contraction** to insight. Relations that had varied across separate processes may become constrained by one higher-order organization. The resulting whole can have fewer effective degrees of freedom than the distributed activity from which it formed.
 
-This is a dynamical claim, not a claim that physical space literally loses dimensions. Effective dimensionality concerns the independent variations needed to describe the activity. It has to be measured, and a dimensional reduction should not be assumed every time a recognizable pattern appears.
+Effective dimensionality measures the number of independent variations participating in the system's activity. As movement concentrates into the ant spiral, fewer independent patterns of collective movement are required to describe its continuing organization. It has to be measured, and a dimensional reduction should not be assumed every time a recognizable pattern appears.
 
 The spiral is compelling because it makes an already-active rule conspicuous. It shows a rule through the collective pattern the rule produces.
 
@@ -86,7 +86,7 @@ Insight therefore has both an ending and a beginning: an old separation ceases t
 
 ### AHQ and the click of coherence
 
-AHQ names the phenomenal crossing between those organizational regimes. The proposal is not that every synchronization event produces understanding. Coordination alone can be shallow, repetitive, or pathological, as the ant spiral makes especially clear.
+AHQ concerns the formation of an integrated relationship that remains available for subsequent recognition and use. Synchronization may participate in that event, while the defining organizational achievement is the newly reusable whole.
 
 For AHQ, the relevant change includes the formation of a **reusable** collective relation. Previously distributed activity becomes organized strongly enough for the resulting whole to participate in future recognition, prediction, thought, or action.
 
