@@ -50,30 +50,6 @@ The shape seen from outside and the network's internal connectivity are therefor
 
 Changing dimension does not remove consequential history. It changes the paths along which earlier structure can influence later activity. The central causal question survives the change of geometry, but the quantities needed to describe the actual organization may change.
 
-### The Porter Ratio as a measure of maintenance
-
-To compare persistence under perturbation, the paper introduces the Porter Ratio:
-
-R = λ_self / λ_env
-
-The first term measures the effective rate at which a declared organization is maintained, restored, reinforced, or reliably propagated. The second measures the rate at which interacting conditions revise or disrupt that same organization. Both must describe the same variable, timescale, and compatible units. The ordinary quotient is defined for a positive disruption rate.
-
-At R = 1 the measured rates are equal. Sustained R > 1 identifies restoration dominance in the chosen two-rate description. This does not automatically establish a history-bearing boundary, because that also depends on the interactions, connectivity, internal reflection, and causal effects of the organization being preserved.
-
-In a root network, a candidate organizational measure might concern the stability and recovery of a declared branching topology after a controlled change in conditions. In an adaptive engineered network, the relevant property might be the maintenance of usable routes after repeated disruptions. In a river channel, preservation can involve retained landforms and continuing flow; the rate terms must be defined with care so that passive retention is not mislabeled as an internally acting restoration mechanism.
-
-A numerical value of R has meaning only in relation to the selected variable and procedure. A value taken from one network cannot simply be transferred to another as a universal threshold.
-
-### What a real comparison would measure
-
-Branching makes an unusually useful test bed because many historical consequences are spatially measurable. Channel locations, edge connections, diameters, route frequencies, and recovery times can be tracked before a disturbance, during the disturbance, and afterward.
-
-An experiment can first identify a particular organization and then measure its restoration and disruption rates independently. Those measurements produce R before the relevant outcome is scored. The outcome could be whether a route survives, whether a prior branch is reused, or whether the network returns to a previous topology.
-
-The comparison must include alternatives. Geometry alone may predict persistence because some paths are wider or shorter. Restoration rate alone may be sufficient. Disruption rate alone or the difference between the rates may work better than their ratio. The purpose of a prospective test is to determine whether the combined dimensionless comparison adds explanatory and predictive value.
-
-If the ratio predicts previously unseen outcomes after those other factors are accounted for, it acquires empirical significance beyond being a convenient summary of two known quantities.
-
 ### A controlled change of history
 
 One particularly revealing test would compare networks with similar current coarse geometry but different past perturbations. Earlier stress might have changed the internal capacities of individual paths, local growth tendencies, or conditions at particular junctions. Those differences can exist even when a simplified map looks nearly identical.
