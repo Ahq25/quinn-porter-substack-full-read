@@ -84,6 +84,18 @@ The research proposal can fail. If people consistently report clear insights wit
 
 Coherence by itself is not the same as a useful discovery. An ant death spiral can be tightly organized while trapping the ants in a destructive loop. A recognizable insight must also be evaluated by what it reveals and whether it can be used. The claim concerns the experienced formation of a reusable relationship, not a guarantee that every compelling realization is true.
 
+### What the physical click would have to show
+
+The click of insight is a recognizable experience that can be reported while a problem is being solved. AHQ offers a further physical hypothesis: near that moment, relationships that had been active separately become organized into a collective pattern that can endure and be used again. The proposed difference concerns how participating activity changes before, during, and after the click.
+
+Before an answer becomes available, several partly independent patterns may be contributing: an earlier attempt, a remembered clue, an unfinished comparison, or an expectation about what could fit. The proposed change gathers this activity into fewer effectively independent patterns. Neural recordings could test how many independent ways participating activity varies before and after a reported insight. This is a change in collective organization rather than a change in the number of physical dimensions or cells.
+
+A second question concerns coordination. Participating processes may develop more consistent timing relationships without becoming identical. Increased coordination and reduced independent variation are separate observations; the AHQ hypothesis predicts that they will appear together around insight more consistently than around ordinary shifts in attention.
+
+A third question concerns what survives the moment. A passing episode of coordination and an understanding that can be recalled tomorrow have different consequences. The proposed new relation must persist enough to change later thought. It can be examined through recall, use on another problem, or recognition of the relationship in a new setting. This is how a new whole becomes part of consequential history.
+
+The decisive test would follow problem-solving attempts through the period before the click, its reported arrival, and later use. The same measurements would accompany gradual solutions, mistaken answers that feel convincing, and moments of strong coordination without insight. If the combination of reduced independent variation, stronger coordination, persistence, and later reuse distinguishes the click more reliably than simpler measurements, it would support the proposed explanation. Clear insights without that combination, or that combination regularly occurring without insight, would challenge it. The reported experience and the proposed physical signature remain distinct kinds of evidence.
+
 ### What the click reveals
 
 The moment of insight makes a longer process suddenly recognizable. Earlier relationships have been shaping the present, but their combined meaning was not yet available. At the click, they form a coherent whole that can now participate in later thought.
