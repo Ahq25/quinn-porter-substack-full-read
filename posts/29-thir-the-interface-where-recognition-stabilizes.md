@@ -97,18 +97,6 @@ This also explains why two people can receive the same event very differently. T
 
 Recognition is therefore never only a property of the stimulus. It is a property of the encounter between stimulus and carried organization.
 
-### How THIR could be measured
-
-A clean experiment holds present input as closely matched as possible while varying the history carried by the receiving system.
-
-Familiarity, prior learning, rhythmic expectation, contextual priming, or patron strength can alter the receiving organization before the same structured input arrives. The forming interface can then be tracked through recognition latency, confidence, trajectory convergence in state space, reduction in uncertainty, cross-process coordination, and persistence of the recognized configuration.
-
-The central prediction is that better-measured compatibility between present structure and relevant carried history will predict faster or more stable interface formation under comparable conditions. Compatibility should be defined independently of the recognition result, for example by a trained model of prior feature relations or a controlled learned association. Otherwise the observation that recognition stabilized would simply be used to redefine the input as compatible, making the proposal circular. Very strong expectations can also produce premature or mistaken recognition, so stability and correctness should be measured independently.
-
-A second measurement asks what happens afterward. If the stabilized relation is reused, affects later recognition, or changes subsequent choices, it has entered consequential history.
-
-A third measurement compares this stabilization with AHQ. The crucial control is a trial where a familiar pattern becomes recognizable smoothly without a reported click. If THIR and AHQ are distinct mechanisms, some such trials should show stable recognition without the joint dimensional, coordinative, and retained-reuse signature proposed for AHQ. Where a reported click is relevant, trial-level timing can test whether the experienced crossing occurs when the relation passes from stable interface to jointly available reusable whole.
-
 ### What THIR does and does not claim
 
 THIR is not meant to replace the coherence threshold that establishes interiority. The framework places phenomenal onset at the formation of a coherent history-bearing causal boundary, R★. THIR occurs **within** the operation of such history-bearing systems when an arriving pattern and retained organization stabilize into a local interface.
@@ -118,12 +106,6 @@ That distinction keeps the architecture ordered.
 The system already has an interior boundary. Consequential history already exists. The active boundary already receives events through that history. THIR names one way a particular arrival can stabilize in relation to it. AHQ names the stronger local crossing through which the relation becomes a new reusable whole.
 
 The threshold for a new reusable relation must be evaluated within the already functioning interior. It is distinct from R★ when that symbol names the independently measured boundary-forming threshold of the encompassing system. Nested local reorganizations can therefore contribute to richer understanding without being mistaken for repeated beginnings of consciousness.
-
-### A failure condition for the interface claim
-
-An operational THIR model should identify when the input–history relation begins to stabilize, how strongly it resists perturbation, and how much of its organization is retained afterward. If trials labeled THIR show no reproducible stabilization beyond ordinary perceptual categorization, then the term has not yet added a measurable mechanism.
-
-Conversely, if the same stabilization pattern predicts later processing under changes of context and prehistory, the interface has a concrete explanatory role. The finding still would not establish a new phenomenal boundary. It would show how a local relation becomes maintained within an already functioning history-bearing system.
 
 ### The larger continuity
 
