@@ -3606,6 +3606,18 @@ Read together, the two insight papers describe two sides of one event. The organ
 
 Consequential history supplies the temporal content of the click. Earlier relations remain causally active through the organization they helped produce, and the click makes them available together.
 
+#### What a measurable click would involve
+
+The four-stage sequence reaches an event that can be reported directly: the sudden availability of an answer. That reported click gives an experiment a point around which to examine the physical activity taking place. AHQ proposes a particular change in the organization of that activity.
+
+Several measurements have different jobs. Before insight, participating neural activity may vary through numerous partly independent relationships. As understanding forms, the activity is predicted to become constrained by fewer collective relationships. Coordination among neural rhythms may also increase. These are distinct changes: a narrower range of independent variation and a more consistent relationship between the participating processes.
+
+The developing whole must also persist. The Porter Ratio offers a way to compare maintenance of a selected organization with the processes that disrupt it. At insight, the relevant stability concerns a new local relationship within an experiencing system whose larger interior is already continuing. The formation of that local understanding and the original formation of the encompassing interior are different organizational events.
+
+Finally, the relation needs a future. It may alter the next inference, be recalled later, or help solve a different problem. This is where the account of insight returns to active inheritance: the newly available whole helps organize what comes after it.
+
+An experiment could compare reported sudden insights, gradual solutions, convincing errors, and attention shifts. Independent variation, coordination, persistence, and reuse would be measured separately and then assessed together. The proposal gains support if their combination identifies reported insight and predicts later use better than simpler accounts. The click is a reported experience; the joint physical signature remains a hypothesis awaiting evidence.
+
 #### Insight becomes history
 
 The Ostiary Principle places AHQ at the point where an arrival becomes consequential for future recognition by being incorporated into continuity. After the click, the new relation is part of the system’s codebook. It shapes what gets recognized next. The insight has become consequential history, and the continuity returns to Step 1.
@@ -3667,6 +3679,20 @@ Each paper contributes something specific.
 - Patrons develops stable symbolic attractors as long lived regions of consequential history that organize recognition, memory, interpretation, creativity, and identity.
 - THIR identifies the stabilized interface formed when present structure and carried history enter coherent reciprocal constraint.
 - Care Before the Self places care at the relational root of self maintenance: preserving the conditions that preserve continuity.
+
+### How the four stages can be distinguished in evidence
+
+Each stage in the progression asks a different physical question. Those differences matter because a finding that establishes one kind of organization does not automatically establish the next.
+
+For **persistence**, identify which earlier organization still changes a later event. A retained channel, cellular regulator, or recurring network pattern is a candidate carrier. Changing that carrier while keeping the immediate conditions comparable can reveal its causal role. Maintaining and disrupting influences can then be distinguished for the selected organization.
+
+For **interiority**, look for a collective boundary with continuing, selective causal effects. Interacting processes would need to sustain the distinction through which arrivals are admitted, transformed, or excluded. Its proposed threshold would be located by observing the boundary-forming transition independently of the numerical rate comparison.
+
+For **awareness and time**, investigate how consequences originating at different moments become effective together. One experiment could vary controlled earlier conditions while matching immediate input, identify the retained carriers through which responses differ, and determine whether the resulting collective state changes the local processes that will produce the next state. This would demonstrate a history-conditioned, recursively organized present. Identifying such physical organization with lived awareness remains a further premise of the theory.
+
+For **insight**, compare the reported click with a predicted gathering, coordination, stabilization, and reuse of relationships that were previously distributed. A new understanding can be traced forward through the choices, interpretations, or later problems it changes.
+
+These separate outcomes keep the progression explanatory. A continuing trace establishes causal persistence. An independently maintained selective interface establishes a causal interior in the defined organizational sense. Jointly effective histories and feedback establish temporal organization. A newly reusable understanding supplies a distinct event to explain at insight. The measured connections among these achievements determine how strongly the larger account is supported.
 
 ### Why the sequence reaches experience
 
@@ -4158,6 +4184,26 @@ Recursive availability is a later or additional property: history already carrie
 
 A system could maintain a stable local boundary yet have little recursive access to its own internal activity. Another could integrate several levels of retained history in ways that alter future interpretation or behavior. The degree and character of that accessibility should be measured independently from the maintenance ratio.
 
+### A test from cells to tissue
+
+The formation of a larger organization can be investigated by beginning with cells that already maintain their individual condition and then asking what changes when those cells form a coupled collective.
+
+First, individual cells' recovery after a standard disturbance would be measured. Next, comparable cells would be arranged so that their ability to influence one another varies. The resulting collective response would be observed while the separate restoring capacities of the cells remain as comparable as possible. A tissue may coordinate recovery across an entire region even while each cell responds locally. That coordinated recovery is a candidate achievement of the larger organization.
+
+The next experiment would interfere with selected connections between the cells while preserving their individual functions as much as possible. If the collective response loses its stability or selectivity while the cells still recover individually, their coupling is doing identifiable causal work. A separate disturbance at the proposed tissue interface could reveal whether the collective regulates encounters with its surroundings through a maintained boundary.
+
+There is also a direction of influence back toward the parts. A collective state formed earlier may alter what a cell does when it later receives a stimulus. Changing a retained tissue-level condition and examining the next local response would test whether the collective has become part of the conditions governing its components. The whole would then be maintained through its parts while also influencing what its parts do next.
+
+These comparisons would distinguish a maintained collective process from a collection of cells that merely happen to respond together. The larger interface would have to be identified through its own continuing, selective interactions.
+
+### What the larger organization should predict
+
+A new organizational scale should have consequences measurable at that scale: a collective response that persists, recovery after a disturbance, history retained in the collective arrangement, and feedback through which that history changes later local activity. Its maintaining and disrupting processes would be measured for the collective organization itself. Individual cellular measurements cannot simply be added to produce a collective maintenance ratio.
+
+The key comparison is predictive. Does measuring the tissue's retained collective state improve predictions beyond individual cell states, coupling strength, and geometry? Does disrupting the coupling remove that advantage? Can the boundary-forming transition be identified in one set of observations and then predicted in another?
+
+The answer may differ across tissues and conditions. Strong coupling can produce effective integration, unstable oscillations, or an inflexible response. The framework concerns maintained organization with selective causal effects, a more demanding condition than simply moving together. A measured collective transition would establish an additional level of physical organization; its identification with phenomenal experience remains a further theoretical question.
+
 ### One form, distinct physical achievements
 
 The cross-scale account proposes continuity in explanatory form, not the replacement of biological detail by one number. Cells, tissues, organs, and larger systems can maintain different organizational variables through different mechanisms.
@@ -4404,6 +4450,18 @@ The patron's return and the formation of a new whole are different transitions. 
 
 The process is recursive. Meaning built by earlier encounters shapes a new recognition, and the new recognition changes the meaning available to future encounters.
 
+### How to tell whether a patron has formed
+
+A recurring song, number, image, or phrase becomes a candidate patron when earlier encounters have begun to change the consequences of later ones. The important distinction is between a meaningful history that continues to act and simple familiarity from repeated exposure.
+
+An investigation could begin by recording which symbolic patterns recur during an initial period, before examining what happens at later encounters. Those patterns could then be presented alongside new cues and equally familiar cues with fewer personal associations. The comparisons would examine how quickly each is recognized, how many related memories it recruits, which interpretations follow, and whether the same organized meaning returns in a new setting.
+
+A second comparison could change the earlier history deliberately. A phrase might become associated with a particular experience, practiced in several contexts, or linked to an emotionally significant event. Researchers could then determine whether later attention, interpretation, and recall change accordingly. The immediate cue might remain the same while the relationships available to receive it become different.
+
+The stronger test would identify a specific retained association that carries the effect. If changing that association alters later recognition, the earlier history is contributing causally to the present response. This makes the patron more than a label for something noticed repeatedly.
+
+The distinction from insight can also be investigated. A patron may provide an established route for familiar meaning to return. An insight may recruit that route into a new relationship. Repeated recognition and the formation of a newly reusable whole are related developments with different observable outcomes.
+
 ### A cue does not contain its entire history
 
 A small present cue can recruit much more organization than the information physically contained in the cue itself. A few notes identify a familiar melody because the remaining pattern is already supported by learned relationships. A photograph can evoke a place, but the remembered place and the emotions attached to it depend on the person's present organization.
@@ -4531,6 +4589,18 @@ That distinction keeps the architecture ordered.
 The system already has an interior boundary. Consequential history already exists. The active boundary already receives events through that history. THIR names one way a particular arrival can stabilize in relation to it. AHQ names the stronger local crossing through which the relation becomes a new reusable whole.
 
 The threshold for a new reusable relation must be evaluated within the already functioning interior. It is distinct from R★ when that symbol names the independently measured boundary-forming threshold of the encompassing system. Nested local reorganizations can therefore contribute to richer understanding without being mistaken for repeated beginnings of consciousness.
+
+### Distinguishing the interface in an experiment
+
+THIR proposes that the relationship between an arriving pattern and retained history becomes stable enough to guide what happens next. To examine that process, the arriving input can be kept comparable while the history of the receiving system changes.
+
+Consider the same spoken word presented after different kinds of learning. One history makes it familiar in a particular context; another establishes a different expectation. The sound can remain the same while earlier learning changes which interpretation becomes available and how quickly it stabilizes. Recognition time, consistency, accuracy, confidence, and later use can then be examined separately.
+
+The crucial variable is the fit between the arrival and the organization already carried. That fit must be specified independently of the recognition result. A learned relationship established before a test can provide a reason to predict faster or more stable recognition. Defining compatibility only after recognition succeeds would make the explanation circular. Strong expectations can also produce mistaken recognition, so stability and correctness must be evaluated separately.
+
+A further comparison separates THIR from AHQ. A familiar pattern may become recognizable smoothly, without a reported click. Another encounter may produce a sudden understanding that establishes a new relationship for later use. If these are distinct transitions, some trials should show stable recognition without the stronger pattern proposed for AHQ. Trials involving a reported click could examine whether a further reorganization occurs after the interface has begun stabilizing.
+
+There must also be an outcome that could challenge the proposed interface. If changes in retained history fail to change the predicted stability of recognition, or if THIR adds nothing measurable beyond ordinary categorization, the mechanism has not been distinguished. If the independently defined input–history relationship reliably changes when recognition stabilizes and how it affects later activity, the proposal acquires a concrete causal role. This result would concern a local interface within an ongoing history-bearing system; a claim about phenomenal interiority would require its own evidence.
 
 ### The larger continuity
 
