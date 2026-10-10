@@ -209,6 +209,18 @@ Read together, the two insight papers describe two sides of one event. The organ
 
 Consequential history supplies the temporal content of the click. Earlier relations remain causally active through the organization they helped produce, and the click makes them available together.
 
+#### What a measurable click would involve
+
+The four-stage sequence reaches an event that can be reported directly: the sudden availability of an answer. That reported click gives an experiment a point around which to examine the physical activity taking place. AHQ proposes a particular change in the organization of that activity.
+
+Several measurements have different jobs. Before insight, participating neural activity may vary through numerous partly independent relationships. As understanding forms, the activity is predicted to become constrained by fewer collective relationships. Coordination among neural rhythms may also increase. These are distinct changes: a narrower range of independent variation and a more consistent relationship between the participating processes.
+
+The developing whole must also persist. The Porter Ratio offers a way to compare maintenance of a selected organization with the processes that disrupt it. At insight, the relevant stability concerns a new local relationship within an experiencing system whose larger interior is already continuing. The formation of that local understanding and the original formation of the encompassing interior are different organizational events.
+
+Finally, the relation needs a future. It may alter the next inference, be recalled later, or help solve a different problem. This is where the account of insight returns to active inheritance: the newly available whole helps organize what comes after it.
+
+An experiment could compare reported sudden insights, gradual solutions, convincing errors, and attention shifts. Independent variation, coordination, persistence, and reuse would be measured separately and then assessed together. The proposal gains support if their combination identifies reported insight and predicts later use better than simpler accounts. The click is a reported experience; the joint physical signature remains a hypothesis awaiting evidence.
+
 #### Insight becomes history
 
 The Ostiary Principle places AHQ at the point where an arrival becomes consequential for future recognition by being incorporated into continuity. After the click, the new relation is part of the system’s codebook. It shapes what gets recognized next. The insight has become consequential history, and the continuity returns to Step 1.
@@ -270,6 +282,20 @@ Each paper contributes something specific.
 - Patrons develops stable symbolic attractors as long lived regions of consequential history that organize recognition, memory, interpretation, creativity, and identity.
 - THIR identifies the stabilized interface formed when present structure and carried history enter coherent reciprocal constraint.
 - Care Before the Self places care at the relational root of self maintenance: preserving the conditions that preserve continuity.
+
+### How the four stages can be distinguished in evidence
+
+Each stage in the progression asks a different physical question. Those differences matter because a finding that establishes one kind of organization does not automatically establish the next.
+
+For **persistence**, identify which earlier organization still changes a later event. A retained channel, cellular regulator, or recurring network pattern is a candidate carrier. Changing that carrier while keeping the immediate conditions comparable can reveal its causal role. Maintaining and disrupting influences can then be distinguished for the selected organization.
+
+For **interiority**, look for a collective boundary with continuing, selective causal effects. Interacting processes would need to sustain the distinction through which arrivals are admitted, transformed, or excluded. Its proposed threshold would be located by observing the boundary-forming transition independently of the numerical rate comparison.
+
+For **awareness and time**, investigate how consequences originating at different moments become effective together. One experiment could vary controlled earlier conditions while matching immediate input, identify the retained carriers through which responses differ, and determine whether the resulting collective state changes the local processes that will produce the next state. This would demonstrate a history-conditioned, recursively organized present. Identifying such physical organization with lived awareness remains a further premise of the theory.
+
+For **insight**, compare the reported click with a predicted gathering, coordination, stabilization, and reuse of relationships that were previously distributed. A new understanding can be traced forward through the choices, interpretations, or later problems it changes.
+
+These separate outcomes keep the progression explanatory. A continuing trace establishes causal persistence. An independently maintained selective interface establishes a causal interior in the defined organizational sense. Jointly effective histories and feedback establish temporal organization. A newly reusable understanding supplies a distinct event to explain at insight. The measured connections among these achievements determine how strongly the larger account is supported.
 
 ### Why the sequence reaches experience
 
