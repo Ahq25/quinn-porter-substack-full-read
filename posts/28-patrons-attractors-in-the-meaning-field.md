@@ -37,7 +37,7 @@ A familiar symbol may recur because it appears frequently in the environment, be
 
 Consider a familiar number that seems to appear everywhere. Once it becomes personally significant, its occurrences may be easier to notice and remember. The apparent frequency can increase even if the number appears no more often in the world than before. That attention effect is real, but it does not imply that external events are arranged to deliver a personal message.
 
-A patron requires a stronger claim than noticing repetition. The proposed organization should change subsequent interpretation in a measurable and persistent way. A cue may reactivate associated memories, alter which alternatives seem plausible, or direct attention toward a line of inquiry already made important by earlier encounters.
+A patron is identified by its continuing causal influence: retained relationships surrounding a recurring pattern change how later encounters are noticed, interpreted, and used. A cue may reactivate associated memories, alter which alternatives seem plausible, or direct attention toward a line of inquiry already made important by earlier encounters.
 
 The relevant structure is therefore not the number, melody, or image considered alone. It is the network of consequences built around it in a particular person's ongoing activity. A recurrent stimulus is only a candidate marker of a patron until its history-conditioned causal effects are demonstrated.
 
